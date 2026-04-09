@@ -52,20 +52,26 @@ function loadMore() {
         card.dataset.index = globalIndex;
         
         card.innerHTML = `
+            <div class="checkbox-wrapper">
+                <div class="custom-checkbox ${selectedFiles.has(item.file_name) ? 'checked' : ''}"></div>
+            </div>
             <img src="${item.file_name}" alt="${item.title}" loading="lazy">
             <h3>${item.title}</h3>
-            <button class="dl-btn btn-secondary" onclick="downloadSingle('${item.file_name}', event)">Download</button>
+            <div class="card-actions">
+                <button class="dl-btn btn-secondary" onclick="downloadSingle('${item.file_name}', event)">Download</button>
+            </div>
         `;
         
         card.addEventListener('click', (e) => {
             if (e.target.tagName !== 'BUTTON') {
-                if (e.ctrlKey || e.metaKey) {
-                    toggleSelect(item.file_name, card);
-                } else {
-                    openModal(globalIndex);
-                }
+                toggleSelect(item.file_name, card);
+                // No modal on regular click now? Let's keep modal on Double Click or a specific icon?
+                // Actually, let's keep selecting on click as it's easier for mobile.
             }
         });
+
+        // Add Double Click for Inspection
+        card.addEventListener('dblclick', () => openModal(globalIndex));
         
         gallery.appendChild(card);
     });
@@ -75,12 +81,15 @@ function loadMore() {
 }
 
 function toggleSelect(filename, element) {
+    const checkbox = element.querySelector('.custom-checkbox');
     if (selectedFiles.has(filename)) {
         selectedFiles.delete(filename);
         element.classList.remove('selected');
+        if(checkbox) checkbox.classList.remove('checked');
     } else {
         selectedFiles.add(filename);
         element.classList.add('selected');
+        if(checkbox) checkbox.classList.add('checked');
     }
     updateSelectionBar();
 }
@@ -166,11 +175,26 @@ function downloadSingle(filename, e) {
 
 document.getElementById('downloadSelectedBtn').onclick = async () => {
     const files = Array.from(selectedFiles);
-    for (const f of files) {
-        downloadSingle(f);
-        await new Promise(r => setTimeout(r, 150));
+    if (files.length === 0) return;
+    
+    showToast(`📦 Preparing ZIP with ${files.length} items...`);
+    const zip = new JSZip();
+    
+    try {
+        for (const fileUrl of files) {
+            const response = await fetch(fileUrl);
+            const blob = await response.blob();
+            const fileName = fileUrl.split('/').pop();
+            zip.file(fileName, blob);
+        }
+        
+        const content = await zip.generateAsync({ type: "blob" });
+        saveAs(content, `pixel_universe_selection_${Date.now()}.zip`);
+        showToast(`✨ Download started!`);
+    } catch (err) {
+        console.error(err);
+        showToast(`❌ Error creating ZIP: ${err.message}`);
     }
-    showToast(`Downloading ${files.length} items... 📦`);
 };
 
 document.getElementById('selectAllBtn').onclick = () => {

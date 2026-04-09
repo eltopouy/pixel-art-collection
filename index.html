@@ -8,6 +8,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;700&family=Press+Start+2P&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
 </head>
 <body>
     <div id="selectionBar" class="selection-bar hidden">
@@ -15,7 +17,7 @@
             <span id="selectionCount">0 items selected</span>
             <div class="bar-buttons">
                 <button id="selectAllBtn" class="btn-secondary">Select All on Page</button>
-                <button id="downloadSelectedBtn" class="btn-primary">Download Selection</button>
+                <button id="downloadSelectedBtn" class="btn-primary">Download Selection (.ZIP)</button>
                 <button id="deselectAllBtn" class="btn-text">Deselect All</button>
             </div>
         </div>
