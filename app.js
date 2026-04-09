@@ -98,6 +98,8 @@ function openModal(index) {
     modalImg.src = item.file_name;
     modalTitle.innerText = item.title;
     modalCategory.innerText = item.category;
+    const catClass = 'cat-' + item.category.replace(/ & /g, '_').replace(/ /g, '_').toLowerCase();
+    modalCategory.className = 'badge ' + catClass;
     
     modalTags.innerHTML = '';
     item.tags.forEach(tag => {

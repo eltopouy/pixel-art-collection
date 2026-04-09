@@ -33,6 +33,14 @@ body {
     overflow-x: hidden;
 }
 
+/* Category Helpers */
+.cat-everyday_life { background: var(--cat-everyday) !important; color: #0d0d12 !important; }
+.cat-nature_outdoors { background: var(--cat-nature) !important; color: #0d0d12 !important; }
+.cat-food_drink { background: var(--cat-food) !important; color: #0d0d12 !important; }
+.cat-technology { background: var(--cat-tech) !important; color: #0d0d12 !important; }
+.cat-fantasy_rpg { background: var(--cat-fantasy) !important; color: #0d0d12 !important; }
+.cat-work_industry { background: #94e2d5 !important; color: #0d0d12 !important; }
+
 .container { max-width: 1400px; margin: 0 auto; padding: 0 40px; }
 
 /* Selection Bar */
