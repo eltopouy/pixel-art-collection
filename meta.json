@@ -11357,7 +11357,7 @@
     },
     {
       "title": "Stall",
-      "file_name": "stall.png",
+      "file_name": "images/places_structures/stall.png",
       "added_on": "2025-05-24 05:01:24",
       "slug": "stall",
       "category": "Places & Structures",
@@ -14520,7 +14520,7 @@
     },
     {
       "title": "Stamp Album",
-      "file_name": "stamp-album.png",
+      "file_name": "images/hobbies/stamp-album.png",
       "added_on": "2025-05-27 00:10:54",
       "slug": "stamp-album",
       "category": "Hobbies",
@@ -24962,7 +24962,7 @@
     },
     {
       "title": "Staff",
-      "file_name": "staff.png",
+      "file_name": "images/work_industry/staff.png",
       "added_on": "2025-06-04 21:40:30",
       "slug": "staff",
       "category": "Work & Industry",
@@ -26072,7 +26072,7 @@
     },
     {
       "title": "Stair",
-      "file_name": "stair.png",
+      "file_name": "images/places_structures/stair.png",
       "added_on": "2025-06-07 04:30:51",
       "slug": "stair",
       "category": "Places & Structures",
@@ -33979,7 +33979,7 @@
     },
     {
       "title": "Stadium",
-      "file_name": "stadium.png",
+      "file_name": "images/places_structures/stadium.png",
       "added_on": "2025-06-11 21:36:47",
       "slug": "stadium",
       "category": "Places & Structures",
@@ -39269,7 +39269,7 @@
     },
     {
       "title": "Stack of Papers",
-      "file_name": "stack-of-papers.png",
+      "file_name": "images/everyday_life/stack-of-papers.png",
       "added_on": "2025-06-13 09:19:21",
       "slug": "stack-of-papers",
       "category": "Everyday Life",
@@ -42005,7 +42005,7 @@
     },
     {
       "title": "Stalactite",
-      "file_name": "stalactite.png",
+      "file_name": "images/nature_outdoors/stalactite.png",
       "added_on": "2025-06-14 00:30:56",
       "slug": "stalactite",
       "category": "Nature & Outdoors",
@@ -44027,7 +44027,7 @@
     },
     {
       "title": "Stack of Yen Coins",
-      "file_name": "stack-of-yen-coins.png",
+      "file_name": "images/everyday_life/stack-of-yen-coins.png",
       "added_on": "2025-06-14 13:22:40",
       "slug": "stack-of-yen-coins",
       "category": "Everyday Life",
@@ -61213,7 +61213,7 @@
     },
     {
       "title": "Stained Glass Panel",
-      "file_name": "stained-glass-panel.png",
+      "file_name": "images/hobbies/stained-glass-panel.png",
       "added_on": "2025-07-08 20:35:56",
       "slug": "stained-glass-panel",
       "category": "Hobbies",
@@ -63245,7 +63245,7 @@
     },
     {
       "title": "Stained Glass Suncatcher",
-      "file_name": "stained-glass-suncatcher.png",
+      "file_name": "images/hobbies/stained-glass-suncatcher.png",
       "added_on": "2025-07-09 11:50:55",
       "slug": "stained-glass-suncatcher",
       "category": "Hobbies",
@@ -73592,7 +73592,7 @@
     },
     {
       "title": "Staircase Fountain",
-      "file_name": "staircase-fountain.png",
+      "file_name": "images/places_structures/staircase-fountain.png",
       "added_on": "2025-07-17 18:52:49",
       "slug": "staircase-fountain",
       "category": "Places & Structures",
@@ -91852,7 +91852,7 @@
     },
     {
       "title": "Stage Lighting",
-      "file_name": "stage-lighting.png",
+      "file_name": "images/technology_media/stage-lighting.png",
       "added_on": "2025-09-12 05:31:18",
       "slug": "stage-lighting",
       "category": "Technology & Media",
@@ -99985,7 +99985,7 @@
     },
     {
       "title": "Stained Glass Feather",
-      "file_name": "stained-glass-feather.png",
+      "file_name": "images/hobbies/stained-glass-feather.png",
       "added_on": "2025-10-02 13:01:22",
       "slug": "stained-glass-feather",
       "category": "Hobbies",
@@ -100706,7 +100706,7 @@
     },
     {
       "title": "Stain Remover Pen",
-      "file_name": "stain-remover-pen.png",
+      "file_name": "images/everyday_life/stain-remover-pen.png",
       "added_on": "2025-10-04 16:11:20",
       "slug": "stain-remover-pen",
       "category": "Everyday Life",
@@ -101530,7 +101530,7 @@
     },
     {
       "title": "Stained Glass Rose Window",
-      "file_name": "stained-glass-rose-window.png",
+      "file_name": "images/history_culture/stained-glass-rose-window.png",
       "added_on": "2025-10-05 23:51:37",
       "slug": "stained-glass-rose-window",
       "category": "History & Culture",
@@ -106789,7 +106789,7 @@
     },
     {
       "title": "Stairway",
-      "file_name": "stairway.png",
+      "file_name": "images/places_structures/stairway.png",
       "added_on": "2025-10-21 14:11:27",
       "slug": "stairway",
       "category": "Places & Structures",
@@ -107246,7 +107246,7 @@
     },
     {
       "title": "Stag Beetle",
-      "file_name": "stag-beetle.png",
+      "file_name": "images/nature_outdoors/stag-beetle.png",
       "added_on": "2025-10-22 20:31:10",
       "slug": "stag-beetle",
       "category": "Nature & Outdoors",
@@ -108905,7 +108905,7 @@
     },
     {
       "title": "Stale Coffee Pot",
-      "file_name": "stale-coffee-pot.png",
+      "file_name": "images/work_industry/stale-coffee-pot.png",
       "added_on": "2025-10-27 09:21:15",
       "slug": "stale-coffee-pot",
       "category": "Work & Industry",
@@ -122886,7 +122886,7 @@
     },
     {
       "title": "Stack of Pizza Boxes",
-      "file_name": "stack-of-pizza-boxes.png",
+      "file_name": "images/everyday_life/stack-of-pizza-boxes.png",
       "added_on": "2026-01-29 19:41:07",
       "slug": "stack-of-pizza-boxes",
       "category": "Everyday Life",
@@ -129962,7 +129962,7 @@
     },
     {
       "title": "Stage spotlight",
-      "file_name": "stage-spotlight.png",
+      "file_name": "images/entertainment_leisure/stage-spotlight.png",
       "added_on": "2026-03-17 21:00:51",
       "slug": "stage-spotlight",
       "category": "Entertainment & Leisure",
@@ -131108,7 +131108,7 @@
     },
     {
       "title": "Stage Curtain",
-      "file_name": "stage-curtain.png",
+      "file_name": "images/entertainment_leisure/stage-curtain.png",
       "added_on": "2026-03-20 14:31:25",
       "slug": "stage-curtain",
       "category": "Entertainment & Leisure",
