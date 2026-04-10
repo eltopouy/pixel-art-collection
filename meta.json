@@ -2178,7 +2178,7 @@
     },
     {
       "title": "Green Sea Turtle",
-      "file_name": "green-sea-turtle.png",
+      "file_name": "images/animals/green-sea-turtle.png",
       "added_on": "2025-05-16 12:04:18",
       "slug": "green-sea-turtle",
       "category": "Animals",
@@ -2763,7 +2763,7 @@
     },
     {
       "title": "Greenhouse",
-      "file_name": "greenhouse.png",
+      "file_name": "images/places_structures/greenhouse.png",
       "added_on": "2025-05-16 15:15:56",
       "slug": "greenhouse",
       "category": "Places & Structures",
@@ -12735,7 +12735,7 @@
     },
     {
       "title": "Green Roof",
-      "file_name": "green-roof.png",
+      "file_name": "images/places_structures/green-roof.png",
       "added_on": "2025-05-25 21:31:28",
       "slug": "green-roof",
       "category": "Places & Structures",
@@ -29687,7 +29687,7 @@
     },
     {
       "title": "Griffin Statue",
-      "file_name": "griffin-statue.png",
+      "file_name": "images/fantasy_imagination/griffin-statue.png",
       "added_on": "2025-06-10 13:55:17",
       "slug": "griffin-statue",
       "category": "Fantasy & Imagination",
@@ -42796,7 +42796,7 @@
     },
     {
       "title": "Griffin Feather",
-      "file_name": "griffin-feather.png",
+      "file_name": "images/fantasy_imagination/griffin-feather.png",
       "added_on": "2025-06-14 07:07:12",
       "slug": "griffin-feather",
       "category": "Fantasy & Imagination",
@@ -48521,7 +48521,7 @@
     },
     {
       "title": "Greenland",
-      "file_name": "greenland.png",
+      "file_name": "images/countries/greenland.png",
       "added_on": "2025-06-20 16:13:29",
       "slug": "greenland",
       "category": "Countries",
@@ -50393,7 +50393,7 @@
     },
     {
       "title": "Gregor Mendel",
-      "file_name": "gregor-mendel.png",
+      "file_name": "images/history_culture/gregor-mendel.png",
       "added_on": "2025-06-22 21:43:11",
       "slug": "gregor-mendel",
       "category": "History & Culture",
@@ -53180,7 +53180,7 @@
     },
     {
       "title": "Green Pepper",
-      "file_name": "green-pepper.png",
+      "file_name": "images/food_drink/green-pepper.png",
       "added_on": "2025-06-26 15:35:03",
       "slug": "green-pepper",
       "category": "Food & Drink",
@@ -66721,7 +66721,7 @@
     },
     {
       "title": "Grid Paper",
-      "file_name": "grid-paper.png",
+      "file_name": "images/everyday_life/grid-paper.png",
       "added_on": "2025-07-11 21:21:36",
       "slug": "grid-paper",
       "category": "Everyday Life",
@@ -71611,7 +71611,7 @@
     },
     {
       "title": "Griffin",
-      "file_name": "griffin.png",
+      "file_name": "images/fantasy_imagination/griffin.png",
       "added_on": "2025-07-16 08:41:06",
       "slug": "griffin",
       "category": "Fantasy & Imagination",
@@ -79132,7 +79132,7 @@
     },
     {
       "title": "Green Screen",
-      "file_name": "green-screen.png",
+      "file_name": "images/technology_media/green-screen.png",
       "added_on": "2025-07-24 23:21:39",
       "slug": "green-screen",
       "category": "Technology & Media",
@@ -84834,7 +84834,7 @@
     },
     {
       "title": "Greyhound",
-      "file_name": "greyhound.png",
+      "file_name": "images/animals/greyhound.png",
       "added_on": "2025-08-19 16:38:37",
       "slug": "greyhound",
       "category": "Animals",
@@ -85439,7 +85439,7 @@
     },
     {
       "title": "Green Mango",
-      "file_name": "green-mango.png",
+      "file_name": "images/food_drink/green-mango.png",
       "added_on": "2025-08-21 12:31:36",
       "slug": "green-mango",
       "category": "Food & Drink",
@@ -85769,7 +85769,7 @@
     },
     {
       "title": "Grey Seal",
-      "file_name": "grey-seal.png",
+      "file_name": "images/animals/grey-seal.png",
       "added_on": "2025-08-24 19:11:26",
       "slug": "grey-seal",
       "category": "Animals",
@@ -98806,7 +98806,7 @@
     },
     {
       "title": "Greeting Card",
-      "file_name": "greeting-card.png",
+      "file_name": "images/everyday_life/greeting-card.png",
       "added_on": "2025-09-30 19:01:20",
       "slug": "greeting-card",
       "category": "Everyday Life",
@@ -102618,7 +102618,7 @@
     },
     {
       "title": "Green Iguana",
-      "file_name": "green-iguana.png",
+      "file_name": "images/animals/green-iguana.png",
       "added_on": "2025-10-09 00:11:37",
       "slug": "green-iguana",
       "category": "Animals",
@@ -111058,7 +111058,7 @@
     },
     {
       "title": "Green Technology Aided Building",
-      "file_name": "green-technology-aided-building.png",
+      "file_name": "images/places_structures/green-technology-aided-building.png",
       "added_on": "2025-10-30 21:21:55",
       "slug": "green-technology-aided-building",
       "category": "Places & Structures",
@@ -112639,7 +112639,7 @@
     },
     {
       "title": "Grenadine",
-      "file_name": "grenadine.png",
+      "file_name": "images/food_drink/grenadine.png",
       "added_on": "2025-11-03 13:51:57",
       "slug": "grenadine",
       "category": "Food & Drink",
@@ -117008,7 +117008,7 @@
     },
     {
       "title": "Green Up Arrow",
-      "file_name": "green-up-arrow.png",
+      "file_name": "images/interface_symbols/green-up-arrow.png",
       "added_on": "2025-11-20 18:41:33",
       "slug": "green-up-arrow",
       "category": "Interface & Symbols",
@@ -123290,7 +123290,7 @@
     },
     {
       "title": "Green Spiral",
-      "file_name": "green-spiral.png",
+      "file_name": "images/interface_symbols/green-spiral.png",
       "added_on": "2026-01-30 08:31:31",
       "slug": "green-spiral",
       "category": "Interface & Symbols",
