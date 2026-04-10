@@ -2881,7 +2881,7 @@
     },
     {
       "title": "Hiking Backpack",
-      "file_name": "hiking-backpack.png",
+      "file_name": "images/nature_outdoors/hiking-backpack.png",
       "added_on": "2025-05-16 16:00:50",
       "slug": "hiking-backpack",
       "category": "Nature & Outdoors",
@@ -22080,7 +22080,7 @@
     },
     {
       "title": "Highway",
-      "file_name": "highway.png",
+      "file_name": "images/places_structures/highway.png",
       "added_on": "2025-06-03 15:40:56",
       "slug": "highway",
       "category": "Places & Structures",
@@ -37410,7 +37410,7 @@
     },
     {
       "title": "Himeji Castle",
-      "file_name": "himeji-castle.png",
+      "file_name": "images/places_structures/himeji-castle.png",
       "added_on": "2025-06-12 23:02:17",
       "slug": "himeji-castle",
       "category": "Places & Structures",
@@ -44144,7 +44144,7 @@
     },
     {
       "title": "High-top Sneakers",
-      "file_name": "high-top-sneakers.png",
+      "file_name": "images/fashion_style/high-top-sneakers.png",
       "added_on": "2025-06-14 13:37:00",
       "slug": "high-top-sneakers",
       "category": "Fashion & Style",
@@ -46154,7 +46154,7 @@
     },
     {
       "title": "Hindu Temple",
-      "file_name": "hindu-temple.png",
+      "file_name": "images/places_structures/hindu-temple.png",
       "added_on": "2025-06-15 23:15:03",
       "slug": "hindu-temple",
       "category": "Places & Structures",
@@ -46904,7 +46904,7 @@
     },
     {
       "title": "Highland Cattle",
-      "file_name": "highland-cattle.png",
+      "file_name": "images/animals/highland-cattle.png",
       "added_on": "2025-06-18 13:27:42",
       "slug": "highland-cattle",
       "category": "Animals",
@@ -50536,7 +50536,7 @@
     },
     {
       "title": "Himalayas",
-      "file_name": "himalayas.png",
+      "file_name": "images/nature_outdoors/himalayas.png",
       "added_on": "2025-06-22 22:25:22",
       "slug": "himalayas",
       "category": "Nature & Outdoors",
@@ -52457,7 +52457,7 @@
     },
     {
       "title": "Highland Cow",
-      "file_name": "highland-cow.png",
+      "file_name": "images/animals/highland-cow.png",
       "added_on": "2025-06-25 13:58:38",
       "slug": "highland-cow",
       "category": "Animals",
@@ -56624,7 +56624,7 @@
     },
     {
       "title": "Hill",
-      "file_name": "hill.png",
+      "file_name": "images/nature_outdoors/hill.png",
       "added_on": "2025-07-05 08:02:38",
       "slug": "hill",
       "category": "Nature & Outdoors",
@@ -57307,7 +57307,7 @@
     },
     {
       "title": "High-Vis Vest",
-      "file_name": "high-vis-vest.png",
+      "file_name": "images/work_industry/high-vis-vest.png",
       "added_on": "2025-07-05 20:16:19",
       "slug": "high-vis-vest",
       "category": "Work & Industry",
@@ -57925,7 +57925,7 @@
     },
     {
       "title": "High-waisted jeans",
-      "file_name": "high-waisted-jeans.png",
+      "file_name": "images/fashion_style/high-waisted-jeans.png",
       "added_on": "2025-07-06 01:41:19",
       "slug": "high-waisted-jeans",
       "category": "Fashion & Style",
@@ -70332,7 +70332,7 @@
     },
     {
       "title": "Hijab",
-      "file_name": "hijab.png",
+      "file_name": "images/fashion_style/hijab.png",
       "added_on": "2025-07-14 10:07:49",
       "slug": "hijab",
       "category": "Fashion & Style",
@@ -87713,7 +87713,7 @@
     },
     {
       "title": "Himalayan",
-      "file_name": "himalayan.png",
+      "file_name": "images/animals/himalayan.png",
       "added_on": "2025-09-04 11:42:42",
       "slug": "himalayan",
       "category": "Animals",
@@ -88069,7 +88069,7 @@
     },
     {
       "title": "Hill Radnor Sheep",
-      "file_name": "hill-radnor-sheep.png",
+      "file_name": "images/animals/hill-radnor-sheep.png",
       "added_on": "2025-09-04 19:02:06",
       "slug": "hill-radnor-sheep",
       "category": "Animals",
@@ -108239,7 +108239,7 @@
     },
     {
       "title": "Hiking on Trails",
-      "file_name": "hiking-on-trails.png",
+      "file_name": "images/nature_outdoors/hiking-on-trails.png",
       "added_on": "2025-10-24 12:50:51",
       "slug": "hiking-on-trails",
       "category": "Nature & Outdoors",
@@ -116834,7 +116834,7 @@
     },
     {
       "title": "Highlighter",
-      "file_name": "highlighter.png",
+      "file_name": "images/everyday_life/highlighter.png",
       "added_on": "2025-11-19 22:51:33",
       "slug": "highlighter",
       "category": "Everyday Life",
@@ -124183,7 +124183,7 @@
     },
     {
       "title": "Hilltop Fortress",
-      "file_name": "hilltop-fortress.png",
+      "file_name": "images/places_structures/hilltop-fortress.png",
       "added_on": "2026-02-04 11:21:22",
       "slug": "hilltop-fortress",
       "category": "Places & Structures",
@@ -125953,7 +125953,7 @@
     },
     {
       "title": "High-Speed Ferry",
-      "file_name": "high-speed-ferry.png",
+      "file_name": "images/vehicles_transport/high-speed-ferry.png",
       "added_on": "2026-02-11 13:11:16",
       "slug": "high-speed-ferry",
       "category": "Vehicles & Transport",
@@ -126627,7 +126627,7 @@
     },
     {
       "title": "High-Visibility Raincoat",
-      "file_name": "high-visibility-raincoat.png",
+      "file_name": "images/work_industry/high-visibility-raincoat.png",
       "added_on": "2026-02-12 16:31:10",
       "slug": "high-visibility-raincoat",
       "category": "Work & Industry",
@@ -128374,7 +128374,7 @@
     },
     {
       "title": "Highway Maintenance Truck",
-      "file_name": "highway-maintenance-truck.png",
+      "file_name": "images/vehicles_transport/highway-maintenance-truck.png",
       "added_on": "2026-03-09 02:40:54",
       "slug": "highway-maintenance-truck",
       "category": "Vehicles & Transport",
