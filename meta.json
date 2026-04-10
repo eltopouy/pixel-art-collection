@@ -2152,7 +2152,7 @@
     },
     {
       "title": "Red Kangaroo",
-      "file_name": "red-kangaroo.png",
+      "file_name": "images/animals/red-kangaroo.png",
       "added_on": "2025-05-16 11:58:19",
       "slug": "red-kangaroo",
       "category": "Animals",
@@ -6896,7 +6896,7 @@
     },
     {
       "title": "Red Fox",
-      "file_name": "red-fox.png",
+      "file_name": "images/animals/red-fox.png",
       "added_on": "2025-05-19 01:25:53",
       "slug": "red-fox",
       "category": "Animals",
@@ -21552,7 +21552,7 @@
     },
     {
       "title": "Record Player",
-      "file_name": "record-player.png",
+      "file_name": "images/technology_media/record-player.png",
       "added_on": "2025-06-03 08:09:47",
       "slug": "record-player",
       "category": "Technology & Media",
@@ -22145,7 +22145,7 @@
     },
     {
       "title": "Recycling",
-      "file_name": "recycling.png",
+      "file_name": "images/everyday_life/recycling.png",
       "added_on": "2025-06-03 16:05:53",
       "slug": "recycling",
       "category": "Everyday Life",
@@ -23649,7 +23649,7 @@
     },
     {
       "title": "Recycling Bin",
-      "file_name": "recycling-bin.png",
+      "file_name": "images/everyday_life/recycling-bin.png",
       "added_on": "2025-06-04 08:37:01",
       "slug": "recycling-bin",
       "category": "Everyday Life",
@@ -26033,7 +26033,7 @@
     },
     {
       "title": "Red envelope",
-      "file_name": "red-envelope.png",
+      "file_name": "images/history_culture/red-envelope.png",
       "added_on": "2025-06-07 03:00:48",
       "slug": "red-envelope",
       "category": "History & Culture",
@@ -41482,7 +41482,7 @@
     },
     {
       "title": "Red Giant",
-      "file_name": "red-giant.png",
+      "file_name": "images/space_science/red-giant.png",
       "added_on": "2025-06-13 22:33:06",
       "slug": "red-giant",
       "category": "Space & Science",
@@ -48625,7 +48625,7 @@
     },
     {
       "title": "Red Chili",
-      "file_name": "red-chili.png",
+      "file_name": "images/food_drink/red-chili.png",
       "added_on": "2025-06-20 17:19:19",
       "slug": "red-chili",
       "category": "Food & Drink",
@@ -54215,7 +54215,7 @@
     },
     {
       "title": "Red Ant",
-      "file_name": "red-ant.png",
+      "file_name": "images/animals/red-ant.png",
       "added_on": "2025-06-27 15:30:48",
       "slug": "red-ant",
       "category": "Animals",
@@ -78644,7 +78644,7 @@
     },
     {
       "title": "Recorder",
-      "file_name": "recorder.png",
+      "file_name": "images/entertainment_leisure/recorder.png",
       "added_on": "2025-07-24 19:31:37",
       "slug": "recorder",
       "category": "Entertainment & Leisure",
@@ -81780,7 +81780,7 @@
     },
     {
       "title": "Recycle",
-      "file_name": "recycle.png",
+      "file_name": "images/interface_symbols/recycle.png",
       "added_on": "2025-08-02 16:22:16",
       "slug": "recycle",
       "category": "Interface & Symbols",
@@ -100407,7 +100407,7 @@
     },
     {
       "title": "Red-Crowned Crane",
-      "file_name": "red-crowned-crane.png",
+      "file_name": "images/animals/red-crowned-crane.png",
       "added_on": "2025-10-02 18:50:57",
       "slug": "red-crowned-crane",
       "category": "Animals",
@@ -100420,7 +100420,7 @@
     },
     {
       "title": "Red-eyed Tree Frog",
-      "file_name": "red-eyed-tree-frog.png",
+      "file_name": "images/animals/red-eyed-tree-frog.png",
       "added_on": "2025-10-02 19:01:21",
       "slug": "red-eyed-tree-frog",
       "category": "Animals",
@@ -109987,7 +109987,7 @@
     },
     {
       "title": "Red Flag",
-      "file_name": "red-flag.png",
+      "file_name": "images/flags/red-flag.png",
       "added_on": "2025-10-28 18:51:53",
       "slug": "red-flag",
       "category": "Flags",
@@ -110143,7 +110143,7 @@
     },
     {
       "title": "Recumbent bicycle",
-      "file_name": "recumbent-bicycle.png",
+      "file_name": "images/vehicles_transport/recumbent-bicycle.png",
       "added_on": "2025-10-28 20:52:00",
       "slug": "recumbent-bicycle",
       "category": "Vehicles & Transport",
@@ -110494,7 +110494,7 @@
     },
     {
       "title": "Red Fort (Lal Qila)",
-      "file_name": "red-fort-lal-qila.png",
+      "file_name": "images/places_structures/red-fort-lal-qila.png",
       "added_on": "2025-10-29 13:32:00",
       "slug": "red-fort-lal-qila",
       "category": "Places & Structures",
@@ -112665,7 +112665,7 @@
     },
     {
       "title": "Red Cotton Shorts",
-      "file_name": "red-cotton-shorts.png",
+      "file_name": "images/fashion_style/red-cotton-shorts.png",
       "added_on": "2025-11-03 16:13:14",
       "slug": "red-cotton-shorts",
       "category": "Fashion & Style",
@@ -114364,7 +114364,7 @@
     },
     {
       "title": "Red-Crested Turaco",
-      "file_name": "red-crested-turaco.png",
+      "file_name": "images/animals/red-crested-turaco.png",
       "added_on": "2025-11-10 09:32:07",
       "slug": "red-crested-turaco",
       "category": "Animals",
@@ -116349,7 +116349,7 @@
     },
     {
       "title": "Recurve Bow",
-      "file_name": "recurve-bow.png",
+      "file_name": "images/sports/recurve-bow.png",
       "added_on": "2025-11-17 16:11:46",
       "slug": "recurve-bow",
       "category": "Sports",
@@ -118861,7 +118861,7 @@
     },
     {
       "title": "Red Beans",
-      "file_name": "red-beans.png",
+      "file_name": "images/food_drink/red-beans.png",
       "added_on": "2025-12-04 15:00:36",
       "slug": "red-beans",
       "category": "Food & Drink",
