@@ -5766,7 +5766,7 @@
     },
     {
       "title": "Pasta",
-      "file_name": "pasta.png",
+      "file_name": "images/food_drink/pasta.png",
       "added_on": "2025-05-18 05:01:14",
       "slug": "pasta",
       "category": "Food & Drink",
@@ -6337,7 +6337,7 @@
     },
     {
       "title": "Passenger Ship",
-      "file_name": "passenger-ship.png",
+      "file_name": "images/vehicles_transport/passenger-ship.png",
       "added_on": "2025-05-18 18:06:33",
       "slug": "passenger-ship",
       "category": "Vehicles & Transport",
@@ -11864,7 +11864,7 @@
     },
     {
       "title": "Passport",
-      "file_name": "passport.png",
+      "file_name": "images/everyday_life/passport.png",
       "added_on": "2025-05-24 15:21:18",
       "slug": "passport",
       "category": "Everyday Life",
@@ -14182,7 +14182,7 @@
     },
     {
       "title": "Passover",
-      "file_name": "passover.png",
+      "file_name": "images/events/passover.png",
       "added_on": "2025-05-26 19:10:47",
       "slug": "passover",
       "category": "Events",
@@ -24884,7 +24884,7 @@
     },
     {
       "title": "Password",
-      "file_name": "password.png",
+      "file_name": "images/interface_symbols/password.png",
       "added_on": "2025-06-04 21:39:43",
       "slug": "password",
       "category": "Interface & Symbols",
@@ -26976,7 +26976,7 @@
     },
     {
       "title": "Pastry Bag",
-      "file_name": "pastry-bag.png",
+      "file_name": "images/food_drink/pastry-bag.png",
       "added_on": "2025-06-07 15:20:39",
       "slug": "pastry-bag",
       "category": "Food & Drink",
@@ -27943,7 +27943,7 @@
     },
     {
       "title": "Party Popper",
-      "file_name": "party-popper.png",
+      "file_name": "images/events/party-popper.png",
       "added_on": "2025-06-08 21:31:42",
       "slug": "party-popper",
       "category": "Events",
@@ -31237,7 +31237,7 @@
     },
     {
       "title": "Parthenon",
-      "file_name": "parthenon.png",
+      "file_name": "images/history_culture/parthenon.png",
       "added_on": "2025-06-10 23:54:49",
       "slug": "parthenon",
       "category": "History & Culture",
@@ -35160,7 +35160,7 @@
     },
     {
       "title": "Particle Accelerator",
-      "file_name": "particle-accelerator.png",
+      "file_name": "images/space_science/particle-accelerator.png",
       "added_on": "2025-06-12 03:49:03",
       "slug": "particle-accelerator",
       "category": "Space & Science",
@@ -36188,7 +36188,7 @@
     },
     {
       "title": "Pastrami Sandwich",
-      "file_name": "pastrami-sandwich.png",
+      "file_name": "images/food_drink/pastrami-sandwich.png",
       "added_on": "2025-06-12 08:40:25",
       "slug": "pastrami-sandwich",
       "category": "Food & Drink",
@@ -55865,7 +55865,7 @@
     },
     {
       "title": "Pastel de Nata",
-      "file_name": "pastel-de-nata.png",
+      "file_name": "images/food_drink/pastel-de-nata.png",
       "added_on": "2025-06-30 11:01:36",
       "slug": "pastel-de-nata",
       "category": "Food & Drink",
@@ -65925,7 +65925,7 @@
     },
     {
       "title": "Patagonian Mara",
-      "file_name": "patagonian-mara.png",
+      "file_name": "images/animals/patagonian-mara.png",
       "added_on": "2025-07-11 02:00:57",
       "slug": "patagonian-mara",
       "category": "Animals",
@@ -69431,7 +69431,7 @@
     },
     {
       "title": "Party Hat",
-      "file_name": "party-hat.png",
+      "file_name": "images/entertainment_leisure/party-hat.png",
       "added_on": "2025-07-14 00:11:38",
       "slug": "party-hat",
       "category": "Entertainment & Leisure",
@@ -71507,7 +71507,7 @@
     },
     {
       "title": "Pastor",
-      "file_name": "pastor.png",
+      "file_name": "images/professions/pastor.png",
       "added_on": "2025-07-16 08:40:32",
       "slug": "pastor",
       "category": "Professions",
@@ -77202,7 +77202,7 @@
     },
     {
       "title": "Party Blower",
-      "file_name": "party-blower.png",
+      "file_name": "images/entertainment_leisure/party-blower.png",
       "added_on": "2025-07-22 12:01:55",
       "slug": "party-blower",
       "category": "Entertainment & Leisure",
@@ -79815,7 +79815,7 @@
     },
     {
       "title": "Pasta Maker",
-      "file_name": "pasta-maker.png",
+      "file_name": "images/food_drink/pasta-maker.png",
       "added_on": "2025-07-25 13:11:41",
       "slug": "pasta-maker",
       "category": "Food & Drink",
@@ -91839,7 +91839,7 @@
     },
     {
       "title": "Pastel frito",
-      "file_name": "pastel-frito.png",
+      "file_name": "images/food_drink/pastel-frito.png",
       "added_on": "2025-09-12 05:11:23",
       "slug": "pastel-frito",
       "category": "Food & Drink",
@@ -106451,7 +106451,7 @@
     },
     {
       "title": "Parsnip",
-      "file_name": "parsnip.png",
+      "file_name": "images/food_drink/parsnip.png",
       "added_on": "2025-10-20 19:21:10",
       "slug": "parsnip",
       "category": "Food & Drink",
@@ -111292,7 +111292,7 @@
     },
     {
       "title": "Passion fruit",
-      "file_name": "passion-fruit.png",
+      "file_name": "images/food_drink/passion-fruit.png",
       "added_on": "2025-10-31 09:21:58",
       "slug": "passion-fruit",
       "category": "Food & Drink",
@@ -120361,7 +120361,7 @@
     },
     {
       "title": "Partner",
-      "file_name": "partner.png",
+      "file_name": "images/everyday_life/partner.png",
       "added_on": "2026-01-22 17:51:21",
       "slug": "partner",
       "category": "Everyday Life",
