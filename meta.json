@@ -6727,7 +6727,7 @@
     },
     {
       "title": "Origami Paper",
-      "file_name": "origami-paper.png",
+      "file_name": "images/hobbies/origami-paper.png",
       "added_on": "2025-05-19 00:05:45",
       "slug": "origami-paper",
       "category": "Hobbies",
@@ -6883,7 +6883,7 @@
     },
     {
       "title": "Otter",
-      "file_name": "otter.png",
+      "file_name": "images/animals/otter.png",
       "added_on": "2025-05-19 01:20:49",
       "slug": "otter",
       "category": "Animals",
@@ -7676,7 +7676,7 @@
     },
     {
       "title": "Origami Starter Kit",
-      "file_name": "origami-starter-kit.png",
+      "file_name": "images/hobbies/origami-starter-kit.png",
       "added_on": "2025-05-19 09:51:23",
       "slug": "origami-starter-kit",
       "category": "Hobbies",
@@ -16901,7 +16901,7 @@
     },
     {
       "title": "Oryx",
-      "file_name": "oryx.png",
+      "file_name": "images/animals/oryx.png",
       "added_on": "2025-05-31 10:38:37",
       "slug": "oryx",
       "category": "Animals",
@@ -18032,7 +18032,7 @@
     },
     {
       "title": "Ostrich",
-      "file_name": "ostrich.png",
+      "file_name": "images/animals/ostrich.png",
       "added_on": "2025-06-01 08:13:05",
       "slug": "ostrich",
       "category": "Animals",
@@ -23805,7 +23805,7 @@
     },
     {
       "title": "Orrery",
-      "file_name": "orrery.png",
+      "file_name": "images/space_science/orrery.png",
       "added_on": "2025-06-04 08:48:57",
       "slug": "orrery",
       "category": "Space & Science",
@@ -37029,7 +37029,7 @@
     },
     {
       "title": "Origami",
-      "file_name": "origami.png",
+      "file_name": "images/hobbies/origami.png",
       "added_on": "2025-06-12 21:49:04",
       "slug": "origami",
       "category": "Hobbies",
@@ -50166,7 +50166,7 @@
     },
     {
       "title": "Award Statue",
-      "file_name": "oscar-1.png",
+      "file_name": "images/entertainment_leisure/oscar-1.png",
       "added_on": "2025-06-22 21:40:06",
       "slug": "oscar-1",
       "category": "Entertainment & Leisure",
@@ -50234,7 +50234,7 @@
     },
     {
       "title": "Oscar",
-      "file_name": "oscar-2.png",
+      "file_name": "images/animals/oscar-2.png",
       "added_on": "2025-06-22 21:40:18",
       "slug": "oscar-2",
       "category": "Animals",
@@ -55657,7 +55657,7 @@
     },
     {
       "title": "Oscilloscope",
-      "file_name": "oscilloscope.png",
+      "file_name": "images/technology_media/oscilloscope.png",
       "added_on": "2025-06-29 18:43:24",
       "slug": "oscilloscope",
       "category": "Technology & Media",
@@ -58714,7 +58714,7 @@
     },
     {
       "title": "Orphanage",
-      "file_name": "orphanage.png",
+      "file_name": "images/places_structures/orphanage.png",
       "added_on": "2025-07-06 15:01:07",
       "slug": "orphanage",
       "category": "Places & Structures",
@@ -63284,7 +63284,7 @@
     },
     {
       "title": "Ornithopter",
-      "file_name": "ornithopter.png",
+      "file_name": "images/vehicles_transport/ornithopter.png",
       "added_on": "2025-07-09 12:11:00",
       "slug": "ornithopter",
       "category": "Vehicles & Transport",
@@ -64476,7 +64476,7 @@
     },
     {
       "title": "Otter Slide",
-      "file_name": "otter-slide.png",
+      "file_name": "images/nature_outdoors/otter-slide.png",
       "added_on": "2025-07-10 12:36:04",
       "slug": "otter-slide",
       "category": "Nature & Outdoors",
@@ -77597,7 +77597,7 @@
     },
     {
       "title": "Orthodontic Appliance",
-      "file_name": "orthodontic-appliance.png",
+      "file_name": "images/health_wellness/orthodontic-appliance.png",
       "added_on": "2025-07-24 09:03:49",
       "slug": "orthodontic-appliance",
       "category": "Health & Wellness",
@@ -83269,7 +83269,7 @@
     },
     {
       "title": "Otoscope",
-      "file_name": "otoscope.png",
+      "file_name": "images/health_wellness/otoscope.png",
       "added_on": "2025-08-08 08:31:04",
       "slug": "otoscope",
       "category": "Health & Wellness",
@@ -88783,7 +88783,7 @@
     },
     {
       "title": "Otter Holt",
-      "file_name": "otter-holt.png",
+      "file_name": "images/nature_outdoors/otter-holt.png",
       "added_on": "2025-09-06 14:11:13",
       "slug": "otter-holt",
       "category": "Nature & Outdoors",
@@ -94576,7 +94576,7 @@
     },
     {
       "title": "Oscar Wilde",
-      "file_name": "oscar-wilde.png",
+      "file_name": "images/historical_figures/oscar-wilde.png",
       "added_on": "2025-09-19 09:41:16",
       "slug": "oscar-wilde",
       "category": "Historical Figures",
@@ -96456,7 +96456,7 @@
     },
     {
       "title": "Ottoman Coffee Pot",
-      "file_name": "ottoman-coffee-pot.png",
+      "file_name": "images/history_culture/ottoman-coffee-pot.png",
       "added_on": "2025-09-23 09:41:23",
       "slug": "ottoman-coffee-pot",
       "category": "History & Culture",
@@ -114938,7 +114938,7 @@
     },
     {
       "title": "Ossobuco",
-      "file_name": "ossobuco.png",
+      "file_name": "images/food_drink/ossobuco.png",
       "added_on": "2025-11-12 10:42:15",
       "slug": "ossobuco",
       "category": "Food & Drink",
@@ -131017,7 +131017,7 @@
     },
     {
       "title": "Orthopedic insole",
-      "file_name": "orthopedic-insole.png",
+      "file_name": "images/health_wellness/orthopedic-insole.png",
       "added_on": "2026-03-19 01:31:15",
       "slug": "orthopedic-insole",
       "category": "Health & Wellness",
