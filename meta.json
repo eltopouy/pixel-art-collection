@@ -250,7 +250,7 @@
     },
     {
       "title": "Iron",
-      "file_name": "iron.png",
+      "file_name": "images/everyday_life/iron.png",
       "added_on": "2025-05-15 16:22:14",
       "slug": "iron",
       "category": "Everyday Life",
@@ -9496,7 +9496,7 @@
     },
     {
       "title": "Iran",
-      "file_name": "iran.png",
+      "file_name": "images/countries/iran.png",
       "added_on": "2025-05-23 04:21:00",
       "slug": "iran",
       "category": "Countries",
@@ -10460,7 +10460,7 @@
     },
     {
       "title": "Invoice",
-      "file_name": "invoice.png",
+      "file_name": "images/work_industry/invoice.png",
       "added_on": "2025-05-23 17:21:16",
       "slug": "invoice",
       "category": "Work & Industry",
@@ -11500,7 +11500,7 @@
     },
     {
       "title": "Ireland",
-      "file_name": "ireland.png",
+      "file_name": "images/countries/ireland.png",
       "added_on": "2025-05-24 09:01:34",
       "slug": "ireland",
       "category": "Countries",
@@ -17889,7 +17889,7 @@
     },
     {
       "title": "Iowa Class Battleship",
-      "file_name": "iowa-class-battleship.png",
+      "file_name": "images/vehicles_transport/iowa-class-battleship.png",
       "added_on": "2025-06-01 08:11:17",
       "slug": "iowa-class-battleship",
       "category": "Vehicles & Transport",
@@ -22379,7 +22379,7 @@
     },
     {
       "title": "Irish Pub",
-      "file_name": "irish-pub.png",
+      "file_name": "images/places_structures/irish-pub.png",
       "added_on": "2025-06-03 17:36:04",
       "slug": "irish-pub",
       "category": "Places & Structures",
@@ -24221,7 +24221,7 @@
     },
     {
       "title": "Ionic Column",
-      "file_name": "ionic-column.png",
+      "file_name": "images/places_structures/ionic-column.png",
       "added_on": "2025-06-04 08:55:14",
       "slug": "ionic-column",
       "category": "Places & Structures",
@@ -33245,7 +33245,7 @@
     },
     {
       "title": "Iron Ingot",
-      "file_name": "iron-ingot.png",
+      "file_name": "images/work_industry/iron-ingot.png",
       "added_on": "2025-06-11 15:48:47",
       "slug": "iron-ingot",
       "category": "Work & Industry",
@@ -35106,7 +35106,7 @@
     },
     {
       "title": "Irrawaddy Dolphin",
-      "file_name": "irrawaddy-dolphin.png",
+      "file_name": "images/animals/irrawaddy-dolphin.png",
       "added_on": "2025-06-12 03:25:01",
       "slug": "irrawaddy-dolphin",
       "category": "Animals",
@@ -36519,7 +36519,7 @@
     },
     {
       "title": "Iron Ingot",
-      "file_name": "iron-ingot-1.png",
+      "file_name": "images/work_industry/iron-ingot-1.png",
       "added_on": "2025-06-12 17:51:25",
       "slug": "iron-ingot-1",
       "category": "Work & Industry",
@@ -38119,7 +38119,7 @@
     },
     {
       "title": "Ion Thruster",
-      "file_name": "ion-thruster.png",
+      "file_name": "images/space_science/ion-thruster.png",
       "added_on": "2025-06-12 23:49:20",
       "slug": "ion-thruster",
       "category": "Space & Science",
@@ -44313,7 +44313,7 @@
     },
     {
       "title": "Iraq",
-      "file_name": "iraq.png",
+      "file_name": "images/countries/iraq.png",
       "added_on": "2025-06-14 15:07:04",
       "slug": "iraq",
       "category": "Countries",
@@ -49107,7 +49107,7 @@
     },
     {
       "title": "Irish Setter",
-      "file_name": "irish-setter.png",
+      "file_name": "images/animals/irish-setter.png",
       "added_on": "2025-06-22 17:32:33",
       "slug": "irish-setter",
       "category": "Animals",
@@ -49755,7 +49755,7 @@
     },
     {
       "title": "Irish Wolfhound",
-      "file_name": "irish-wolfhound.png",
+      "file_name": "images/animals/irish-wolfhound.png",
       "added_on": "2025-06-22 17:35:18",
       "slug": "irish-wolfhound",
       "category": "Animals",
@@ -70241,7 +70241,7 @@
     },
     {
       "title": "Invisible Man",
-      "file_name": "invisible-man.png",
+      "file_name": "images/fantasy_imagination/invisible-man.png",
       "added_on": "2025-07-14 10:07:22",
       "slug": "invisible-man",
       "category": "Fantasy & Imagination",
@@ -83033,7 +83033,7 @@
     },
     {
       "title": "Invisible Ink",
-      "file_name": "invisible-ink.png",
+      "file_name": "images/everyday_life/invisible-ink.png",
       "added_on": "2025-08-08 06:55:38",
       "slug": "invisible-ink",
       "category": "Everyday Life",
@@ -101478,7 +101478,7 @@
     },
     {
       "title": "Islam",
-      "file_name": "islam.png",
+      "file_name": "images/history_culture/islam.png",
       "added_on": "2025-10-05 22:51:36",
       "slug": "islam",
       "category": "History & Culture",
@@ -119495,7 +119495,7 @@
     },
     {
       "title": "Iodized Salt",
-      "file_name": "iodized-salt.png",
+      "file_name": "images/food_drink/iodized-salt.png",
       "added_on": "2025-12-09 23:51:22",
       "slug": "iodized-salt",
       "category": "Food & Drink",
@@ -127289,7 +127289,7 @@
     },
     {
       "title": "Isarphilharmonie",
-      "file_name": "isarphilharmonie.png",
+      "file_name": "images/places_structures/isarphilharmonie.png",
       "added_on": "2026-02-25 13:01:18",
       "slug": "isarphilharmonie",
       "category": "Places & Structures",
@@ -127354,7 +127354,7 @@
     },
     {
       "title": "Iridescent Trench Coat",
-      "file_name": "iridescent-trench-coat.png",
+      "file_name": "images/fashion_style/iridescent-trench-coat.png",
       "added_on": "2026-03-02 15:41:12",
       "slug": "iridescent-trench-coat",
       "category": "Fashion & Style",
