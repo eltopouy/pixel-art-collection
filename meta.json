@@ -3817,7 +3817,7 @@
     },
     {
       "title": "Hotel",
-      "file_name": "hotel.png",
+      "file_name": "images/places_structures/hotel.png",
       "added_on": "2025-05-16 23:36:02",
       "slug": "hotel",
       "category": "Places & Structures",
@@ -14377,7 +14377,7 @@
     },
     {
       "title": "House Party",
-      "file_name": "house-party.png",
+      "file_name": "images/events/house-party.png",
       "added_on": "2025-05-26 21:40:45",
       "slug": "house-party",
       "category": "Events",
@@ -22366,7 +22366,7 @@
     },
     {
       "title": "Hourglass",
-      "file_name": "hourglass.png",
+      "file_name": "images/everyday_life/hourglass.png",
       "added_on": "2025-06-03 17:21:03",
       "slug": "hourglass",
       "category": "Everyday Life",
@@ -31331,7 +31331,7 @@
     },
     {
       "title": "Houndstooth Scarf",
-      "file_name": "houndstooth-scarf.png",
+      "file_name": "images/fashion_style/houndstooth-scarf.png",
       "added_on": "2025-06-11 00:36:54",
       "slug": "houndstooth-scarf",
       "category": "Fashion & Style",
@@ -31828,7 +31828,7 @@
     },
     {
       "title": "Hot Tub",
-      "file_name": "hot-tub.png",
+      "file_name": "images/entertainment_leisure/hot-tub.png",
       "added_on": "2025-06-11 05:13:02",
       "slug": "hot-tub",
       "category": "Entertainment & Leisure",
@@ -32011,7 +32011,7 @@
     },
     {
       "title": "Hot Spring",
-      "file_name": "hot-spring.png",
+      "file_name": "images/nature_outdoors/hot-spring.png",
       "added_on": "2025-06-11 06:36:59",
       "slug": "hot-spring",
       "category": "Nature & Outdoors",
@@ -42151,7 +42151,7 @@
     },
     {
       "title": "House key",
-      "file_name": "house-key.png",
+      "file_name": "images/everyday_life/house-key.png",
       "added_on": "2025-06-14 01:43:02",
       "slug": "house-key",
       "category": "Everyday Life",
@@ -50749,7 +50749,7 @@
     },
     {
       "title": "Hot Dog",
-      "file_name": "hot-dog.png",
+      "file_name": "images/food_drink/hot-dog.png",
       "added_on": "2025-06-23 00:19:22",
       "slug": "hot-dog",
       "category": "Food & Drink",
@@ -54350,7 +54350,7 @@
     },
     {
       "title": "Hot Pot",
-      "file_name": "hot-pot.png",
+      "file_name": "images/food_drink/hot-pot.png",
       "added_on": "2025-06-27 18:33:55",
       "slug": "hot-pot",
       "category": "Food & Drink",
@@ -67221,7 +67221,7 @@
     },
     {
       "title": "Hot Water Bottle",
-      "file_name": "hot-water-bottle.png",
+      "file_name": "images/health_wellness/hot-water-bottle.png",
       "added_on": "2025-07-12 04:21:19",
       "slug": "hot-water-bottle",
       "category": "Health & Wellness",
@@ -69249,7 +69249,7 @@
     },
     {
       "title": "Hot Honey Drizzle",
-      "file_name": "hot-honey-drizzle.png",
+      "file_name": "images/food_drink/hot-honey-drizzle.png",
       "added_on": "2025-07-13 18:21:33",
       "slug": "hot-honey-drizzle",
       "category": "Food & Drink",
@@ -73251,7 +73251,7 @@
     },
     {
       "title": "Hot Springs Resort",
-      "file_name": "hot-springs-resort.png",
+      "file_name": "images/places_structures/hot-springs-resort.png",
       "added_on": "2025-07-17 12:11:48",
       "slug": "hot-springs-resort",
       "category": "Places & Structures",
@@ -75626,7 +75626,7 @@
     },
     {
       "title": "Hotel Lobby",
-      "file_name": "hotel-lobby.png",
+      "file_name": "images/places_structures/hotel-lobby.png",
       "added_on": "2025-07-19 20:31:18",
       "slug": "hotel-lobby",
       "category": "Places & Structures",
@@ -75938,7 +75938,7 @@
     },
     {
       "title": "Hot Stone Set",
-      "file_name": "hot-stone-set.png",
+      "file_name": "images/health_wellness/hot-stone-set.png",
       "added_on": "2025-07-20 11:31:21",
       "slug": "hot-stone-set",
       "category": "Health & Wellness",
@@ -86829,7 +86829,7 @@
     },
     {
       "title": "Hot",
-      "file_name": "hot.png",
+      "file_name": "images/everyday_life/hot.png",
       "added_on": "2025-08-29 13:10:54",
       "slug": "hot",
       "category": "Everyday Life",
@@ -90884,7 +90884,7 @@
     },
     {
       "title": "Hourglass Timer",
-      "file_name": "hourglass-timer.png",
+      "file_name": "images/hobbies/hourglass-timer.png",
       "added_on": "2025-09-10 12:51:35",
       "slug": "hourglass-timer",
       "category": "Hobbies",
@@ -92117,7 +92117,7 @@
     },
     {
       "title": "Hotteok",
-      "file_name": "hotteok.png",
+      "file_name": "images/food_drink/hotteok.png",
       "added_on": "2025-09-12 23:21:22",
       "slug": "hotteok",
       "category": "Food & Drink",
@@ -93277,7 +93277,7 @@
     },
     {
       "title": "Hot Glue Gun",
-      "file_name": "hot-glue-gun.png",
+      "file_name": "images/work_industry/hot-glue-gun.png",
       "added_on": "2025-09-16 13:11:26",
       "slug": "hot-glue-gun",
       "category": "Work & Industry",
@@ -93983,7 +93983,7 @@
     },
     {
       "title": "Hot Pepper String",
-      "file_name": "hot-pepper-string.png",
+      "file_name": "images/hobbies/hot-pepper-string.png",
       "added_on": "2025-09-18 09:21:47",
       "slug": "hot-pepper-string",
       "category": "Hobbies",
@@ -101127,7 +101127,7 @@
     },
     {
       "title": "Hot Sauce Bottle",
-      "file_name": "hot-sauce-bottle.png",
+      "file_name": "images/food_drink/hot-sauce-bottle.png",
       "added_on": "2025-10-04 22:01:17",
       "slug": "hot-sauce-bottle",
       "category": "Food & Drink",
@@ -103777,7 +103777,7 @@
     },
     {
       "title": "House for Rent",
-      "file_name": "house-for-rent.png",
+      "file_name": "images/places_structures/house-for-rent.png",
       "added_on": "2025-10-10 16:01:39",
       "slug": "house-for-rent",
       "category": "Places & Structures",
