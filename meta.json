@@ -3362,7 +3362,7 @@
     },
     {
       "title": "Workbench",
-      "file_name": "workbench.png",
+      "file_name": "images/work_industry/workbench.png",
       "added_on": "2025-05-16 20:15:52",
       "slug": "workbench",
       "category": "Work & Industry",
@@ -8339,7 +8339,7 @@
     },
     {
       "title": "Workout",
-      "file_name": "workout.png",
+      "file_name": "images/hobbies/workout.png",
       "added_on": "2025-05-22 14:26:37",
       "slug": "workout",
       "category": "Hobbies",
@@ -12085,7 +12085,7 @@
     },
     {
       "title": "Worksite Ladder",
-      "file_name": "worksite-ladder.png",
+      "file_name": "images/work_industry/worksite-ladder.png",
       "added_on": "2025-05-25 11:31:30",
       "slug": "worksite-ladder",
       "category": "Work & Industry",
@@ -12358,7 +12358,7 @@
     },
     {
       "title": "Worksite Radio",
-      "file_name": "worksite-radio.png",
+      "file_name": "images/work_industry/worksite-radio.png",
       "added_on": "2025-05-25 16:01:29",
       "slug": "worksite-radio",
       "category": "Work & Industry",
@@ -12813,7 +12813,7 @@
     },
     {
       "title": "Worksite Safety Poster",
-      "file_name": "worksite-safety-poster.png",
+      "file_name": "images/work_industry/worksite-safety-poster.png",
       "added_on": "2025-05-25 22:31:27",
       "slug": "worksite-safety-poster",
       "category": "Work & Industry",
@@ -13191,7 +13191,7 @@
     },
     {
       "title": "Work Uniform",
-      "file_name": "work-uniform.png",
+      "file_name": "images/work_industry/work-uniform.png",
       "added_on": "2025-05-26 04:31:23",
       "slug": "work-uniform",
       "category": "Work & Industry",
@@ -13662,7 +13662,7 @@
     },
     {
       "title": "Worksite Barricade",
-      "file_name": "worksite-barricade.png",
+      "file_name": "images/work_industry/worksite-barricade.png",
       "added_on": "2025-05-26 11:40:52",
       "slug": "worksite-barricade",
       "category": "Work & Industry",
@@ -14572,7 +14572,7 @@
     },
     {
       "title": "Worksite Floodlight",
-      "file_name": "worksite-floodlight.png",
+      "file_name": "images/work_industry/worksite-floodlight.png",
       "added_on": "2025-05-27 00:50:53",
       "slug": "worksite-floodlight",
       "category": "Work & Industry",
@@ -14780,7 +14780,7 @@
     },
     {
       "title": "Worksite First Aid Kit",
-      "file_name": "worksite-first-aid-kit.png",
+      "file_name": "images/work_industry/worksite-first-aid-kit.png",
       "added_on": "2025-05-27 03:50:48",
       "slug": "worksite-first-aid-kit",
       "category": "Work & Industry",
@@ -15847,7 +15847,7 @@
     },
     {
       "title": "Worksite Light",
-      "file_name": "worksite-light.png",
+      "file_name": "images/work_industry/worksite-light.png",
       "added_on": "2025-05-27 22:10:53",
       "slug": "worksite-light",
       "category": "Work & Industry",
@@ -16068,7 +16068,7 @@
     },
     {
       "title": "Worksite Tool Chest",
-      "file_name": "worksite-tool-chest.png",
+      "file_name": "images/work_industry/worksite-tool-chest.png",
       "added_on": "2025-05-28 01:31:01",
       "slug": "worksite-tool-chest",
       "category": "Work & Industry",
@@ -25014,7 +25014,7 @@
     },
     {
       "title": "Workout",
-      "file_name": "workout-5uerrd.png",
+      "file_name": "images/health_wellness/workout-5uerrd.png",
       "added_on": "2025-06-05 16:39:22",
       "slug": "workout-5uerrd",
       "category": "Health & Wellness",
@@ -37094,7 +37094,7 @@
     },
     {
       "title": "Workstation",
-      "file_name": "workstation.png",
+      "file_name": "images/work_industry/workstation.png",
       "added_on": "2025-06-12 22:19:19",
       "slug": "workstation",
       "category": "Work & Industry",
@@ -38996,7 +38996,7 @@
     },
     {
       "title": "Workshop",
-      "file_name": "workshop.png",
+      "file_name": "images/events/workshop.png",
       "added_on": "2025-06-13 06:31:18",
       "slug": "workshop",
       "category": "Events",
@@ -40872,7 +40872,7 @@
     },
     {
       "title": "World War 1 Zeppelin",
-      "file_name": "world-war-1-zeppelin.png",
+      "file_name": "images/vehicles_transport/world-war-1-zeppelin.png",
       "added_on": "2025-06-13 22:27:22",
       "slug": "world-war-1-zeppelin",
       "category": "Vehicles & Transport",
@@ -68085,7 +68085,7 @@
     },
     {
       "title": "Work Token",
-      "file_name": "work-token.png",
+      "file_name": "images/work_industry/work-token.png",
       "added_on": "2025-07-12 17:21:47",
       "slug": "work-token",
       "category": "Work & Industry",
@@ -72326,7 +72326,7 @@
     },
     {
       "title": "Worksite Beacon",
-      "file_name": "worksite-beacon.png",
+      "file_name": "images/work_industry/worksite-beacon.png",
       "added_on": "2025-07-16 16:01:16",
       "slug": "worksite-beacon",
       "category": "Work & Industry",
@@ -82759,7 +82759,7 @@
     },
     {
       "title": "Workflow",
-      "file_name": "workflow.png",
+      "file_name": "images/interface_symbols/workflow.png",
       "added_on": "2025-08-08 06:54:15",
       "slug": "workflow",
       "category": "Interface & Symbols",
@@ -105485,7 +105485,7 @@
     },
     {
       "title": "Worksite Coffee Cart",
-      "file_name": "worksite-coffee-cart.png",
+      "file_name": "images/work_industry/worksite-coffee-cart.png",
       "added_on": "2025-10-16 15:21:17",
       "slug": "worksite-coffee-cart",
       "category": "Work & Industry",
@@ -115634,7 +115634,7 @@
     },
     {
       "title": "World Map",
-      "file_name": "world-map.png",
+      "file_name": "images/places_structures/world-map.png",
       "added_on": "2025-11-14 16:32:03",
       "slug": "world-map",
       "category": "Places & Structures",
@@ -116995,7 +116995,7 @@
     },
     {
       "title": "Workshop Pegboard",
-      "file_name": "workshop-pegboard.png",
+      "file_name": "images/work_industry/workshop-pegboard.png",
       "added_on": "2025-11-20 00:51:17",
       "slug": "workshop-pegboard",
       "category": "Work & Industry",
