@@ -314,7 +314,7 @@
     },
     {
       "title": "Washing Machine",
-      "file_name": "washing-machine.png",
+      "file_name": "images/everyday_life/washing-machine.png",
       "added_on": "2025-05-15 16:37:13",
       "slug": "washing-machine",
       "category": "Everyday Life",
@@ -11708,7 +11708,7 @@
     },
     {
       "title": "Warning Sign",
-      "file_name": "warning-sign.png",
+      "file_name": "images/interface_symbols/warning-sign.png",
       "added_on": "2025-05-24 12:01:19",
       "slug": "warning-sign",
       "category": "Interface & Symbols",
@@ -19688,7 +19688,7 @@
     },
     {
       "title": "Wasp",
-      "file_name": "wasp.png",
+      "file_name": "images/animals/wasp.png",
       "added_on": "2025-06-02 09:31:50",
       "slug": "wasp",
       "category": "Animals",
@@ -23096,7 +23096,7 @@
     },
     {
       "title": "Warthog",
-      "file_name": "warthog.png",
+      "file_name": "images/animals/warthog.png",
       "added_on": "2025-06-04 05:01:06",
       "slug": "warthog",
       "category": "Animals",
@@ -30278,7 +30278,7 @@
     },
     {
       "title": "Warning Triangle",
-      "file_name": "warning-triangle.png",
+      "file_name": "images/interface_symbols/warning-triangle.png",
       "added_on": "2025-06-10 18:25:11",
       "slug": "warning-triangle",
       "category": "Interface & Symbols",
@@ -40028,7 +40028,7 @@
     },
     {
       "title": "Watchtower",
-      "file_name": "watchtower.png",
+      "file_name": "images/places_structures/watchtower.png",
       "added_on": "2025-06-13 15:49:19",
       "slug": "watchtower",
       "category": "Places & Structures",
@@ -54254,7 +54254,7 @@
     },
     {
       "title": "Washington Monument",
-      "file_name": "washington-monument.png",
+      "file_name": "images/places_structures/washington-monument.png",
       "added_on": "2025-06-27 15:48:48",
       "slug": "washington-monument",
       "category": "Places & Structures",
@@ -55444,7 +55444,7 @@
     },
     {
       "title": "Watch",
-      "file_name": "watch.png",
+      "file_name": "images/everyday_life/watch.png",
       "added_on": "2025-06-29 17:01:20",
       "slug": "watch",
       "category": "Everyday Life",
@@ -61004,7 +61004,7 @@
     },
     {
       "title": "Warped Tower",
-      "file_name": "warped-tower.png",
+      "file_name": "images/places_structures/warped-tower.png",
       "added_on": "2025-07-08 18:55:56",
       "slug": "warped-tower",
       "category": "Places & Structures",
@@ -61750,7 +61750,7 @@
     },
     {
       "title": "Wasabi Pea",
-      "file_name": "wasabi-pea.png",
+      "file_name": "images/food_drink/wasabi-pea.png",
       "added_on": "2025-07-09 00:30:58",
       "slug": "wasabi-pea",
       "category": "Food & Drink",
@@ -63098,7 +63098,7 @@
     },
     {
       "title": "Warty Sea Cucumber",
-      "file_name": "warty-sea-cucumber.png",
+      "file_name": "images/animals/warty-sea-cucumber.png",
       "added_on": "2025-07-09 10:56:20",
       "slug": "warty-sea-cucumber",
       "category": "Animals",
@@ -69875,7 +69875,7 @@
     },
     {
       "title": "Warrior",
-      "file_name": "warrior.png",
+      "file_name": "images/fantasy_imagination/warrior.png",
       "added_on": "2025-07-14 09:58:50",
       "slug": "warrior",
       "category": "Fantasy & Imagination",
@@ -81442,7 +81442,7 @@
     },
     {
       "title": "Wash Plant",
-      "file_name": "wash-plant.png",
+      "file_name": "images/work_industry/wash-plant.png",
       "added_on": "2025-07-30 17:22:45",
       "slug": "wash-plant",
       "category": "Work & Industry",
@@ -82095,7 +82095,7 @@
     },
     {
       "title": "Warrior",
-      "file_name": "warrior-1.png",
+      "file_name": "images/fantasy_imagination/warrior-1.png",
       "added_on": "2025-08-04 05:28:20",
       "slug": "warrior-1",
       "category": "Fantasy & Imagination",
@@ -86529,7 +86529,7 @@
     },
     {
       "title": "Warranty",
-      "file_name": "warranty.png",
+      "file_name": "images/everyday_life/warranty.png",
       "added_on": "2025-08-27 11:11:39",
       "slug": "warranty",
       "category": "Everyday Life",
@@ -86764,7 +86764,7 @@
     },
     {
       "title": "Washing Face",
-      "file_name": "washing-face.png",
+      "file_name": "images/everyday_life/washing-face.png",
       "added_on": "2025-08-29 13:10:43",
       "slug": "washing-face",
       "category": "Everyday Life",
@@ -88876,7 +88876,7 @@
     },
     {
       "title": "Washi Tape Dispenser",
-      "file_name": "washi-tape-dispenser.png",
+      "file_name": "images/hobbies/washi-tape-dispenser.png",
       "added_on": "2025-09-06 15:31:03",
       "slug": "washi-tape-dispenser",
       "category": "Hobbies",
@@ -92991,7 +92991,7 @@
     },
     {
       "title": "Water Balloon",
-      "file_name": "water-balloon.png",
+      "file_name": "images/entertainment_leisure/water-balloon.png",
       "added_on": "2025-09-15 16:11:21",
       "slug": "water-balloon",
       "category": "Entertainment & Leisure",
@@ -95389,7 +95389,7 @@
     },
     {
       "title": "Wasp Nest",
-      "file_name": "wasp-nest.png",
+      "file_name": "images/nature_outdoors/wasp-nest.png",
       "added_on": "2025-09-21 10:11:29",
       "slug": "wasp-nest",
       "category": "Nature & Outdoors",
@@ -104433,7 +104433,7 @@
     },
     {
       "title": "Waste Compactor",
-      "file_name": "waste-compactor.png",
+      "file_name": "images/work_industry/waste-compactor.png",
       "added_on": "2025-10-12 11:31:43",
       "slug": "waste-compactor",
       "category": "Work & Industry",
@@ -114756,7 +114756,7 @@
     },
     {
       "title": "Warp Drive Core",
-      "file_name": "warp-drive-core.png",
+      "file_name": "images/space_science/warp-drive-core.png",
       "added_on": "2025-11-11 19:51:57",
       "slug": "warp-drive-core",
       "category": "Space & Science",
