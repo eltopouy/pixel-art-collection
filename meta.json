@@ -2204,7 +2204,7 @@
     },
     {
       "title": "Jaguar",
-      "file_name": "jaguar.png",
+      "file_name": "images/animals/jaguar.png",
       "added_on": "2025-05-16 12:10:26",
       "slug": "jaguar",
       "category": "Animals",
@@ -7689,7 +7689,7 @@
     },
     {
       "title": "Japan",
-      "file_name": "japan.png",
+      "file_name": "images/countries/japan.png",
       "added_on": "2025-05-19 21:51:10",
       "slug": "japan",
       "category": "Countries",
@@ -21620,7 +21620,7 @@
     },
     {
       "title": "Jamaican Music",
-      "file_name": "jamaican-music.png",
+      "file_name": "images/history_culture/jamaican-music.png",
       "added_on": "2025-06-03 08:10:07",
       "slug": "jamaican-music",
       "category": "History & Culture",
@@ -22327,7 +22327,7 @@
     },
     {
       "title": "Japanese Flowering Tree",
-      "file_name": "japanese-flowering-tree.png",
+      "file_name": "images/nature_outdoors/japanese-flowering-tree.png",
       "added_on": "2025-06-03 17:06:04",
       "slug": "japanese-flowering-tree",
       "category": "Nature & Outdoors",
@@ -25185,7 +25185,7 @@
     },
     {
       "title": "Janitor",
-      "file_name": "janitor.png",
+      "file_name": "images/work_industry/janitor.png",
       "added_on": "2025-06-05 16:40:10",
       "slug": "janitor",
       "category": "Work & Industry",
@@ -28233,7 +28233,7 @@
     },
     {
       "title": "Jade Pendant",
-      "file_name": "jade-pendant.png",
+      "file_name": "images/history_culture/jade-pendant.png",
       "added_on": "2025-06-08 21:33:07",
       "slug": "jade-pendant",
       "category": "History & Culture",
@@ -31617,7 +31617,7 @@
     },
     {
       "title": "Jamaica",
-      "file_name": "jamaica.png",
+      "file_name": "images/countries/jamaica.png",
       "added_on": "2025-06-11 03:31:00",
       "slug": "jamaica",
       "category": "Countries",
@@ -50328,7 +50328,7 @@
     },
     {
       "title": "Jane Goodall",
-      "file_name": "jane-goodall.png",
+      "file_name": "images/professions/jane-goodall.png",
       "added_on": "2025-06-22 21:41:41",
       "slug": "jane-goodall",
       "category": "Professions",
@@ -79080,7 +79080,7 @@
     },
     {
       "title": "Jallab",
-      "file_name": "jallab.png",
+      "file_name": "images/food_drink/jallab.png",
       "added_on": "2025-07-24 22:41:10",
       "slug": "jallab",
       "category": "Food & Drink",
@@ -80049,7 +80049,7 @@
     },
     {
       "title": "Jalapeno",
-      "file_name": "jalapeno.png",
+      "file_name": "images/food_drink/jalapeno.png",
       "added_on": "2025-07-25 16:11:17",
       "slug": "jalapeno",
       "category": "Food & Drink",
@@ -83389,7 +83389,7 @@
     },
     {
       "title": "Japan Flag",
-      "file_name": "japan-flag.png",
+      "file_name": "images/flags/japan-flag.png",
       "added_on": "2025-08-12 15:59:39",
       "slug": "japan-flag",
       "category": "Flags",
@@ -85107,7 +85107,7 @@
     },
     {
       "title": "Japanese Bobtail",
-      "file_name": "japanese-bobtail.png",
+      "file_name": "images/animals/japanese-bobtail.png",
       "added_on": "2025-08-20 14:29:25",
       "slug": "japanese-bobtail",
       "category": "Animals",
@@ -90767,7 +90767,7 @@
     },
     {
       "title": "Jade Roller",
-      "file_name": "jade-roller.png",
+      "file_name": "images/health_wellness/jade-roller.png",
       "added_on": "2025-09-10 11:11:37",
       "slug": "jade-roller",
       "category": "Health & Wellness",
@@ -92197,7 +92197,7 @@
     },
     {
       "title": "Jane Austen",
-      "file_name": "jane-austen.png",
+      "file_name": "images/historical_figures/jane-austen.png",
       "added_on": "2025-09-13 13:31:27",
       "slug": "jane-austen",
       "category": "Historical Figures",
@@ -107571,7 +107571,7 @@
     },
     {
       "title": "Jam Jar",
-      "file_name": "jam-jar.png",
+      "file_name": "images/food_drink/jam-jar.png",
       "added_on": "2025-10-23 00:51:16",
       "slug": "jam-jar",
       "category": "Food & Drink",
@@ -108827,7 +108827,7 @@
     },
     {
       "title": "Jade Vine",
-      "file_name": "jade-vine.png",
+      "file_name": "images/nature_outdoors/jade-vine.png",
       "added_on": "2025-10-26 18:51:12",
       "slug": "jade-vine",
       "category": "Nature & Outdoors",
@@ -110654,7 +110654,7 @@
     },
     {
       "title": "Jakarta",
-      "file_name": "jakarta.png",
+      "file_name": "images/places_structures/jakarta.png",
       "added_on": "2025-10-29 20:31:51",
       "slug": "jakarta",
       "category": "Places & Structures",
@@ -111894,7 +111894,7 @@
     },
     {
       "title": "Japanese Class",
-      "file_name": "japanese-class.png",
+      "file_name": "images/history_culture/japanese-class.png",
       "added_on": "2025-11-02 07:54:03",
       "slug": "japanese-class",
       "category": "History & Culture",
@@ -119788,7 +119788,7 @@
     },
     {
       "title": "James Webb Telescope",
-      "file_name": "james-webb-telescope.png",
+      "file_name": "images/space_science/james-webb-telescope.png",
       "added_on": "2025-12-10 03:41:45",
       "slug": "james-webb-telescope",
       "category": "Space & Science",
@@ -129411,7 +129411,7 @@
     },
     {
       "title": "Jalebi",
-      "file_name": "jalebi.png",
+      "file_name": "images/food_drink/jalebi.png",
       "added_on": "2026-03-17 14:00:53",
       "slug": "jalebi",
       "category": "Food & Drink",
