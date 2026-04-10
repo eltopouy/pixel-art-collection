@@ -5116,7 +5116,7 @@
     },
     {
       "title": "Newspaper",
-      "file_name": "newspaper.png",
+      "file_name": "images/technology_media/newspaper.png",
       "added_on": "2025-05-17 18:15:40",
       "slug": "newspaper",
       "category": "Technology & Media",
@@ -5701,7 +5701,7 @@
     },
     {
       "title": "Newspaper Printing Press",
-      "file_name": "newspaper-printing-press.png",
+      "file_name": "images/technology_media/newspaper-printing-press.png",
       "added_on": "2025-05-18 02:21:04",
       "slug": "newspaper-printing-press",
       "category": "Technology & Media",
@@ -6454,7 +6454,7 @@
     },
     {
       "title": "Newspaper",
-      "file_name": "newspaper-basic.png",
+      "file_name": "images/technology_media/newspaper-basic.png",
       "added_on": "2025-05-18 21:01:29",
       "slug": "newspaper-basic",
       "category": "Technology & Media",
@@ -9860,7 +9860,7 @@
     },
     {
       "title": "Newt",
-      "file_name": "newt.png",
+      "file_name": "images/animals/newt.png",
       "added_on": "2025-05-23 09:10:45",
       "slug": "newt",
       "category": "Animals",
@@ -12475,7 +12475,7 @@
     },
     {
       "title": "New Zealand",
-      "file_name": "new-zealand.png",
+      "file_name": "images/countries/new-zealand.png",
       "added_on": "2025-05-25 17:51:28",
       "slug": "new-zealand",
       "category": "Countries",
@@ -14130,7 +14130,7 @@
     },
     {
       "title": "New Year",
-      "file_name": "new-year.png",
+      "file_name": "images/events/new-year.png",
       "added_on": "2025-05-26 18:30:47",
       "slug": "new-year",
       "category": "Events",
@@ -20293,7 +20293,7 @@
     },
     {
       "title": "Niagara Falls",
-      "file_name": "niagara-falls.png",
+      "file_name": "images/nature_outdoors/niagara-falls.png",
       "added_on": "2025-06-02 09:44:28",
       "slug": "niagara-falls",
       "category": "Nature & Outdoors",
@@ -21539,7 +21539,7 @@
     },
     {
       "title": "New Orleans",
-      "file_name": "new-orleans.png",
+      "file_name": "images/history_culture/new-orleans.png",
       "added_on": "2025-06-03 08:08:43",
       "slug": "new-orleans",
       "category": "History & Culture",
@@ -30382,7 +30382,7 @@
     },
     {
       "title": "New Mail",
-      "file_name": "new-mail.png",
+      "file_name": "images/interface_symbols/new-mail.png",
       "added_on": "2025-06-10 18:29:03",
       "slug": "new-mail",
       "category": "Interface & Symbols",
@@ -35420,7 +35420,7 @@
     },
     {
       "title": "New Year's Eve Countdown",
-      "file_name": "new-years-eve-countdown.png",
+      "file_name": "images/events/new-years-eve-countdown.png",
       "added_on": "2025-06-12 06:01:04",
       "slug": "new-years-eve-countdown",
       "category": "Events",
@@ -36201,7 +36201,7 @@
     },
     {
       "title": "NeXT Computer Cube",
-      "file_name": "next-computer-cube.png",
+      "file_name": "images/technology_media/next-computer-cube.png",
       "added_on": "2025-06-12 08:40:40",
       "slug": "next-computer-cube",
       "category": "Technology & Media",
@@ -37211,7 +37211,7 @@
     },
     {
       "title": "Neuschwanstein Castle",
-      "file_name": "neuschwanstein-castle.png",
+      "file_name": "images/places_structures/neuschwanstein-castle.png",
       "added_on": "2025-06-12 23:01:26",
       "slug": "neuschwanstein-castle",
       "category": "Places & Structures",
@@ -42491,7 +42491,7 @@
     },
     {
       "title": "Neutron Star",
-      "file_name": "neutron-star.png",
+      "file_name": "images/space_science/neutron-star.png",
       "added_on": "2025-06-14 04:49:04",
       "slug": "neutron-star",
       "category": "Space & Science",
@@ -44543,7 +44543,7 @@
     },
     {
       "title": "Newsboy Cap",
-      "file_name": "newsboy-cap.png",
+      "file_name": "images/fashion_style/newsboy-cap.png",
       "added_on": "2025-06-14 17:06:56",
       "slug": "newsboy-cap",
       "category": "Fashion & Style",
@@ -54280,7 +54280,7 @@
     },
     {
       "title": "Neuron",
-      "file_name": "neuron.png",
+      "file_name": "images/space_science/neuron.png",
       "added_on": "2025-06-27 16:00:51",
       "slug": "neuron",
       "category": "Space & Science",
@@ -84899,7 +84899,7 @@
     },
     {
       "title": "Newfoundland",
-      "file_name": "newfoundland.png",
+      "file_name": "images/animals/newfoundland.png",
       "added_on": "2025-08-19 16:39:00",
       "slug": "newfoundland",
       "category": "Animals",
@@ -117426,7 +117426,7 @@
     },
     {
       "title": "Nicotine Patch",
-      "file_name": "nicotine-patch.png",
+      "file_name": "images/health_wellness/nicotine-patch.png",
       "added_on": "2025-11-24 15:01:17",
       "slug": "nicotine-patch",
       "category": "Health & Wellness",
@@ -120242,7 +120242,7 @@
     },
     {
       "title": "New",
-      "file_name": "new.png",
+      "file_name": "images/interface_symbols/new.png",
       "added_on": "2026-01-22 16:11:20",
       "slug": "new",
       "category": "Interface & Symbols",
@@ -121102,7 +121102,7 @@
     },
     {
       "title": "NGO",
-      "file_name": "ngo.png",
+      "file_name": "images/work_industry/ngo.png",
       "added_on": "2026-01-23 03:51:19",
       "slug": "ngo",
       "category": "Work & Industry",
@@ -121310,7 +121310,7 @@
     },
     {
       "title": "Neural Network",
-      "file_name": "neural-network.png",
+      "file_name": "images/technology_media/neural-network.png",
       "added_on": "2026-01-23 11:51:07",
       "slug": "neural-network",
       "category": "Technology & Media",
