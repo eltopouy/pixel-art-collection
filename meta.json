@@ -3570,7 +3570,7 @@
     },
     {
       "title": "House",
-      "file_name": "house.png",
+      "file_name": "images/places_structures/house.png",
       "added_on": "2025-05-16 21:50:54",
       "slug": "house",
       "category": "Places & Structures",
@@ -6662,7 +6662,7 @@
     },
     {
       "title": "Hula Hoop",
-      "file_name": "hula-hoop.png",
+      "file_name": "images/entertainment_leisure/hula-hoop.png",
       "added_on": "2025-05-18 23:40:40",
       "slug": "hula-hoop",
       "category": "Entertainment & Leisure",
@@ -16016,7 +16016,7 @@
     },
     {
       "title": "Hoverboard",
-      "file_name": "hoverboard.png",
+      "file_name": "images/vehicles_transport/hoverboard.png",
       "added_on": "2025-05-28 00:41:00",
       "slug": "hoverboard",
       "category": "Vehicles & Transport",
@@ -17382,7 +17382,7 @@
     },
     {
       "title": "HP 11c Calculator",
-      "file_name": "hp-11c-calculator.png",
+      "file_name": "images/technology_media/hp-11c-calculator.png",
       "added_on": "2025-05-31 11:02:01",
       "slug": "hp-11c-calculator",
       "category": "Technology & Media",
@@ -18814,7 +18814,7 @@
     },
     {
       "title": "Human Heart",
-      "file_name": "human-heart.png",
+      "file_name": "images/health_wellness/human-heart.png",
       "added_on": "2025-06-01 08:29:05",
       "slug": "human-heart",
       "category": "Health & Wellness",
@@ -26495,7 +26495,7 @@
     },
     {
       "title": "Hovercraft",
-      "file_name": "hovercraft.png",
+      "file_name": "images/vehicles_transport/hovercraft.png",
       "added_on": "2025-06-07 15:02:09",
       "slug": "hovercraft",
       "category": "Vehicles & Transport",
@@ -28363,7 +28363,7 @@
     },
     {
       "title": "Housefly",
-      "file_name": "housefly.png",
+      "file_name": "images/animals/housefly.png",
       "added_on": "2025-06-08 21:33:47",
       "slug": "housefly",
       "category": "Animals",
@@ -37981,7 +37981,7 @@
     },
     {
       "title": "Human Lung Lobes Division",
-      "file_name": "human-lung-lobes-division.png",
+      "file_name": "images/health_wellness/human-lung-lobes-division.png",
       "added_on": "2025-06-12 23:06:16",
       "slug": "human-lung-lobes-division",
       "category": "Health & Wellness",
@@ -44183,7 +44183,7 @@
     },
     {
       "title": "Hubble Space Telescope",
-      "file_name": "hubble-space-telescope.png",
+      "file_name": "images/space_science/hubble-space-telescope.png",
       "added_on": "2025-06-14 13:54:59",
       "slug": "hubble-space-telescope",
       "category": "Space & Science",
@@ -44196,7 +44196,7 @@
     },
     {
       "title": "Houseplant",
-      "file_name": "houseplant.png",
+      "file_name": "images/everyday_life/houseplant.png",
       "added_on": "2025-06-14 14:01:18",
       "slug": "houseplant",
       "category": "Everyday Life",
@@ -46647,7 +46647,7 @@
     },
     {
       "title": "Huitzilopochtli",
-      "file_name": "huitzilopochtli.png",
+      "file_name": "images/history_culture/huitzilopochtli.png",
       "added_on": "2025-06-16 19:49:06",
       "slug": "huitzilopochtli",
       "category": "History & Culture",
@@ -48872,7 +48872,7 @@
     },
     {
       "title": "Human-Machine Interaction",
-      "file_name": "human-machine-interaction.png",
+      "file_name": "images/technology_media/human-machine-interaction.png",
       "added_on": "2025-06-22 17:31:21",
       "slug": "human-machine-interaction",
       "category": "Technology & Media",
@@ -86069,7 +86069,7 @@
     },
     {
       "title": "House Roof Renovation",
-      "file_name": "house-roof-renovation.png",
+      "file_name": "images/places_structures/house-roof-renovation.png",
       "added_on": "2025-08-25 15:21:32",
       "slug": "house-roof-renovation",
       "category": "Places & Structures",
@@ -92844,7 +92844,7 @@
     },
     {
       "title": "Hovertrain",
-      "file_name": "hovertrain.png",
+      "file_name": "images/vehicles_transport/hovertrain.png",
       "added_on": "2025-09-15 14:11:24",
       "slug": "hovertrain",
       "category": "Vehicles & Transport",
@@ -97338,7 +97338,7 @@
     },
     {
       "title": "Human Hamster Wheel",
-      "file_name": "human-hamster-wheel.png",
+      "file_name": "images/sports/human-hamster-wheel.png",
       "added_on": "2025-09-25 15:31:07",
       "slug": "human-hamster-wheel",
       "category": "Sports",
@@ -98214,7 +98214,7 @@
     },
     {
       "title": "Human Hamster Ball",
-      "file_name": "human-hamster-ball.png",
+      "file_name": "images/sports/human-hamster-ball.png",
       "added_on": "2025-09-27 18:11:14",
       "slug": "human-hamster-ball",
       "category": "Sports",
@@ -102920,7 +102920,7 @@
     },
     {
       "title": "Huitlacoche",
-      "file_name": "huitlacoche.png",
+      "file_name": "images/food_drink/huitlacoche.png",
       "added_on": "2025-10-09 12:31:45",
       "slug": "huitlacoche",
       "category": "Food & Drink",
@@ -126960,7 +126960,7 @@
     },
     {
       "title": "Hoverbike",
-      "file_name": "hoverbike.png",
+      "file_name": "images/vehicles_transport/hoverbike.png",
       "added_on": "2026-02-23 20:01:13",
       "slug": "hoverbike",
       "category": "Vehicles & Transport",
@@ -130378,7 +130378,7 @@
     },
     {
       "title": "Hoya Kerri Plant",
-      "file_name": "hoya-kerri-plant.png",
+      "file_name": "images/nature_outdoors/hoya-kerri-plant.png",
       "added_on": "2026-03-18 03:00:49",
       "slug": "hoya-kerri-plant",
       "category": "Nature & Outdoors",
@@ -130417,7 +130417,7 @@
     },
     {
       "title": "Human Egg",
-      "file_name": "human-egg.png",
+      "file_name": "images/fantasy_imagination/human-egg.png",
       "added_on": "2026-03-18 03:30:53",
       "slug": "human-egg",
       "category": "Fantasy & Imagination",
