@@ -1346,7 +1346,7 @@
     },
     {
       "title": "Sourdough Bread",
-      "file_name": "sourdough-bread.png",
+      "file_name": "images/food_drink/sourdough-bread.png",
       "added_on": "2025-05-16 08:31:24",
       "slug": "sourdough-bread",
       "category": "Food & Drink",
@@ -5493,7 +5493,7 @@
     },
     {
       "title": "Soup",
-      "file_name": "soup.png",
+      "file_name": "images/food_drink/soup.png",
       "added_on": "2025-05-17 22:20:44",
       "slug": "soup",
       "category": "Food & Drink",
@@ -5805,7 +5805,7 @@
     },
     {
       "title": "Soup Spoon",
-      "file_name": "soup-spoon.png",
+      "file_name": "images/food_drink/soup-spoon.png",
       "added_on": "2025-05-18 05:46:01",
       "slug": "soup-spoon",
       "category": "Food & Drink",
@@ -5870,7 +5870,7 @@
     },
     {
       "title": "Soup Bowl",
-      "file_name": "soup-bowl.png",
+      "file_name": "images/food_drink/soup-bowl.png",
       "added_on": "2025-05-18 07:05:59",
       "slug": "soup-bowl",
       "category": "Food & Drink",
@@ -6376,7 +6376,7 @@
     },
     {
       "title": "Soup",
-      "file_name": "soup-basic.png",
+      "file_name": "images/food_drink/soup-basic.png",
       "added_on": "2025-05-18 18:21:30",
       "slug": "soup-basic",
       "category": "Food & Drink",
@@ -7975,7 +7975,7 @@
     },
     {
       "title": "South Korea",
-      "file_name": "south-korea.png",
+      "file_name": "images/countries/south-korea.png",
       "added_on": "2025-05-20 02:21:08",
       "slug": "south-korea",
       "category": "Countries",
@@ -8144,7 +8144,7 @@
     },
     {
       "title": "South Africa",
-      "file_name": "south-africa.png",
+      "file_name": "images/countries/south-africa.png",
       "added_on": "2025-05-20 06:21:03",
       "slug": "south-africa",
       "category": "Countries",
@@ -9821,7 +9821,7 @@
     },
     {
       "title": "Spa",
-      "file_name": "spa.png",
+      "file_name": "images/places_structures/spa.png",
       "added_on": "2025-05-23 08:40:53",
       "slug": "spa",
       "category": "Places & Structures",
@@ -10512,7 +10512,7 @@
     },
     {
       "title": "Space Craft",
-      "file_name": "space-craft.png",
+      "file_name": "images/space_science/space-craft.png",
       "added_on": "2025-05-23 18:01:13",
       "slug": "space-craft",
       "category": "Space & Science",
@@ -12397,7 +12397,7 @@
     },
     {
       "title": "South Sudan",
-      "file_name": "south-sudan.png",
+      "file_name": "images/countries/south-sudan.png",
       "added_on": "2025-05-25 16:31:26",
       "slug": "south-sudan",
       "category": "Countries",
@@ -21055,7 +21055,7 @@
     },
     {
       "title": "Space Cat",
-      "file_name": "space-cat.png",
+      "file_name": "images/fantasy_imagination/space-cat.png",
       "added_on": "2025-06-02 12:11:36",
       "slug": "space-cat",
       "category": "Fantasy & Imagination",
@@ -25672,7 +25672,7 @@
     },
     {
       "title": "Soya Beans",
-      "file_name": "soya-beans.png",
+      "file_name": "images/food_drink/soya-beans.png",
       "added_on": "2025-06-06 09:13:28",
       "slug": "soya-beans",
       "category": "Food & Drink",
@@ -25981,7 +25981,7 @@
     },
     {
       "title": "Soybean",
-      "file_name": "soybean.png",
+      "file_name": "images/work_industry/soybean.png",
       "added_on": "2025-06-07 01:00:50",
       "slug": "soybean",
       "category": "Work & Industry",
@@ -29128,7 +29128,7 @@
     },
     {
       "title": "Sous Vide Machine",
-      "file_name": "sous-vide-machine.png",
+      "file_name": "images/food_drink/sous-vide-machine.png",
       "added_on": "2025-06-10 09:12:54",
       "slug": "sous-vide-machine",
       "category": "Food & Drink",
@@ -66123,7 +66123,7 @@
     },
     {
       "title": "Space Elevator Base",
-      "file_name": "space-elevator-base.png",
+      "file_name": "images/space_science/space-elevator-base.png",
       "added_on": "2025-07-11 09:41:20",
       "slug": "space-elevator-base",
       "category": "Space & Science",
@@ -75248,7 +75248,7 @@
     },
     {
       "title": "Soundproof Booth",
-      "file_name": "soundproof-booth.png",
+      "file_name": "images/work_industry/soundproof-booth.png",
       "added_on": "2025-07-19 15:31:24",
       "slug": "soundproof-booth",
       "category": "Work & Industry",
@@ -83402,7 +83402,7 @@
     },
     {
       "title": "South Korea Flag",
-      "file_name": "south-korea-flag.png",
+      "file_name": "images/flags/south-korea-flag.png",
       "added_on": "2025-08-12 15:59:43",
       "slug": "south-korea-flag",
       "category": "Flags",
@@ -86011,7 +86011,7 @@
     },
     {
       "title": "Southern White Rhinoceros",
-      "file_name": "southern-white-rhinoceros.png",
+      "file_name": "images/animals/southern-white-rhinoceros.png",
       "added_on": "2025-08-24 22:01:28",
       "slug": "southern-white-rhinoceros",
       "category": "Animals",
@@ -94026,7 +94026,7 @@
     },
     {
       "title": "Soursop",
-      "file_name": "soursop.png",
+      "file_name": "images/food_drink/soursop.png",
       "added_on": "2025-09-18 09:51:26",
       "slug": "soursop",
       "category": "Food & Drink",
@@ -126413,7 +126413,7 @@
     },
     {
       "title": "Sourdough Starter Jar",
-      "file_name": "sourdough-starter-jar.png",
+      "file_name": "images/food_drink/sourdough-starter-jar.png",
       "added_on": "2026-02-11 19:11:08",
       "slug": "sourdough-starter-jar",
       "category": "Food & Drink",
