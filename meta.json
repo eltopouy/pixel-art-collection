@@ -4439,7 +4439,7 @@
     },
     {
       "title": "Museum",
-      "file_name": "museum.png",
+      "file_name": "images/places_structures/museum.png",
       "added_on": "2025-05-17 08:31:04",
       "slug": "museum",
       "category": "Places & Structures",
@@ -42244,7 +42244,7 @@
     },
     {
       "title": "Music Concert",
-      "file_name": "music-concert.png",
+      "file_name": "images/events/music-concert.png",
       "added_on": "2025-06-14 02:43:08",
       "slug": "music-concert",
       "category": "Events",
@@ -44902,7 +44902,7 @@
     },
     {
       "title": "Murukku",
-      "file_name": "murukku.png",
+      "file_name": "images/food_drink/murukku.png",
       "added_on": "2025-06-14 20:49:02",
       "slug": "murukku",
       "category": "Food & Drink",
@@ -48638,7 +48638,7 @@
     },
     {
       "title": "Mule",
-      "file_name": "mule.png",
+      "file_name": "images/animals/mule.png",
       "added_on": "2025-06-20 17:25:27",
       "slug": "mule",
       "category": "Animals",
@@ -55195,7 +55195,7 @@
     },
     {
       "title": "Music Class",
-      "file_name": "music-class.png",
+      "file_name": "images/everyday_life/music-class.png",
       "added_on": "2025-06-28 17:55:20",
       "slug": "music-class",
       "category": "Everyday Life",
@@ -55761,7 +55761,7 @@
     },
     {
       "title": "Mullet",
-      "file_name": "mullet.png",
+      "file_name": "images/fashion_style/mullet.png",
       "added_on": "2025-06-30 10:16:54",
       "slug": "mullet",
       "category": "Fashion & Style",
@@ -56650,7 +56650,7 @@
     },
     {
       "title": "Muscle Strain",
-      "file_name": "muscle-strain.png",
+      "file_name": "images/health_wellness/muscle-strain.png",
       "added_on": "2025-07-05 08:03:10",
       "slug": "muscle-strain",
       "category": "Health & Wellness",
@@ -61997,7 +61997,7 @@
     },
     {
       "title": "Murderball Wheelchair",
-      "file_name": "murderball-wheelchair.png",
+      "file_name": "images/sports/murderball-wheelchair.png",
       "added_on": "2025-07-09 02:26:00",
       "slug": "murderball-wheelchair",
       "category": "Sports",
@@ -62506,7 +62506,7 @@
     },
     {
       "title": "Music Box House",
-      "file_name": "music-box-house.png",
+      "file_name": "images/places_structures/music-box-house.png",
       "added_on": "2025-07-09 06:35:59",
       "slug": "music-box-house",
       "category": "Places & Structures",
@@ -70399,7 +70399,7 @@
     },
     {
       "title": "Mushroom Log",
-      "file_name": "mushroom-log.png",
+      "file_name": "images/hobbies/mushroom-log.png",
       "added_on": "2025-07-14 12:11:43",
       "slug": "mushroom-log",
       "category": "Hobbies",
@@ -74305,7 +74305,7 @@
     },
     {
       "title": "Mughal Painting",
-      "file_name": "mughal-painting.png",
+      "file_name": "images/history_culture/mughal-painting.png",
       "added_on": "2025-07-18 12:11:23",
       "slug": "mughal-painting",
       "category": "History & Culture",
@@ -86633,7 +86633,7 @@
     },
     {
       "title": "Mummy",
-      "file_name": "mummy.png",
+      "file_name": "images/fantasy_imagination/mummy.png",
       "added_on": "2025-08-29 13:10:21",
       "slug": "mummy",
       "category": "Fantasy & Imagination",
@@ -95131,7 +95131,7 @@
     },
     {
       "title": "Muscle Suit Costume",
-      "file_name": "muscle-suit-costume.png",
+      "file_name": "images/entertainment_leisure/muscle-suit-costume.png",
       "added_on": "2025-09-20 13:01:44",
       "slug": "muscle-suit-costume",
       "category": "Entertainment & Leisure",
@@ -97626,7 +97626,7 @@
     },
     {
       "title": "Mulled Wine",
-      "file_name": "mulled-wine.png",
+      "file_name": "images/food_drink/mulled-wine.png",
       "added_on": "2025-09-25 19:11:19",
       "slug": "mulled-wine",
       "category": "Food & Drink",
@@ -99027,7 +99027,7 @@
     },
     {
       "title": "Mughal Jade Dagger",
-      "file_name": "mughal-jade-dagger.png",
+      "file_name": "images/history_culture/mughal-jade-dagger.png",
       "added_on": "2025-09-30 22:11:22",
       "slug": "mughal-jade-dagger",
       "category": "History & Culture",
@@ -109282,7 +109282,7 @@
     },
     {
       "title": "Muscle Roller",
-      "file_name": "muscle-roller.png",
+      "file_name": "images/sports/muscle-roller.png",
       "added_on": "2025-10-27 16:40:49",
       "slug": "muscle-roller",
       "category": "Sports",
@@ -118588,7 +118588,7 @@
     },
     {
       "title": "Multitool",
-      "file_name": "multitool.png",
+      "file_name": "images/everyday_life/multitool.png",
       "added_on": "2025-12-01 13:51:31",
       "slug": "multitool",
       "category": "Everyday Life",
@@ -120309,7 +120309,7 @@
     },
     {
       "title": "Mushroom Cordyceps",
-      "file_name": "mushroom-cordyceps.png",
+      "file_name": "images/nature_outdoors/mushroom-cordyceps.png",
       "added_on": "2026-01-22 17:11:17",
       "slug": "mushroom-cordyceps",
       "category": "Nature & Outdoors",
@@ -120322,7 +120322,7 @@
     },
     {
       "title": "Multi-Sport Icon",
-      "file_name": "multi-sport-icon.png",
+      "file_name": "images/sports/multi-sport-icon.png",
       "added_on": "2026-01-22 17:21:21",
       "slug": "multi-sport-icon",
       "category": "Sports",
@@ -121414,7 +121414,7 @@
     },
     {
       "title": "Mushroom Bucket Bag",
-      "file_name": "mushroom-bucket-bag.png",
+      "file_name": "images/fashion_style/mushroom-bucket-bag.png",
       "added_on": "2026-01-23 14:21:27",
       "slug": "mushroom-bucket-bag",
       "category": "Fashion & Style",
@@ -130729,7 +130729,7 @@
     },
     {
       "title": "Mushroom Foraging Basket",
-      "file_name": "mushroom-foraging-basket.png",
+      "file_name": "images/hobbies/mushroom-foraging-basket.png",
       "added_on": "2026-03-18 14:41:17",
       "slug": "mushroom-foraging-basket",
       "category": "Hobbies",
