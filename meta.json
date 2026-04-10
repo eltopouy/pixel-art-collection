@@ -2347,7 +2347,7 @@
     },
     {
       "title": "Mandarin Duck",
-      "file_name": "mandarin-duck.png",
+      "file_name": "images/animals/mandarin-duck.png",
       "added_on": "2025-05-16 12:43:21",
       "slug": "mandarin-duck",
       "category": "Animals",
@@ -3076,7 +3076,7 @@
     },
     {
       "title": "Maned Wolf",
-      "file_name": "maned-wolf.png",
+      "file_name": "images/animals/maned-wolf.png",
       "added_on": "2025-05-16 17:55:53",
       "slug": "maned-wolf",
       "category": "Animals",
@@ -17226,7 +17226,7 @@
     },
     {
       "title": "Mango",
-      "file_name": "mango.png",
+      "file_name": "images/food_drink/mango.png",
       "added_on": "2025-05-31 11:01:20",
       "slug": "mango",
       "category": "Food & Drink",
@@ -24520,7 +24520,7 @@
     },
     {
       "title": "Mangonel",
-      "file_name": "mangonel.png",
+      "file_name": "images/history_culture/mangonel.png",
       "added_on": "2025-06-04 21:36:56",
       "slug": "mangonel",
       "category": "History & Culture",
@@ -42283,7 +42283,7 @@
     },
     {
       "title": "Mango Lassi",
-      "file_name": "mango-lassi.png",
+      "file_name": "images/food_drink/mango-lassi.png",
       "added_on": "2025-06-14 03:13:02",
       "slug": "mango-lassi",
       "category": "Food & Drink",
@@ -46688,7 +46688,7 @@
     },
     {
       "title": "Manatee",
-      "file_name": "manatee.png",
+      "file_name": "images/animals/manatee.png",
       "added_on": "2025-06-16 20:12:59",
       "slug": "manatee",
       "category": "Animals",
@@ -50484,7 +50484,7 @@
     },
     {
       "title": "Manga",
-      "file_name": "manga.png",
+      "file_name": "images/technology_media/manga.png",
       "added_on": "2025-06-22 22:01:29",
       "slug": "manga",
       "category": "Technology & Media",
@@ -63113,7 +63113,7 @@
     },
     {
       "title": "Maned Rat",
-      "file_name": "maned-rat.png",
+      "file_name": "images/animals/maned-rat.png",
       "added_on": "2025-07-09 11:01:23",
       "slug": "maned-rat",
       "category": "Animals",
@@ -63323,7 +63323,7 @@
     },
     {
       "title": "Mango Sticky Iced Latte",
-      "file_name": "mango-sticky-iced-latte.png",
+      "file_name": "images/food_drink/mango-sticky-iced-latte.png",
       "added_on": "2025-07-09 12:26:06",
       "slug": "mango-sticky-iced-latte",
       "category": "Food & Drink",
@@ -71234,7 +71234,7 @@
     },
     {
       "title": "Man Doing Smash with Beach Volleyball",
-      "file_name": "man-doing-smash-with-beach-volleyball.png",
+      "file_name": "images/sports/man-doing-smash-with-beach-volleyball.png",
       "added_on": "2025-07-15 08:37:42",
       "slug": "man-doing-smash-with-beach-volleyball",
       "category": "Sports",
@@ -71845,7 +71845,7 @@
     },
     {
       "title": "Mandala Painting",
-      "file_name": "mandala-painting.png",
+      "file_name": "images/history_culture/mandala-painting.png",
       "added_on": "2025-07-16 09:11:31",
       "slug": "mandala-painting",
       "category": "History & Culture",
@@ -72560,7 +72560,7 @@
     },
     {
       "title": "Man",
-      "file_name": "man.png",
+      "file_name": "images/everyday_life/man.png",
       "added_on": "2025-07-16 18:55:33",
       "slug": "man",
       "category": "Everyday Life",
@@ -74237,7 +74237,7 @@
     },
     {
       "title": "Maneki-neko",
-      "file_name": "maneki-neko.png",
+      "file_name": "images/everyday_life/maneki-neko.png",
       "added_on": "2025-07-18 11:21:23",
       "slug": "maneki-neko",
       "category": "Everyday Life",
@@ -89941,7 +89941,7 @@
     },
     {
       "title": "Man in Vest",
-      "file_name": "man-in-vest.png",
+      "file_name": "images/professions/man-in-vest.png",
       "added_on": "2025-09-09 11:58:09",
       "slug": "man-in-vest",
       "category": "Professions",
@@ -91005,7 +91005,7 @@
     },
     {
       "title": "Mandrill",
-      "file_name": "mandrill.png",
+      "file_name": "images/animals/mandrill.png",
       "added_on": "2025-09-10 14:51:36",
       "slug": "mandrill",
       "category": "Animals",
@@ -101452,7 +101452,7 @@
     },
     {
       "title": "Man in Headphones",
-      "file_name": "man-in-headphones.png",
+      "file_name": "images/everyday_life/man-in-headphones.png",
       "added_on": "2025-10-05 16:51:39",
       "slug": "man-in-headphones",
       "category": "Everyday Life",
@@ -119293,7 +119293,7 @@
     },
     {
       "title": "Mango Shaved Ice",
-      "file_name": "mango-shaved-ice.png",
+      "file_name": "images/food_drink/mango-shaved-ice.png",
       "added_on": "2025-12-04 21:11:46",
       "slug": "mango-shaved-ice",
       "category": "Food & Drink",
@@ -123537,7 +123537,7 @@
     },
     {
       "title": "Mango Sticky Rice",
-      "file_name": "mango-sticky-rice.png",
+      "file_name": "images/food_drink/mango-sticky-rice.png",
       "added_on": "2026-02-01 16:31:09",
       "slug": "mango-sticky-rice",
       "category": "Food & Drink",
@@ -127668,7 +127668,7 @@
     },
     {
       "title": "Mangalica Pig",
-      "file_name": "mangalica-pig.png",
+      "file_name": "images/animals/mangalica-pig.png",
       "added_on": "2026-03-02 20:21:14",
       "slug": "mangalica-pig",
       "category": "Animals",
@@ -127902,7 +127902,7 @@
     },
     {
       "title": "Maned Goose",
-      "file_name": "maned-goose.png",
+      "file_name": "images/animals/maned-goose.png",
       "added_on": "2026-03-08 19:50:50",
       "slug": "maned-goose",
       "category": "Animals",
