@@ -5935,7 +5935,7 @@
     },
     {
       "title": "Log",
-      "file_name": "log.png",
+      "file_name": "images/nature_outdoors/log.png",
       "added_on": "2025-05-18 09:10:56",
       "slug": "log",
       "category": "Nature & Outdoors",
@@ -13178,7 +13178,7 @@
     },
     {
       "title": "Lock Icon",
-      "file_name": "lock-icon.png",
+      "file_name": "images/interface_symbols/lock-icon.png",
       "added_on": "2025-05-26 04:21:30",
       "slug": "lock-icon",
       "category": "Interface & Symbols",
@@ -15339,7 +15339,7 @@
     },
     {
       "title": "Location",
-      "file_name": "location.png",
+      "file_name": "images/places_structures/location.png",
       "added_on": "2025-05-27 13:20:59",
       "slug": "location",
       "category": "Places & Structures",
@@ -15638,7 +15638,7 @@
     },
     {
       "title": "Lollipop",
-      "file_name": "lollipop.png",
+      "file_name": "images/food_drink/lollipop.png",
       "added_on": "2025-05-27 18:20:54",
       "slug": "lollipop",
       "category": "Food & Drink",
@@ -21806,7 +21806,7 @@
     },
     {
       "title": "Lollipop",
-      "file_name": "lollipop-1xuc72.png",
+      "file_name": "images/food_drink/lollipop-1xuc72.png",
       "added_on": "2025-06-03 12:27:08",
       "slug": "lollipop-1xuc72",
       "category": "Food & Drink",
@@ -22433,7 +22433,7 @@
     },
     {
       "title": "Locker",
-      "file_name": "locker.png",
+      "file_name": "images/places_structures/locker.png",
       "added_on": "2025-06-03 17:56:02",
       "slug": "locker",
       "category": "Places & Structures",
@@ -30369,7 +30369,7 @@
     },
     {
       "title": "Location Pin",
-      "file_name": "location-pin.png",
+      "file_name": "images/interface_symbols/location-pin.png",
       "added_on": "2025-06-10 18:29:02",
       "slug": "location-pin",
       "category": "Interface & Symbols",
@@ -30538,7 +30538,7 @@
     },
     {
       "title": "Lock Symbol",
-      "file_name": "lock-symbol.png",
+      "file_name": "images/interface_symbols/lock-symbol.png",
       "added_on": "2025-06-10 18:37:10",
       "slug": "lock-symbol",
       "category": "Interface & Symbols",
@@ -41101,7 +41101,7 @@
     },
     {
       "title": "Logitech MX Master Series Mouse",
-      "file_name": "logitech-mx-master-series-mouse.png",
+      "file_name": "images/technology_media/logitech-mx-master-series-mouse.png",
       "added_on": "2025-06-13 22:28:50",
       "slug": "logitech-mx-master-series-mouse",
       "category": "Technology & Media",
@@ -43698,7 +43698,7 @@
     },
     {
       "title": "Lockpicking",
-      "file_name": "lockpicking.png",
+      "file_name": "images/hobbies/lockpicking.png",
       "added_on": "2025-06-14 13:18:53",
       "slug": "lockpicking",
       "category": "Hobbies",
@@ -44001,7 +44001,7 @@
     },
     {
       "title": "Log Out",
-      "file_name": "log-out.png",
+      "file_name": "images/interface_symbols/log-out.png",
       "added_on": "2025-06-14 13:22:09",
       "slug": "log-out",
       "category": "Interface & Symbols",
@@ -44501,7 +44501,7 @@
     },
     {
       "title": "Lodge",
-      "file_name": "lodge.png",
+      "file_name": "images/places_structures/lodge.png",
       "added_on": "2025-06-14 16:49:01",
       "slug": "lodge",
       "category": "Places & Structures",
@@ -45665,7 +45665,7 @@
     },
     {
       "title": "Lolly",
-      "file_name": "lolly.png",
+      "file_name": "images/food_drink/lolly.png",
       "added_on": "2025-06-15 19:37:02",
       "slug": "lolly",
       "category": "Food & Drink",
@@ -53505,7 +53505,7 @@
     },
     {
       "title": "Logarithmic Function Properties",
-      "file_name": "logarithmic-function-properties.png",
+      "file_name": "images/space_science/logarithmic-function-properties.png",
       "added_on": "2025-06-26 15:37:49",
       "slug": "logarithmic-function-properties",
       "category": "Space & Science",
@@ -59052,7 +59052,7 @@
     },
     {
       "title": "Locker room",
-      "file_name": "locker-room.png",
+      "file_name": "images/work_industry/locker-room.png",
       "added_on": "2025-07-06 20:40:59",
       "slug": "locker-room",
       "category": "Work & Industry",
@@ -61776,7 +61776,7 @@
     },
     {
       "title": "Log Grapple",
-      "file_name": "log-grapple.png",
+      "file_name": "images/work_industry/log-grapple.png",
       "added_on": "2025-07-09 00:41:01",
       "slug": "log-grapple",
       "category": "Work & Industry",
@@ -66253,7 +66253,7 @@
     },
     {
       "title": "Lockpick Gun",
-      "file_name": "lockpick-gun.png",
+      "file_name": "images/hobbies/lockpick-gun.png",
       "added_on": "2025-07-11 10:41:37",
       "slug": "lockpick-gun",
       "category": "Hobbies",
@@ -94975,7 +94975,7 @@
     },
     {
       "title": "Logbook",
-      "file_name": "logbook.png",
+      "file_name": "images/work_industry/logbook.png",
       "added_on": "2025-09-19 23:01:37",
       "slug": "logbook",
       "category": "Work & Industry",
@@ -107454,7 +107454,7 @@
     },
     {
       "title": "Login",
-      "file_name": "login.png",
+      "file_name": "images/interface_symbols/login.png",
       "added_on": "2025-10-22 23:11:14",
       "slug": "login",
       "category": "Interface & Symbols",
@@ -129515,7 +129515,7 @@
     },
     {
       "title": "Lockpick Set",
-      "file_name": "lockpick-set.png",
+      "file_name": "images/hobbies/lockpick-set.png",
       "added_on": "2026-03-17 15:20:56",
       "slug": "lockpick-set",
       "category": "Hobbies",
