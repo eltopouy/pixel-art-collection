@@ -3921,7 +3921,7 @@
     },
     {
       "title": "Minivan",
-      "file_name": "minivan.png",
+      "file_name": "images/vehicles_transport/minivan.png",
       "added_on": "2025-05-17 01:06:10",
       "slug": "minivan",
       "category": "Vehicles & Transport",
@@ -5142,7 +5142,7 @@
     },
     {
       "title": "Minibus",
-      "file_name": "minibus.png",
+      "file_name": "images/vehicles_transport/minibus.png",
       "added_on": "2025-05-17 18:30:38",
       "slug": "minibus",
       "category": "Vehicles & Transport",
@@ -12930,7 +12930,7 @@
     },
     {
       "title": "Mini Greenhouse",
-      "file_name": "mini-greenhouse.png",
+      "file_name": "images/hobbies/mini-greenhouse.png",
       "added_on": "2025-05-26 00:31:26",
       "slug": "mini-greenhouse",
       "category": "Hobbies",
@@ -13636,7 +13636,7 @@
     },
     {
       "title": "Miniature Bonsai Tree",
-      "file_name": "miniature-bonsai-tree.png",
+      "file_name": "images/hobbies/miniature-bonsai-tree.png",
       "added_on": "2025-05-26 11:20:51",
       "slug": "miniature-bonsai-tree",
       "category": "Hobbies",
@@ -29857,7 +29857,7 @@
     },
     {
       "title": "Miniature Golf Course",
-      "file_name": "miniature-golf-course.png",
+      "file_name": "images/entertainment_leisure/miniature-golf-course.png",
       "added_on": "2025-06-10 15:13:08",
       "slug": "miniature-golf-course",
       "category": "Entertainment & Leisure",
@@ -38686,7 +38686,7 @@
     },
     {
       "title": "Miniature painting",
-      "file_name": "miniature-painting.png",
+      "file_name": "images/hobbies/miniature-painting.png",
       "added_on": "2025-06-13 04:13:24",
       "slug": "miniature-painting",
       "category": "Hobbies",
@@ -39638,7 +39638,7 @@
     },
     {
       "title": "Miniature train",
-      "file_name": "miniature-train.png",
+      "file_name": "images/entertainment_leisure/miniature-train.png",
       "added_on": "2025-06-13 12:31:26",
       "slug": "miniature-train",
       "category": "Entertainment & Leisure",
@@ -48248,7 +48248,7 @@
     },
     {
       "title": "Mink",
-      "file_name": "mink.png",
+      "file_name": "images/animals/mink.png",
       "added_on": "2025-06-20 13:55:31",
       "slug": "mink",
       "category": "Animals",
@@ -49447,7 +49447,7 @@
     },
     {
       "title": "Miniature Schnauzer",
-      "file_name": "miniature-schnauzer.png",
+      "file_name": "images/animals/miniature-schnauzer.png",
       "added_on": "2025-06-22 17:34:17",
       "slug": "miniature-schnauzer",
       "category": "Animals",
@@ -53427,7 +53427,7 @@
     },
     {
       "title": "Mini Supermarket",
-      "file_name": "mini-supermarket.png",
+      "file_name": "images/everyday_life/mini-supermarket.png",
       "added_on": "2025-06-26 15:37:23",
       "slug": "mini-supermarket",
       "category": "Everyday Life",
@@ -58454,7 +58454,7 @@
     },
     {
       "title": "Mining Shaft",
-      "file_name": "mining-shaft.png",
+      "file_name": "images/places_structures/mining-shaft.png",
       "added_on": "2025-07-06 11:36:25",
       "slug": "mining-shaft",
       "category": "Places & Structures",
@@ -62675,7 +62675,7 @@
     },
     {
       "title": "Mini Tank",
-      "file_name": "mini-tank.png",
+      "file_name": "images/vehicles_transport/mini-tank.png",
       "added_on": "2025-07-09 07:45:56",
       "slug": "mini-tank",
       "category": "Vehicles & Transport",
@@ -65016,7 +65016,7 @@
     },
     {
       "title": "Miniature Kraken",
-      "file_name": "miniature-kraken.png",
+      "file_name": "images/fantasy_imagination/miniature-kraken.png",
       "added_on": "2025-07-10 16:06:18",
       "slug": "miniature-kraken",
       "category": "Fantasy & Imagination",
@@ -65649,7 +65649,7 @@
     },
     {
       "title": "Mini Trampoline",
-      "file_name": "mini-trampoline.png",
+      "file_name": "images/sports/mini-trampoline.png",
       "added_on": "2025-07-10 21:16:10",
       "slug": "mini-trampoline",
       "category": "Sports",
@@ -65821,7 +65821,7 @@
     },
     {
       "title": "Mini Submarine",
-      "file_name": "mini-submarine.png",
+      "file_name": "images/hobbies/mini-submarine.png",
       "added_on": "2025-07-10 23:01:22",
       "slug": "mini-submarine",
       "category": "Hobbies",
@@ -68376,7 +68376,7 @@
     },
     {
       "title": "Minoan Double Axe",
-      "file_name": "minoan-double-axe.png",
+      "file_name": "images/history_culture/minoan-double-axe.png",
       "added_on": "2025-07-13 01:31:35",
       "slug": "minoan-double-axe",
       "category": "History & Culture",
@@ -72053,7 +72053,7 @@
     },
     {
       "title": "Mink Fur Stole",
-      "file_name": "mink-fur-stole.png",
+      "file_name": "images/fashion_style/mink-fur-stole.png",
       "added_on": "2025-07-16 12:01:32",
       "slug": "mink-fur-stole",
       "category": "Fashion & Style",
@@ -80677,7 +80677,7 @@
     },
     {
       "title": "Mini Schnauzer",
-      "file_name": "mini-schnauzer.png",
+      "file_name": "images/animals/mini-schnauzer.png",
       "added_on": "2025-07-28 17:41:46",
       "slug": "mini-schnauzer",
       "category": "Animals",
@@ -97743,7 +97743,7 @@
     },
     {
       "title": "Mini Zen Garden",
-      "file_name": "mini-zen-garden.png",
+      "file_name": "images/hobbies/mini-zen-garden.png",
       "added_on": "2025-09-27 11:51:17",
       "slug": "mini-zen-garden",
       "category": "Hobbies",
@@ -102514,7 +102514,7 @@
     },
     {
       "title": "Mini Golf Windmill",
-      "file_name": "mini-golf-windmill.png",
+      "file_name": "images/sports/mini-golf-windmill.png",
       "added_on": "2025-10-08 23:01:39",
       "slug": "mini-golf-windmill",
       "category": "Sports",
@@ -113530,7 +113530,7 @@
     },
     {
       "title": "Mini Pancake Stack",
-      "file_name": "mini-pancake-stack.png",
+      "file_name": "images/food_drink/mini-pancake-stack.png",
       "added_on": "2025-11-07 01:41:56",
       "slug": "mini-pancake-stack",
       "category": "Food & Drink",
