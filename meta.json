@@ -12033,7 +12033,7 @@
     },
     {
       "title": "Gondola",
-      "file_name": "gondola-boat.png",
+      "file_name": "images/vehicles_transport/gondola-boat.png",
       "added_on": "2025-05-25 10:51:32",
       "slug": "gondola-boat",
       "category": "Vehicles & Transport",
@@ -15808,7 +15808,7 @@
     },
     {
       "title": "Goose",
-      "file_name": "goose.png",
+      "file_name": "images/animals/goose.png",
       "added_on": "2025-05-27 21:31:03",
       "slug": "goose",
       "category": "Animals",
@@ -35654,7 +35654,7 @@
     },
     {
       "title": "Gothic Cathedral",
-      "file_name": "gothic-cathedral.png",
+      "file_name": "images/places_structures/gothic-cathedral.png",
       "added_on": "2025-06-12 07:55:00",
       "slug": "gothic-cathedral",
       "category": "Places & Structures",
@@ -39009,7 +39009,7 @@
     },
     {
       "title": "Gondola lift",
-      "file_name": "gondola-lift.png",
+      "file_name": "images/places_structures/gondola-lift.png",
       "added_on": "2025-06-13 06:37:22",
       "slug": "gondola-lift",
       "category": "Places & Structures",
@@ -45771,7 +45771,7 @@
     },
     {
       "title": "Gondola",
-      "file_name": "gondola.png",
+      "file_name": "images/vehicles_transport/gondola.png",
       "added_on": "2025-06-15 20:25:02",
       "slug": "gondola",
       "category": "Vehicles & Transport",
@@ -45918,7 +45918,7 @@
     },
     {
       "title": "Gorilla",
-      "file_name": "gorilla.png",
+      "file_name": "images/animals/gorilla.png",
       "added_on": "2025-06-15 23:12:31",
       "slug": "gorilla",
       "category": "Animals",
@@ -50192,7 +50192,7 @@
     },
     {
       "title": "Gourami",
-      "file_name": "gourami.png",
+      "file_name": "images/animals/gourami.png",
       "added_on": "2025-06-22 21:40:11",
       "slug": "gourami",
       "category": "Animals",
@@ -57121,7 +57121,7 @@
     },
     {
       "title": "Gorge",
-      "file_name": "gorge.png",
+      "file_name": "images/nature_outdoors/gorge.png",
       "added_on": "2025-07-05 19:06:41",
       "slug": "gorge",
       "category": "Nature & Outdoors",
@@ -65199,7 +65199,7 @@
     },
     {
       "title": "Goose Egg",
-      "file_name": "goose-egg.png",
+      "file_name": "images/nature_outdoors/goose-egg.png",
       "added_on": "2025-07-10 17:30:59",
       "slug": "goose-egg",
       "category": "Nature & Outdoors",
@@ -68059,7 +68059,7 @@
     },
     {
       "title": "Gothic Corset",
-      "file_name": "gothic-corset.png",
+      "file_name": "images/fashion_style/gothic-corset.png",
       "added_on": "2025-07-12 16:32:03",
       "slug": "gothic-corset",
       "category": "Fashion & Style",
@@ -72040,7 +72040,7 @@
     },
     {
       "title": "Gourd Birdhouse",
-      "file_name": "gourd-birdhouse.png",
+      "file_name": "images/hobbies/gourd-birdhouse.png",
       "added_on": "2025-07-16 11:51:40",
       "slug": "gourd-birdhouse",
       "category": "Hobbies",
@@ -74948,7 +74948,7 @@
     },
     {
       "title": "Gourd Art",
-      "file_name": "gourd-art.png",
+      "file_name": "images/hobbies/gourd-art.png",
       "added_on": "2025-07-18 22:21:20",
       "slug": "gourd-art",
       "category": "Hobbies",
@@ -84120,7 +84120,7 @@
     },
     {
       "title": "Gouldian Finch",
-      "file_name": "gouldian-finch.png",
+      "file_name": "images/animals/gouldian-finch.png",
       "added_on": "2025-08-17 04:31:10",
       "slug": "gouldian-finch",
       "category": "Animals",
@@ -93996,7 +93996,7 @@
     },
     {
       "title": "Gourd Lamp",
-      "file_name": "gourd-lamp.png",
+      "file_name": "images/hobbies/gourd-lamp.png",
       "added_on": "2025-09-18 09:31:36",
       "slug": "gourd-lamp",
       "category": "Hobbies",
@@ -95855,7 +95855,7 @@
     },
     {
       "title": "Gothic Gargoyle",
-      "file_name": "gothic-gargoyle.png",
+      "file_name": "images/history_culture/gothic-gargoyle.png",
       "added_on": "2025-09-22 10:41:29",
       "slug": "gothic-gargoyle",
       "category": "History & Culture",
@@ -97782,7 +97782,7 @@
     },
     {
       "title": "Gothic Rose Window",
-      "file_name": "gothic-rose-window.png",
+      "file_name": "images/history_culture/gothic-rose-window.png",
       "added_on": "2025-09-27 12:21:24",
       "slug": "gothic-rose-window",
       "category": "History & Culture",
@@ -108369,7 +108369,7 @@
     },
     {
       "title": "Gourd Water Bottle",
-      "file_name": "gourd-water-bottle.png",
+      "file_name": "images/hobbies/gourd-water-bottle.png",
       "added_on": "2025-10-24 15:31:15",
       "slug": "gourd-water-bottle",
       "category": "Hobbies",
@@ -108681,7 +108681,7 @@
     },
     {
       "title": "Goliath Tigerfish",
-      "file_name": "goliath-tigerfish.png",
+      "file_name": "images/animals/goliath-tigerfish.png",
       "added_on": "2025-10-26 16:40:55",
       "slug": "goliath-tigerfish",
       "category": "Animals",
@@ -111553,7 +111553,7 @@
     },
     {
       "title": "Goose-Neck Lamp",
-      "file_name": "goose-neck-lamp.png",
+      "file_name": "images/work_industry/goose-neck-lamp.png",
       "added_on": "2025-11-01 16:12:04",
       "slug": "goose-neck-lamp",
       "category": "Work & Industry",
@@ -119241,7 +119241,7 @@
     },
     {
       "title": "Gouldian Tit",
-      "file_name": "gouldian-tit.png",
+      "file_name": "images/animals/gouldian-tit.png",
       "added_on": "2025-12-04 20:31:22",
       "slug": "gouldian-tit",
       "category": "Animals",
@@ -125992,7 +125992,7 @@
     },
     {
       "title": "Gourmet Hot Dog",
-      "file_name": "gourmet-hot-dog.png",
+      "file_name": "images/food_drink/gourmet-hot-dog.png",
       "added_on": "2026-02-11 13:41:11",
       "slug": "gourmet-hot-dog",
       "category": "Food & Drink",
