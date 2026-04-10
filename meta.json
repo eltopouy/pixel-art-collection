@@ -5012,7 +5012,7 @@
     },
     {
       "title": "Pond",
-      "file_name": "pond.png",
+      "file_name": "images/nature_outdoors/pond.png",
       "added_on": "2025-05-17 16:55:46",
       "slug": "pond",
       "category": "Nature & Outdoors",
@@ -27863,7 +27863,7 @@
     },
     {
       "title": "Poncho",
-      "file_name": "poncho.png",
+      "file_name": "images/fashion_style/poncho.png",
       "added_on": "2025-06-08 17:31:36",
       "slug": "poncho",
       "category": "Fashion & Style",
@@ -32325,7 +32325,7 @@
     },
     {
       "title": "Pool table",
-      "file_name": "pool-table.png",
+      "file_name": "images/entertainment_leisure/pool-table.png",
       "added_on": "2025-06-11 09:18:53",
       "slug": "pool-table",
       "category": "Entertainment & Leisure",
@@ -33468,7 +33468,7 @@
     },
     {
       "title": "Popcorn Bucket",
-      "file_name": "popcorn-bucket.png",
+      "file_name": "images/entertainment_leisure/popcorn-bucket.png",
       "added_on": "2025-06-11 17:42:44",
       "slug": "popcorn-bucket",
       "category": "Entertainment & Leisure",
@@ -39768,7 +39768,7 @@
     },
     {
       "title": "Pompeii Mural",
-      "file_name": "pompeii-mural.png",
+      "file_name": "images/history_culture/pompeii-mural.png",
       "added_on": "2025-06-13 13:43:30",
       "slug": "pompeii-mural",
       "category": "History & Culture",
@@ -44662,7 +44662,7 @@
     },
     {
       "title": "Pool float",
-      "file_name": "pool-float.png",
+      "file_name": "images/entertainment_leisure/pool-float.png",
       "added_on": "2025-06-14 18:24:53",
       "slug": "pool-float",
       "category": "Entertainment & Leisure",
@@ -47067,7 +47067,7 @@
     },
     {
       "title": "Popcorn Machine",
-      "file_name": "popcorn-machine-1.png",
+      "file_name": "images/food_drink/popcorn-machine-1.png",
       "added_on": "2025-06-18 13:28:56",
       "slug": "popcorn-machine-1",
       "category": "Food & Drink",
@@ -47836,7 +47836,7 @@
     },
     {
       "title": "Poop Emoji",
-      "file_name": "poop-emoji.png",
+      "file_name": "images/interface_symbols/poop-emoji.png",
       "added_on": "2025-06-19 17:25:21",
       "slug": "poop-emoji",
       "category": "Interface & Symbols",
@@ -49597,7 +49597,7 @@
     },
     {
       "title": "Poodle",
-      "file_name": "poodle.png",
+      "file_name": "images/animals/poodle.png",
       "added_on": "2025-06-22 17:34:43",
       "slug": "poodle",
       "category": "Animals",
@@ -50630,7 +50630,7 @@
     },
     {
       "title": "Pony",
-      "file_name": "pony.png",
+      "file_name": "images/animals/pony.png",
       "added_on": "2025-06-22 23:25:18",
       "slug": "pony",
       "category": "Animals",
@@ -52747,7 +52747,7 @@
     },
     {
       "title": "Poop",
-      "file_name": "poop.png",
+      "file_name": "images/everyday_life/poop.png",
       "added_on": "2025-06-26 15:32:13",
       "slug": "poop",
       "category": "Everyday Life",
@@ -78670,7 +78670,7 @@
     },
     {
       "title": "Poodle Moth",
-      "file_name": "poodle-moth.png",
+      "file_name": "images/animals/poodle-moth.png",
       "added_on": "2025-07-24 19:51:36",
       "slug": "poodle-moth",
       "category": "Animals",
@@ -87015,7 +87015,7 @@
     },
     {
       "title": "Poop Unicorn",
-      "file_name": "poop-unicorn.png",
+      "file_name": "images/fantasy_imagination/poop-unicorn.png",
       "added_on": "2025-08-30 14:51:19",
       "slug": "poop-unicorn",
       "category": "Fantasy & Imagination",
@@ -88402,7 +88402,7 @@
     },
     {
       "title": "Pool Party",
-      "file_name": "pool-party.png",
+      "file_name": "images/events/pool-party.png",
       "added_on": "2025-09-05 00:21:52",
       "slug": "pool-party",
       "category": "Events",
@@ -103985,7 +103985,7 @@
     },
     {
       "title": "Popcorn Cannon",
-      "file_name": "popcorn-cannon.png",
+      "file_name": "images/entertainment_leisure/popcorn-cannon.png",
       "added_on": "2025-10-10 19:11:38",
       "slug": "popcorn-cannon",
       "category": "Entertainment & Leisure",
@@ -107506,7 +107506,7 @@
     },
     {
       "title": "Pool Cleaning Brush",
-      "file_name": "pool-cleaning-brush.png",
+      "file_name": "images/everyday_life/pool-cleaning-brush.png",
       "added_on": "2025-10-23 00:01:11",
       "slug": "pool-cleaning-brush",
       "category": "Everyday Life",
@@ -112275,7 +112275,7 @@
     },
     {
       "title": "Pop Star",
-      "file_name": "pop-star.png",
+      "file_name": "images/professions/pop-star.png",
       "added_on": "2025-11-02 16:21:55",
       "slug": "pop-star",
       "category": "Professions",
@@ -112483,7 +112483,7 @@
     },
     {
       "title": "Pond Lily",
-      "file_name": "pond-lily.png",
+      "file_name": "images/nature_outdoors/pond-lily.png",
       "added_on": "2025-11-03 11:32:02",
       "slug": "pond-lily",
       "category": "Nature & Outdoors",
@@ -125534,7 +125534,7 @@
     },
     {
       "title": "Pool",
-      "file_name": "pool.png",
+      "file_name": "images/places_structures/pool.png",
       "added_on": "2026-02-11 05:21:14",
       "slug": "pool",
       "category": "Places & Structures",
@@ -128794,7 +128794,7 @@
     },
     {
       "title": "Pool Screen",
-      "file_name": "pool-screen.png",
+      "file_name": "images/places_structures/pool-screen.png",
       "added_on": "2026-03-09 08:10:57",
       "slug": "pool-screen",
       "category": "Places & Structures",
@@ -129988,7 +129988,7 @@
     },
     {
       "title": "Popcorn cart",
-      "file_name": "popcorn-cart.png",
+      "file_name": "images/entertainment_leisure/popcorn-cart.png",
       "added_on": "2026-03-17 21:20:52",
       "slug": "popcorn-cart",
       "category": "Entertainment & Leisure",
