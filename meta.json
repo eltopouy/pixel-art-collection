@@ -1970,7 +1970,7 @@
     },
     {
       "title": "Snow Leopard",
-      "file_name": "snow-leopard.png",
+      "file_name": "images/animals/snow-leopard.png",
       "added_on": "2025-05-16 11:16:30",
       "slug": "snow-leopard",
       "category": "Animals",
@@ -14065,7 +14065,7 @@
     },
     {
       "title": "Snowboarding",
-      "file_name": "snowboarding.png",
+      "file_name": "images/hobbies/snowboarding.png",
       "added_on": "2025-05-26 17:40:50",
       "slug": "snowboarding",
       "category": "Hobbies",
@@ -20548,7 +20548,7 @@
     },
     {
       "title": "Snowflake",
-      "file_name": "snowflake.png",
+      "file_name": "images/nature_outdoors/snowflake.png",
       "added_on": "2025-06-02 10:17:42",
       "slug": "snowflake",
       "category": "Nature & Outdoors",
@@ -26508,7 +26508,7 @@
     },
     {
       "title": "Snowmobile",
-      "file_name": "snowmobile.png",
+      "file_name": "images/vehicles_transport/snowmobile.png",
       "added_on": "2025-06-07 15:02:09",
       "slug": "snowmobile",
       "category": "Vehicles & Transport",
@@ -38510,7 +38510,7 @@
     },
     {
       "title": "Snowboard",
-      "file_name": "snowboard.png",
+      "file_name": "images/sports/snowboard.png",
       "added_on": "2025-06-13 02:55:18",
       "slug": "snowboard",
       "category": "Sports",
@@ -63019,7 +63019,7 @@
     },
     {
       "title": "Snowball Launcher",
-      "file_name": "snowball-launcher.png",
+      "file_name": "images/sports/snowball-launcher.png",
       "added_on": "2025-07-09 10:16:18",
       "slug": "snowball-launcher",
       "category": "Sports",
@@ -66877,7 +66877,7 @@
     },
     {
       "title": "Snowshoes",
-      "file_name": "snowshoes.png",
+      "file_name": "images/sports/snowshoes.png",
       "added_on": "2025-07-11 23:31:40",
       "slug": "snowshoes",
       "category": "Sports",
@@ -67289,7 +67289,7 @@
     },
     {
       "title": "Snow Hotel",
-      "file_name": "snow-hotel.png",
+      "file_name": "images/places_structures/snow-hotel.png",
       "added_on": "2025-07-12 05:11:26",
       "slug": "snow-hotel",
       "category": "Places & Structures",
@@ -68139,7 +68139,7 @@
     },
     {
       "title": "Snowflake Key",
-      "file_name": "snowflake-key.png",
+      "file_name": "images/fantasy_imagination/snowflake-key.png",
       "added_on": "2025-07-12 18:31:57",
       "slug": "snowflake-key",
       "category": "Fantasy & Imagination",
@@ -70607,7 +70607,7 @@
     },
     {
       "title": "Snowdrop Flower",
-      "file_name": "snowdrop-flower.png",
+      "file_name": "images/nature_outdoors/snowdrop-flower.png",
       "added_on": "2025-07-14 16:32:25",
       "slug": "snowdrop-flower",
       "category": "Nature & Outdoors",
@@ -73756,7 +73756,7 @@
     },
     {
       "title": "Snub-Nosed Monkey",
-      "file_name": "snub-nosed-monkey.png",
+      "file_name": "images/animals/snub-nosed-monkey.png",
       "added_on": "2025-07-17 21:11:46",
       "slug": "snub-nosed-monkey",
       "category": "Animals",
@@ -75951,7 +75951,7 @@
     },
     {
       "title": "Snowcat",
-      "file_name": "snowcat.png",
+      "file_name": "images/vehicles_transport/snowcat.png",
       "added_on": "2025-07-20 11:41:33",
       "slug": "snowcat",
       "category": "Vehicles & Transport",
@@ -84912,7 +84912,7 @@
     },
     {
       "title": "Snowman",
-      "file_name": "snowman.png",
+      "file_name": "images/everyday_life/snowman.png",
       "added_on": "2025-08-19 16:41:28",
       "slug": "snowman",
       "category": "Everyday Life",
@@ -87765,7 +87765,7 @@
     },
     {
       "title": "Snowshoe",
-      "file_name": "snowshoe.png",
+      "file_name": "images/animals/snowshoe.png",
       "added_on": "2025-09-04 11:43:00",
       "slug": "snowshoe",
       "category": "Animals",
@@ -94606,7 +94606,7 @@
     },
     {
       "title": "Snowplow Truck",
-      "file_name": "snowplow-truck.png",
+      "file_name": "images/vehicles_transport/snowplow-truck.png",
       "added_on": "2025-09-19 10:01:23",
       "slug": "snowplow-truck",
       "category": "Vehicles & Transport",
@@ -110208,7 +110208,7 @@
     },
     {
       "title": "Snuff Box",
-      "file_name": "snuff-box.png",
+      "file_name": "images/history_culture/snuff-box.png",
       "added_on": "2025-10-29 09:11:54",
       "slug": "snuff-box",
       "category": "History & Culture",
@@ -111032,7 +111032,7 @@
     },
     {
       "title": "Snubfin Dolphin",
-      "file_name": "snubfin-dolphin.png",
+      "file_name": "images/animals/snubfin-dolphin.png",
       "added_on": "2025-10-30 21:01:52",
       "slug": "snubfin-dolphin",
       "category": "Animals",
@@ -117348,7 +117348,7 @@
     },
     {
       "title": "Snow Groomer",
-      "file_name": "snow-groomer.png",
+      "file_name": "images/vehicles_transport/snow-groomer.png",
       "added_on": "2025-11-24 13:41:35",
       "slug": "snow-groomer",
       "category": "Vehicles & Transport",
@@ -123433,7 +123433,7 @@
     },
     {
       "title": "Snow Mushroom",
-      "file_name": "snow-mushroom.png",
+      "file_name": "images/nature_outdoors/snow-mushroom.png",
       "added_on": "2026-02-01 15:11:17",
       "slug": "snow-mushroom",
       "category": "Nature & Outdoors",
@@ -123934,7 +123934,7 @@
     },
     {
       "title": "Snowy Owl",
-      "file_name": "snowy-owl.png",
+      "file_name": "images/animals/snowy-owl.png",
       "added_on": "2026-02-01 22:01:11",
       "slug": "snowy-owl",
       "category": "Animals",
@@ -125404,7 +125404,7 @@
     },
     {
       "title": "Snowboard Bindings",
-      "file_name": "snowboard-bindings.png",
+      "file_name": "images/sports/snowboard-bindings.png",
       "added_on": "2026-02-11 03:41:10",
       "slug": "snowboard-bindings",
       "category": "Sports",
