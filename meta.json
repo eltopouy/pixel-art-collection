@@ -788,7 +788,7 @@
     },
     {
       "title": "Picnic Basket",
-      "file_name": "picnic-basket.png",
+      "file_name": "images/nature_outdoors/picnic-basket.png",
       "added_on": "2025-05-15 22:50:55",
       "slug": "picnic-basket",
       "category": "Nature & Outdoors",
@@ -892,7 +892,7 @@
     },
     {
       "title": "Picture Frame",
-      "file_name": "picture-frame.png",
+      "file_name": "images/everyday_life/picture-frame.png",
       "added_on": "2025-05-16 00:10:56",
       "slug": "picture-frame",
       "category": "Everyday Life",
@@ -3609,7 +3609,7 @@
     },
     {
       "title": "Pickup Truck",
-      "file_name": "pickup-truck.png",
+      "file_name": "images/vehicles_transport/pickup-truck.png",
       "added_on": "2025-05-16 22:05:54",
       "slug": "pickup-truck",
       "category": "Vehicles & Transport",
@@ -4310,7 +4310,7 @@
     },
     {
       "title": "Pig",
-      "file_name": "pig.png",
+      "file_name": "images/animals/pig.png",
       "added_on": "2025-05-17 06:51:02",
       "slug": "pig",
       "category": "Animals",
@@ -10304,7 +10304,7 @@
     },
     {
       "title": "Piggy bank",
-      "file_name": "piggy-bank.png",
+      "file_name": "images/everyday_life/piggy-bank.png",
       "added_on": "2025-05-23 15:00:44",
       "slug": "piggy-bank",
       "category": "Everyday Life",
@@ -12891,7 +12891,7 @@
     },
     {
       "title": "Picnic Shelter",
-      "file_name": "picnic-shelter.png",
+      "file_name": "images/places_structures/picnic-shelter.png",
       "added_on": "2025-05-25 23:51:26",
       "slug": "picnic-shelter",
       "category": "Places & Structures",
@@ -13948,7 +13948,7 @@
     },
     {
       "title": "Picnic",
-      "file_name": "picnic.png",
+      "file_name": "images/events/picnic.png",
       "added_on": "2025-05-26 16:00:55",
       "slug": "picnic",
       "category": "Events",
@@ -15821,7 +15821,7 @@
     },
     {
       "title": "Pier",
-      "file_name": "pier.png",
+      "file_name": "images/places_structures/pier.png",
       "added_on": "2025-05-27 21:40:56",
       "slug": "pier",
       "category": "Places & Structures",
@@ -42928,7 +42928,7 @@
     },
     {
       "title": "Pilates Ring",
-      "file_name": "pilates-ring.png",
+      "file_name": "images/health_wellness/pilates-ring.png",
       "added_on": "2025-06-14 08:07:07",
       "slug": "pilates-ring",
       "category": "Health & Wellness",
@@ -51552,7 +51552,7 @@
     },
     {
       "title": "Pierre-Simon Laplace",
-      "file_name": "pierre-simon-laplace.png",
+      "file_name": "images/history_culture/pierre-simon-laplace.png",
       "added_on": "2025-06-23 08:14:43",
       "slug": "pierre-simon-laplace",
       "category": "History & Culture",
@@ -53492,7 +53492,7 @@
     },
     {
       "title": "Pilates",
-      "file_name": "pilates.png",
+      "file_name": "images/health_wellness/pilates.png",
       "added_on": "2025-06-26 15:37:41",
       "slug": "pilates",
       "category": "Health & Wellness",
@@ -56166,7 +56166,7 @@
     },
     {
       "title": "Piglet",
-      "file_name": "piglet.png",
+      "file_name": "images/animals/piglet.png",
       "added_on": "2025-07-01 08:13:07",
       "slug": "piglet",
       "category": "Animals",
@@ -63524,7 +63524,7 @@
     },
     {
       "title": "Pickled Quail Egg",
-      "file_name": "pickled-quail-egg.png",
+      "file_name": "images/food_drink/pickled-quail-egg.png",
       "added_on": "2025-07-09 14:01:06",
       "slug": "pickled-quail-egg",
       "category": "Food & Drink",
@@ -80547,7 +80547,7 @@
     },
     {
       "title": "Piece of Gum",
-      "file_name": "piece-of-gum.png",
+      "file_name": "images/food_drink/piece-of-gum.png",
       "added_on": "2025-07-25 23:01:15",
       "slug": "piece-of-gum",
       "category": "Food & Drink",
@@ -81897,7 +81897,7 @@
     },
     {
       "title": "Pickles",
-      "file_name": "pickles.png",
+      "file_name": "images/food_drink/pickles.png",
       "added_on": "2025-08-02 16:51:07",
       "slug": "pickles",
       "category": "Food & Drink",
@@ -85322,7 +85322,7 @@
     },
     {
       "title": "Piggybank",
-      "file_name": "piggybank.png",
+      "file_name": "images/everyday_life/piggybank.png",
       "added_on": "2025-08-20 15:51:32",
       "slug": "piggybank",
       "category": "Everyday Life",
@@ -101231,7 +101231,7 @@
     },
     {
       "title": "Pickled Herring",
-      "file_name": "pickled-herring.png",
+      "file_name": "images/food_drink/pickled-herring.png",
       "added_on": "2025-10-05 10:01:44",
       "slug": "pickled-herring",
       "category": "Food & Drink",
@@ -123823,7 +123823,7 @@
     },
     {
       "title": "Pickled Watermelon Rind",
-      "file_name": "pickled-watermelon-rind.png",
+      "file_name": "images/food_drink/pickled-watermelon-rind.png",
       "added_on": "2026-02-01 20:41:11",
       "slug": "pickled-watermelon-rind",
       "category": "Food & Drink",
@@ -129162,7 +129162,7 @@
     },
     {
       "title": "Pika",
-      "file_name": "pika.png",
+      "file_name": "images/animals/pika.png",
       "added_on": "2026-03-09 13:10:51",
       "slug": "pika",
       "category": "Animals",
@@ -131475,7 +131475,7 @@
     },
     {
       "title": "Pickled Onion",
-      "file_name": "pickled-onion.png",
+      "file_name": "images/food_drink/pickled-onion.png",
       "added_on": "2026-03-23 09:41:18",
       "slug": "pickled-onion",
       "category": "Food & Drink",
