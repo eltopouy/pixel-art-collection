@@ -2425,7 +2425,7 @@
     },
     {
       "title": "Sloth",
-      "file_name": "sloth.png",
+      "file_name": "images/animals/sloth.png",
       "added_on": "2025-05-16 13:01:20",
       "slug": "sloth",
       "category": "Animals",
@@ -13282,7 +13282,7 @@
     },
     {
       "title": "Smart Light Bulb",
-      "file_name": "smart-light-bulb.png",
+      "file_name": "images/technology_media/smart-light-bulb.png",
       "added_on": "2025-05-26 05:51:27",
       "slug": "smart-light-bulb",
       "category": "Technology & Media",
@@ -13753,7 +13753,7 @@
     },
     {
       "title": "Smart Plug",
-      "file_name": "smart-plug.png",
+      "file_name": "images/technology_media/smart-plug.png",
       "added_on": "2025-05-26 13:00:53",
       "slug": "smart-plug",
       "category": "Technology & Media",
@@ -13805,7 +13805,7 @@
     },
     {
       "title": "Smart Display",
-      "file_name": "smart-display.png",
+      "file_name": "images/technology_media/smart-display.png",
       "added_on": "2025-05-26 13:50:46",
       "slug": "smart-display",
       "category": "Technology & Media",
@@ -16303,7 +16303,7 @@
     },
     {
       "title": "Smart Ring",
-      "file_name": "smart-ring.png",
+      "file_name": "images/technology_media/smart-ring.png",
       "added_on": "2025-05-28 06:01:02",
       "slug": "smart-ring",
       "category": "Technology & Media",
@@ -22966,7 +22966,7 @@
     },
     {
       "title": "Smart Glasses",
-      "file_name": "smart-glasses.png",
+      "file_name": "images/technology_media/smart-glasses.png",
       "added_on": "2025-06-04 00:00:57",
       "slug": "smart-glasses",
       "category": "Technology & Media",
@@ -30975,7 +30975,7 @@
     },
     {
       "title": "Smart Home Hub",
-      "file_name": "smart-home-hub.png",
+      "file_name": "images/technology_media/smart-home-hub.png",
       "added_on": "2025-06-10 21:36:47",
       "slug": "smart-home-hub",
       "category": "Technology & Media",
@@ -32037,7 +32037,7 @@
     },
     {
       "title": "Smart scale",
-      "file_name": "smart-scale.png",
+      "file_name": "images/health_wellness/smart-scale.png",
       "added_on": "2025-06-11 06:48:54",
       "slug": "smart-scale",
       "category": "Health & Wellness",
@@ -34896,7 +34896,7 @@
     },
     {
       "title": "Slot Machine",
-      "file_name": "slot-machine.png",
+      "file_name": "images/entertainment_leisure/slot-machine.png",
       "added_on": "2025-06-12 01:37:07",
       "slug": "slot-machine",
       "category": "Entertainment & Leisure",
@@ -50045,7 +50045,7 @@
     },
     {
       "title": "Smallmouth Bass",
-      "file_name": "smallmouth-bass.png",
+      "file_name": "images/animals/smallmouth-bass.png",
       "added_on": "2025-06-22 21:39:46",
       "slug": "smallmouth-bass",
       "category": "Animals",
@@ -51947,7 +51947,7 @@
     },
     {
       "title": "Smart House",
-      "file_name": "smart-house.png",
+      "file_name": "images/places_structures/smart-house.png",
       "added_on": "2025-06-24 16:19:16",
       "slug": "smart-house",
       "category": "Places & Structures",
@@ -54202,7 +54202,7 @@
     },
     {
       "title": "Slovakia",
-      "file_name": "slovakia.png",
+      "file_name": "images/countries/slovakia.png",
       "added_on": "2025-06-27 15:24:47",
       "slug": "slovakia",
       "category": "Countries",
@@ -73472,7 +73472,7 @@
     },
     {
       "title": "Smart Lock",
-      "file_name": "smart-lock.png",
+      "file_name": "images/technology_media/smart-lock.png",
       "added_on": "2025-07-17 15:21:27",
       "slug": "smart-lock",
       "category": "Technology & Media",
@@ -77688,7 +77688,7 @@
     },
     {
       "title": "Smart Door Lock",
-      "file_name": "smart-door-lock.png",
+      "file_name": "images/technology_media/smart-door-lock.png",
       "added_on": "2025-07-24 09:04:10",
       "slug": "smart-door-lock",
       "category": "Technology & Media",
@@ -85853,7 +85853,7 @@
     },
     {
       "title": "Sloth Bear",
-      "file_name": "sloth-bear.png",
+      "file_name": "images/animals/sloth-bear.png",
       "added_on": "2025-08-24 20:11:21",
       "slug": "sloth-bear",
       "category": "Animals",
@@ -90728,7 +90728,7 @@
     },
     {
       "title": "Smart Mug",
-      "file_name": "smart-mug.png",
+      "file_name": "images/technology_media/smart-mug.png",
       "added_on": "2025-09-10 10:41:30",
       "slug": "smart-mug",
       "category": "Technology & Media",
@@ -111800,7 +111800,7 @@
     },
     {
       "title": "Slovenia",
-      "file_name": "slovenia.png",
+      "file_name": "images/countries/slovenia.png",
       "added_on": "2025-11-01 19:21:42",
       "slug": "slovenia",
       "category": "Countries",
@@ -113331,7 +113331,7 @@
     },
     {
       "title": "Smart Light Strip",
-      "file_name": "smart-light-strip.png",
+      "file_name": "images/technology_media/smart-light-strip.png",
       "added_on": "2025-11-06 23:11:53",
       "slug": "smart-light-strip",
       "category": "Technology & Media",
@@ -114102,7 +114102,7 @@
     },
     {
       "title": "Smart Pet Feeder",
-      "file_name": "smart-pet-feeder.png",
+      "file_name": "images/technology_media/smart-pet-feeder.png",
       "added_on": "2025-11-09 14:41:58",
       "slug": "smart-pet-feeder",
       "category": "Technology & Media",
@@ -128032,7 +128032,7 @@
     },
     {
       "title": "Smart Contact Lens",
-      "file_name": "smart-contact-lens.png",
+      "file_name": "images/technology_media/smart-contact-lens.png",
       "added_on": "2026-03-08 21:30:44",
       "slug": "smart-contact-lens",
       "category": "Technology & Media",
@@ -129801,7 +129801,7 @@
     },
     {
       "title": "Slot Canyon",
-      "file_name": "slot-canyon.png",
+      "file_name": "images/nature_outdoors/slot-canyon.png",
       "added_on": "2026-03-17 19:00:54",
       "slug": "slot-canyon",
       "category": "Nature & Outdoors",
