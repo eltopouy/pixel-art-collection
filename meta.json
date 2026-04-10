@@ -14117,7 +14117,7 @@
     },
     {
       "title": "Lunar New Year",
-      "file_name": "lunar-new-year.png",
+      "file_name": "images/events/lunar-new-year.png",
       "added_on": "2025-05-26 18:20:42",
       "slug": "lunar-new-year",
       "category": "Events",
@@ -15612,7 +15612,7 @@
     },
     {
       "title": "Lunch Box",
-      "file_name": "lunch-box.png",
+      "file_name": "images/everyday_life/lunch-box.png",
       "added_on": "2025-05-27 17:50:55",
       "slug": "lunch-box",
       "category": "Everyday Life",
@@ -26378,7 +26378,7 @@
     },
     {
       "title": "Lund University",
-      "file_name": "lund-university.png",
+      "file_name": "images/places_structures/lund-university.png",
       "added_on": "2025-06-07 12:50:34",
       "slug": "lund-university",
       "category": "Places & Structures",
@@ -35147,7 +35147,7 @@
     },
     {
       "title": "Lunar Module",
-      "file_name": "lunar-module.png",
+      "file_name": "images/space_science/lunar-module.png",
       "added_on": "2025-06-12 03:43:04",
       "slug": "lunar-module",
       "category": "Space & Science",
@@ -39178,7 +39178,7 @@
     },
     {
       "title": "Lunchbox",
-      "file_name": "lunchbox.png",
+      "file_name": "images/everyday_life/lunchbox.png",
       "added_on": "2025-06-13 08:37:23",
       "slug": "lunchbox",
       "category": "Everyday Life",
@@ -41310,7 +41310,7 @@
     },
     {
       "title": "Lungs",
-      "file_name": "lungs.png",
+      "file_name": "images/health_wellness/lungs.png",
       "added_on": "2025-06-13 22:32:11",
       "slug": "lungs",
       "category": "Health & Wellness",
@@ -44488,7 +44488,7 @@
     },
     {
       "title": "Lunar Greenhouse",
-      "file_name": "lunar-greenhouse.png",
+      "file_name": "images/space_science/lunar-greenhouse.png",
       "added_on": "2025-06-14 16:30:56",
       "slug": "lunar-greenhouse",
       "category": "Space & Science",
@@ -45102,7 +45102,7 @@
     },
     {
       "title": "Lunar regolith",
-      "file_name": "lunar-regolith.png",
+      "file_name": "images/space_science/lunar-regolith.png",
       "added_on": "2025-06-14 22:24:53",
       "slug": "lunar-regolith",
       "category": "Space & Science",
@@ -59104,7 +59104,7 @@
     },
     {
       "title": "Lunar Rover",
-      "file_name": "lunar-rover.png",
+      "file_name": "images/space_science/lunar-rover.png",
       "added_on": "2025-07-06 23:31:10",
       "slug": "lunar-rover",
       "category": "Space & Science",
@@ -63271,7 +63271,7 @@
     },
     {
       "title": "Lunar Trailer",
-      "file_name": "lunar-trailer.png",
+      "file_name": "images/vehicles_transport/lunar-trailer.png",
       "added_on": "2025-07-09 12:06:04",
       "slug": "lunar-trailer",
       "category": "Vehicles & Transport",
@@ -65782,7 +65782,7 @@
     },
     {
       "title": "Lunar Dust Bootprint",
-      "file_name": "lunar-dust-bootprint.png",
+      "file_name": "images/space_science/lunar-dust-bootprint.png",
       "added_on": "2025-07-10 22:01:25",
       "slug": "lunar-dust-bootprint",
       "category": "Space & Science",
@@ -69262,7 +69262,7 @@
     },
     {
       "title": "Lunch Pail",
-      "file_name": "lunch-pail.png",
+      "file_name": "images/work_industry/lunch-pail.png",
       "added_on": "2025-07-13 18:31:29",
       "slug": "lunch-pail",
       "category": "Work & Industry",
@@ -69379,7 +69379,7 @@
     },
     {
       "title": "Lunar Volcanic Bead",
-      "file_name": "lunar-volcanic-bead.png",
+      "file_name": "images/space_science/lunar-volcanic-bead.png",
       "added_on": "2025-07-13 22:31:44",
       "slug": "lunar-volcanic-bead",
       "category": "Space & Science",
@@ -80859,7 +80859,7 @@
     },
     {
       "title": "Lumberjack",
-      "file_name": "lumberjack.png",
+      "file_name": "images/professions/lumberjack.png",
       "added_on": "2025-07-28 17:43:45",
       "slug": "lumberjack",
       "category": "Professions",
@@ -81494,7 +81494,7 @@
     },
     {
       "title": "Lung",
-      "file_name": "lung.png",
+      "file_name": "images/health_wellness/lung.png",
       "added_on": "2025-07-30 17:23:22",
       "slug": "lung",
       "category": "Health & Wellness",
@@ -91447,7 +91447,7 @@
     },
     {
       "title": "Lunch Tray",
-      "file_name": "lunch-tray.png",
+      "file_name": "images/work_industry/lunch-tray.png",
       "added_on": "2025-09-11 22:51:23",
       "slug": "lunch-tray",
       "category": "Work & Industry",
@@ -97808,7 +97808,7 @@
     },
     {
       "title": "Lunar Buggy",
-      "file_name": "lunar-buggy.png",
+      "file_name": "images/vehicles_transport/lunar-buggy.png",
       "added_on": "2025-09-27 12:41:19",
       "slug": "lunar-buggy",
       "category": "Vehicles & Transport",
@@ -99725,7 +99725,7 @@
     },
     {
       "title": "Lunar Ice Drill",
-      "file_name": "lunar-ice-drill.png",
+      "file_name": "images/space_science/lunar-ice-drill.png",
       "added_on": "2025-10-02 09:21:23",
       "slug": "lunar-ice-drill",
       "category": "Space & Science",
@@ -101413,7 +101413,7 @@
     },
     {
       "title": "Luoyang Tripod Censer",
-      "file_name": "luoyang-tripod-censer.png",
+      "file_name": "images/history_culture/luoyang-tripod-censer.png",
       "added_on": "2025-10-05 14:21:44",
       "slug": "luoyang-tripod-censer",
       "category": "History & Culture",
@@ -122411,7 +122411,7 @@
     },
     {
       "title": "Lulo",
-      "file_name": "lulo.png",
+      "file_name": "images/food_drink/lulo.png",
       "added_on": "2026-01-27 18:31:09",
       "slug": "lulo",
       "category": "Food & Drink",
