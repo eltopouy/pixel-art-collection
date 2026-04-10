@@ -352,7 +352,7 @@
     },
     {
       "title": "Rice Cooker",
-      "file_name": "rice-cooker.png",
+      "file_name": "images/food_drink/rice-cooker.png",
       "added_on": "2025-05-15 16:46:01",
       "slug": "rice-cooker",
       "category": "Food & Drink",
@@ -5246,7 +5246,7 @@
     },
     {
       "title": "Rickshaw",
-      "file_name": "rickshaw.png",
+      "file_name": "images/vehicles_transport/rickshaw.png",
       "added_on": "2025-05-17 19:50:33",
       "slug": "rickshaw",
       "category": "Vehicles & Transport",
@@ -5623,7 +5623,7 @@
     },
     {
       "title": "Rice",
-      "file_name": "rice.png",
+      "file_name": "images/food_drink/rice.png",
       "added_on": "2025-05-18 00:41:16",
       "slug": "rice",
       "category": "Food & Drink",
@@ -19647,7 +19647,7 @@
     },
     {
       "title": "Ribeye Steak",
-      "file_name": "ribeye-steak.png",
+      "file_name": "images/food_drink/ribeye-steak.png",
       "added_on": "2025-06-02 09:17:26",
       "slug": "ribeye-steak",
       "category": "Food & Drink",
@@ -20418,7 +20418,7 @@
     },
     {
       "title": "Rings of Saturn",
-      "file_name": "rings-of-saturn.png",
+      "file_name": "images/space_science/rings-of-saturn.png",
       "added_on": "2025-06-02 09:45:30",
       "slug": "rings-of-saturn",
       "category": "Space & Science",
@@ -22041,7 +22041,7 @@
     },
     {
       "title": "Ring",
-      "file_name": "ring.png",
+      "file_name": "images/fashion_style/ring.png",
       "added_on": "2025-06-03 15:15:58",
       "slug": "ring",
       "category": "Fashion & Style",
@@ -46542,7 +46542,7 @@
     },
     {
       "title": "Ridgeback",
-      "file_name": "ridgeback.png",
+      "file_name": "images/animals/ridgeback.png",
       "added_on": "2025-06-16 19:29:26",
       "slug": "ridgeback",
       "category": "Animals",
@@ -48300,7 +48300,7 @@
     },
     {
       "title": "Rifle",
-      "file_name": "rifle.png",
+      "file_name": "images/technology_media/rifle.png",
       "added_on": "2025-06-20 14:19:24",
       "slug": "rifle",
       "category": "Technology & Media",
@@ -51960,7 +51960,7 @@
     },
     {
       "title": "Rio de Janeiro",
-      "file_name": "rio-de-janeiro.png",
+      "file_name": "images/places_structures/rio-de-janeiro.png",
       "added_on": "2025-06-24 16:19:18",
       "slug": "rio-de-janeiro",
       "category": "Places & Structures",
@@ -55813,7 +55813,7 @@
     },
     {
       "title": "Rice paddy",
-      "file_name": "rice-paddy.png",
+      "file_name": "images/nature_outdoors/rice-paddy.png",
       "added_on": "2025-06-30 10:31:19",
       "slug": "rice-paddy",
       "category": "Nature & Outdoors",
@@ -56049,7 +56049,7 @@
     },
     {
       "title": "Ribs",
-      "file_name": "ribs.png",
+      "file_name": "images/food_drink/ribs.png",
       "added_on": "2025-06-30 22:06:58",
       "slug": "ribs",
       "category": "Food & Drink",
@@ -58161,7 +58161,7 @@
     },
     {
       "title": "Rippling Brook",
-      "file_name": "rippling-brook.png",
+      "file_name": "images/nature_outdoors/rippling-brook.png",
       "added_on": "2025-07-06 06:16:22",
       "slug": "rippling-brook",
       "category": "Nature & Outdoors",
@@ -58545,7 +58545,7 @@
     },
     {
       "title": "Rich Treasure",
-      "file_name": "rich-treasure.png",
+      "file_name": "images/fantasy_imagination/rich-treasure.png",
       "added_on": "2025-07-06 13:14:56",
       "slug": "rich-treasure",
       "category": "Fantasy & Imagination",
@@ -78872,7 +78872,7 @@
     },
     {
       "title": "Rice Aging Machine",
-      "file_name": "rice-aging-machine.png",
+      "file_name": "images/work_industry/rice-aging-machine.png",
       "added_on": "2025-07-24 22:07:21",
       "slug": "rice-aging-machine",
       "category": "Work & Industry",
@@ -83124,7 +83124,7 @@
     },
     {
       "title": "Ripped Jeans",
-      "file_name": "ripped-jeans.png",
+      "file_name": "images/fashion_style/ripped-jeans.png",
       "added_on": "2025-08-08 06:56:23",
       "slug": "ripped-jeans",
       "category": "Fashion & Style",
@@ -84250,7 +84250,7 @@
     },
     {
       "title": "Ringed Seal",
-      "file_name": "ringed-seal.png",
+      "file_name": "images/animals/ringed-seal.png",
       "added_on": "2025-08-17 06:21:09",
       "slug": "ringed-seal",
       "category": "Animals",
@@ -91343,7 +91343,7 @@
     },
     {
       "title": "Rice Vermicelli",
-      "file_name": "rice-vermicelli.png",
+      "file_name": "images/food_drink/rice-vermicelli.png",
       "added_on": "2025-09-11 13:36:00",
       "slug": "rice-vermicelli",
       "category": "Food & Drink",
@@ -92605,7 +92605,7 @@
     },
     {
       "title": "Ring Toss",
-      "file_name": "ring-toss.png",
+      "file_name": "images/entertainment_leisure/ring-toss.png",
       "added_on": "2025-09-15 11:01:32",
       "slug": "ring-toss",
       "category": "Entertainment & Leisure",
@@ -115890,7 +115890,7 @@
     },
     {
       "title": "Richard the Lionheart",
-      "file_name": "richard-the-lionheart.png",
+      "file_name": "images/historical_figures/richard-the-lionheart.png",
       "added_on": "2025-11-15 19:11:55",
       "slug": "richard-the-lionheart",
       "category": "Historical Figures",
@@ -119521,7 +119521,7 @@
     },
     {
       "title": "Ring-tailed lemur",
-      "file_name": "ring-tailed-lemur.png",
+      "file_name": "images/animals/ring-tailed-lemur.png",
       "added_on": "2025-12-10 00:11:24",
       "slug": "ring-tailed-lemur",
       "category": "Animals",
@@ -123186,7 +123186,7 @@
     },
     {
       "title": "Right Arrow",
-      "file_name": "right-arrow.png",
+      "file_name": "images/interface_symbols/right-arrow.png",
       "added_on": "2026-01-29 23:31:05",
       "slug": "right-arrow",
       "category": "Interface & Symbols",
