@@ -7728,7 +7728,7 @@
     },
     {
       "title": "Italy",
-      "file_name": "italy.png",
+      "file_name": "images/countries/italy.png",
       "added_on": "2025-05-19 22:31:12",
       "slug": "italy",
       "category": "Countries",
@@ -11188,7 +11188,7 @@
     },
     {
       "title": "Island",
-      "file_name": "island.png",
+      "file_name": "images/places_structures/island.png",
       "added_on": "2025-05-24 02:51:17",
       "slug": "island",
       "category": "Places & Structures",
@@ -18019,7 +18019,7 @@
     },
     {
       "title": "Jackhammer",
-      "file_name": "jackhammer.png",
+      "file_name": "images/work_industry/jackhammer.png",
       "added_on": "2025-06-01 08:12:57",
       "slug": "jackhammer",
       "category": "Work & Industry",
@@ -18697,7 +18697,7 @@
     },
     {
       "title": "Jack-o'-lantern",
-      "file_name": "jack-o-lantern.png",
+      "file_name": "images/events/jack-o-lantern.png",
       "added_on": "2025-06-01 08:28:28",
       "slug": "jack-o-lantern",
       "category": "Events",
@@ -20143,7 +20143,7 @@
     },
     {
       "title": "Itaipu Dam",
-      "file_name": "itaipu-dam.png",
+      "file_name": "images/places_structures/itaipu-dam.png",
       "added_on": "2025-06-02 09:42:12",
       "slug": "itaipu-dam",
       "category": "Places & Structures",
@@ -27707,7 +27707,7 @@
     },
     {
       "title": "Israel",
-      "file_name": "israel.png",
+      "file_name": "images/countries/israel.png",
       "added_on": "2025-06-08 10:31:39",
       "slug": "israel",
       "category": "Countries",
@@ -28008,7 +28008,7 @@
     },
     {
       "title": "Jack Russell Terrier",
-      "file_name": "jack-russell-terrier.png",
+      "file_name": "images/animals/jack-russell-terrier.png",
       "added_on": "2025-06-08 21:32:00",
       "slug": "jack-russell-terrier",
       "category": "Animals",
@@ -33102,7 +33102,7 @@
     },
     {
       "title": "Ivy Vine",
-      "file_name": "ivy-vine.png",
+      "file_name": "images/nature_outdoors/ivy-vine.png",
       "added_on": "2025-06-11 14:36:51",
       "slug": "ivy-vine",
       "category": "Nature & Outdoors",
@@ -33232,7 +33232,7 @@
     },
     {
       "title": "Ivory Coast",
-      "file_name": "ivory-coast.png",
+      "file_name": "images/countries/ivory-coast.png",
       "added_on": "2025-06-11 15:42:52",
       "slug": "ivory-coast",
       "category": "Countries",
@@ -45574,7 +45574,7 @@
     },
     {
       "title": "Jackalope",
-      "file_name": "jackalope.png",
+      "file_name": "images/fantasy_imagination/jackalope.png",
       "added_on": "2025-06-15 02:42:53",
       "slug": "jackalope",
       "category": "Fantasy & Imagination",
@@ -45730,7 +45730,7 @@
     },
     {
       "title": "Islamic Lantern",
-      "file_name": "islamic-lantern.png",
+      "file_name": "images/history_culture/islamic-lantern.png",
       "added_on": "2025-06-15 20:07:04",
       "slug": "islamic-lantern",
       "category": "History & Culture",
@@ -50419,7 +50419,7 @@
     },
     {
       "title": "J. Robert Oppenheimer",
-      "file_name": "j-robert-oppenheimer.png",
+      "file_name": "images/history_culture/j-robert-oppenheimer.png",
       "added_on": "2025-06-22 21:45:37",
       "slug": "j-robert-oppenheimer",
       "category": "History & Culture",
@@ -61317,7 +61317,7 @@
     },
     {
       "title": "IV Drip Bag",
-      "file_name": "iv-drip-bag.png",
+      "file_name": "images/health_wellness/iv-drip-bag.png",
       "added_on": "2025-07-08 21:25:56",
       "slug": "iv-drip-bag",
       "category": "Health & Wellness",
@@ -62192,7 +62192,7 @@
     },
     {
       "title": "Jackfruit Pulled Pork",
-      "file_name": "jackfruit-pulled-pork.png",
+      "file_name": "images/food_drink/jackfruit-pulled-pork.png",
       "added_on": "2025-07-09 03:41:01",
       "slug": "jackfruit-pulled-pork",
       "category": "Food & Drink",
@@ -99933,7 +99933,7 @@
     },
     {
       "title": "Jack-in-the-Box Toy",
-      "file_name": "jack-in-the-box-toy.png",
+      "file_name": "images/history_culture/jack-in-the-box-toy.png",
       "added_on": "2025-10-02 12:21:23",
       "slug": "jack-in-the-box-toy",
       "category": "History & Culture",
@@ -109009,7 +109009,7 @@
     },
     {
       "title": "Jacobs Ladder Toy",
-      "file_name": "jacobs-ladder-toy.png",
+      "file_name": "images/hobbies/jacobs-ladder-toy.png",
       "added_on": "2025-10-27 10:41:16",
       "slug": "jacobs-ladder-toy",
       "category": "Hobbies",
@@ -111214,7 +111214,7 @@
     },
     {
       "title": "Israel Flag",
-      "file_name": "israel-flag.png",
+      "file_name": "images/flags/israel-flag.png",
       "added_on": "2025-10-30 23:21:23",
       "slug": "israel-flag",
       "category": "Flags",
@@ -113647,7 +113647,7 @@
     },
     {
       "title": "Isle of Man Flag",
-      "file_name": "isle-of-man-flag.png",
+      "file_name": "images/flags/isle-of-man-flag.png",
       "added_on": "2025-11-08 14:11:57",
       "slug": "isle-of-man-flag",
       "category": "Flags",
@@ -119710,7 +119710,7 @@
     },
     {
       "title": "Jackfruit",
-      "file_name": "jackfruit.png",
+      "file_name": "images/food_drink/jackfruit.png",
       "added_on": "2025-12-10 02:31:47",
       "slug": "jackfruit",
       "category": "Food & Drink",
@@ -119749,7 +119749,7 @@
     },
     {
       "title": "Jackpot",
-      "file_name": "jackpot.png",
+      "file_name": "images/entertainment_leisure/jackpot.png",
       "added_on": "2025-12-10 03:01:26",
       "slug": "jackpot",
       "category": "Entertainment & Leisure",
@@ -125639,7 +125639,7 @@
     },
     {
       "title": "Jackdaw",
-      "file_name": "jackdaw.png",
+      "file_name": "images/animals/jackdaw.png",
       "added_on": "2026-02-11 09:19:28",
       "slug": "jackdaw",
       "category": "Animals",
