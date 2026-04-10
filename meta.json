@@ -10134,7 +10134,7 @@
     },
     {
       "title": "Owl",
-      "file_name": "owl.png",
+      "file_name": "images/animals/owl.png",
       "added_on": "2025-05-23 12:50:46",
       "slug": "owl",
       "category": "Animals",
@@ -25406,7 +25406,7 @@
     },
     {
       "title": "Oxford University",
-      "file_name": "oxford-university.png",
+      "file_name": "images/places_structures/oxford-university.png",
       "added_on": "2025-06-06 09:12:08",
       "slug": "oxford-university",
       "category": "Places & Structures",
@@ -35970,7 +35970,7 @@
     },
     {
       "title": "Pachycephalosaurus",
-      "file_name": "pachycephalosaurus.png",
+      "file_name": "images/animals/pachycephalosaurus.png",
       "added_on": "2025-06-12 08:37:44",
       "slug": "pachycephalosaurus",
       "category": "Animals",
@@ -37133,7 +37133,7 @@
     },
     {
       "title": "Packaging Machine",
-      "file_name": "packaging-machine.png",
+      "file_name": "images/work_industry/packaging-machine.png",
       "added_on": "2025-06-12 22:37:03",
       "slug": "packaging-machine",
       "category": "Work & Industry",
@@ -38171,7 +38171,7 @@
     },
     {
       "title": "Packing Tape Gun",
-      "file_name": "packing-tape-gun.png",
+      "file_name": "images/work_industry/packing-tape-gun.png",
       "added_on": "2025-06-13 00:19:18",
       "slug": "packing-tape-gun",
       "category": "Work & Industry",
@@ -38863,7 +38863,7 @@
     },
     {
       "title": "Packing tape dispenser",
-      "file_name": "packing-tape-dispenser.png",
+      "file_name": "images/work_industry/packing-tape-dispenser.png",
       "added_on": "2025-06-13 05:31:17",
       "slug": "packing-tape-dispenser",
       "category": "Work & Industry",
@@ -57030,7 +57030,7 @@
     },
     {
       "title": "Oyster Mushroom",
-      "file_name": "oyster-mushroom.png",
+      "file_name": "images/food_drink/oyster-mushroom.png",
       "added_on": "2025-07-05 18:00:57",
       "slug": "oyster-mushroom",
       "category": "Food & Drink",
@@ -59723,7 +59723,7 @@
     },
     {
       "title": "Packing Tape",
-      "file_name": "packing-tape.png",
+      "file_name": "images/work_industry/packing-tape.png",
       "added_on": "2025-07-07 11:31:02",
       "slug": "packing-tape",
       "category": "Work & Industry",
@@ -62348,7 +62348,7 @@
     },
     {
       "title": "Pacman Frog",
-      "file_name": "pacman-frog.png",
+      "file_name": "images/animals/pacman-frog.png",
       "added_on": "2025-07-09 04:46:06",
       "slug": "pacman-frog",
       "category": "Animals",
@@ -66708,7 +66708,7 @@
     },
     {
       "title": "Oyster Pearl",
-      "file_name": "oyster-pearl.png",
+      "file_name": "images/nature_outdoors/oyster-pearl.png",
       "added_on": "2025-07-11 21:11:23",
       "slug": "oyster-pearl",
       "category": "Nature & Outdoors",
@@ -78768,7 +78768,7 @@
     },
     {
       "title": "Pack of Cigarettes",
-      "file_name": "pack-of-cigarettes.png",
+      "file_name": "images/everyday_life/pack-of-cigarettes.png",
       "added_on": "2025-07-24 21:01:39",
       "slug": "pack-of-cigarettes",
       "category": "Everyday Life",
@@ -80625,7 +80625,7 @@
     },
     {
       "title": "Package of Glitter",
-      "file_name": "package-of-glitter.png",
+      "file_name": "images/everyday_life/package-of-glitter.png",
       "added_on": "2025-07-26 00:01:35",
       "slug": "package-of-glitter",
       "category": "Everyday Life",
@@ -87278,7 +87278,7 @@
     },
     {
       "title": "Oxygen Concentrator",
-      "file_name": "oxygen-concentrator.png",
+      "file_name": "images/health_wellness/oxygen-concentrator.png",
       "added_on": "2025-09-01 22:31:25",
       "slug": "oxygen-concentrator",
       "category": "Health & Wellness",
@@ -87330,7 +87330,7 @@
     },
     {
       "title": "Pacifier",
-      "file_name": "pacifier.png",
+      "file_name": "images/everyday_life/pacifier.png",
       "added_on": "2025-09-01 23:51:24",
       "slug": "pacifier",
       "category": "Everyday Life",
@@ -87933,7 +87933,7 @@
     },
     {
       "title": "Pablo Picasso",
-      "file_name": "pablo-picasso.png",
+      "file_name": "images/historical_figures/pablo-picasso.png",
       "added_on": "2025-09-04 15:32:04",
       "slug": "pablo-picasso",
       "category": "Historical Figures",
@@ -90663,7 +90663,7 @@
     },
     {
       "title": "Oxalis Leaf",
-      "file_name": "oxalis-leaf.png",
+      "file_name": "images/nature_outdoors/oxalis-leaf.png",
       "added_on": "2025-09-10 09:41:31",
       "slug": "oxalis-leaf",
       "category": "Nature & Outdoors",
@@ -98845,7 +98845,7 @@
     },
     {
       "title": "Oxygen Bar",
-      "file_name": "oxygen-bar.png",
+      "file_name": "images/health_wellness/oxygen-bar.png",
       "added_on": "2025-09-30 19:41:15",
       "slug": "oxygen-bar",
       "category": "Health & Wellness",
@@ -99647,7 +99647,7 @@
     },
     {
       "title": "Overtime Clock",
-      "file_name": "overtime-clock.png",
+      "file_name": "images/work_industry/overtime-clock.png",
       "added_on": "2025-10-02 08:21:19",
       "slug": "overtime-clock",
       "category": "Work & Industry",
@@ -109100,7 +109100,7 @@
     },
     {
       "title": "Ozone Generator",
-      "file_name": "ozone-generator.png",
+      "file_name": "images/work_industry/ozone-generator.png",
       "added_on": "2025-10-27 12:21:11",
       "slug": "ozone-generator",
       "category": "Work & Industry",
@@ -111761,7 +111761,7 @@
     },
     {
       "title": "Oyster Shucker",
-      "file_name": "oyster-shucker.png",
+      "file_name": "images/work_industry/oyster-shucker.png",
       "added_on": "2025-11-01 18:51:52",
       "slug": "oyster-shucker",
       "category": "Work & Industry",
@@ -127445,7 +127445,7 @@
     },
     {
       "title": "Overwatered Plant",
-      "file_name": "overwatered-plant.png",
+      "file_name": "images/everyday_life/overwatered-plant.png",
       "added_on": "2026-03-02 17:21:11",
       "slug": "overwatered-plant",
       "category": "Everyday Life",
