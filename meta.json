@@ -8209,7 +8209,7 @@
     },
     {
       "title": "Malaysia",
-      "file_name": "malaysia.png",
+      "file_name": "images/countries/malaysia.png",
       "added_on": "2025-05-20 08:11:19",
       "slug": "malaysia",
       "category": "Countries",
@@ -11890,7 +11890,7 @@
     },
     {
       "title": "Mali",
-      "file_name": "mali.png",
+      "file_name": "images/countries/mali.png",
       "added_on": "2025-05-24 18:21:29",
       "slug": "mali",
       "category": "Countries",
@@ -18723,7 +18723,7 @@
     },
     {
       "title": "Male Symbol",
-      "file_name": "male-symbol.png",
+      "file_name": "images/interface_symbols/male-symbol.png",
       "added_on": "2025-06-01 08:28:30",
       "slug": "male-symbol",
       "category": "Interface & Symbols",
@@ -22602,7 +22602,7 @@
     },
     {
       "title": "Makeup",
-      "file_name": "makeup.png",
+      "file_name": "images/fashion_style/makeup.png",
       "added_on": "2025-06-03 19:26:04",
       "slug": "makeup",
       "category": "Fashion & Style",
@@ -42322,7 +42322,7 @@
     },
     {
       "title": "Malta",
-      "file_name": "malta.png",
+      "file_name": "images/countries/malta.png",
       "added_on": "2025-06-14 03:31:08",
       "slug": "malta",
       "category": "Countries",
@@ -46703,7 +46703,7 @@
     },
     {
       "title": "Mallard",
-      "file_name": "mallard.png",
+      "file_name": "images/animals/mallard.png",
       "added_on": "2025-06-16 20:19:03",
       "slug": "mallard",
       "category": "Animals",
@@ -53440,7 +53440,7 @@
     },
     {
       "title": "Maltese",
-      "file_name": "maltese.png",
+      "file_name": "images/animals/maltese.png",
       "added_on": "2025-06-26 15:37:26",
       "slug": "maltese",
       "category": "Animals",
@@ -64748,7 +64748,7 @@
     },
     {
       "title": "Malasada",
-      "file_name": "malasada.png",
+      "file_name": "images/food_drink/malasada.png",
       "added_on": "2025-07-10 14:26:00",
       "slug": "malasada",
       "category": "Food & Drink",
@@ -70187,7 +70187,7 @@
     },
     {
       "title": "Male Vampire",
-      "file_name": "male-vampire.png",
+      "file_name": "images/fantasy_imagination/male-vampire.png",
       "added_on": "2025-07-14 10:07:12",
       "slug": "male-vampire",
       "category": "Fantasy & Imagination",
@@ -77935,7 +77935,7 @@
     },
     {
       "title": "Makeup Brush",
-      "file_name": "makeup-brush.png",
+      "file_name": "images/fashion_style/makeup-brush.png",
       "added_on": "2025-07-24 10:21:37",
       "slug": "makeup-brush",
       "category": "Fashion & Style",
@@ -81936,7 +81936,7 @@
     },
     {
       "title": "Barbarian",
-      "file_name": "male-barbarian.png",
+      "file_name": "images/fantasy_imagination/male-barbarian.png",
       "added_on": "2025-08-02 17:21:12",
       "slug": "male-barbarian",
       "category": "Fantasy & Imagination",
@@ -84886,7 +84886,7 @@
     },
     {
       "title": "Maltese",
-      "file_name": "maltese-1.png",
+      "file_name": "images/animals/maltese-1.png",
       "added_on": "2025-08-19 16:38:51",
       "slug": "maltese-1",
       "category": "Animals",
@@ -98279,7 +98279,7 @@
     },
     {
       "title": "Makeup and Skincare",
-      "file_name": "makeup-and-skincare.png",
+      "file_name": "images/fashion_style/makeup-and-skincare.png",
       "added_on": "2025-09-27 19:01:15",
       "slug": "makeup-and-skincare",
       "category": "Fashion & Style",
@@ -102572,7 +102572,7 @@
     },
     {
       "title": "Malayan Tapir",
-      "file_name": "malayan-tapir.png",
+      "file_name": "images/animals/malayan-tapir.png",
       "added_on": "2025-10-08 23:41:18",
       "slug": "malayan-tapir",
       "category": "Animals",
@@ -102605,7 +102605,7 @@
     },
     {
       "title": "Malabar Rose",
-      "file_name": "malabar-rose.png",
+      "file_name": "images/animals/malabar-rose.png",
       "added_on": "2025-10-09 00:01:47",
       "slug": "malabar-rose",
       "category": "Animals",
@@ -109464,7 +109464,7 @@
     },
     {
       "title": "Malcolm X",
-      "file_name": "malcolm-x.png",
+      "file_name": "images/historical_figures/malcolm-x.png",
       "added_on": "2025-10-28 09:51:16",
       "slug": "malcolm-x",
       "category": "Historical Figures",
@@ -119150,7 +119150,7 @@
     },
     {
       "title": "Maldives Flag",
-      "file_name": "maldives-flag.png",
+      "file_name": "images/flags/maldives-flag.png",
       "added_on": "2025-12-04 19:11:20",
       "slug": "maldives-flag",
       "category": "Flags",
@@ -119560,7 +119560,7 @@
     },
     {
       "title": "Mallard Duckling",
-      "file_name": "mallard-duckling.png",
+      "file_name": "images/animals/mallard-duckling.png",
       "added_on": "2025-12-10 00:41:27",
       "slug": "mallard-duckling",
       "category": "Animals",
@@ -121180,7 +121180,7 @@
     },
     {
       "title": "Mammoth",
-      "file_name": "mammoth.png",
+      "file_name": "images/animals/mammoth.png",
       "added_on": "2026-01-23 05:01:22",
       "slug": "mammoth",
       "category": "Animals",
@@ -124751,7 +124751,7 @@
     },
     {
       "title": "Maltese Dog",
-      "file_name": "maltese-dog.png",
+      "file_name": "images/animals/maltese-dog.png",
       "added_on": "2026-02-08 16:21:14",
       "slug": "maltese-dog",
       "category": "Animals",
