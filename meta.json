@@ -18983,7 +18983,7 @@
     },
     {
       "title": "Nuclear Power Plant",
-      "file_name": "nuclear-power-plant.png",
+      "file_name": "images/places_structures/nuclear-power-plant.png",
       "added_on": "2025-06-01 08:30:39",
       "slug": "nuclear-power-plant",
       "category": "Places & Structures",
@@ -23662,7 +23662,7 @@
     },
     {
       "title": "Nuclear Reactor",
-      "file_name": "nuclear-reactor.png",
+      "file_name": "images/space_science/nuclear-reactor.png",
       "added_on": "2025-06-04 08:37:02",
       "slug": "nuclear-reactor",
       "category": "Space & Science",
@@ -31734,7 +31734,7 @@
     },
     {
       "title": "Numbat",
-      "file_name": "numbat.png",
+      "file_name": "images/animals/numbat.png",
       "added_on": "2025-06-11 04:25:05",
       "slug": "numbat",
       "category": "Animals",
@@ -48235,7 +48235,7 @@
     },
     {
       "title": "Nugget",
-      "file_name": "nugget.png",
+      "file_name": "images/food_drink/nugget.png",
       "added_on": "2025-06-20 13:49:23",
       "slug": "nugget",
       "category": "Food & Drink",
@@ -57294,7 +57294,7 @@
     },
     {
       "title": "Novelty Mug",
-      "file_name": "novelty-mug.png",
+      "file_name": "images/entertainment_leisure/novelty-mug.png",
       "added_on": "2025-07-05 20:11:26",
       "slug": "novelty-mug",
       "category": "Entertainment & Leisure",
@@ -82004,7 +82004,7 @@
     },
     {
       "title": "Nuclear Bomb",
-      "file_name": "nuclear-bomb.png",
+      "file_name": "images/space_science/nuclear-bomb.png",
       "added_on": "2025-08-02 18:21:06",
       "slug": "nuclear-bomb",
       "category": "Space & Science",
@@ -92026,7 +92026,7 @@
     },
     {
       "title": "Nun",
-      "file_name": "nun.png",
+      "file_name": "images/professions/nun.png",
       "added_on": "2025-09-12 15:51:16",
       "slug": "nun",
       "category": "Professions",
@@ -118185,7 +118185,7 @@
     },
     {
       "title": "Number 1",
-      "file_name": "number-1.png",
+      "file_name": "images/interface_symbols/number-1.png",
       "added_on": "2025-11-26 15:51:07",
       "slug": "number-1",
       "category": "Interface & Symbols",
@@ -118198,7 +118198,7 @@
     },
     {
       "title": "Number 2",
-      "file_name": "number-2.png",
+      "file_name": "images/interface_symbols/number-2.png",
       "added_on": "2025-11-26 16:01:09",
       "slug": "number-2",
       "category": "Interface & Symbols",
@@ -118211,7 +118211,7 @@
     },
     {
       "title": "Number 3",
-      "file_name": "number-3.png",
+      "file_name": "images/interface_symbols/number-3.png",
       "added_on": "2025-11-26 16:11:33",
       "slug": "number-3",
       "category": "Interface & Symbols",
@@ -118224,7 +118224,7 @@
     },
     {
       "title": "Number 4",
-      "file_name": "number-4.png",
+      "file_name": "images/interface_symbols/number-4.png",
       "added_on": "2025-11-26 16:21:30",
       "slug": "number-4",
       "category": "Interface & Symbols",
@@ -118237,7 +118237,7 @@
     },
     {
       "title": "Number 5",
-      "file_name": "number-5.png",
+      "file_name": "images/interface_symbols/number-5.png",
       "added_on": "2025-11-26 16:31:10",
       "slug": "number-5",
       "category": "Interface & Symbols",
@@ -118250,7 +118250,7 @@
     },
     {
       "title": "Number 6",
-      "file_name": "number-6.png",
+      "file_name": "images/interface_symbols/number-6.png",
       "added_on": "2025-11-26 16:41:27",
       "slug": "number-6",
       "category": "Interface & Symbols",
@@ -118263,7 +118263,7 @@
     },
     {
       "title": "Number 7",
-      "file_name": "number-7.png",
+      "file_name": "images/interface_symbols/number-7.png",
       "added_on": "2025-11-26 16:51:36",
       "slug": "number-7",
       "category": "Interface & Symbols",
@@ -118276,7 +118276,7 @@
     },
     {
       "title": "Number 8",
-      "file_name": "number-8.png",
+      "file_name": "images/interface_symbols/number-8.png",
       "added_on": "2025-11-26 17:31:25",
       "slug": "number-8",
       "category": "Interface & Symbols",
@@ -118289,7 +118289,7 @@
     },
     {
       "title": "Number 9",
-      "file_name": "number-9.png",
+      "file_name": "images/interface_symbols/number-9.png",
       "added_on": "2025-11-26 17:41:10",
       "slug": "number-9",
       "category": "Interface & Symbols",
@@ -118302,7 +118302,7 @@
     },
     {
       "title": "Number 0",
-      "file_name": "number-0.png",
+      "file_name": "images/interface_symbols/number-0.png",
       "added_on": "2025-11-26 17:51:04",
       "slug": "number-0",
       "category": "Interface & Symbols",
@@ -127172,7 +127172,7 @@
     },
     {
       "title": "Nuclear Icebreaker Ship",
-      "file_name": "nuclear-icebreaker-ship.png",
+      "file_name": "images/vehicles_transport/nuclear-icebreaker-ship.png",
       "added_on": "2026-02-25 11:21:18",
       "slug": "nuclear-icebreaker-ship",
       "category": "Vehicles & Transport",
@@ -127785,7 +127785,7 @@
     },
     {
       "title": "Numerology",
-      "file_name": "numerology.png",
+      "file_name": "images/interface_symbols/numerology.png",
       "added_on": "2026-03-02 21:51:13",
       "slug": "numerology",
       "category": "Interface & Symbols",
@@ -127889,7 +127889,7 @@
     },
     {
       "title": "Nudibranch",
-      "file_name": "nudibranch.png",
+      "file_name": "images/animals/nudibranch.png",
       "added_on": "2026-03-08 19:40:49",
       "slug": "nudibranch",
       "category": "Animals",
