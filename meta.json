@@ -16224,7 +16224,7 @@
     },
     {
       "title": "Tamarin",
-      "file_name": "tamarin.png",
+      "file_name": "images/animals/tamarin.png",
       "added_on": "2025-05-28 04:41:09",
       "slug": "tamarin",
       "category": "Animals",
@@ -44235,7 +44235,7 @@
     },
     {
       "title": "Tandem Bicycle",
-      "file_name": "tandem-bicycle.png",
+      "file_name": "images/vehicles_transport/tandem-bicycle.png",
       "added_on": "2025-06-14 14:18:56",
       "slug": "tandem-bicycle",
       "category": "Vehicles & Transport",
@@ -44889,7 +44889,7 @@
     },
     {
       "title": "Tamales",
-      "file_name": "tamales.png",
+      "file_name": "images/food_drink/tamales.png",
       "added_on": "2025-06-14 20:42:59",
       "slug": "tamales",
       "category": "Food & Drink",
@@ -60830,7 +60830,7 @@
     },
     {
       "title": "Tamarind Pod",
-      "file_name": "tamarind-pod.png",
+      "file_name": "images/food_drink/tamarind-pod.png",
       "added_on": "2025-07-08 17:45:50",
       "slug": "tamarind-pod",
       "category": "Food & Drink",
@@ -68976,7 +68976,7 @@
     },
     {
       "title": "Tambourine",
-      "file_name": "tambourine.png",
+      "file_name": "images/entertainment_leisure/tambourine.png",
       "added_on": "2025-07-13 14:41:41",
       "slug": "tambourine",
       "category": "Entertainment & Leisure",
@@ -73420,7 +73420,7 @@
     },
     {
       "title": "Tang Horse Statue",
-      "file_name": "tang-horse-statue.png",
+      "file_name": "images/history_culture/tang-horse-statue.png",
       "added_on": "2025-07-17 14:41:51",
       "slug": "tang-horse-statue",
       "category": "History & Culture",
@@ -75169,7 +75169,7 @@
     },
     {
       "title": "Tangerine",
-      "file_name": "tangerine.png",
+      "file_name": "images/food_drink/tangerine.png",
       "added_on": "2025-07-19 14:44:35",
       "slug": "tangerine",
       "category": "Food & Drink",
@@ -80976,7 +80976,7 @@
     },
     {
       "title": "Tambora",
-      "file_name": "tambora.png",
+      "file_name": "images/history_culture/tambora.png",
       "added_on": "2025-07-28 17:45:20",
       "slug": "tambora",
       "category": "History & Culture",
@@ -87140,7 +87140,7 @@
     },
     {
       "title": "Tamworth Pig",
-      "file_name": "tamworth-pig.png",
+      "file_name": "images/animals/tamworth-pig.png",
       "added_on": "2025-08-30 17:01:17",
       "slug": "tamworth-pig",
       "category": "Animals",
@@ -92740,7 +92740,7 @@
     },
     {
       "title": "Tamarillo",
-      "file_name": "tamarillo.png",
+      "file_name": "images/food_drink/tamarillo.png",
       "added_on": "2025-09-15 12:41:30",
       "slug": "tamarillo",
       "category": "Food & Drink",
@@ -93225,7 +93225,7 @@
     },
     {
       "title": "Tally Counter",
-      "file_name": "tally-counter.png",
+      "file_name": "images/work_industry/tally-counter.png",
       "added_on": "2025-09-16 12:11:25",
       "slug": "tally-counter",
       "category": "Work & Industry",
@@ -94130,7 +94130,7 @@
     },
     {
       "title": "Tanghulu",
-      "file_name": "tanghulu.png",
+      "file_name": "images/food_drink/tanghulu.png",
       "added_on": "2025-09-18 11:11:25",
       "slug": "tanghulu",
       "category": "Food & Drink",
@@ -100037,7 +100037,7 @@
     },
     {
       "title": "Tallgrass Blade",
-      "file_name": "tallgrass-blade.png",
+      "file_name": "images/nature_outdoors/tallgrass-blade.png",
       "added_on": "2025-10-02 13:41:24",
       "slug": "tallgrass-blade",
       "category": "Nature & Outdoors",
@@ -101504,7 +101504,7 @@
     },
     {
       "title": "Tang Dynasty Camel",
-      "file_name": "tang-dynasty-camel.png",
+      "file_name": "images/history_culture/tang-dynasty-camel.png",
       "added_on": "2025-10-05 23:21:38",
       "slug": "tang-dynasty-camel",
       "category": "History & Culture",
@@ -107142,7 +107142,7 @@
     },
     {
       "title": "Tangle of Wires",
-      "file_name": "tangle-of-wires.png",
+      "file_name": "images/everyday_life/tangle-of-wires.png",
       "added_on": "2025-10-22 18:51:00",
       "slug": "tangle-of-wires",
       "category": "Everyday Life",
@@ -108853,7 +108853,7 @@
     },
     {
       "title": "Tangyuan",
-      "file_name": "tangyuan.png",
+      "file_name": "images/food_drink/tangyuan.png",
       "added_on": "2025-10-26 19:10:52",
       "slug": "tangyuan",
       "category": "Food & Drink",
@@ -119417,7 +119417,7 @@
     },
     {
       "title": "Tamal",
-      "file_name": "tamal.png",
+      "file_name": "images/food_drink/tamal.png",
       "added_on": "2025-12-09 22:51:27",
       "slug": "tamal",
       "category": "Food & Drink",
@@ -120842,7 +120842,7 @@
     },
     {
       "title": "Tampon",
-      "file_name": "tampon.png",
+      "file_name": "images/health_wellness/tampon.png",
       "added_on": "2026-01-23 00:11:18",
       "slug": "tampon",
       "category": "Health & Wellness",
@@ -121128,7 +121128,7 @@
     },
     {
       "title": "Tamarisk tree",
-      "file_name": "tamarisk-tree.png",
+      "file_name": "images/nature_outdoors/tamarisk-tree.png",
       "added_on": "2026-01-23 04:11:19",
       "slug": "tamarisk-tree",
       "category": "Nature & Outdoors",
@@ -127103,7 +127103,7 @@
     },
     {
       "title": "Tangled Earbuds",
-      "file_name": "tangled-earbuds.png",
+      "file_name": "images/everyday_life/tangled-earbuds.png",
       "added_on": "2026-02-25 10:21:17",
       "slug": "tangled-earbuds",
       "category": "Everyday Life",
