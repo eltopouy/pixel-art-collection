@@ -8313,7 +8313,7 @@
     },
     {
       "title": "Golf",
-      "file_name": "golf.png",
+      "file_name": "images/hobbies/golf.png",
       "added_on": "2025-05-22 14:16:21",
       "slug": "golf",
       "category": "Hobbies",
@@ -10174,7 +10174,7 @@
     },
     {
       "title": "Golf cart",
-      "file_name": "golf-cart.png",
+      "file_name": "images/vehicles_transport/golf-cart.png",
       "added_on": "2025-05-23 13:20:53",
       "slug": "golf-cart",
       "category": "Vehicles & Transport",
@@ -10382,7 +10382,7 @@
     },
     {
       "title": "Golf Club",
-      "file_name": "golf-club.png",
+      "file_name": "images/sports/golf-club.png",
       "added_on": "2025-05-23 16:21:21",
       "slug": "golf-club",
       "category": "Sports",
@@ -10486,7 +10486,7 @@
     },
     {
       "title": "Goldfish",
-      "file_name": "goldfish.png",
+      "file_name": "images/animals/goldfish.png",
       "added_on": "2025-05-23 17:41:19",
       "slug": "goldfish",
       "category": "Animals",
@@ -27642,7 +27642,7 @@
     },
     {
       "title": "Golden Retriever",
-      "file_name": "golden-retriever-dog.png",
+      "file_name": "images/animals/golden-retriever-dog.png",
       "added_on": "2025-06-08 08:12:02",
       "slug": "golden-retriever-dog",
       "category": "Animals",
@@ -28756,7 +28756,7 @@
     },
     {
       "title": "Golf Set",
-      "file_name": "golf-set.png",
+      "file_name": "images/sports/golf-set.png",
       "added_on": "2025-06-09 19:50:35",
       "slug": "golf-set",
       "category": "Sports",
@@ -33654,7 +33654,7 @@
     },
     {
       "title": "Golem Heart",
-      "file_name": "golem-heart.png",
+      "file_name": "images/fantasy_imagination/golem-heart.png",
       "added_on": "2025-06-11 19:24:48",
       "slug": "golem-heart",
       "category": "Fantasy & Imagination",
@@ -45258,7 +45258,7 @@
     },
     {
       "title": "Goliath Frog",
-      "file_name": "goliath-frog.png",
+      "file_name": "images/animals/goliath-frog.png",
       "added_on": "2025-06-14 23:54:52",
       "slug": "goliath-frog",
       "category": "Animals",
@@ -49610,7 +49610,7 @@
     },
     {
       "title": "Golden Retriever",
-      "file_name": "golden-retriever.png",
+      "file_name": "images/animals/golden-retriever.png",
       "added_on": "2025-06-22 17:34:44",
       "slug": "golden-retriever",
       "category": "Animals",
@@ -56507,7 +56507,7 @@
     },
     {
       "title": "Goldendoodle",
-      "file_name": "goldendoodle.png",
+      "file_name": "images/animals/goldendoodle.png",
       "added_on": "2025-07-03 02:01:08",
       "slug": "goldendoodle",
       "category": "Animals",
@@ -61422,7 +61422,7 @@
     },
     {
       "title": "Goliath Birdeater",
-      "file_name": "goliath-birdeater.png",
+      "file_name": "images/animals/goliath-birdeater.png",
       "added_on": "2025-07-08 22:16:02",
       "slug": "goliath-birdeater",
       "category": "Animals",
@@ -73579,7 +73579,7 @@
     },
     {
       "title": "Golden Oriole",
-      "file_name": "golden-oriole.png",
+      "file_name": "images/animals/golden-oriole.png",
       "added_on": "2025-07-17 18:49:25",
       "slug": "golden-oriole",
       "category": "Animals",
@@ -83831,7 +83831,7 @@
     },
     {
       "title": "Goldsmith",
-      "file_name": "goldsmith.png",
+      "file_name": "images/professions/goldsmith.png",
       "added_on": "2025-08-17 00:21:15",
       "slug": "goldsmith",
       "category": "Professions",
@@ -84146,7 +84146,7 @@
     },
     {
       "title": "Golden Tortoise Beetle",
-      "file_name": "golden-tortoise-beetle.png",
+      "file_name": "images/animals/golden-tortoise-beetle.png",
       "added_on": "2025-08-17 04:50:46",
       "slug": "golden-tortoise-beetle",
       "category": "Animals",
@@ -84159,7 +84159,7 @@
     },
     {
       "title": "Golden Poison Frog",
-      "file_name": "golden-poison-frog.png",
+      "file_name": "images/animals/golden-poison-frog.png",
       "added_on": "2025-08-17 05:01:08",
       "slug": "golden-poison-frog",
       "category": "Animals",
@@ -96656,7 +96656,7 @@
     },
     {
       "title": "Golden Lion Tamarin",
-      "file_name": "golden-lion-tamarin.png",
+      "file_name": "images/animals/golden-lion-tamarin.png",
       "added_on": "2025-09-23 12:31:20",
       "slug": "golden-lion-tamarin",
       "category": "Animals",
@@ -102649,7 +102649,7 @@
     },
     {
       "title": "Goliath Beetle",
-      "file_name": "goliath-beetle.png",
+      "file_name": "images/animals/goliath-beetle.png",
       "added_on": "2025-10-09 00:31:33",
       "slug": "goliath-beetle",
       "category": "Animals",
@@ -103998,7 +103998,7 @@
     },
     {
       "title": "Golden Heart",
-      "file_name": "golden-heart.png",
+      "file_name": "images/interface_symbols/golden-heart.png",
       "added_on": "2025-10-10 19:21:18",
       "slug": "golden-heart",
       "category": "Interface & Symbols",
@@ -106358,7 +106358,7 @@
     },
     {
       "title": "Golden Snub-nosed Monkey",
-      "file_name": "golden-snub-nosed-monkey.png",
+      "file_name": "images/animals/golden-snub-nosed-monkey.png",
       "added_on": "2025-10-20 18:01:17",
       "slug": "golden-snub-nosed-monkey",
       "category": "Animals",
@@ -116405,7 +116405,7 @@
     },
     {
       "title": "Golden-mantled tamarin",
-      "file_name": "golden-mantled-tamarin.png",
+      "file_name": "images/animals/golden-mantled-tamarin.png",
       "added_on": "2025-11-18 11:11:58",
       "slug": "golden-mantled-tamarin",
       "category": "Animals",
