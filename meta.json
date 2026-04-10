@@ -3908,7 +3908,7 @@
     },
     {
       "title": "Tractor",
-      "file_name": "tractor.png",
+      "file_name": "images/vehicles_transport/tractor.png",
       "added_on": "2025-05-17 00:56:11",
       "slug": "tractor",
       "category": "Vehicles & Transport",
@@ -4232,7 +4232,7 @@
     },
     {
       "title": "Train",
-      "file_name": "train.png",
+      "file_name": "images/vehicles_transport/train.png",
       "added_on": "2025-05-17 05:26:03",
       "slug": "train",
       "category": "Vehicles & Transport",
@@ -5181,7 +5181,7 @@
     },
     {
       "title": "Trail Marker",
-      "file_name": "trail-marker.png",
+      "file_name": "images/nature_outdoors/trail-marker.png",
       "added_on": "2025-05-17 18:55:36",
       "slug": "trail-marker",
       "category": "Nature & Outdoors",
@@ -5636,7 +5636,7 @@
     },
     {
       "title": "Trail Map",
-      "file_name": "trail-map.png",
+      "file_name": "images/nature_outdoors/trail-map.png",
       "added_on": "2025-05-18 00:46:09",
       "slug": "trail-map",
       "category": "Nature & Outdoors",
@@ -5831,7 +5831,7 @@
     },
     {
       "title": "Trail Sign",
-      "file_name": "trail-sign.png",
+      "file_name": "images/nature_outdoors/trail-sign.png",
       "added_on": "2025-05-18 06:16:20",
       "slug": "trail-sign",
       "category": "Nature & Outdoors",
@@ -5974,7 +5974,7 @@
     },
     {
       "title": "Trail",
-      "file_name": "trail.png",
+      "file_name": "images/nature_outdoors/trail.png",
       "added_on": "2025-05-18 09:55:56",
       "slug": "trail",
       "category": "Nature & Outdoors",
@@ -13256,7 +13256,7 @@
     },
     {
       "title": "Tram",
-      "file_name": "tram.png",
+      "file_name": "images/vehicles_transport/tram.png",
       "added_on": "2025-05-26 05:31:29",
       "slug": "tram",
       "category": "Vehicles & Transport",
@@ -18099,7 +18099,7 @@
     },
     {
       "title": "Traffic Cone",
-      "file_name": "traffic-cone.png",
+      "file_name": "images/work_industry/traffic-cone.png",
       "added_on": "2025-06-01 08:13:48",
       "slug": "traffic-cone",
       "category": "Work & Industry",
@@ -19035,7 +19035,7 @@
     },
     {
       "title": "Tractor Trailer",
-      "file_name": "tractor-trailer.png",
+      "file_name": "images/vehicles_transport/tractor-trailer.png",
       "added_on": "2025-06-01 08:31:12",
       "slug": "tractor-trailer",
       "category": "Vehicles & Transport",
@@ -22524,7 +22524,7 @@
     },
     {
       "title": "Transfer",
-      "file_name": "transfer.png",
+      "file_name": "images/interface_symbols/transfer.png",
       "added_on": "2025-06-03 18:41:07",
       "slug": "transfer",
       "category": "Interface & Symbols",
@@ -22927,7 +22927,7 @@
     },
     {
       "title": "Train Platform",
-      "file_name": "train-platform.png",
+      "file_name": "images/places_structures/train-platform.png",
       "added_on": "2025-06-03 22:31:05",
       "slug": "train-platform",
       "category": "Places & Structures",
@@ -26098,7 +26098,7 @@
     },
     {
       "title": "Transformer",
-      "file_name": "transformer.png",
+      "file_name": "images/technology_media/transformer.png",
       "added_on": "2025-06-07 07:00:56",
       "slug": "transformer",
       "category": "Technology & Media",
@@ -29544,7 +29544,7 @@
     },
     {
       "title": "Train Depot",
-      "file_name": "train-depot.png",
+      "file_name": "images/places_structures/train-depot.png",
       "added_on": "2025-06-10 12:19:33",
       "slug": "train-depot",
       "category": "Places & Structures",
@@ -29778,7 +29778,7 @@
     },
     {
       "title": "Train Station",
-      "file_name": "train-station.png",
+      "file_name": "images/places_structures/train-station.png",
       "added_on": "2025-06-10 14:37:21",
       "slug": "train-station",
       "category": "Places & Structures",
@@ -30923,7 +30923,7 @@
     },
     {
       "title": "Trade Show",
-      "file_name": "trade-show.png",
+      "file_name": "images/events/trade-show.png",
       "added_on": "2025-06-10 21:12:49",
       "slug": "trade-show",
       "category": "Events",
@@ -38158,7 +38158,7 @@
     },
     {
       "title": "Trampoline",
-      "file_name": "trampoline.png",
+      "file_name": "images/entertainment_leisure/trampoline.png",
       "added_on": "2025-06-13 00:07:18",
       "slug": "trampoline",
       "category": "Entertainment & Leisure",
@@ -47348,7 +47348,7 @@
     },
     {
       "title": "Traffic Light",
-      "file_name": "traffic-light.png",
+      "file_name": "images/vehicles_transport/traffic-light.png",
       "added_on": "2025-06-19 12:57:45",
       "slug": "traffic-light",
       "category": "Vehicles & Transport",
@@ -83688,7 +83688,7 @@
     },
     {
       "title": "Traditional Chinese Green Tea",
-      "file_name": "traditional-chinese-green-tea.png",
+      "file_name": "images/food_drink/traditional-chinese-green-tea.png",
       "added_on": "2025-08-16 22:00:54",
       "slug": "traditional-chinese-green-tea",
       "category": "Food & Drink",
@@ -84394,7 +84394,7 @@
     },
     {
       "title": "Transgender Heart",
-      "file_name": "transgender-heart.png",
+      "file_name": "images/history_culture/transgender-heart.png",
       "added_on": "2025-08-18 13:29:35",
       "slug": "transgender-heart",
       "category": "History & Culture",
@@ -95092,7 +95092,7 @@
     },
     {
       "title": "Tralalero Tralala",
-      "file_name": "tralalero-tralala-1.png",
+      "file_name": "images/fantasy_imagination/tralalero-tralala-1.png",
       "added_on": "2025-09-20 12:39:05",
       "slug": "tralalero-tralala-1",
       "category": "Fantasy & Imagination",
@@ -97795,7 +97795,7 @@
     },
     {
       "title": "Tramboat",
-      "file_name": "tramboat.png",
+      "file_name": "images/vehicles_transport/tramboat.png",
       "added_on": "2025-09-27 12:31:08",
       "slug": "tramboat",
       "category": "Vehicles & Transport",
