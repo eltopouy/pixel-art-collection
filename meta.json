@@ -3973,7 +3973,7 @@
     },
     {
       "title": "Sheep",
-      "file_name": "sheep.png",
+      "file_name": "images/animals/sheep.png",
       "added_on": "2025-05-17 01:56:06",
       "slug": "sheep",
       "category": "Animals",
@@ -16485,7 +16485,7 @@
     },
     {
       "title": "Shark",
-      "file_name": "shark.png",
+      "file_name": "images/animals/shark.png",
       "added_on": "2025-05-30 19:40:29",
       "slug": "shark",
       "category": "Animals",
@@ -17161,7 +17161,7 @@
     },
     {
       "title": "Sheet Music",
-      "file_name": "sheet-music.png",
+      "file_name": "images/entertainment_leisure/sheet-music.png",
       "added_on": "2025-05-31 11:00:33",
       "slug": "sheet-music",
       "category": "Entertainment & Leisure",
@@ -18333,7 +18333,7 @@
     },
     {
       "title": "Shark",
-      "file_name": "shark-gy23um.png",
+      "file_name": "images/animals/shark-gy23um.png",
       "added_on": "2025-06-01 08:17:15",
       "slug": "shark-gy23um",
       "category": "Animals",
@@ -19465,7 +19465,7 @@
     },
     {
       "title": "Motorcycle Helmet",
-      "file_name": "shark-nano-helmet.png",
+      "file_name": "images/vehicles_transport/shark-nano-helmet.png",
       "added_on": "2025-06-02 09:16:56",
       "slug": "shark-nano-helmet",
       "category": "Vehicles & Transport",
@@ -21238,7 +21238,7 @@
     },
     {
       "title": "Shaving Kit",
-      "file_name": "shaving-kit.png",
+      "file_name": "images/everyday_life/shaving-kit.png",
       "added_on": "2025-06-02 16:55:10",
       "slug": "shaving-kit",
       "category": "Everyday Life",
@@ -23375,7 +23375,7 @@
     },
     {
       "title": "Sharpening Stone",
-      "file_name": "sharpening-stone.png",
+      "file_name": "images/everyday_life/sharpening-stone.png",
       "added_on": "2025-06-04 08:29:28",
       "slug": "sharpening-stone",
       "category": "Everyday Life",
@@ -27473,7 +27473,7 @@
     },
     {
       "title": "Sharpener",
-      "file_name": "sharpener.png",
+      "file_name": "images/everyday_life/sharpener.png",
       "added_on": "2025-06-08 03:31:21",
       "slug": "sharpener",
       "category": "Everyday Life",
@@ -46514,7 +46514,7 @@
     },
     {
       "title": "Shekere",
-      "file_name": "shekere.png",
+      "file_name": "images/history_culture/shekere.png",
       "added_on": "2025-06-16 19:29:20",
       "slug": "shekere",
       "category": "History & Culture",
@@ -59013,7 +59013,7 @@
     },
     {
       "title": "Sheer gloves",
-      "file_name": "sheer-gloves.png",
+      "file_name": "images/fashion_style/sheer-gloves.png",
       "added_on": "2025-07-06 20:11:02",
       "slug": "sheer-gloves",
       "category": "Fashion & Style",
@@ -66552,7 +66552,7 @@
     },
     {
       "title": "Shaving Cream",
-      "file_name": "shaving-cream.png",
+      "file_name": "images/everyday_life/shaving-cream.png",
       "added_on": "2025-07-11 18:41:17",
       "slug": "shaving-cream",
       "category": "Everyday Life",
@@ -78989,7 +78989,7 @@
     },
     {
       "title": "Sharpei",
-      "file_name": "sharpei.png",
+      "file_name": "images/animals/sharpei.png",
       "added_on": "2025-07-24 22:07:59",
       "slug": "sharpei",
       "category": "Animals",
@@ -80573,7 +80573,7 @@
     },
     {
       "title": "Shawl",
-      "file_name": "shawl.png",
+      "file_name": "images/fashion_style/shawl.png",
       "added_on": "2025-07-25 23:21:29",
       "slug": "shawl",
       "category": "Fashion & Style",
@@ -81283,7 +81283,7 @@
     },
     {
       "title": "Shawarma",
-      "file_name": "shawarma.png",
+      "file_name": "images/food_drink/shawarma.png",
       "added_on": "2025-07-29 18:02:57",
       "slug": "shawarma",
       "category": "Food & Drink",
@@ -84381,7 +84381,7 @@
     },
     {
       "title": "She/Her",
-      "file_name": "sheher.png",
+      "file_name": "images/interface_symbols/sheher.png",
       "added_on": "2025-08-18 13:29:31",
       "slug": "sheher",
       "category": "Interface & Symbols",
@@ -93748,7 +93748,7 @@
     },
     {
       "title": "Sheer Tutu",
-      "file_name": "sheer-tutu.png",
+      "file_name": "images/fashion_style/sheer-tutu.png",
       "added_on": "2025-09-17 14:11:21",
       "slug": "sheer-tutu",
       "category": "Fashion & Style",
@@ -94210,7 +94210,7 @@
     },
     {
       "title": "Shell-shaped Amphitheater",
-      "file_name": "shell-shaped-amphitheater.png",
+      "file_name": "images/places_structures/shell-shaped-amphitheater.png",
       "added_on": "2025-09-18 12:11:32",
       "slug": "shell-shaped-amphitheater",
       "category": "Places & Structures",
@@ -94634,7 +94634,7 @@
     },
     {
       "title": "Shell Collection",
-      "file_name": "shell-collection.png",
+      "file_name": "images/hobbies/shell-collection.png",
       "added_on": "2025-09-19 10:21:25",
       "slug": "shell-collection",
       "category": "Hobbies",
@@ -116873,7 +116873,7 @@
     },
     {
       "title": "Sheer Polka Dot Blouse",
-      "file_name": "sheer-polka-dot-blouse.png",
+      "file_name": "images/fashion_style/sheer-polka-dot-blouse.png",
       "added_on": "2025-11-19 23:21:12",
       "slug": "sheer-polka-dot-blouse",
       "category": "Fashion & Style",
@@ -127588,7 +127588,7 @@
     },
     {
       "title": "Sheer Maxi Skirt",
-      "file_name": "sheer-maxi-skirt.png",
+      "file_name": "images/fashion_style/sheer-maxi-skirt.png",
       "added_on": "2026-03-02 19:21:10",
       "slug": "sheer-maxi-skirt",
       "category": "Fashion & Style",
