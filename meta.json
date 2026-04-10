@@ -454,7 +454,7 @@
     },
     {
       "title": "Mug",
-      "file_name": "mug.png",
+      "file_name": "images/food_drink/mug.png",
       "added_on": "2025-05-15 18:45:49",
       "slug": "mug",
       "category": "Food & Drink",
@@ -5155,7 +5155,7 @@
     },
     {
       "title": "Movie Projector",
-      "file_name": "movie-projector.png",
+      "file_name": "images/entertainment_leisure/movie-projector.png",
       "added_on": "2025-05-17 18:40:37",
       "slug": "movie-projector",
       "category": "Entertainment & Leisure",
@@ -5207,7 +5207,7 @@
     },
     {
       "title": "Movie Theater",
-      "file_name": "movie-theater.png",
+      "file_name": "images/entertainment_leisure/movie-theater.png",
       "added_on": "2025-05-17 19:20:45",
       "slug": "movie-theater",
       "category": "Entertainment & Leisure",
@@ -11149,7 +11149,7 @@
     },
     {
       "title": "Movie",
-      "file_name": "movie.png",
+      "file_name": "images/entertainment_leisure/movie.png",
       "added_on": "2025-05-24 02:21:22",
       "slug": "movie",
       "category": "Entertainment & Leisure",
@@ -12020,7 +12020,7 @@
     },
     {
       "title": "MP3 Player",
-      "file_name": "mp3-player.png",
+      "file_name": "images/technology_media/mp3-player.png",
       "added_on": "2025-05-25 10:41:24",
       "slug": "mp3-player",
       "category": "Technology & Media",
@@ -27028,7 +27028,7 @@
     },
     {
       "title": "Muffin Tin",
-      "file_name": "muffin-tin.png",
+      "file_name": "images/food_drink/muffin-tin.png",
       "added_on": "2025-06-07 15:20:45",
       "slug": "muffin-tin",
       "category": "Food & Drink",
@@ -28918,7 +28918,7 @@
     },
     {
       "title": "MRE - Meal, Ready to Eat",
-      "file_name": "mre-meal-ready-to-eat.png",
+      "file_name": "images/food_drink/mre-meal-ready-to-eat.png",
       "added_on": "2025-06-10 08:08:39",
       "slug": "mre-meal-ready-to-eat",
       "category": "Food & Drink",
@@ -47782,7 +47782,7 @@
     },
     {
       "title": "Mozzarella Cheese",
-      "file_name": "mozzarella-cheese.png",
+      "file_name": "images/food_drink/mozzarella-cheese.png",
       "added_on": "2025-06-19 16:37:28",
       "slug": "mozzarella-cheese",
       "category": "Food & Drink",
@@ -52576,7 +52576,7 @@
     },
     {
       "title": "Mr. Flanders' Hot Chocolate",
-      "file_name": "mr-flanders-hot-chocolate.png",
+      "file_name": "images/food_drink/mr-flanders-hot-chocolate.png",
       "added_on": "2025-06-25 13:59:06",
       "slug": "mr-flanders-hot-chocolate",
       "category": "Food & Drink",
@@ -54865,7 +54865,7 @@
     },
     {
       "title": "MRI Machine",
-      "file_name": "mri-machine.png",
+      "file_name": "images/health_wellness/mri-machine.png",
       "added_on": "2025-06-28 09:37:14",
       "slug": "mri-machine",
       "category": "Health & Wellness",
@@ -56322,7 +56322,7 @@
     },
     {
       "title": "Mp3 Player",
-      "file_name": "mp3-player-1.png",
+      "file_name": "images/technology_media/mp3-player-1.png",
       "added_on": "2025-07-01 18:05:25",
       "slug": "mp3-player-1",
       "category": "Technology & Media",
@@ -57281,7 +57281,7 @@
     },
     {
       "title": "Movie Ticket",
-      "file_name": "movie-ticket.png",
+      "file_name": "images/entertainment_leisure/movie-ticket.png",
       "added_on": "2025-07-05 20:06:17",
       "slug": "movie-ticket",
       "category": "Entertainment & Leisure",
@@ -62387,7 +62387,7 @@
     },
     {
       "title": "Muay Thai Shorts",
-      "file_name": "muay-thai-shorts.png",
+      "file_name": "images/sports/muay-thai-shorts.png",
       "added_on": "2025-07-09 05:11:04",
       "slug": "muay-thai-shorts",
       "category": "Sports",
@@ -62740,7 +62740,7 @@
     },
     {
       "title": "Mudskipper",
-      "file_name": "mudskipper.png",
+      "file_name": "images/animals/mudskipper.png",
       "added_on": "2025-07-09 08:21:02",
       "slug": "mudskipper",
       "category": "Animals",
@@ -69639,7 +69639,7 @@
     },
     {
       "title": "Mud Cracks",
-      "file_name": "mud-cracks.png",
+      "file_name": "images/nature_outdoors/mud-cracks.png",
       "added_on": "2025-07-14 06:01:49",
       "slug": "mud-cracks",
       "category": "Nature & Outdoors",
@@ -72196,7 +72196,7 @@
     },
     {
       "title": "Movie Clapperboard",
-      "file_name": "movie-clapperboard.png",
+      "file_name": "images/entertainment_leisure/movie-clapperboard.png",
       "added_on": "2025-07-16 13:51:23",
       "slug": "movie-clapperboard",
       "category": "Entertainment & Leisure",
@@ -77163,7 +77163,7 @@
     },
     {
       "title": "Mudslide",
-      "file_name": "mudslide.png",
+      "file_name": "images/nature_outdoors/mudslide.png",
       "added_on": "2025-07-22 11:32:06",
       "slug": "mudslide",
       "category": "Nature & Outdoors",
@@ -101766,7 +101766,7 @@
     },
     {
       "title": "Mud Volcano",
-      "file_name": "mud-volcano.png",
+      "file_name": "images/nature_outdoors/mud-volcano.png",
       "added_on": "2025-10-06 15:41:51",
       "slug": "mud-volcano",
       "category": "Nature & Outdoors",
@@ -104897,7 +104897,7 @@
     },
     {
       "title": "Mughal Enamel Box",
-      "file_name": "mughal-enamel-box.png",
+      "file_name": "images/history_culture/mughal-enamel-box.png",
       "added_on": "2025-10-13 12:11:23",
       "slug": "mughal-enamel-box",
       "category": "History & Culture",
@@ -115450,7 +115450,7 @@
     },
     {
       "title": "Mudpuppy",
-      "file_name": "mudpuppy.png",
+      "file_name": "images/animals/mudpuppy.png",
       "added_on": "2025-11-14 14:02:00",
       "slug": "mudpuppy",
       "category": "Animals",
