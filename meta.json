@@ -6078,7 +6078,7 @@
     },
     {
       "title": "Yogurt",
-      "file_name": "yogurt.png",
+      "file_name": "images/food_drink/yogurt.png",
       "added_on": "2025-05-18 11:51:20",
       "slug": "yogurt",
       "category": "Food & Drink",
@@ -8365,7 +8365,7 @@
     },
     {
       "title": "Yoga",
-      "file_name": "yoga.png",
+      "file_name": "images/hobbies/yoga.png",
       "added_on": "2025-05-22 14:36:29",
       "slug": "yoga",
       "category": "Hobbies",
@@ -22340,7 +22340,7 @@
     },
     {
       "title": "Zap",
-      "file_name": "zap.png",
+      "file_name": "images/fantasy_imagination/zap.png",
       "added_on": "2025-06-03 17:11:09",
       "slug": "zap",
       "category": "Fantasy & Imagination",
@@ -23269,7 +23269,7 @@
     },
     {
       "title": "Yosemite National Park",
-      "file_name": "yosemite-national-park.png",
+      "file_name": "images/nature_outdoors/yosemite-national-park.png",
       "added_on": "2025-06-04 08:27:12",
       "slug": "yosemite-national-park",
       "category": "Nature & Outdoors",
@@ -24390,7 +24390,7 @@
     },
     {
       "title": "Yurt",
-      "file_name": "yurt.png",
+      "file_name": "images/places_structures/yurt.png",
       "added_on": "2025-06-04 21:36:24",
       "slug": "yurt",
       "category": "Places & Structures",
@@ -24585,7 +24585,7 @@
     },
     {
       "title": "Zabuton",
-      "file_name": "zabuton.png",
+      "file_name": "images/everyday_life/zabuton.png",
       "added_on": "2025-06-04 21:37:11",
       "slug": "zabuton",
       "category": "Everyday Life",
@@ -31604,7 +31604,7 @@
     },
     {
       "title": "Zambia",
-      "file_name": "zambia.png",
+      "file_name": "images/countries/zambia.png",
       "added_on": "2025-06-11 03:25:02",
       "slug": "zambia",
       "category": "Countries",
@@ -41004,7 +41004,7 @@
     },
     {
       "title": "Zebra Danio",
-      "file_name": "zebra-danio.png",
+      "file_name": "images/animals/zebra-danio.png",
       "added_on": "2025-06-13 22:28:12",
       "slug": "zebra-danio",
       "category": "Animals",
@@ -41784,7 +41784,7 @@
     },
     {
       "title": "Yuzu",
-      "file_name": "yuzu.png",
+      "file_name": "images/food_drink/yuzu.png",
       "added_on": "2025-06-13 22:35:53",
       "slug": "yuzu",
       "category": "Food & Drink",
@@ -53770,7 +53770,7 @@
     },
     {
       "title": "Zabaione",
-      "file_name": "zabaione.png",
+      "file_name": "images/food_drink/zabaione.png",
       "added_on": "2025-06-27 08:38:29",
       "slug": "zabaione",
       "category": "Food & Drink",
@@ -55431,7 +55431,7 @@
     },
     {
       "title": "Yorkshire Terrier",
-      "file_name": "yorkshire-terrier.png",
+      "file_name": "images/animals/yorkshire-terrier.png",
       "added_on": "2025-06-29 16:55:16",
       "slug": "yorkshire-terrier",
       "category": "Animals",
@@ -57808,7 +57808,7 @@
     },
     {
       "title": "Yogurt Parfait",
-      "file_name": "yogurt-parfait.png",
+      "file_name": "images/food_drink/yogurt-parfait.png",
       "added_on": "2025-07-06 00:11:18",
       "slug": "yogurt-parfait",
       "category": "Food & Drink",
@@ -65662,7 +65662,7 @@
     },
     {
       "title": "Yuba Sheet",
-      "file_name": "yuba-sheet.png",
+      "file_name": "images/food_drink/yuba-sheet.png",
       "added_on": "2025-07-10 21:21:01",
       "slug": "yuba-sheet",
       "category": "Food & Drink",
@@ -69301,7 +69301,7 @@
     },
     {
       "title": "Yoyo",
-      "file_name": "yoyo.png",
+      "file_name": "images/sports/yoyo.png",
       "added_on": "2025-07-13 19:01:22",
       "slug": "yoyo",
       "category": "Sports",
@@ -74569,7 +74569,7 @@
     },
     {
       "title": "Yong Tau Foo",
-      "file_name": "yong-tau-foo.png",
+      "file_name": "images/food_drink/yong-tau-foo.png",
       "added_on": "2025-07-18 15:24:24",
       "slug": "yong-tau-foo",
       "category": "Food & Drink",
@@ -78924,7 +78924,7 @@
     },
     {
       "title": "Zap-off",
-      "file_name": "zap-off.png",
+      "file_name": "images/interface_symbols/zap-off.png",
       "added_on": "2025-07-24 22:07:38",
       "slug": "zap-off",
       "category": "Interface & Symbols",
@@ -89129,7 +89129,7 @@
     },
     {
       "title": "Zamboni",
-      "file_name": "zamboni.png",
+      "file_name": "images/sports/zamboni.png",
       "added_on": "2025-09-06 19:41:12",
       "slug": "zamboni",
       "category": "Sports",
@@ -94376,7 +94376,7 @@
     },
     {
       "title": "Yuri Gagarin",
-      "file_name": "yuri-gagarin.png",
+      "file_name": "images/historical_figures/yuri-gagarin.png",
       "added_on": "2025-09-18 16:41:36",
       "slug": "yuri-gagarin",
       "category": "Historical Figures",
@@ -97600,7 +97600,7 @@
     },
     {
       "title": "Yorkshire Pudding",
-      "file_name": "yorkshire-pudding.png",
+      "file_name": "images/food_drink/yorkshire-pudding.png",
       "added_on": "2025-09-25 18:51:22",
       "slug": "yorkshire-pudding",
       "category": "Food & Drink",
@@ -101166,7 +101166,7 @@
     },
     {
       "title": "Za'atar Flatbread",
-      "file_name": "zaatar-flatbread.png",
+      "file_name": "images/food_drink/zaatar-flatbread.png",
       "added_on": "2025-10-05 09:11:27",
       "slug": "zaatar-flatbread",
       "category": "Food & Drink",
@@ -119176,7 +119176,7 @@
     },
     {
       "title": "Yushan",
-      "file_name": "yushan.png",
+      "file_name": "images/nature_outdoors/yushan.png",
       "added_on": "2025-12-04 19:31:23",
       "slug": "yushan",
       "category": "Nature & Outdoors",
