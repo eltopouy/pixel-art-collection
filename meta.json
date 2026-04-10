@@ -2516,7 +2516,7 @@
     },
     {
       "title": "Plumber",
-      "file_name": "plumber.png",
+      "file_name": "images/professions/plumber.png",
       "added_on": "2025-05-16 13:22:30",
       "slug": "plumber",
       "category": "Professions",
@@ -13623,7 +13623,7 @@
     },
     {
       "title": "Pocket Sundial",
-      "file_name": "pocket-sundial.png",
+      "file_name": "images/space_science/pocket-sundial.png",
       "added_on": "2025-05-26 11:10:47",
       "slug": "pocket-sundial",
       "category": "Space & Science",
@@ -20691,7 +20691,7 @@
     },
     {
       "title": "Pliers",
-      "file_name": "pliers.png",
+      "file_name": "images/work_industry/pliers.png",
       "added_on": "2025-06-02 10:24:59",
       "slug": "pliers",
       "category": "Work & Industry",
@@ -20847,7 +20847,7 @@
     },
     {
       "title": "Pocket Knife",
-      "file_name": "pocket-knife.png",
+      "file_name": "images/everyday_life/pocket-knife.png",
       "added_on": "2025-06-02 12:09:57",
       "slug": "pocket-knife",
       "category": "Everyday Life",
@@ -39334,7 +39334,7 @@
     },
     {
       "title": "Pluto",
-      "file_name": "pluto.png",
+      "file_name": "images/space_science/pluto.png",
       "added_on": "2025-06-13 09:49:23",
       "slug": "pluto",
       "category": "Space & Science",
@@ -52015,7 +52015,7 @@
     },
     {
       "title": "Plumbing",
-      "file_name": "plumbing.png",
+      "file_name": "images/work_industry/plumbing.png",
       "added_on": "2025-06-24 19:37:48",
       "slug": "plumbing",
       "category": "Work & Industry",
@@ -53557,7 +53557,7 @@
     },
     {
       "title": "Ploughman\u2019s Board",
-      "file_name": "ploughmans-board.png",
+      "file_name": "images/food_drink/ploughmans-board.png",
       "added_on": "2025-06-27 08:37:44",
       "slug": "ploughmans-board",
       "category": "Food & Drink",
@@ -61030,7 +61030,7 @@
     },
     {
       "title": "Pneumatic Tube",
-      "file_name": "pneumatic-tube.png",
+      "file_name": "images/work_industry/pneumatic-tube.png",
       "added_on": "2025-07-08 19:05:53",
       "slug": "pneumatic-tube",
       "category": "Work & Industry",
@@ -62519,7 +62519,7 @@
     },
     {
       "title": "Plug-In Apartment Pod",
-      "file_name": "plug-in-apartment-pod.png",
+      "file_name": "images/places_structures/plug-in-apartment-pod.png",
       "added_on": "2025-07-09 06:41:06",
       "slug": "plug-in-apartment-pod",
       "category": "Places & Structures",
@@ -63498,7 +63498,7 @@
     },
     {
       "title": "Plush Monster",
-      "file_name": "plush-monster.png",
+      "file_name": "images/fantasy_imagination/plush-monster.png",
       "added_on": "2025-07-09 13:36:02",
       "slug": "plush-monster",
       "category": "Fantasy & Imagination",
@@ -68191,7 +68191,7 @@
     },
     {
       "title": "Pneumatic Tube Pod",
-      "file_name": "pneumatic-tube-pod.png",
+      "file_name": "images/vehicles_transport/pneumatic-tube-pod.png",
       "added_on": "2025-07-12 20:21:29",
       "slug": "pneumatic-tube-pod",
       "category": "Vehicles & Transport",
@@ -70412,7 +70412,7 @@
     },
     {
       "title": "Pocket Theremin",
-      "file_name": "pocket-theremin.png",
+      "file_name": "images/hobbies/pocket-theremin.png",
       "added_on": "2025-07-14 12:21:41",
       "slug": "pocket-theremin",
       "category": "Hobbies",
@@ -71117,7 +71117,7 @@
     },
     {
       "title": "Plus-sized Model",
-      "file_name": "plus-sized-model.png",
+      "file_name": "images/fashion_style/plus-sized-model.png",
       "added_on": "2025-07-15 08:37:05",
       "slug": "plus-sized-model",
       "category": "Fashion & Style",
@@ -75156,7 +75156,7 @@
     },
     {
       "title": "Plum",
-      "file_name": "plum.png",
+      "file_name": "images/food_drink/plum.png",
       "added_on": "2025-07-19 14:44:27",
       "slug": "plum",
       "category": "Food & Drink",
@@ -75691,7 +75691,7 @@
     },
     {
       "title": "Plus Sign",
-      "file_name": "plus-sign.png",
+      "file_name": "images/interface_symbols/plus-sign.png",
       "added_on": "2025-07-19 21:31:21",
       "slug": "plus-sign",
       "category": "Interface & Symbols",
@@ -89207,7 +89207,7 @@
     },
     {
       "title": "Plug Adapter",
-      "file_name": "plug-adapter.png",
+      "file_name": "images/everyday_life/plug-adapter.png",
       "added_on": "2025-09-07 13:51:12",
       "slug": "plug-adapter",
       "category": "Everyday Life",
@@ -99959,7 +99959,7 @@
     },
     {
       "title": "Pocket Lint",
-      "file_name": "pocket-lint.png",
+      "file_name": "images/everyday_life/pocket-lint.png",
       "added_on": "2025-10-02 12:41:17",
       "slug": "pocket-lint",
       "category": "Everyday Life",
@@ -107168,7 +107168,7 @@
     },
     {
       "title": "Pocket Change",
-      "file_name": "pocket-change.png",
+      "file_name": "images/everyday_life/pocket-change.png",
       "added_on": "2025-10-22 19:11:12",
       "slug": "pocket-change",
       "category": "Everyday Life",
@@ -108590,7 +108590,7 @@
     },
     {
       "title": "Pocket Bike",
-      "file_name": "pocket-bike.png",
+      "file_name": "images/vehicles_transport/pocket-bike.png",
       "added_on": "2025-10-26 15:31:20",
       "slug": "pocket-bike",
       "category": "Vehicles & Transport",
@@ -115042,7 +115042,7 @@
     },
     {
       "title": "Plush Creature",
-      "file_name": "plush-creature.png",
+      "file_name": "images/hobbies/plush-creature.png",
       "added_on": "2025-11-12 12:12:16",
       "slug": "plush-creature",
       "category": "Hobbies",
@@ -130926,7 +130926,7 @@
     },
     {
       "title": "Pocket Watch Necklace",
-      "file_name": "pocket-watch-necklace.png",
+      "file_name": "images/fashion_style/pocket-watch-necklace.png",
       "added_on": "2026-03-19 00:21:14",
       "slug": "pocket-watch-necklace",
       "category": "Fashion & Style",
