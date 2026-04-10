@@ -13987,7 +13987,7 @@
     },
     {
       "title": "Theme park",
-      "file_name": "theme-park.png",
+      "file_name": "images/entertainment_leisure/theme-park.png",
       "added_on": "2025-05-26 16:40:51",
       "slug": "theme-park",
       "category": "Entertainment & Leisure",
@@ -19754,7 +19754,7 @@
     },
     {
       "title": "The Sphinx",
-      "file_name": "the-sphinx.png",
+      "file_name": "images/places_structures/the-sphinx.png",
       "added_on": "2025-06-02 09:32:08",
       "slug": "the-sphinx",
       "category": "Places & Structures",
@@ -19901,7 +19901,7 @@
     },
     {
       "title": "The Temple of Artemis",
-      "file_name": "the-temple-of-artemis.png",
+      "file_name": "images/places_structures/the-temple-of-artemis.png",
       "added_on": "2025-06-02 09:39:22",
       "slug": "the-temple-of-artemis",
       "category": "Places & Structures",
@@ -20170,7 +20170,7 @@
     },
     {
       "title": "The Titanic",
-      "file_name": "the-titanic.png",
+      "file_name": "images/vehicles_transport/the-titanic.png",
       "added_on": "2025-06-02 09:42:18",
       "slug": "the-titanic",
       "category": "Vehicles & Transport",
@@ -24234,7 +24234,7 @@
     },
     {
       "title": "The White House",
-      "file_name": "the-white-house.png",
+      "file_name": "images/places_structures/the-white-house.png",
       "added_on": "2025-06-04 08:55:15",
       "slug": "the-white-house",
       "category": "Places & Structures",
@@ -26180,7 +26180,7 @@
     },
     {
       "title": "Theologian",
-      "file_name": "theologian.png",
+      "file_name": "images/professions/theologian.png",
       "added_on": "2025-06-07 10:01:42",
       "slug": "theologian",
       "category": "Professions",
@@ -31919,7 +31919,7 @@
     },
     {
       "title": "Thermal Imaging Camera",
-      "file_name": "thermal-imaging-camera.png",
+      "file_name": "images/space_science/thermal-imaging-camera.png",
       "added_on": "2025-06-11 05:54:58",
       "slug": "thermal-imaging-camera",
       "category": "Space & Science",
@@ -35225,7 +35225,7 @@
     },
     {
       "title": "Theater Opening",
-      "file_name": "theater-opening.png",
+      "file_name": "images/events/theater-opening.png",
       "added_on": "2025-06-12 04:19:01",
       "slug": "theater-opening",
       "category": "Events",
@@ -35498,7 +35498,7 @@
     },
     {
       "title": "Thermometer",
-      "file_name": "thermometer.png",
+      "file_name": "images/health_wellness/thermometer.png",
       "added_on": "2025-06-12 06:36:59",
       "slug": "thermometer",
       "category": "Health & Wellness",
@@ -35875,7 +35875,7 @@
     },
     {
       "title": "Therizinosaurus",
-      "file_name": "therizinosaurus.png",
+      "file_name": "images/animals/therizinosaurus.png",
       "added_on": "2025-06-12 08:36:51",
       "slug": "therizinosaurus",
       "category": "Animals",
@@ -36493,7 +36493,7 @@
     },
     {
       "title": "Theatre and Cinema",
-      "file_name": "theatre-and-cinema.png",
+      "file_name": "images/entertainment_leisure/theatre-and-cinema.png",
       "added_on": "2025-06-12 17:51:09",
       "slug": "theatre-and-cinema",
       "category": "Entertainment & Leisure",
@@ -37994,7 +37994,7 @@
     },
     {
       "title": "Theodolite",
-      "file_name": "theodolite.png",
+      "file_name": "images/work_industry/theodolite.png",
       "added_on": "2025-06-12 23:06:19",
       "slug": "theodolite",
       "category": "Work & Industry",
@@ -39503,7 +39503,7 @@
     },
     {
       "title": "Thermal Camera",
-      "file_name": "thermal-camera.png",
+      "file_name": "images/space_science/thermal-camera.png",
       "added_on": "2025-06-13 11:25:44",
       "slug": "thermal-camera",
       "category": "Space & Science",
@@ -40223,7 +40223,7 @@
     },
     {
       "title": "Thermocouple",
-      "file_name": "thermocouple.png",
+      "file_name": "images/space_science/thermocouple.png",
       "added_on": "2025-06-13 17:43:20",
       "slug": "thermocouple",
       "category": "Space & Science",
@@ -42850,7 +42850,7 @@
     },
     {
       "title": "Theater Seat",
-      "file_name": "theater-seat.png",
+      "file_name": "images/entertainment_leisure/theater-seat.png",
       "added_on": "2025-06-14 07:31:07",
       "slug": "theater-seat",
       "category": "Entertainment & Leisure",
@@ -43410,7 +43410,7 @@
     },
     {
       "title": "Theater",
-      "file_name": "theater.png",
+      "file_name": "images/places_structures/theater.png",
       "added_on": "2025-06-14 11:55:10",
       "slug": "theater",
       "category": "Places & Structures",
@@ -50708,7 +50708,7 @@
     },
     {
       "title": "Theatre Playbill",
-      "file_name": "theatre-playbill.png",
+      "file_name": "images/entertainment_leisure/theatre-playbill.png",
       "added_on": "2025-06-23 00:01:28",
       "slug": "theatre-playbill",
       "category": "Entertainment & Leisure",
@@ -72313,7 +72313,7 @@
     },
     {
       "title": "Thermal Work Gloves",
-      "file_name": "thermal-work-gloves.png",
+      "file_name": "images/work_industry/thermal-work-gloves.png",
       "added_on": "2025-07-16 15:41:17",
       "slug": "thermal-work-gloves",
       "category": "Work & Industry",
@@ -81202,7 +81202,7 @@
     },
     {
       "title": "The Thinker Statue",
-      "file_name": "the-thinker-statue.png",
+      "file_name": "images/places_structures/the-thinker-statue.png",
       "added_on": "2025-07-28 20:31:24",
       "slug": "the-thinker-statue",
       "category": "Places & Structures",
@@ -91501,7 +91501,7 @@
     },
     {
       "title": "Thermal Blanket",
-      "file_name": "thermal-blanket.png",
+      "file_name": "images/space_science/thermal-blanket.png",
       "added_on": "2025-09-11 23:41:20",
       "slug": "thermal-blanket",
       "category": "Space & Science",
@@ -104524,7 +104524,7 @@
     },
     {
       "title": "Therapy Dog",
-      "file_name": "therapy-dog.png",
+      "file_name": "images/health_wellness/therapy-dog.png",
       "added_on": "2025-10-12 16:01:40",
       "slug": "therapy-dog",
       "category": "Health & Wellness",
