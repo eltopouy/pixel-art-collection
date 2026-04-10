@@ -327,7 +327,7 @@
     },
     {
       "title": "Hair Dryer",
-      "file_name": "hair-dryer.png",
+      "file_name": "images/everyday_life/hair-dryer.png",
       "added_on": "2025-05-15 16:40:06",
       "slug": "hair-dryer",
       "category": "Everyday Life",
@@ -9899,7 +9899,7 @@
     },
     {
       "title": "Hacker",
-      "file_name": "hacker.png",
+      "file_name": "images/professions/hacker.png",
       "added_on": "2025-05-23 09:40:52",
       "slug": "hacker",
       "category": "Professions",
@@ -19995,7 +19995,7 @@
     },
     {
       "title": "Hagia Sophia",
-      "file_name": "hagia-sophia.png",
+      "file_name": "images/places_structures/hagia-sophia.png",
       "added_on": "2025-06-02 09:39:44",
       "slug": "hagia-sophia",
       "category": "Places & Structures",
@@ -22992,7 +22992,7 @@
     },
     {
       "title": "Gyroscope",
-      "file_name": "gyroscope.png",
+      "file_name": "images/space_science/gyroscope.png",
       "added_on": "2025-06-04 01:01:02",
       "slug": "gyroscope",
       "category": "Space & Science",
@@ -23506,7 +23506,7 @@
     },
     {
       "title": "Gyroscope",
-      "file_name": "gyroscope-egjs9i.png",
+      "file_name": "images/space_science/gyroscope-egjs9i.png",
       "added_on": "2025-06-04 08:30:46",
       "slug": "gyroscope-egjs9i",
       "category": "Space & Science",
@@ -44981,7 +44981,7 @@
     },
     {
       "title": "Gyoza",
-      "file_name": "gyoza.png",
+      "file_name": "images/food_drink/gyoza.png",
       "added_on": "2025-06-14 21:24:58",
       "slug": "gyoza",
       "category": "Food & Drink",
@@ -60071,7 +60071,7 @@
     },
     {
       "title": "Gyrocopter",
-      "file_name": "gyrocopter.png",
+      "file_name": "images/vehicles_transport/gyrocopter.png",
       "added_on": "2025-07-08 11:50:54",
       "slug": "gyrocopter",
       "category": "Vehicles & Transport",
@@ -72066,7 +72066,7 @@
     },
     {
       "title": "Hair Tinsel",
-      "file_name": "hair-tinsel.png",
+      "file_name": "images/fashion_style/hair-tinsel.png",
       "added_on": "2025-07-16 12:11:26",
       "slug": "hair-tinsel",
       "category": "Fashion & Style",
@@ -74777,7 +74777,7 @@
     },
     {
       "title": "Hair Dye",
-      "file_name": "hair-dye.png",
+      "file_name": "images/fashion_style/hair-dye.png",
       "added_on": "2025-07-18 20:21:24",
       "slug": "hair-dye",
       "category": "Fashion & Style",
@@ -77428,7 +77428,7 @@
     },
     {
       "title": "Hair Salon",
-      "file_name": "hair-salon.png",
+      "file_name": "images/places_structures/hair-salon.png",
       "added_on": "2025-07-24 09:02:24",
       "slug": "hair-salon",
       "category": "Places & Structures",
@@ -77922,7 +77922,7 @@
     },
     {
       "title": "Hair Elastic",
-      "file_name": "hair-elastic.png",
+      "file_name": "images/fashion_style/hair-elastic.png",
       "added_on": "2025-07-24 10:12:21",
       "slug": "hair-elastic",
       "category": "Fashion & Style",
@@ -79002,7 +79002,7 @@
     },
     {
       "title": "Hackerman",
-      "file_name": "hackerman.png",
+      "file_name": "images/technology_media/hackerman.png",
       "added_on": "2025-07-24 22:08:02",
       "slug": "hackerman",
       "category": "Technology & Media",
@@ -91369,7 +91369,7 @@
     },
     {
       "title": "Hacky Sack",
-      "file_name": "hacky-sack.png",
+      "file_name": "images/sports/hacky-sack.png",
       "added_on": "2025-09-11 21:41:23",
       "slug": "hacky-sack",
       "category": "Sports",
@@ -95577,7 +95577,7 @@
     },
     {
       "title": "Gynecological Speculum",
-      "file_name": "gynecological-speculum.png",
+      "file_name": "images/health_wellness/gynecological-speculum.png",
       "added_on": "2025-09-21 12:51:21",
       "slug": "gynecological-speculum",
       "category": "Health & Wellness",
@@ -95590,7 +95590,7 @@
     },
     {
       "title": "Gynecological Chair",
-      "file_name": "gynecological-chair.png",
+      "file_name": "images/health_wellness/gynecological-chair.png",
       "added_on": "2025-09-21 13:01:23",
       "slug": "gynecological-chair",
       "category": "Health & Wellness",
@@ -117452,7 +117452,7 @@
     },
     {
       "title": "Gyotaku Fish Print",
-      "file_name": "gyotaku-fish-print.png",
+      "file_name": "images/hobbies/gyotaku-fish-print.png",
       "added_on": "2025-11-24 15:31:41",
       "slug": "gyotaku-fish-print",
       "category": "Hobbies",
@@ -117481,7 +117481,7 @@
     },
     {
       "title": "Hailstone",
-      "file_name": "hailstone.png",
+      "file_name": "images/nature_outdoors/hailstone.png",
       "added_on": "2025-11-24 15:51:36",
       "slug": "hailstone",
       "category": "Nature & Outdoors",
@@ -120829,7 +120829,7 @@
     },
     {
       "title": "Gynecology chair",
-      "file_name": "gynecology-chair.png",
+      "file_name": "images/health_wellness/gynecology-chair.png",
       "added_on": "2026-01-23 00:01:20",
       "slug": "gynecology-chair",
       "category": "Health & Wellness",
@@ -127276,7 +127276,7 @@
     },
     {
       "title": "Hair Fall",
-      "file_name": "hair-fall.png",
+      "file_name": "images/health_wellness/hair-fall.png",
       "added_on": "2026-02-25 12:51:17",
       "slug": "hair-fall",
       "category": "Health & Wellness",
@@ -127601,7 +127601,7 @@
     },
     {
       "title": "Haida Bentwood Box",
-      "file_name": "haida-bentwood-box.png",
+      "file_name": "images/history_culture/haida-bentwood-box.png",
       "added_on": "2026-03-02 19:31:11",
       "slug": "haida-bentwood-box",
       "category": "History & Culture",
