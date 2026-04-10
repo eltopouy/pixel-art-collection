@@ -4895,7 +4895,7 @@
     },
     {
       "title": "Rowboat",
-      "file_name": "rowboat.png",
+      "file_name": "images/vehicles_transport/rowboat.png",
       "added_on": "2025-05-17 16:00:50",
       "slug": "rowboat",
       "category": "Vehicles & Transport",
@@ -8456,7 +8456,7 @@
     },
     {
       "title": "Router",
-      "file_name": "router.png",
+      "file_name": "images/technology_media/router.png",
       "added_on": "2025-05-22 15:41:09",
       "slug": "router",
       "category": "Technology & Media",
@@ -11279,7 +11279,7 @@
     },
     {
       "title": "Rose",
-      "file_name": "rose.png",
+      "file_name": "images/nature_outdoors/rose.png",
       "added_on": "2025-05-24 04:01:19",
       "slug": "rose",
       "category": "Nature & Outdoors",
@@ -17291,7 +17291,7 @@
     },
     {
       "title": "Roubo Workbench",
-      "file_name": "roubo-workbench.png",
+      "file_name": "images/work_industry/roubo-workbench.png",
       "added_on": "2025-05-31 11:01:34",
       "slug": "roubo-workbench",
       "category": "Work & Industry",
@@ -24117,7 +24117,7 @@
     },
     {
       "title": "Rostrum",
-      "file_name": "rostrum.png",
+      "file_name": "images/places_structures/rostrum.png",
       "added_on": "2025-06-04 08:53:48",
       "slug": "rostrum",
       "category": "Places & Structures",
@@ -25889,7 +25889,7 @@
     },
     {
       "title": "Rosemary",
-      "file_name": "rosemary.png",
+      "file_name": "images/food_drink/rosemary.png",
       "added_on": "2025-06-06 21:30:53",
       "slug": "rosemary",
       "category": "Food & Drink",
@@ -26820,7 +26820,7 @@
     },
     {
       "title": "Rotary Cutter for Fabric",
-      "file_name": "rotary-cutter-for-fabric.png",
+      "file_name": "images/work_industry/rotary-cutter-for-fabric.png",
       "added_on": "2025-06-07 15:04:19",
       "slug": "rotary-cutter-for-fabric",
       "category": "Work & Industry",
@@ -31224,7 +31224,7 @@
     },
     {
       "title": "Rosetta Stone",
-      "file_name": "rosetta-stone.png",
+      "file_name": "images/history_culture/rosetta-stone.png",
       "added_on": "2025-06-10 23:48:52",
       "slug": "rosetta-stone",
       "category": "History & Culture",
@@ -35888,7 +35888,7 @@
     },
     {
       "title": "Roses",
-      "file_name": "roses.png",
+      "file_name": "images/nature_outdoors/roses.png",
       "added_on": "2025-06-12 08:36:53",
       "slug": "roses",
       "category": "Nature & Outdoors",
@@ -37721,7 +37721,7 @@
     },
     {
       "title": "Rouen Cathedral",
-      "file_name": "rouen-cathedral.png",
+      "file_name": "images/places_structures/rouen-cathedral.png",
       "added_on": "2025-06-12 23:05:11",
       "slug": "rouen-cathedral",
       "category": "Places & Structures",
@@ -46182,7 +46182,7 @@
     },
     {
       "title": "Rotary phone",
-      "file_name": "rotary-phone.png",
+      "file_name": "images/technology_media/rotary-phone.png",
       "added_on": "2025-06-15 23:25:02",
       "slug": "rotary-phone",
       "category": "Technology & Media",
@@ -46343,7 +46343,7 @@
     },
     {
       "title": "Rowing Boat",
-      "file_name": "rowing-boat.png",
+      "file_name": "images/vehicles_transport/rowing-boat.png",
       "added_on": "2025-06-16 13:12:00",
       "slug": "rowing-boat",
       "category": "Vehicles & Transport",
@@ -49550,7 +49550,7 @@
     },
     {
       "title": "Rottweiler",
-      "file_name": "rottweiler.png",
+      "file_name": "images/animals/rottweiler.png",
       "added_on": "2025-06-22 17:34:34",
       "slug": "rottweiler",
       "category": "Animals",
@@ -76438,7 +76438,7 @@
     },
     {
       "title": "Rough-skinned Newt",
-      "file_name": "rough-skinned-newt.png",
+      "file_name": "images/animals/rough-skinned-newt.png",
       "added_on": "2025-07-20 18:01:34",
       "slug": "rough-skinned-newt",
       "category": "Animals",
@@ -84237,7 +84237,7 @@
     },
     {
       "title": "Rose Quartz",
-      "file_name": "rose-quartz.png",
+      "file_name": "images/nature_outdoors/rose-quartz.png",
       "added_on": "2025-08-17 06:11:24",
       "slug": "rose-quartz",
       "category": "Nature & Outdoors",
@@ -104407,7 +104407,7 @@
     },
     {
       "title": "Rosemary Lemon Scone",
-      "file_name": "rosemary-lemon-scone.png",
+      "file_name": "images/food_drink/rosemary-lemon-scone.png",
       "added_on": "2025-10-12 11:11:44",
       "slug": "rosemary-lemon-scone",
       "category": "Food & Drink",
@@ -106854,7 +106854,7 @@
     },
     {
       "title": "Rotate Icon",
-      "file_name": "rotate-icon.png",
+      "file_name": "images/interface_symbols/rotate-icon.png",
       "added_on": "2025-10-21 15:21:17",
       "slug": "rotate-icon",
       "category": "Interface & Symbols",
@@ -112366,7 +112366,7 @@
     },
     {
       "title": "Rosemary Focaccia Knot",
-      "file_name": "rosemary-focaccia-knot.png",
+      "file_name": "images/food_drink/rosemary-focaccia-knot.png",
       "added_on": "2025-11-02 19:02:01",
       "slug": "rosemary-focaccia-knot",
       "category": "Food & Drink",
@@ -113478,7 +113478,7 @@
     },
     {
       "title": "Rotating Restaurant",
-      "file_name": "rotating-restaurant.png",
+      "file_name": "images/places_structures/rotating-restaurant.png",
       "added_on": "2025-11-07 01:01:58",
       "slug": "rotating-restaurant",
       "category": "Places & Structures",
@@ -126400,7 +126400,7 @@
     },
     {
       "title": "Rosemary Lemonade",
-      "file_name": "rosemary-lemonade.png",
+      "file_name": "images/food_drink/rosemary-lemonade.png",
       "added_on": "2026-02-11 19:01:13",
       "slug": "rosemary-lemonade",
       "category": "Food & Drink",
