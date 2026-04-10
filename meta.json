@@ -3089,7 +3089,7 @@
     },
     {
       "title": "Mosque",
-      "file_name": "mosque.png",
+      "file_name": "images/places_structures/mosque.png",
       "added_on": "2025-05-16 18:05:58",
       "slug": "mosque",
       "category": "Places & Structures",
@@ -7130,7 +7130,7 @@
     },
     {
       "title": "Moss",
-      "file_name": "moss.png",
+      "file_name": "images/nature_outdoors/moss.png",
       "added_on": "2025-05-19 03:10:51",
       "slug": "moss",
       "category": "Nature & Outdoors",
@@ -7988,7 +7988,7 @@
     },
     {
       "title": "Morocco",
-      "file_name": "morocco.png",
+      "file_name": "images/countries/morocco.png",
       "added_on": "2025-05-20 02:31:05",
       "slug": "morocco",
       "category": "Countries",
@@ -19556,7 +19556,7 @@
     },
     {
       "title": "Mosque",
-      "file_name": "mosque-yd2uxi.png",
+      "file_name": "images/places_structures/mosque-yd2uxi.png",
       "added_on": "2025-06-02 09:17:11",
       "slug": "mosque-yd2uxi",
       "category": "Places & Structures",
@@ -26638,7 +26638,7 @@
     },
     {
       "title": "Mortarboard",
-      "file_name": "mortarboard.png",
+      "file_name": "images/work_industry/mortarboard.png",
       "added_on": "2025-06-07 15:02:42",
       "slug": "mortarboard",
       "category": "Work & Industry",
@@ -29258,7 +29258,7 @@
     },
     {
       "title": "Mossy Boulder",
-      "file_name": "mossy-boulder.png",
+      "file_name": "images/nature_outdoors/mossy-boulder.png",
       "added_on": "2025-06-10 09:55:33",
       "slug": "mossy-boulder",
       "category": "Nature & Outdoors",
@@ -30028,7 +30028,7 @@
     },
     {
       "title": "Mosaic Tile",
-      "file_name": "mosaic-tile.png",
+      "file_name": "images/history_culture/mosaic-tile.png",
       "added_on": "2025-06-10 16:31:07",
       "slug": "mosaic-tile",
       "category": "History & Culture",
@@ -45998,7 +45998,7 @@
     },
     {
       "title": "MOSFET",
-      "file_name": "mosfet.png",
+      "file_name": "images/technology_media/mosfet.png",
       "added_on": "2025-06-15 23:13:20",
       "slug": "mosfet",
       "category": "Technology & Media",
@@ -46932,7 +46932,7 @@
     },
     {
       "title": "Mosquito",
-      "file_name": "mosquito.png",
+      "file_name": "images/animals/mosquito.png",
       "added_on": "2025-06-18 13:27:52",
       "slug": "mosquito",
       "category": "Animals",
@@ -56010,7 +56010,7 @@
     },
     {
       "title": "Mosquito Net",
-      "file_name": "mosquito-net.png",
+      "file_name": "images/everyday_life/mosquito-net.png",
       "added_on": "2025-06-30 22:00:08",
       "slug": "mosquito-net",
       "category": "Everyday Life",
@@ -56205,7 +56205,7 @@
     },
     {
       "title": "More Icon",
-      "file_name": "more-icon.png",
+      "file_name": "images/interface_symbols/more-icon.png",
       "added_on": "2025-07-01 08:48:58",
       "slug": "more-icon",
       "category": "Interface & Symbols",
@@ -56939,7 +56939,7 @@
     },
     {
       "title": "Mossy Log",
-      "file_name": "mossy-log.png",
+      "file_name": "images/nature_outdoors/mossy-log.png",
       "added_on": "2025-07-05 16:50:53",
       "slug": "mossy-log",
       "category": "Nature & Outdoors",
@@ -63139,7 +63139,7 @@
     },
     {
       "title": "Moroccan Mint Tea",
-      "file_name": "moroccan-mint-tea.png",
+      "file_name": "images/food_drink/moroccan-mint-tea.png",
       "added_on": "2025-07-09 11:11:45",
       "slug": "moroccan-mint-tea",
       "category": "Food & Drink",
@@ -68230,7 +68230,7 @@
     },
     {
       "title": "Moss Ball",
-      "file_name": "moss-ball.png",
+      "file_name": "images/nature_outdoors/moss-ball.png",
       "added_on": "2025-07-12 22:11:17",
       "slug": "moss-ball",
       "category": "Nature & Outdoors",
@@ -83295,7 +83295,7 @@
     },
     {
       "title": "Mosasaur",
-      "file_name": "mosasaur.png",
+      "file_name": "images/animals/mosasaur.png",
       "added_on": "2025-08-08 08:51:19",
       "slug": "mosasaur",
       "category": "Animals",
@@ -88454,7 +88454,7 @@
     },
     {
       "title": "Morning Glory Muffin",
-      "file_name": "morning-glory-muffin.png",
+      "file_name": "images/food_drink/morning-glory-muffin.png",
       "added_on": "2025-09-05 10:21:25",
       "slug": "morning-glory-muffin",
       "category": "Food & Drink",
@@ -103624,7 +103624,7 @@
     },
     {
       "title": "Moroccan Tea",
-      "file_name": "moroccan-tea.png",
+      "file_name": "images/food_drink/moroccan-tea.png",
       "added_on": "2025-10-10 13:52:00",
       "slug": "moroccan-tea",
       "category": "Food & Drink",
@@ -107324,7 +107324,7 @@
     },
     {
       "title": "Moss Terrarium",
-      "file_name": "moss-terrarium.png",
+      "file_name": "images/hobbies/moss-terrarium.png",
       "added_on": "2025-10-22 21:31:17",
       "slug": "moss-terrarium",
       "category": "Hobbies",
@@ -111435,7 +111435,7 @@
     },
     {
       "title": "Mossy Stone Well",
-      "file_name": "mossy-stone-well.png",
+      "file_name": "images/places_structures/mossy-stone-well.png",
       "added_on": "2025-10-31 12:11:57",
       "slug": "mossy-stone-well",
       "category": "Places & Structures",
@@ -114115,7 +114115,7 @@
     },
     {
       "title": "Moth Brooch",
-      "file_name": "moth-brooch.png",
+      "file_name": "images/fashion_style/moth-brooch.png",
       "added_on": "2025-11-09 14:52:01",
       "slug": "moth-brooch",
       "category": "Fashion & Style",
