@@ -8118,7 +8118,7 @@
     },
     {
       "title": "Switzerland",
-      "file_name": "switzerland.png",
+      "file_name": "images/countries/switzerland.png",
       "added_on": "2025-05-20 06:01:11",
       "slug": "switzerland",
       "category": "Countries",
@@ -11526,7 +11526,7 @@
     },
     {
       "title": "Sword",
-      "file_name": "sword.png",
+      "file_name": "images/everyday_life/sword.png",
       "added_on": "2025-05-24 09:31:20",
       "slug": "sword",
       "category": "Everyday Life",
@@ -23349,7 +23349,7 @@
     },
     {
       "title": "Swiss 'Crocodile' Electric Train Locomotive",
-      "file_name": "swiss-crocodile-electric-train-locomotive.png",
+      "file_name": "images/vehicles_transport/swiss-crocodile-electric-train-locomotive.png",
       "added_on": "2025-06-04 08:29:24",
       "slug": "swiss-crocodile-electric-train-locomotive",
       "category": "Vehicles & Transport",
@@ -26111,7 +26111,7 @@
     },
     {
       "title": "Sydney Opera House",
-      "file_name": "sydney-opera-house.png",
+      "file_name": "images/places_structures/sydney-opera-house.png",
       "added_on": "2025-06-07 07:31:26",
       "slug": "sydney-opera-house",
       "category": "Places & Structures",
@@ -31762,7 +31762,7 @@
     },
     {
       "title": "Synagogue",
-      "file_name": "synagogue.png",
+      "file_name": "images/places_structures/synagogue.png",
       "added_on": "2025-06-11 04:37:00",
       "slug": "synagogue",
       "category": "Places & Structures",
@@ -37895,7 +37895,7 @@
     },
     {
       "title": "Sydney, Australia",
-      "file_name": "sydney-australia.png",
+      "file_name": "images/places_structures/sydney-australia.png",
       "added_on": "2025-06-12 23:06:00",
       "slug": "sydney-australia",
       "category": "Places & Structures",
@@ -40991,7 +40991,7 @@
     },
     {
       "title": "Swordtail",
-      "file_name": "swordtail.png",
+      "file_name": "images/animals/swordtail.png",
       "added_on": "2025-06-13 22:28:09",
       "slug": "swordtail",
       "category": "Animals",
@@ -51276,7 +51276,7 @@
     },
     {
       "title": "Synthesizer",
-      "file_name": "synthesizer.png",
+      "file_name": "images/technology_media/synthesizer.png",
       "added_on": "2025-06-23 08:10:06",
       "slug": "synthesizer",
       "category": "Technology & Media",
@@ -61330,7 +61330,7 @@
     },
     {
       "title": "Switchboard",
-      "file_name": "switchboard.png",
+      "file_name": "images/work_industry/switchboard.png",
       "added_on": "2025-07-08 21:30:54",
       "slug": "switchboard",
       "category": "Work & Industry",
@@ -64562,7 +64562,7 @@
     },
     {
       "title": "Sycee",
-      "file_name": "sycee.png",
+      "file_name": "images/history_culture/sycee.png",
       "added_on": "2025-07-10 13:05:57",
       "slug": "sycee",
       "category": "History & Culture",
@@ -75782,7 +75782,7 @@
     },
     {
       "title": "Synchronized Swimmer",
-      "file_name": "synchronized-swimmer.png",
+      "file_name": "images/sports/synchronized-swimmer.png",
       "added_on": "2025-07-20 09:31:34",
       "slug": "synchronized-swimmer",
       "category": "Sports",
@@ -82625,7 +82625,7 @@
     },
     {
       "title": "Sword of Saint George",
-      "file_name": "sword-of-saint-george.png",
+      "file_name": "images/history_culture/sword-of-saint-george.png",
       "added_on": "2025-08-05 08:51:12",
       "slug": "sword-of-saint-george",
       "category": "History & Culture",
@@ -87490,7 +87490,7 @@
     },
     {
       "title": "Syrian Flag",
-      "file_name": "syrian-flag.png",
+      "file_name": "images/flags/syrian-flag.png",
       "added_on": "2025-09-02 09:51:24",
       "slug": "syrian-flag",
       "category": "Flags",
@@ -88168,7 +88168,7 @@
     },
     {
       "title": "Synopsis",
-      "file_name": "synopsis.png",
+      "file_name": "images/technology_media/synopsis.png",
       "added_on": "2025-09-04 20:32:24",
       "slug": "synopsis",
       "category": "Technology & Media",
@@ -104011,7 +104011,7 @@
     },
     {
       "title": "Synthetic Organism",
-      "file_name": "synthetic-organism.png",
+      "file_name": "images/space_science/synthetic-organism.png",
       "added_on": "2025-10-11 13:11:41",
       "slug": "synthetic-organism",
       "category": "Space & Science",
@@ -105014,7 +105014,7 @@
     },
     {
       "title": "Swordfish Steak",
-      "file_name": "swordfish-steak.png",
+      "file_name": "images/food_drink/swordfish-steak.png",
       "added_on": "2025-10-15 09:51:18",
       "slug": "swordfish-steak",
       "category": "Food & Drink",
@@ -106750,7 +106750,7 @@
     },
     {
       "title": "Sync Icon",
-      "file_name": "sync-icon.png",
+      "file_name": "images/interface_symbols/sync-icon.png",
       "added_on": "2025-10-21 13:42:19",
       "slug": "sync-icon",
       "category": "Interface & Symbols",
@@ -109779,7 +109779,7 @@
     },
     {
       "title": "Swiss Flag",
-      "file_name": "swiss-flag.png",
+      "file_name": "images/flags/swiss-flag.png",
       "added_on": "2025-10-28 16:12:04",
       "slug": "swiss-flag",
       "category": "Flags",
@@ -114260,7 +114260,7 @@
     },
     {
       "title": "Switch Device",
-      "file_name": "switch-device.png",
+      "file_name": "images/technology_media/switch-device.png",
       "added_on": "2025-11-09 17:01:59",
       "slug": "switch-device",
       "category": "Technology & Media",
@@ -124647,7 +124647,7 @@
     },
     {
       "title": "Swiss Guard",
-      "file_name": "swiss-guard.png",
+      "file_name": "images/professions/swiss-guard.png",
       "added_on": "2026-02-04 17:41:12",
       "slug": "swiss-guard",
       "category": "Professions",
@@ -131173,7 +131173,7 @@
     },
     {
       "title": "Swiss Roll",
-      "file_name": "swiss-roll.png",
+      "file_name": "images/food_drink/swiss-roll.png",
       "added_on": "2026-03-20 15:21:13",
       "slug": "swiss-roll",
       "category": "Food & Drink",
