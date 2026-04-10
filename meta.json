@@ -2646,7 +2646,7 @@
     },
     {
       "title": "Mechanic",
-      "file_name": "mechanic.png",
+      "file_name": "images/professions/mechanic.png",
       "added_on": "2025-05-16 13:58:25",
       "slug": "mechanic",
       "category": "Professions",
@@ -2868,7 +2868,7 @@
     },
     {
       "title": "Measuring Cup",
-      "file_name": "measuring-cup.png",
+      "file_name": "images/everyday_life/measuring-cup.png",
       "added_on": "2025-05-16 15:55:58",
       "slug": "measuring-cup",
       "category": "Everyday Life",
@@ -4700,7 +4700,7 @@
     },
     {
       "title": "Measuring Tape",
-      "file_name": "measuring-tape.png",
+      "file_name": "images/work_industry/measuring-tape.png",
       "added_on": "2025-05-17 12:51:26",
       "slug": "measuring-tape",
       "category": "Work & Industry",
@@ -6039,7 +6039,7 @@
     },
     {
       "title": "Meat",
-      "file_name": "meat.png",
+      "file_name": "images/food_drink/meat.png",
       "added_on": "2025-05-18 11:31:27",
       "slug": "meat",
       "category": "Food & Drink",
@@ -11201,7 +11201,7 @@
     },
     {
       "title": "Meatball",
-      "file_name": "meatball.png",
+      "file_name": "images/food_drink/meatball.png",
       "added_on": "2025-05-24 03:01:25",
       "slug": "meatball",
       "category": "Food & Drink",
@@ -12436,7 +12436,7 @@
     },
     {
       "title": "Measuring Spoon",
-      "file_name": "measuring-spoon.png",
+      "file_name": "images/everyday_life/measuring-spoon.png",
       "added_on": "2025-05-25 17:01:23",
       "slug": "measuring-spoon",
       "category": "Everyday Life",
@@ -26924,7 +26924,7 @@
     },
     {
       "title": "Measuring Cup",
-      "file_name": "measuring-cup-z60ekc.png",
+      "file_name": "images/everyday_life/measuring-cup-z60ekc.png",
       "added_on": "2025-06-07 15:04:44",
       "slug": "measuring-cup-z60ekc",
       "category": "Everyday Life",
@@ -26950,7 +26950,7 @@
     },
     {
       "title": "Measuring Spoon",
-      "file_name": "measuring-spoon-3n1dpt.png",
+      "file_name": "images/everyday_life/measuring-spoon-3n1dpt.png",
       "added_on": "2025-06-07 15:20:31",
       "slug": "measuring-spoon-3n1dpt",
       "category": "Everyday Life",
@@ -28376,7 +28376,7 @@
     },
     {
       "title": "Meat Tenderizer",
-      "file_name": "meat-tenderizer.png",
+      "file_name": "images/food_drink/meat-tenderizer.png",
       "added_on": "2025-06-08 21:33:51",
       "slug": "meat-tenderizer",
       "category": "Food & Drink",
@@ -36055,7 +36055,7 @@
     },
     {
       "title": "Mechagodzilla",
-      "file_name": "mechagodzilla.png",
+      "file_name": "images/fantasy_imagination/mechagodzilla.png",
       "added_on": "2025-06-12 08:39:30",
       "slug": "mechagodzilla",
       "category": "Fantasy & Imagination",
@@ -36883,7 +36883,7 @@
     },
     {
       "title": "Meadow",
-      "file_name": "meadow.png",
+      "file_name": "images/nature_outdoors/meadow.png",
       "added_on": "2025-06-12 20:01:10",
       "slug": "meadow",
       "category": "Nature & Outdoors",
@@ -42374,7 +42374,7 @@
     },
     {
       "title": "Maze",
-      "file_name": "maze.png",
+      "file_name": "images/places_structures/maze.png",
       "added_on": "2025-06-14 03:55:04",
       "slug": "maze",
       "category": "Places & Structures",
@@ -55631,7 +55631,7 @@
     },
     {
       "title": "Mecca",
-      "file_name": "mecca.png",
+      "file_name": "images/places_structures/mecca.png",
       "added_on": "2025-06-29 18:31:34",
       "slug": "mecca",
       "category": "Places & Structures",
@@ -58922,7 +58922,7 @@
     },
     {
       "title": "Maze garden",
-      "file_name": "maze-garden.png",
+      "file_name": "images/places_structures/maze-garden.png",
       "added_on": "2025-07-06 18:31:06",
       "slug": "maze-garden",
       "category": "Places & Structures",
@@ -67955,7 +67955,7 @@
     },
     {
       "title": "Mc Donalds Restaurant",
-      "file_name": "mc-donalds-restaurant.png",
+      "file_name": "images/places_structures/mc-donalds-restaurant.png",
       "added_on": "2025-07-12 15:11:35",
       "slug": "mc-donalds-restaurant",
       "category": "Places & Structures",
@@ -72508,7 +72508,7 @@
     },
     {
       "title": "Mayonnaise",
-      "file_name": "mayonnaise.png",
+      "file_name": "images/food_drink/mayonnaise.png",
       "added_on": "2025-07-16 18:21:51",
       "slug": "mayonnaise",
       "category": "Food & Drink",
@@ -75340,7 +75340,7 @@
     },
     {
       "title": "Mayan Stela",
-      "file_name": "mayan-stela.png",
+      "file_name": "images/history_culture/mayan-stela.png",
       "added_on": "2025-07-19 16:41:20",
       "slug": "mayan-stela",
       "category": "History & Culture",
@@ -75483,7 +75483,7 @@
     },
     {
       "title": "Mechanical Bird",
-      "file_name": "mechanical-bird.png",
+      "file_name": "images/hobbies/mechanical-bird.png",
       "added_on": "2025-07-19 18:31:28",
       "slug": "mechanical-bird",
       "category": "Hobbies",
@@ -93944,7 +93944,7 @@
     },
     {
       "title": "Mechanical Bull",
-      "file_name": "mechanical-bull.png",
+      "file_name": "images/entertainment_leisure/mechanical-bull.png",
       "added_on": "2025-09-17 19:51:21",
       "slug": "mechanical-bull",
       "category": "Entertainment & Leisure",
@@ -94454,7 +94454,7 @@
     },
     {
       "title": "Mechanical Calculator",
-      "file_name": "mechanical-calculator.png",
+      "file_name": "images/technology_media/mechanical-calculator.png",
       "added_on": "2025-09-18 22:11:25",
       "slug": "mechanical-calculator",
       "category": "Technology & Media",
@@ -118003,7 +118003,7 @@
     },
     {
       "title": "Meandre",
-      "file_name": "meandre.png",
+      "file_name": "images/nature_outdoors/meandre.png",
       "added_on": "2025-11-26 12:51:12",
       "slug": "meandre",
       "category": "Nature & Outdoors",
