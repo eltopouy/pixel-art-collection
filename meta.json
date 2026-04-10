@@ -53,7 +53,7 @@
     },
     {
       "title": "Sofa",
-      "file_name": "sofa.png",
+      "file_name": "images/everyday_life/sofa.png",
       "added_on": "2025-05-15 15:05:54",
       "slug": "sofa",
       "category": "Everyday Life",
@@ -2438,7 +2438,7 @@
     },
     {
       "title": "Software Developer",
-      "file_name": "software-developer.png",
+      "file_name": "images/professions/software-developer.png",
       "added_on": "2025-05-16 13:04:24",
       "slug": "software-developer",
       "category": "Professions",
@@ -2828,7 +2828,7 @@
     },
     {
       "title": "Solar-Powered Rickshaw",
-      "file_name": "solar-powered-rickshaw.png",
+      "file_name": "images/vehicles_transport/solar-powered-rickshaw.png",
       "added_on": "2025-05-16 15:40:50",
       "slug": "solar-powered-rickshaw",
       "category": "Vehicles & Transport",
@@ -3050,7 +3050,7 @@
     },
     {
       "title": "Solar Lantern",
-      "file_name": "solar-lantern.png",
+      "file_name": "images/nature_outdoors/solar-lantern.png",
       "added_on": "2025-05-16 17:30:48",
       "slug": "solar-lantern",
       "category": "Nature & Outdoors",
@@ -8417,7 +8417,7 @@
     },
     {
       "title": "Solar System",
-      "file_name": "solar-system.png",
+      "file_name": "images/space_science/solar-system.png",
       "added_on": "2025-05-22 15:25:56",
       "slug": "solar-system",
       "category": "Space & Science",
@@ -12917,7 +12917,7 @@
     },
     {
       "title": "Solar Panel",
-      "file_name": "solar-panel.png",
+      "file_name": "images/space_science/solar-panel.png",
       "added_on": "2025-05-26 00:11:24",
       "slug": "solar-panel",
       "category": "Space & Science",
@@ -13243,7 +13243,7 @@
     },
     {
       "title": "Solar Filter Glasses",
-      "file_name": "solar-filter-glasses.png",
+      "file_name": "images/space_science/solar-filter-glasses.png",
       "added_on": "2025-05-26 05:21:23",
       "slug": "solar-filter-glasses",
       "category": "Space & Science",
@@ -15261,7 +15261,7 @@
     },
     {
       "title": "Solar Eclipse Viewer",
-      "file_name": "solar-eclipse-viewer.png",
+      "file_name": "images/space_science/solar-eclipse-viewer.png",
       "added_on": "2025-05-27 12:01:00",
       "slug": "solar-eclipse-viewer",
       "category": "Space & Science",
@@ -25484,7 +25484,7 @@
     },
     {
       "title": "Sofia, Bulgaria",
-      "file_name": "sofia-bulgaria.png",
+      "file_name": "images/places_structures/sofia-bulgaria.png",
       "added_on": "2025-06-06 09:12:25",
       "slug": "sofia-bulgaria",
       "category": "Places & Structures",
@@ -30252,7 +30252,7 @@
     },
     {
       "title": "Solar Eclipse",
-      "file_name": "solar-eclipse.png",
+      "file_name": "images/events/solar-eclipse.png",
       "added_on": "2025-06-10 18:12:55",
       "slug": "solar-eclipse",
       "category": "Events",
@@ -35550,7 +35550,7 @@
     },
     {
       "title": "Soldering iron",
-      "file_name": "soldering-iron.png",
+      "file_name": "images/work_industry/soldering-iron.png",
       "added_on": "2025-06-12 07:01:06",
       "slug": "soldering-iron",
       "category": "Work & Industry",
@@ -42057,7 +42057,7 @@
     },
     {
       "title": "Solar Flare",
-      "file_name": "solar-flare.png",
+      "file_name": "images/space_science/solar-flare.png",
       "added_on": "2025-06-14 00:55:06",
       "slug": "solar-flare",
       "category": "Space & Science",
@@ -46024,7 +46024,7 @@
     },
     {
       "title": "Solar Panel",
-      "file_name": "solar-panel-1.png",
+      "file_name": "images/technology_media/solar-panel-1.png",
       "added_on": "2025-06-15 23:13:30",
       "slug": "solar-panel-1",
       "category": "Technology & Media",
@@ -55247,7 +55247,7 @@
     },
     {
       "title": "Sofa Cushion",
-      "file_name": "sofa-cushion.png",
+      "file_name": "images/everyday_life/sofa-cushion.png",
       "added_on": "2025-06-28 18:19:15",
       "slug": "sofa-cushion",
       "category": "Everyday Life",
@@ -55260,7 +55260,7 @@
     },
     {
       "title": "Soil",
-      "file_name": "soil.png",
+      "file_name": "images/nature_outdoors/soil.png",
       "added_on": "2025-06-28 18:25:16",
       "slug": "soil",
       "category": "Nature & Outdoors",
@@ -55418,7 +55418,7 @@
     },
     {
       "title": "Softball",
-      "file_name": "softball.png",
+      "file_name": "images/sports/softball.png",
       "added_on": "2025-06-29 16:49:17",
       "slug": "softball",
       "category": "Sports",
@@ -68820,7 +68820,7 @@
     },
     {
       "title": "Sodium",
-      "file_name": "sodium.png",
+      "file_name": "images/space_science/sodium.png",
       "added_on": "2025-07-13 14:11:30",
       "slug": "sodium",
       "category": "Space & Science",
@@ -76848,7 +76848,7 @@
     },
     {
       "title": "Soda Fountain Machine",
-      "file_name": "soda-fountain-machine.png",
+      "file_name": "images/food_drink/soda-fountain-machine.png",
       "added_on": "2025-07-21 10:21:28",
       "slug": "soda-fountain-machine",
       "category": "Food & Drink",
@@ -79828,7 +79828,7 @@
     },
     {
       "title": "Soft Serve Machine",
-      "file_name": "soft-serve-machine.png",
+      "file_name": "images/food_drink/soft-serve-machine.png",
       "added_on": "2025-07-25 13:21:44",
       "slug": "soft-serve-machine",
       "category": "Food & Drink",
@@ -110182,7 +110182,7 @@
     },
     {
       "title": "Soju",
-      "file_name": "soju.png",
+      "file_name": "images/food_drink/soju.png",
       "added_on": "2025-10-28 21:21:50",
       "slug": "soju",
       "category": "Food & Drink",
@@ -122622,7 +122622,7 @@
     },
     {
       "title": "Sojourner Truth",
-      "file_name": "sojourner-truth.png",
+      "file_name": "images/historical_figures/sojourner-truth.png",
       "added_on": "2026-01-29 15:31:22",
       "slug": "sojourner-truth",
       "category": "Historical Figures",
