@@ -1853,7 +1853,7 @@
     },
     {
       "title": "Puzzle Collection",
-      "file_name": "puzzle-collection.png",
+      "file_name": "images/hobbies/puzzle-collection.png",
       "added_on": "2025-05-16 10:45:48",
       "slug": "puzzle-collection",
       "category": "Hobbies",
@@ -7117,7 +7117,7 @@
     },
     {
       "title": "Puzzle Book",
-      "file_name": "puzzle-book.png",
+      "file_name": "images/entertainment_leisure/puzzle-book.png",
       "added_on": "2025-05-19 03:00:48",
       "slug": "puzzle-book",
       "category": "Entertainment & Leisure",
@@ -11552,7 +11552,7 @@
     },
     {
       "title": "Push Button",
-      "file_name": "push-button.png",
+      "file_name": "images/interface_symbols/push-button.png",
       "added_on": "2025-05-24 09:51:23",
       "slug": "push-button",
       "category": "Interface & Symbols",
@@ -11591,7 +11591,7 @@
     },
     {
       "title": "Push pin",
-      "file_name": "push-pin.png",
+      "file_name": "images/everyday_life/push-pin.png",
       "added_on": "2025-05-24 10:21:18",
       "slug": "push-pin",
       "category": "Everyday Life",
@@ -19230,7 +19230,7 @@
     },
     {
       "title": "Puzzle Piece",
-      "file_name": "puzzle-piece.png",
+      "file_name": "images/entertainment_leisure/puzzle-piece.png",
       "added_on": "2025-06-01 08:32:32",
       "slug": "puzzle-piece",
       "category": "Entertainment & Leisure",
@@ -22680,7 +22680,7 @@
     },
     {
       "title": "Pushcart",
-      "file_name": "pushcart.png",
+      "file_name": "images/vehicles_transport/pushcart.png",
       "added_on": "2025-06-03 20:01:07",
       "slug": "pushcart",
       "category": "Vehicles & Transport",
@@ -29831,7 +29831,7 @@
     },
     {
       "title": "Puzzle Cube",
-      "file_name": "puzzle-cube.png",
+      "file_name": "images/entertainment_leisure/puzzle-cube.png",
       "added_on": "2025-06-10 15:01:16",
       "slug": "puzzle-cube",
       "category": "Entertainment & Leisure",
@@ -41797,7 +41797,7 @@
     },
     {
       "title": "Purple Heart",
-      "file_name": "purple-heart.png",
+      "file_name": "images/interface_symbols/purple-heart.png",
       "added_on": "2025-06-13 22:35:57",
       "slug": "purple-heart",
       "category": "Interface & Symbols",
@@ -43085,7 +43085,7 @@
     },
     {
       "title": "Puzzle box",
-      "file_name": "puzzle-box.png",
+      "file_name": "images/hobbies/puzzle-box.png",
       "added_on": "2025-06-14 09:19:12",
       "slug": "puzzle-box",
       "category": "Hobbies",
@@ -58387,7 +58387,7 @@
     },
     {
       "title": "Puzzle Solving",
-      "file_name": "puzzle-solving.png",
+      "file_name": "images/hobbies/puzzle-solving.png",
       "added_on": "2025-07-06 10:11:24",
       "slug": "puzzle-solving",
       "category": "Hobbies",
@@ -68597,7 +68597,7 @@
     },
     {
       "title": "Purple Sweet Potato Cube",
-      "file_name": "purple-sweet-potato-cube.png",
+      "file_name": "images/food_drink/purple-sweet-potato-cube.png",
       "added_on": "2025-07-13 07:31:36",
       "slug": "purple-sweet-potato-cube",
       "category": "Food & Drink",
@@ -77506,7 +77506,7 @@
     },
     {
       "title": "Pushback Vehicle",
-      "file_name": "pushback-vehicle.png",
+      "file_name": "images/vehicles_transport/pushback-vehicle.png",
       "added_on": "2025-07-24 09:02:55",
       "slug": "pushback-vehicle",
       "category": "Vehicles & Transport",
@@ -86290,7 +86290,7 @@
     },
     {
       "title": "Purse",
-      "file_name": "purse.png",
+      "file_name": "images/everyday_life/purse.png",
       "added_on": "2025-08-26 09:18:32",
       "slug": "purse",
       "category": "Everyday Life",
@@ -100537,7 +100537,7 @@
     },
     {
       "title": "Purple Froglet",
-      "file_name": "purple-froglet.png",
+      "file_name": "images/animals/purple-froglet.png",
       "added_on": "2025-10-04 14:01:26",
       "slug": "purple-froglet",
       "category": "Animals",
@@ -100971,7 +100971,7 @@
     },
     {
       "title": "Puukko Knife",
-      "file_name": "puukko-knife.png",
+      "file_name": "images/hobbies/puukko-knife.png",
       "added_on": "2025-10-04 19:41:28",
       "slug": "puukko-knife",
       "category": "Hobbies",
@@ -104092,7 +104092,7 @@
     },
     {
       "title": "Purple Yam",
-      "file_name": "purple-yam.png",
+      "file_name": "images/food_drink/purple-yam.png",
       "added_on": "2025-10-11 14:31:40",
       "slug": "purple-yam",
       "category": "Food & Drink",
@@ -107860,7 +107860,7 @@
     },
     {
       "title": "Purple Martin",
-      "file_name": "purple-martin.png",
+      "file_name": "images/animals/purple-martin.png",
       "added_on": "2025-10-23 17:51:14",
       "slug": "purple-martin",
       "category": "Animals",
@@ -111045,7 +111045,7 @@
     },
     {
       "title": "Purple Sea Urchin",
-      "file_name": "purple-sea-urchin.png",
+      "file_name": "images/animals/purple-sea-urchin.png",
       "added_on": "2025-10-30 21:12:00",
       "slug": "purple-sea-urchin",
       "category": "Animals",
@@ -113318,7 +113318,7 @@
     },
     {
       "title": "Purple Gallinule",
-      "file_name": "purple-gallinule.png",
+      "file_name": "images/animals/purple-gallinule.png",
       "added_on": "2025-11-06 23:02:03",
       "slug": "purple-gallinule",
       "category": "Animals",
@@ -115463,7 +115463,7 @@
     },
     {
       "title": "Purple Sea Star",
-      "file_name": "purple-sea-star.png",
+      "file_name": "images/animals/purple-sea-star.png",
       "added_on": "2025-11-14 14:12:03",
       "slug": "purple-sea-star",
       "category": "Animals",
