@@ -2217,7 +2217,7 @@
     },
     {
       "title": "Platypus",
-      "file_name": "platypus.png",
+      "file_name": "images/animals/platypus.png",
       "added_on": "2025-05-16 12:13:16",
       "slug": "platypus",
       "category": "Animals",
@@ -3219,7 +3219,7 @@
     },
     {
       "title": "Plate",
-      "file_name": "plate.png",
+      "file_name": "images/food_drink/plate.png",
       "added_on": "2025-05-16 19:10:54",
       "slug": "plate",
       "category": "Food & Drink",
@@ -3596,7 +3596,7 @@
     },
     {
       "title": "Playing Cards",
-      "file_name": "playing-cards.png",
+      "file_name": "images/entertainment_leisure/playing-cards.png",
       "added_on": "2025-05-16 22:00:50",
       "slug": "playing-cards",
       "category": "Entertainment & Leisure",
@@ -4129,7 +4129,7 @@
     },
     {
       "title": "Plaza",
-      "file_name": "plaza.png",
+      "file_name": "images/places_structures/plaza.png",
       "added_on": "2025-05-17 04:06:13",
       "slug": "plaza",
       "category": "Places & Structures",
@@ -12423,7 +12423,7 @@
     },
     {
       "title": "Play Button",
-      "file_name": "play-button.png",
+      "file_name": "images/interface_symbols/play-button.png",
       "added_on": "2025-05-25 16:51:24",
       "slug": "play-button",
       "category": "Interface & Symbols",
@@ -12709,7 +12709,7 @@
     },
     {
       "title": "Playground",
-      "file_name": "playground.png",
+      "file_name": "images/places_structures/playground.png",
       "added_on": "2025-05-25 21:01:27",
       "slug": "playground",
       "category": "Places & Structures",
@@ -17109,7 +17109,7 @@
     },
     {
       "title": "Playlist",
-      "file_name": "playlist.png",
+      "file_name": "images/technology_media/playlist.png",
       "added_on": "2025-05-31 11:00:12",
       "slug": "playlist",
       "category": "Technology & Media",
@@ -25929,7 +25929,7 @@
     },
     {
       "title": "Platinum",
-      "file_name": "platinum.png",
+      "file_name": "images/work_industry/platinum.png",
       "added_on": "2025-06-06 23:00:45",
       "slug": "platinum",
       "category": "Work & Industry",
@@ -40978,7 +40978,7 @@
     },
     {
       "title": "Platies",
-      "file_name": "platies.png",
+      "file_name": "images/animals/platies.png",
       "added_on": "2025-06-13 22:28:07",
       "slug": "platies",
       "category": "Animals",
@@ -45154,7 +45154,7 @@
     },
     {
       "title": "Platform Sandals",
-      "file_name": "platform-sandals.png",
+      "file_name": "images/fashion_style/platform-sandals.png",
       "added_on": "2025-06-14 22:48:52",
       "slug": "platform-sandals",
       "category": "Fashion & Style",
@@ -61540,7 +61540,7 @@
     },
     {
       "title": "Plastic Straw",
-      "file_name": "plastic-straw.png",
+      "file_name": "images/everyday_life/plastic-straw.png",
       "added_on": "2025-07-08 23:05:51",
       "slug": "plastic-straw",
       "category": "Everyday Life",
@@ -64614,7 +64614,7 @@
     },
     {
       "title": "Platform Crocs",
-      "file_name": "platform-crocs.png",
+      "file_name": "images/fashion_style/platform-crocs.png",
       "added_on": "2025-07-10 13:31:03",
       "slug": "platform-crocs",
       "category": "Fashion & Style",
@@ -72248,7 +72248,7 @@
     },
     {
       "title": "Plexiglass Shoes",
-      "file_name": "plexiglass-shoes.png",
+      "file_name": "images/fashion_style/plexiglass-shoes.png",
       "added_on": "2025-07-16 14:31:11",
       "slug": "plexiglass-shoes",
       "category": "Fashion & Style",
@@ -74385,7 +74385,7 @@
     },
     {
       "title": "Platform Boots",
-      "file_name": "platform-boots.png",
+      "file_name": "images/fashion_style/platform-boots.png",
       "added_on": "2025-07-18 13:12:27",
       "slug": "platform-boots",
       "category": "Fashion & Style",
@@ -85530,7 +85530,7 @@
     },
     {
       "title": "Playpen",
-      "file_name": "playpen.png",
+      "file_name": "images/everyday_life/playpen.png",
       "added_on": "2025-08-24 16:01:28",
       "slug": "playpen",
       "category": "Everyday Life",
@@ -105264,7 +105264,7 @@
     },
     {
       "title": "Plastic Tiara",
-      "file_name": "plastic-tiara.png",
+      "file_name": "images/fashion_style/plastic-tiara.png",
       "added_on": "2025-10-16 11:31:21",
       "slug": "plastic-tiara",
       "category": "Fashion & Style",
@@ -113829,7 +113829,7 @@
     },
     {
       "title": "Play Parachute",
-      "file_name": "play-parachute.png",
+      "file_name": "images/entertainment_leisure/play-parachute.png",
       "added_on": "2025-11-08 16:51:58",
       "slug": "play-parachute",
       "category": "Entertainment & Leisure",
@@ -128636,7 +128636,7 @@
     },
     {
       "title": "Plastic Storage Crate",
-      "file_name": "plastic-storage-crate.png",
+      "file_name": "images/everyday_life/plastic-storage-crate.png",
       "added_on": "2026-03-09 06:00:48",
       "slug": "plastic-storage-crate",
       "category": "Everyday Life",
@@ -129567,7 +129567,7 @@
     },
     {
       "title": "Platform Loafers",
-      "file_name": "platform-loafers.png",
+      "file_name": "images/fashion_style/platform-loafers.png",
       "added_on": "2026-03-17 16:00:54",
       "slug": "platform-loafers",
       "category": "Fashion & Style",
@@ -130900,7 +130900,7 @@
     },
     {
       "title": "Platform Mary Janes",
-      "file_name": "platform-mary-janes.png",
+      "file_name": "images/fashion_style/platform-mary-janes.png",
       "added_on": "2026-03-19 00:01:11",
       "slug": "platform-mary-janes",
       "category": "Fashion & Style",
