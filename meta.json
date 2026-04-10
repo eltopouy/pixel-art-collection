@@ -186,7 +186,7 @@
     },
     {
       "title": "Microwave Oven",
-      "file_name": "microwave-oven.png",
+      "file_name": "images/everyday_life/microwave-oven.png",
       "added_on": "2025-05-15 16:06:53",
       "slug": "microwave-oven",
       "category": "Everyday Life",
@@ -5038,7 +5038,7 @@
     },
     {
       "title": "Milk",
-      "file_name": "milk.png",
+      "file_name": "images/food_drink/milk.png",
       "added_on": "2025-05-17 17:05:41",
       "slug": "milk",
       "category": "Food & Drink",
@@ -14260,7 +14260,7 @@
     },
     {
       "title": "Mid-Autumn",
-      "file_name": "mid-autumn.png",
+      "file_name": "images/events/mid-autumn.png",
       "added_on": "2025-05-26 20:10:53",
       "slug": "mid-autumn",
       "category": "Events",
@@ -28664,7 +28664,7 @@
     },
     {
       "title": "Mill",
-      "file_name": "mill.png",
+      "file_name": "images/places_structures/mill.png",
       "added_on": "2025-06-09 12:55:51",
       "slug": "mill",
       "category": "Places & Structures",
@@ -32616,7 +32616,7 @@
     },
     {
       "title": "Microwave",
-      "file_name": "microwave.png",
+      "file_name": "images/everyday_life/microwave.png",
       "added_on": "2025-06-11 12:06:43",
       "slug": "microwave",
       "category": "Everyday Life",
@@ -37775,7 +37775,7 @@
     },
     {
       "title": "Milan Cathedral",
-      "file_name": "milan-cathedral.png",
+      "file_name": "images/places_structures/milan-cathedral.png",
       "added_on": "2025-06-12 23:05:32",
       "slug": "milan-cathedral",
       "category": "Places & Structures",
@@ -37955,7 +37955,7 @@
     },
     {
       "title": "Microscope",
-      "file_name": "microscope.png",
+      "file_name": "images/space_science/microscope.png",
       "added_on": "2025-06-12 23:06:11",
       "slug": "microscope",
       "category": "Space & Science",
@@ -43948,7 +43948,7 @@
     },
     {
       "title": "Microsoft PowerPoint Icon",
-      "file_name": "microsoft-powerpoint-icon.png",
+      "file_name": "images/interface_symbols/microsoft-powerpoint-icon.png",
       "added_on": "2025-06-14 13:21:27",
       "slug": "microsoft-powerpoint-icon",
       "category": "Interface & Symbols",
@@ -48209,7 +48209,7 @@
     },
     {
       "title": "Milkshake",
-      "file_name": "milkshake.png",
+      "file_name": "images/food_drink/milkshake.png",
       "added_on": "2025-06-20 13:37:29",
       "slug": "milkshake",
       "category": "Food & Drink",
@@ -48950,7 +48950,7 @@
     },
     {
       "title": "Milk Snake",
-      "file_name": "milk-snake.png",
+      "file_name": "images/animals/milk-snake.png",
       "added_on": "2025-06-22 17:31:39",
       "slug": "milk-snake",
       "category": "Animals",
@@ -52994,7 +52994,7 @@
     },
     {
       "title": "Midnight Avalanche",
-      "file_name": "midnight-avalanche.png",
+      "file_name": "images/food_drink/midnight-avalanche.png",
       "added_on": "2025-06-26 15:33:17",
       "slug": "midnight-avalanche",
       "category": "Food & Drink",
@@ -63810,7 +63810,7 @@
     },
     {
       "title": "Migraine Cap",
-      "file_name": "migraine-cap.png",
+      "file_name": "images/health_wellness/migraine-cap.png",
       "added_on": "2025-07-09 15:31:14",
       "slug": "migraine-cap",
       "category": "Health & Wellness",
@@ -63972,7 +63972,7 @@
     },
     {
       "title": "Milk Glass",
-      "file_name": "milk-glass.png",
+      "file_name": "images/food_drink/milk-glass.png",
       "added_on": "2025-07-09 16:46:36",
       "slug": "milk-glass",
       "category": "Food & Drink",
@@ -67022,7 +67022,7 @@
     },
     {
       "title": "Mille-Feuille",
-      "file_name": "mille-feuille.png",
+      "file_name": "images/food_drink/mille-feuille.png",
       "added_on": "2025-07-12 01:51:19",
       "slug": "mille-feuille",
       "category": "Food & Drink",
@@ -74439,7 +74439,7 @@
     },
     {
       "title": "Milk Float",
-      "file_name": "milk-float.png",
+      "file_name": "images/vehicles_transport/milk-float.png",
       "added_on": "2025-07-18 13:51:28",
       "slug": "milk-float",
       "category": "Vehicles & Transport",
@@ -90266,7 +90266,7 @@
     },
     {
       "title": "Milk Jug",
-      "file_name": "milk-jug.png",
+      "file_name": "images/food_drink/milk-jug.png",
       "added_on": "2025-09-09 17:01:21",
       "slug": "milk-jug",
       "category": "Food & Drink",
@@ -102082,7 +102082,7 @@
     },
     {
       "title": "Military Hovercraft",
-      "file_name": "military-hovercraft.png",
+      "file_name": "images/vehicles_transport/military-hovercraft.png",
       "added_on": "2025-10-08 13:51:35",
       "slug": "military-hovercraft",
       "category": "Vehicles & Transport",
@@ -113068,7 +113068,7 @@
     },
     {
       "title": "Microwave Cover",
-      "file_name": "microwave-cover.png",
+      "file_name": "images/everyday_life/microwave-cover.png",
       "added_on": "2025-11-05 20:51:59",
       "slug": "microwave-cover",
       "category": "Everyday Life",
@@ -117910,7 +117910,7 @@
     },
     {
       "title": "Military Transport Plane",
-      "file_name": "military-transport-plane.png",
+      "file_name": "images/vehicles_transport/military-transport-plane.png",
       "added_on": "2025-11-26 11:41:30",
       "slug": "military-transport-plane",
       "category": "Vehicles & Transport",
@@ -131043,7 +131043,7 @@
     },
     {
       "title": "MIDI Pad Controller",
-      "file_name": "midi-pad-controller.png",
+      "file_name": "images/technology_media/midi-pad-controller.png",
       "added_on": "2026-03-19 02:01:14",
       "slug": "midi-pad-controller",
       "category": "Technology & Media",
