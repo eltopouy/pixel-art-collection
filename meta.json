@@ -1437,7 +1437,7 @@
     },
     {
       "title": "Motorcycle",
-      "file_name": "motorcycle.png",
+      "file_name": "images/vehicles_transport/motorcycle.png",
       "added_on": "2025-05-16 08:52:09",
       "slug": "motorcycle",
       "category": "Vehicles & Transport",
@@ -11721,7 +11721,7 @@
     },
     {
       "title": "Moth",
-      "file_name": "moth.png",
+      "file_name": "images/animals/moth.png",
       "added_on": "2025-05-24 12:11:28",
       "slug": "moth",
       "category": "Animals",
@@ -13961,7 +13961,7 @@
     },
     {
       "title": "Motorbike",
-      "file_name": "motorbike.png",
+      "file_name": "images/vehicles_transport/motorbike.png",
       "added_on": "2025-05-26 16:10:51",
       "slug": "motorbike",
       "category": "Vehicles & Transport",
@@ -14338,7 +14338,7 @@
     },
     {
       "title": "Mother\u2019s Day",
-      "file_name": "mothers-day.png",
+      "file_name": "images/events/mothers-day.png",
       "added_on": "2025-05-26 21:10:47",
       "slug": "mothers-day",
       "category": "Events",
@@ -17421,7 +17421,7 @@
     },
     {
       "title": "Mount Fuji",
-      "file_name": "mount-fuji.png",
+      "file_name": "images/places_structures/mount-fuji.png",
       "added_on": "2025-05-31 11:02:31",
       "slug": "mount-fuji",
       "category": "Places & Structures",
@@ -23239,7 +23239,7 @@
     },
     {
       "title": "Mount Rushmore",
-      "file_name": "mount-rushmore.png",
+      "file_name": "images/places_structures/mount-rushmore.png",
       "added_on": "2025-06-04 08:27:08",
       "slug": "mount-rushmore",
       "category": "Places & Structures",
@@ -29609,7 +29609,7 @@
     },
     {
       "title": "Motorhome",
-      "file_name": "motorhome.png",
+      "file_name": "images/vehicles_transport/motorhome.png",
       "added_on": "2025-06-10 12:49:34",
       "slug": "motorhome",
       "category": "Vehicles & Transport",
@@ -31789,7 +31789,7 @@
     },
     {
       "title": "Motor Glider",
-      "file_name": "motor-glider.png",
+      "file_name": "images/vehicles_transport/motor-glider.png",
       "added_on": "2025-06-11 04:48:59",
       "slug": "motor-glider",
       "category": "Vehicles & Transport",
@@ -36042,7 +36042,7 @@
     },
     {
       "title": "Mothra",
-      "file_name": "mothra.png",
+      "file_name": "images/fantasy_imagination/mothra.png",
       "added_on": "2025-06-12 08:39:26",
       "slug": "mothra",
       "category": "Fantasy & Imagination",
@@ -50523,7 +50523,7 @@
     },
     {
       "title": "Mount Everest",
-      "file_name": "mount-everest.png",
+      "file_name": "images/places_structures/mount-everest.png",
       "added_on": "2025-06-22 22:19:23",
       "slug": "mount-everest",
       "category": "Places & Structures",
@@ -54891,7 +54891,7 @@
     },
     {
       "title": "Mount Vesuvius",
-      "file_name": "mount-vesuvius.png",
+      "file_name": "images/places_structures/mount-vesuvius.png",
       "added_on": "2025-06-28 09:55:12",
       "slug": "mount-vesuvius",
       "category": "Places & Structures",
@@ -64653,7 +64653,7 @@
     },
     {
       "title": "Motocross Bike",
-      "file_name": "motocross-bike.png",
+      "file_name": "images/sports/motocross-bike.png",
       "added_on": "2025-07-10 13:46:04",
       "slug": "motocross-bike",
       "category": "Sports",
@@ -66331,7 +66331,7 @@
     },
     {
       "title": "Motion Sensor",
-      "file_name": "motion-sensor.png",
+      "file_name": "images/technology_media/motion-sensor.png",
       "added_on": "2025-07-11 13:41:15",
       "slug": "motion-sensor",
       "category": "Technology & Media",
@@ -67075,7 +67075,7 @@
     },
     {
       "title": "Motion-Capture Suit",
-      "file_name": "motion-capture-suit.png",
+      "file_name": "images/technology_media/motion-capture-suit.png",
       "added_on": "2025-07-12 02:31:46",
       "slug": "motion-capture-suit",
       "category": "Technology & Media",
@@ -67721,7 +67721,7 @@
     },
     {
       "title": "Motorcycle Engine Piston",
-      "file_name": "motorcycle-engine-piston.png",
+      "file_name": "images/vehicles_transport/motorcycle-engine-piston.png",
       "added_on": "2025-07-12 13:44:17",
       "slug": "motorcycle-engine-piston",
       "category": "Vehicles & Transport",
@@ -79945,7 +79945,7 @@
     },
     {
       "title": "Motorcycle Leather Vest",
-      "file_name": "motorcycle-leather-vest.png",
+      "file_name": "images/fashion_style/motorcycle-leather-vest.png",
       "added_on": "2025-07-25 14:51:30",
       "slug": "motorcycle-leather-vest",
       "category": "Fashion & Style",
@@ -90188,7 +90188,7 @@
     },
     {
       "title": "Motivational Poster",
-      "file_name": "motivational-poster.png",
+      "file_name": "images/everyday_life/motivational-poster.png",
       "added_on": "2025-09-09 16:01:36",
       "slug": "motivational-poster",
       "category": "Everyday Life",
@@ -91460,7 +91460,7 @@
     },
     {
       "title": "Mothball",
-      "file_name": "mothball.png",
+      "file_name": "images/everyday_life/mothball.png",
       "added_on": "2025-09-11 23:11:22",
       "slug": "mothball",
       "category": "Everyday Life",
@@ -99372,7 +99372,7 @@
     },
     {
       "title": "Motor Grader",
-      "file_name": "motor-grader.png",
+      "file_name": "images/vehicles_transport/motor-grader.png",
       "added_on": "2025-10-01 02:31:19",
       "slug": "motor-grader",
       "category": "Vehicles & Transport",
@@ -105157,7 +105157,7 @@
     },
     {
       "title": "Motorsport Trophy",
-      "file_name": "motorsport-trophy.png",
+      "file_name": "images/sports/motorsport-trophy.png",
       "added_on": "2025-10-15 11:52:04",
       "slug": "motorsport-trophy",
       "category": "Sports",
@@ -125573,7 +125573,7 @@
     },
     {
       "title": "Motor",
-      "file_name": "motor.png",
+      "file_name": "images/vehicles_transport/motor.png",
       "added_on": "2026-02-11 05:51:12",
       "slug": "motor",
       "category": "Vehicles & Transport",
