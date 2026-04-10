@@ -2308,7 +2308,7 @@
     },
     {
       "title": "Soap Making Kit",
-      "file_name": "soap-making-kit.png",
+      "file_name": "images/hobbies/soap-making-kit.png",
       "added_on": "2025-05-16 12:34:18",
       "slug": "soap-making-kit",
       "category": "Hobbies",
@@ -3752,7 +3752,7 @@
     },
     {
       "title": "Soap Bar",
-      "file_name": "soap-bar.png",
+      "file_name": "images/everyday_life/soap-bar.png",
       "added_on": "2025-05-16 23:11:05",
       "slug": "soap-bar",
       "category": "Everyday Life",
@@ -4947,7 +4947,7 @@
     },
     {
       "title": "Soap Dish",
-      "file_name": "soap-dish.png",
+      "file_name": "images/everyday_life/soap-dish.png",
       "added_on": "2025-05-17 16:20:41",
       "slug": "soap-dish",
       "category": "Everyday Life",
@@ -4986,7 +4986,7 @@
     },
     {
       "title": "Soap",
-      "file_name": "soap.png",
+      "file_name": "images/everyday_life/soap.png",
       "added_on": "2025-05-17 16:45:38",
       "slug": "soap",
       "category": "Everyday Life",
@@ -12748,7 +12748,7 @@
     },
     {
       "title": "Soap Carving Set",
-      "file_name": "soap-carving-set.png",
+      "file_name": "images/hobbies/soap-carving-set.png",
       "added_on": "2025-05-25 21:41:27",
       "slug": "soap-carving-set",
       "category": "Hobbies",
@@ -39599,7 +39599,7 @@
     },
     {
       "title": "Soap carving",
-      "file_name": "soap-carving.png",
+      "file_name": "images/hobbies/soap-carving.png",
       "added_on": "2025-06-13 12:13:26",
       "slug": "soap-carving",
       "category": "Hobbies",
@@ -57637,7 +57637,7 @@
     },
     {
       "title": "Soap Making",
-      "file_name": "soap-making.png",
+      "file_name": "images/hobbies/soap-making.png",
       "added_on": "2025-07-05 22:36:26",
       "slug": "soap-making",
       "category": "Hobbies",
@@ -60528,7 +60528,7 @@
     },
     {
       "title": "Soapbox Car",
-      "file_name": "soapbox-car.png",
+      "file_name": "images/vehicles_transport/soapbox-car.png",
       "added_on": "2025-07-08 15:36:47",
       "slug": "soapbox-car",
       "category": "Vehicles & Transport",
@@ -61226,7 +61226,7 @@
     },
     {
       "title": "Soap Mold",
-      "file_name": "soap-mold.png",
+      "file_name": "images/hobbies/soap-mold.png",
       "added_on": "2025-07-08 20:41:00",
       "slug": "soap-mold",
       "category": "Hobbies",
@@ -81174,7 +81174,7 @@
     },
     {
       "title": "Snus",
-      "file_name": "snus.png",
+      "file_name": "images/food_drink/snus.png",
       "added_on": "2025-07-28 20:01:39",
       "slug": "snus",
       "category": "Food & Drink",
@@ -83662,7 +83662,7 @@
     },
     {
       "title": "Soba",
-      "file_name": "soba.png",
+      "file_name": "images/food_drink/soba.png",
       "added_on": "2025-08-16 21:41:09",
       "slug": "soba",
       "category": "Food & Drink",
@@ -91748,7 +91748,7 @@
     },
     {
       "title": "Soapstone Carving",
-      "file_name": "soapstone-carving.png",
+      "file_name": "images/hobbies/soapstone-carving.png",
       "added_on": "2025-09-12 03:31:25",
       "slug": "soapstone-carving",
       "category": "Hobbies",
@@ -92818,7 +92818,7 @@
     },
     {
       "title": "Soap Bubble",
-      "file_name": "soap-bubble.png",
+      "file_name": "images/everyday_life/soap-bubble.png",
       "added_on": "2025-09-15 13:41:28",
       "slug": "soap-bubble",
       "category": "Everyday Life",
@@ -96617,7 +96617,7 @@
     },
     {
       "title": "Soapbox Racer",
-      "file_name": "soapbox-racer.png",
+      "file_name": "images/sports/soapbox-racer.png",
       "added_on": "2025-09-23 11:51:25",
       "slug": "soapbox-racer",
       "category": "Sports",
@@ -100628,7 +100628,7 @@
     },
     {
       "title": "Soap Bubbles",
-      "file_name": "soap-bubbles.png",
+      "file_name": "images/everyday_life/soap-bubbles.png",
       "added_on": "2025-10-04 15:10:57",
       "slug": "soap-bubbles",
       "category": "Everyday Life",
@@ -100945,7 +100945,7 @@
     },
     {
       "title": "Soap Bubble Gun",
-      "file_name": "soap-bubble-gun.png",
+      "file_name": "images/entertainment_leisure/soap-bubble-gun.png",
       "added_on": "2025-10-04 19:21:20",
       "slug": "soap-bubble-gun",
       "category": "Entertainment & Leisure",
@@ -103377,7 +103377,7 @@
     },
     {
       "title": "Soap Saver",
-      "file_name": "soap-saver.png",
+      "file_name": "images/everyday_life/soap-saver.png",
       "added_on": "2025-10-10 10:31:47",
       "slug": "soap-saver",
       "category": "Everyday Life",
@@ -105381,7 +105381,7 @@
     },
     {
       "title": "Soapstone Pipe",
-      "file_name": "soapstone-pipe.png",
+      "file_name": "images/hobbies/soapstone-pipe.png",
       "added_on": "2025-10-16 13:11:05",
       "slug": "soapstone-pipe",
       "category": "Hobbies",
@@ -110693,7 +110693,7 @@
     },
     {
       "title": "Soap on a Rope",
-      "file_name": "soap-on-a-rope.png",
+      "file_name": "images/everyday_life/soap-on-a-rope.png",
       "added_on": "2025-10-30 15:51:56",
       "slug": "soap-on-a-rope",
       "category": "Everyday Life",
@@ -130874,7 +130874,7 @@
     },
     {
       "title": "Soap Bubble Pipe",
-      "file_name": "soap-bubble-pipe.png",
+      "file_name": "images/hobbies/soap-bubble-pipe.png",
       "added_on": "2026-03-18 23:31:14",
       "slug": "soap-bubble-pipe",
       "category": "Hobbies",
