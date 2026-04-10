@@ -198,7 +198,7 @@
     },
     {
       "title": "Refrigerator",
-      "file_name": "refrigerator.png",
+      "file_name": "images/everyday_life/refrigerator.png",
       "added_on": "2025-05-15 16:09:46",
       "slug": "refrigerator",
       "category": "Everyday Life",
@@ -518,7 +518,7 @@
     },
     {
       "title": "Remote Control",
-      "file_name": "remote-control.png",
+      "file_name": "images/everyday_life/remote-control.png",
       "added_on": "2025-05-15 19:06:49",
       "slug": "remote-control",
       "category": "Everyday Life",
@@ -11916,7 +11916,7 @@
     },
     {
       "title": "Refresh Icon",
-      "file_name": "refresh-icon.png",
+      "file_name": "images/interface_symbols/refresh-icon.png",
       "added_on": "2025-05-25 09:20:48",
       "slug": "refresh-icon",
       "category": "Interface & Symbols",
@@ -26020,7 +26020,7 @@
     },
     {
       "title": "Refund",
-      "file_name": "refund.png",
+      "file_name": "images/everyday_life/refund.png",
       "added_on": "2025-06-07 02:30:48",
       "slug": "refund",
       "category": "Everyday Life",
@@ -37801,7 +37801,7 @@
     },
     {
       "title": "Reims Cathedral",
-      "file_name": "reims-cathedral.png",
+      "file_name": "images/places_structures/reims-cathedral.png",
       "added_on": "2025-06-12 23:05:35",
       "slug": "reims-cathedral",
       "category": "Places & Structures",
@@ -50905,7 +50905,7 @@
     },
     {
       "title": "Reformer Pilates Machine",
-      "file_name": "reformer-pilates-machine.png",
+      "file_name": "images/health_wellness/reformer-pilates-machine.png",
       "added_on": "2025-06-23 01:43:23",
       "slug": "reformer-pilates-machine",
       "category": "Health & Wellness",
@@ -51526,7 +51526,7 @@
     },
     {
       "title": "Ren\u00e9 Descartes",
-      "file_name": "ren-descartes.png",
+      "file_name": "images/history_culture/ren-descartes.png",
       "added_on": "2025-06-23 08:14:24",
       "slug": "ren-descartes",
       "category": "History & Culture",
@@ -53401,7 +53401,7 @@
     },
     {
       "title": "Relox",
-      "file_name": "relox.png",
+      "file_name": "images/food_drink/relox.png",
       "added_on": "2025-06-26 15:37:09",
       "slug": "relox",
       "category": "Food & Drink",
@@ -58896,7 +58896,7 @@
     },
     {
       "title": "Remote control car",
-      "file_name": "remote-control-car.png",
+      "file_name": "images/entertainment_leisure/remote-control-car.png",
       "added_on": "2025-07-06 18:01:06",
       "slug": "remote-control-car",
       "category": "Entertainment & Leisure",
@@ -62036,7 +62036,7 @@
     },
     {
       "title": "Remote Organizer",
-      "file_name": "remote-organizer.png",
+      "file_name": "images/everyday_life/remote-organizer.png",
       "added_on": "2025-07-09 02:41:05",
       "slug": "remote-organizer",
       "category": "Everyday Life",
@@ -75052,7 +75052,7 @@
     },
     {
       "title": "Reflex Hammer",
-      "file_name": "reflex-hammer.png",
+      "file_name": "images/health_wellness/reflex-hammer.png",
       "added_on": "2025-07-18 23:51:05",
       "slug": "reflex-hammer",
       "category": "Health & Wellness",
@@ -85811,7 +85811,7 @@
     },
     {
       "title": "Reindeer",
-      "file_name": "reindeer.png",
+      "file_name": "images/animals/reindeer.png",
       "added_on": "2025-08-24 19:41:23",
       "slug": "reindeer",
       "category": "Animals",
@@ -86698,7 +86698,7 @@
     },
     {
       "title": "Reindeer",
-      "file_name": "reindeer-1.png",
+      "file_name": "images/animals/reindeer-1.png",
       "added_on": "2025-08-29 13:10:30",
       "slug": "reindeer-1",
       "category": "Animals",
@@ -90045,7 +90045,7 @@
     },
     {
       "title": "Renaissance Globe",
-      "file_name": "renaissance-globe.png",
+      "file_name": "images/history_culture/renaissance-globe.png",
       "added_on": "2025-09-09 13:41:32",
       "slug": "renaissance-globe",
       "category": "History & Culture",
@@ -106893,7 +106893,7 @@
     },
     {
       "title": "Reload File",
-      "file_name": "reload-file.png",
+      "file_name": "images/interface_symbols/reload-file.png",
       "added_on": "2025-10-22 15:13:11",
       "slug": "reload-file",
       "category": "Interface & Symbols",
@@ -112743,7 +112743,7 @@
     },
     {
       "title": "Reliability",
-      "file_name": "reliability.png",
+      "file_name": "images/everyday_life/reliability.png",
       "added_on": "2025-11-03 16:31:57",
       "slug": "reliability",
       "category": "Everyday Life",
@@ -117819,7 +117819,7 @@
     },
     {
       "title": "Rembrandt",
-      "file_name": "rembrandt.png",
+      "file_name": "images/historical_figures/rembrandt.png",
       "added_on": "2025-11-26 09:51:24",
       "slug": "rembrandt",
       "category": "Historical Figures",
@@ -121752,7 +121752,7 @@
     },
     {
       "title": "Remote Control Caddy",
-      "file_name": "remote-control-caddy.png",
+      "file_name": "images/everyday_life/remote-control-caddy.png",
       "added_on": "2026-01-26 15:31:10",
       "slug": "remote-control-caddy",
       "category": "Everyday Life",
@@ -127536,7 +127536,7 @@
     },
     {
       "title": "Referee Whistle Lanyard",
-      "file_name": "referee-whistle-lanyard.png",
+      "file_name": "images/sports/referee-whistle-lanyard.png",
       "added_on": "2026-03-02 18:41:08",
       "slug": "referee-whistle-lanyard",
       "category": "Sports",
@@ -127863,7 +127863,7 @@
     },
     {
       "title": "Renaissance Anatomical Drawing",
-      "file_name": "renaissance-anatomical-drawing.png",
+      "file_name": "images/history_culture/renaissance-anatomical-drawing.png",
       "added_on": "2026-03-08 19:10:50",
       "slug": "renaissance-anatomical-drawing",
       "category": "History & Culture",
