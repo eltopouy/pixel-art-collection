@@ -2126,7 +2126,7 @@
     },
     {
       "title": "Gardening Kit",
-      "file_name": "gardening-starter-kit.png",
+      "file_name": "images/hobbies/gardening-starter-kit.png",
       "added_on": "2025-05-16 11:52:19",
       "slug": "gardening-starter-kit",
       "category": "Hobbies",
@@ -22953,7 +22953,7 @@
     },
     {
       "title": "Gardening Gloves",
-      "file_name": "gardening-gloves.png",
+      "file_name": "images/hobbies/gardening-gloves.png",
       "added_on": "2025-06-03 23:31:02",
       "slug": "gardening-gloves",
       "category": "Hobbies",
@@ -24299,7 +24299,7 @@
     },
     {
       "title": "Gaming Mouse",
-      "file_name": "gaming-mouse.png",
+      "file_name": "images/technology_media/gaming-mouse.png",
       "added_on": "2025-06-04 08:55:31",
       "slug": "gaming-mouse",
       "category": "Technology & Media",
@@ -30604,7 +30604,7 @@
     },
     {
       "title": "Game Designer",
-      "file_name": "game-designer.png",
+      "file_name": "images/professions/game-designer.png",
       "added_on": "2025-06-10 19:07:14",
       "slug": "game-designer",
       "category": "Professions",
@@ -47028,7 +47028,7 @@
     },
     {
       "title": "Garba",
-      "file_name": "garba.png",
+      "file_name": "images/food_drink/garba.png",
       "added_on": "2025-06-18 13:28:38",
       "slug": "garba",
       "category": "Food & Drink",
@@ -51630,7 +51630,7 @@
     },
     {
       "title": "Gamer",
-      "file_name": "gamer.png",
+      "file_name": "images/hobbies/gamer.png",
       "added_on": "2025-06-23 21:27:09",
       "slug": "gamer",
       "category": "Hobbies",
@@ -52054,7 +52054,7 @@
     },
     {
       "title": "Gardening Simple Kit",
-      "file_name": "gardening-simple-kit.png",
+      "file_name": "images/hobbies/gardening-simple-kit.png",
       "added_on": "2025-06-24 19:37:57",
       "slug": "gardening-simple-kit",
       "category": "Hobbies",
@@ -52799,7 +52799,7 @@
     },
     {
       "title": "Garlic Bread",
-      "file_name": "garlic-bread.png",
+      "file_name": "images/food_drink/garlic-bread.png",
       "added_on": "2025-06-26 15:32:33",
       "slug": "garlic-bread",
       "category": "Food & Drink",
@@ -56062,7 +56062,7 @@
     },
     {
       "title": "Garbage",
-      "file_name": "garbage.png",
+      "file_name": "images/everyday_life/garbage.png",
       "added_on": "2025-06-30 22:13:15",
       "slug": "garbage",
       "category": "Everyday Life",
@@ -60736,7 +60736,7 @@
     },
     {
       "title": "Garden Eel",
-      "file_name": "garden-eel.png",
+      "file_name": "images/animals/garden-eel.png",
       "added_on": "2025-07-08 17:05:54",
       "slug": "garden-eel",
       "category": "Animals",
@@ -66539,7 +66539,7 @@
     },
     {
       "title": "Garden Water Hose",
-      "file_name": "garden-water-hose.png",
+      "file_name": "images/nature_outdoors/garden-water-hose.png",
       "added_on": "2025-07-11 18:21:13",
       "slug": "garden-water-hose",
       "category": "Nature & Outdoors",
@@ -67009,7 +67009,7 @@
     },
     {
       "title": "Garden Gnome",
-      "file_name": "garden-gnome.png",
+      "file_name": "images/nature_outdoors/garden-gnome.png",
       "added_on": "2025-07-12 01:41:29",
       "slug": "garden-gnome",
       "category": "Nature & Outdoors",
@@ -77319,7 +77319,7 @@
     },
     {
       "title": "Garage",
-      "file_name": "garage.png",
+      "file_name": "images/places_structures/garage.png",
       "added_on": "2025-07-24 09:01:55",
       "slug": "garage",
       "category": "Places & Structures",
@@ -80417,7 +80417,7 @@
     },
     {
       "title": "Game Cartridge",
-      "file_name": "game-cartridge.png",
+      "file_name": "images/technology_media/game-cartridge.png",
       "added_on": "2025-07-25 21:01:34",
       "slug": "game-cartridge",
       "category": "Technology & Media",
@@ -83363,7 +83363,7 @@
     },
     {
       "title": "Gambas al Ajillo",
-      "file_name": "gambas-al-ajillo.png",
+      "file_name": "images/food_drink/gambas-al-ajillo.png",
       "added_on": "2025-08-12 15:59:27",
       "slug": "gambas-al-ajillo",
       "category": "Food & Drink",
@@ -103039,7 +103039,7 @@
     },
     {
       "title": "Game Controller",
-      "file_name": "game-controller.png",
+      "file_name": "images/technology_media/game-controller.png",
       "added_on": "2025-10-09 14:11:41",
       "slug": "game-controller",
       "category": "Technology & Media",
@@ -103065,7 +103065,7 @@
     },
     {
       "title": "Gaming Laptop",
-      "file_name": "gaming-laptop.png",
+      "file_name": "images/technology_media/gaming-laptop.png",
       "added_on": "2025-10-09 14:31:42",
       "slug": "gaming-laptop",
       "category": "Technology & Media",
@@ -107665,7 +107665,7 @@
     },
     {
       "title": "Garage Door",
-      "file_name": "garage-door.png",
+      "file_name": "images/places_structures/garage-door.png",
       "added_on": "2025-10-23 02:01:16",
       "slug": "garage-door",
       "category": "Places & Structures",
@@ -111240,7 +111240,7 @@
     },
     {
       "title": "Garden",
-      "file_name": "garden.png",
+      "file_name": "images/nature_outdoors/garden.png",
       "added_on": "2025-10-31 09:03:03",
       "slug": "garden",
       "category": "Nature & Outdoors",
@@ -113738,7 +113738,7 @@
     },
     {
       "title": "Gargle Cup",
-      "file_name": "gargle-cup.png",
+      "file_name": "images/health_wellness/gargle-cup.png",
       "added_on": "2025-11-08 15:31:30",
       "slug": "gargle-cup",
       "category": "Health & Wellness",
@@ -123146,7 +123146,7 @@
     },
     {
       "title": "Garbage Disposal",
-      "file_name": "garbage-disposal.png",
+      "file_name": "images/everyday_life/garbage-disposal.png",
       "added_on": "2026-01-29 23:01:08",
       "slug": "garbage-disposal",
       "category": "Everyday Life",
