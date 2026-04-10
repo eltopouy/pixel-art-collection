@@ -2451,7 +2451,7 @@
     },
     {
       "title": "Veterinarian",
-      "file_name": "veterinarian.png",
+      "file_name": "images/professions/veterinarian.png",
       "added_on": "2025-05-16 13:07:23",
       "slug": "veterinarian",
       "category": "Professions",
@@ -9509,7 +9509,7 @@
     },
     {
       "title": "Video",
-      "file_name": "video.png",
+      "file_name": "images/technology_media/video.png",
       "added_on": "2025-05-23 04:30:48",
       "slug": "video",
       "category": "Technology & Media",
@@ -9730,7 +9730,7 @@
     },
     {
       "title": "Videogame",
-      "file_name": "videogame.png",
+      "file_name": "images/technology_media/videogame.png",
       "added_on": "2025-05-23 07:30:49",
       "slug": "videogame",
       "category": "Technology & Media",
@@ -10200,7 +10200,7 @@
     },
     {
       "title": "Video Camera",
-      "file_name": "video-camera.png",
+      "file_name": "images/technology_media/video-camera.png",
       "added_on": "2025-05-23 13:40:47",
       "slug": "video-camera",
       "category": "Technology & Media",
@@ -30669,7 +30669,7 @@
     },
     {
       "title": "Video game console",
-      "file_name": "video-game-console.png",
+      "file_name": "images/technology_media/video-game-console.png",
       "added_on": "2025-06-10 19:43:18",
       "slug": "video-game-console",
       "category": "Technology & Media",
@@ -34685,7 +34685,7 @@
     },
     {
       "title": "Vicu\u00f1a",
-      "file_name": "vicua.png",
+      "file_name": "images/animals/vicua.png",
       "added_on": "2025-06-11 23:49:03",
       "slug": "vicua",
       "category": "Animals",
@@ -40778,7 +40778,7 @@
     },
     {
       "title": "Viaduct",
-      "file_name": "viaduct.png",
+      "file_name": "images/places_structures/viaduct.png",
       "added_on": "2025-06-13 22:25:24",
       "slug": "viaduct",
       "category": "Places & Structures",
@@ -44809,7 +44809,7 @@
     },
     {
       "title": "Vicuna",
-      "file_name": "vicuna.png",
+      "file_name": "images/animals/vicuna.png",
       "added_on": "2025-06-14 19:54:48",
       "slug": "vicuna",
       "category": "Animals",
@@ -48755,7 +48755,7 @@
     },
     {
       "title": "Video Production",
-      "file_name": "video-production.png",
+      "file_name": "images/technology_media/video-production.png",
       "added_on": "2025-06-22 17:30:48",
       "slug": "video-production",
       "category": "Technology & Media",
@@ -48768,7 +48768,7 @@
     },
     {
       "title": "Video Editing",
-      "file_name": "video-editing.png",
+      "file_name": "images/technology_media/video-editing.png",
       "added_on": "2025-06-22 17:30:54",
       "slug": "video-editing",
       "category": "Technology & Media",
@@ -55722,7 +55722,7 @@
     },
     {
       "title": "Vibe Donut",
-      "file_name": "vibe-donut.png",
+      "file_name": "images/food_drink/vibe-donut.png",
       "added_on": "2025-06-30 10:16:31",
       "slug": "vibe-donut",
       "category": "Food & Drink",
@@ -65714,7 +65714,7 @@
     },
     {
       "title": "Vicar",
-      "file_name": "vicar.png",
+      "file_name": "images/professions/vicar.png",
       "added_on": "2025-07-10 21:41:17",
       "slug": "vicar",
       "category": "Professions",
@@ -69327,7 +69327,7 @@
     },
     {
       "title": "Victorian Mourning Brooch",
-      "file_name": "victorian-mourning-brooch.png",
+      "file_name": "images/history_culture/victorian-mourning-brooch.png",
       "added_on": "2025-07-13 20:01:21",
       "slug": "victorian-mourning-brooch",
       "category": "History & Culture",
@@ -85335,7 +85335,7 @@
     },
     {
       "title": "VHS Tape",
-      "file_name": "vhs-tape.png",
+      "file_name": "images/technology_media/vhs-tape.png",
       "added_on": "2025-08-20 16:01:28",
       "slug": "vhs-tape",
       "category": "Technology & Media",
@@ -94467,7 +94467,7 @@
     },
     {
       "title": "Video Doorbell",
-      "file_name": "video-doorbell.png",
+      "file_name": "images/technology_media/video-doorbell.png",
       "added_on": "2025-09-18 22:21:21",
       "slug": "video-doorbell",
       "category": "Technology & Media",
@@ -95681,7 +95681,7 @@
     },
     {
       "title": "Vibration Plate",
-      "file_name": "vibration-plate.png",
+      "file_name": "images/health_wellness/vibration-plate.png",
       "added_on": "2025-09-21 14:21:23",
       "slug": "vibration-plate",
       "category": "Health & Wellness",
@@ -96014,7 +96014,7 @@
     },
     {
       "title": "Victorian Tea Set",
-      "file_name": "victorian-tea-set.png",
+      "file_name": "images/history_culture/victorian-tea-set.png",
       "added_on": "2025-09-22 12:51:24",
       "slug": "victorian-tea-set",
       "category": "History & Culture",
@@ -101257,7 +101257,7 @@
     },
     {
       "title": "Victorian Spirit Board",
-      "file_name": "victorian-spirit-board.png",
+      "file_name": "images/history_culture/victorian-spirit-board.png",
       "added_on": "2025-10-05 10:31:39",
       "slug": "victorian-spirit-board",
       "category": "History & Culture",
@@ -105472,7 +105472,7 @@
     },
     {
       "title": "Video Game Shelf",
-      "file_name": "video-game-shelf.png",
+      "file_name": "images/technology_media/video-game-shelf.png",
       "added_on": "2025-10-16 15:01:55",
       "slug": "video-game-shelf",
       "category": "Technology & Media",
@@ -119632,7 +119632,7 @@
     },
     {
       "title": "VHS tape rewinder",
-      "file_name": "vhs-tape-rewinder.png",
+      "file_name": "images/technology_media/vhs-tape-rewinder.png",
       "added_on": "2025-12-10 01:31:29",
       "slug": "vhs-tape-rewinder",
       "category": "Technology & Media",
@@ -119645,7 +119645,7 @@
     },
     {
       "title": "Videocassette Recorder",
-      "file_name": "videocassette-recorder.png",
+      "file_name": "images/technology_media/videocassette-recorder.png",
       "added_on": "2025-12-10 01:41:48",
       "slug": "videocassette-recorder",
       "category": "Technology & Media",
