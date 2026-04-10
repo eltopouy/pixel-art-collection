@@ -162,7 +162,7 @@
     },
     {
       "title": "Toaster",
-      "file_name": "toaster.png",
+      "file_name": "images/everyday_life/toaster.png",
       "added_on": "2025-05-15 15:55:40",
       "slug": "toaster",
       "category": "Everyday Life",
@@ -12761,7 +12761,7 @@
     },
     {
       "title": "Toboggan",
-      "file_name": "toboggan.png",
+      "file_name": "images/vehicles_transport/toboggan.png",
       "added_on": "2025-05-25 21:51:28",
       "slug": "toboggan",
       "category": "Vehicles & Transport",
@@ -14078,7 +14078,7 @@
     },
     {
       "title": "To-Do List",
-      "file_name": "to-do-list.png",
+      "file_name": "images/everyday_life/to-do-list.png",
       "added_on": "2025-05-26 17:50:40",
       "slug": "to-do-list",
       "category": "Everyday Life",
@@ -22197,7 +22197,7 @@
     },
     {
       "title": "Tissue",
-      "file_name": "tissue.png",
+      "file_name": "images/everyday_life/tissue.png",
       "added_on": "2025-06-03 16:26:01",
       "slug": "tissue",
       "category": "Everyday Life",
@@ -29024,7 +29024,7 @@
     },
     {
       "title": "Toddler",
-      "file_name": "toddler.png",
+      "file_name": "images/everyday_life/toddler.png",
       "added_on": "2025-06-10 08:10:01",
       "slug": "toddler",
       "category": "Everyday Life",
@@ -30525,7 +30525,7 @@
     },
     {
       "title": "Toggle Switch",
-      "file_name": "toggle-switch.png",
+      "file_name": "images/interface_symbols/toggle-switch.png",
       "added_on": "2025-06-10 18:31:16",
       "slug": "toggle-switch",
       "category": "Interface & Symbols",
@@ -42296,7 +42296,7 @@
     },
     {
       "title": "Togo",
-      "file_name": "togo.png",
+      "file_name": "images/countries/togo.png",
       "added_on": "2025-06-14 03:19:05",
       "slug": "togo",
       "category": "Countries",
@@ -45520,7 +45520,7 @@
     },
     {
       "title": "TNT",
-      "file_name": "tnt.png",
+      "file_name": "images/work_industry/tnt.png",
       "added_on": "2025-06-15 02:18:57",
       "slug": "tnt",
       "category": "Work & Industry",
@@ -51198,7 +51198,7 @@
     },
     {
       "title": "Tofu",
-      "file_name": "tofu.png",
+      "file_name": "images/food_drink/tofu.png",
       "added_on": "2025-06-23 04:01:25",
       "slug": "tofu",
       "category": "Food & Drink",
@@ -53193,7 +53193,7 @@
     },
     {
       "title": "Toast with Butter",
-      "file_name": "toast-with-butter.png",
+      "file_name": "images/food_drink/toast-with-butter.png",
       "added_on": "2025-06-26 15:35:11",
       "slug": "toast-with-butter",
       "category": "Food & Drink",
@@ -55312,7 +55312,7 @@
     },
     {
       "title": "Toast",
-      "file_name": "toast.png",
+      "file_name": "images/food_drink/toast.png",
       "added_on": "2025-06-28 18:49:16",
       "slug": "toast",
       "category": "Food & Drink",
@@ -55470,7 +55470,7 @@
     },
     {
       "title": "Toad",
-      "file_name": "toad.png",
+      "file_name": "images/animals/toad.png",
       "added_on": "2025-06-29 17:13:16",
       "slug": "toad",
       "category": "Animals",
@@ -64011,7 +64011,7 @@
     },
     {
       "title": "Toasted Marshmallow",
-      "file_name": "toasted-marshmallow.png",
+      "file_name": "images/food_drink/toasted-marshmallow.png",
       "added_on": "2025-07-09 17:10:54",
       "slug": "toasted-marshmallow",
       "category": "Food & Drink",
@@ -66970,7 +66970,7 @@
     },
     {
       "title": "Toe Ring",
-      "file_name": "toe-ring.png",
+      "file_name": "images/fashion_style/toe-ring.png",
       "added_on": "2025-07-12 01:01:43",
       "slug": "toe-ring",
       "category": "Fashion & Style",
@@ -67357,7 +67357,7 @@
     },
     {
       "title": "Toadstool",
-      "file_name": "toadstool.png",
+      "file_name": "images/nature_outdoors/toadstool.png",
       "added_on": "2025-07-12 06:01:34",
       "slug": "toadstool",
       "category": "Nature & Outdoors",
@@ -98515,7 +98515,7 @@
     },
     {
       "title": "Toasted Coconut Chip",
-      "file_name": "toasted-coconut-chip.png",
+      "file_name": "images/food_drink/toasted-coconut-chip.png",
       "added_on": "2025-09-30 15:11:14",
       "slug": "toasted-coconut-chip",
       "category": "Food & Drink",
@@ -99460,7 +99460,7 @@
     },
     {
       "title": "Titan Beetle",
-      "file_name": "titan-beetle.png",
+      "file_name": "images/animals/titan-beetle.png",
       "added_on": "2025-10-01 03:51:07",
       "slug": "titan-beetle",
       "category": "Animals",
@@ -119043,7 +119043,7 @@
     },
     {
       "title": "Titanosaur",
-      "file_name": "titanosaur.png",
+      "file_name": "images/animals/titanosaur.png",
       "added_on": "2025-12-04 17:31:44",
       "slug": "titanosaur",
       "category": "Animals",
@@ -129266,7 +129266,7 @@
     },
     {
       "title": "Tissue Box",
-      "file_name": "tissue-box.png",
+      "file_name": "images/everyday_life/tissue-box.png",
       "added_on": "2026-03-09 14:50:49",
       "slug": "tissue-box",
       "category": "Everyday Life",
@@ -130677,7 +130677,7 @@
     },
     {
       "title": "Toe Separator",
-      "file_name": "toe-separator.png",
+      "file_name": "images/health_wellness/toe-separator.png",
       "added_on": "2026-03-18 14:01:18",
       "slug": "toe-separator",
       "category": "Health & Wellness",
@@ -131134,7 +131134,7 @@
     },
     {
       "title": "Tofu Cube",
-      "file_name": "tofu-cube.png",
+      "file_name": "images/food_drink/tofu-cube.png",
       "added_on": "2026-03-20 14:51:19",
       "slug": "tofu-cube",
       "category": "Food & Drink",
