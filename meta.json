@@ -9600,7 +9600,7 @@
     },
     {
       "title": "Mustard",
-      "file_name": "mustard.png",
+      "file_name": "images/food_drink/mustard.png",
       "added_on": "2025-05-23 05:50:53",
       "slug": "mustard",
       "category": "Food & Drink",
@@ -12410,7 +12410,7 @@
     },
     {
       "title": "Musician",
-      "file_name": "musician.png",
+      "file_name": "images/professions/musician.png",
       "added_on": "2025-05-25 16:41:26",
       "slug": "musician",
       "category": "Professions",
@@ -14884,7 +14884,7 @@
     },
     {
       "title": "Music Festival",
-      "file_name": "music-festival.png",
+      "file_name": "images/events/music-festival.png",
       "added_on": "2025-05-27 05:40:51",
       "slug": "music-festival",
       "category": "Events",
@@ -14936,7 +14936,7 @@
     },
     {
       "title": "Musk Ox",
-      "file_name": "musk-ox.png",
+      "file_name": "images/animals/musk-ox.png",
       "added_on": "2025-05-27 06:50:47",
       "slug": "musk-ox",
       "category": "Animals",
@@ -15300,7 +15300,7 @@
     },
     {
       "title": "Musk Lorikeet",
-      "file_name": "musk-lorikeet.png",
+      "file_name": "images/animals/musk-lorikeet.png",
       "added_on": "2025-05-27 12:41:06",
       "slug": "musk-lorikeet",
       "category": "Animals",
@@ -15521,7 +15521,7 @@
     },
     {
       "title": "Myna",
-      "file_name": "myna.png",
+      "file_name": "images/animals/myna.png",
       "added_on": "2025-05-27 15:50:57",
       "slug": "myna",
       "category": "Animals",
@@ -17850,7 +17850,7 @@
     },
     {
       "title": "Mustang P-51 Fighter Plane",
-      "file_name": "mustang-p-51-fighter-plane.png",
+      "file_name": "images/vehicles_transport/mustang-p-51-fighter-plane.png",
       "added_on": "2025-06-01 08:10:46",
       "slug": "mustang-p-51-fighter-plane",
       "category": "Vehicles & Transport",
@@ -23701,7 +23701,7 @@
     },
     {
       "title": "Mycelium",
-      "file_name": "mycelium.png",
+      "file_name": "images/nature_outdoors/mycelium.png",
       "added_on": "2025-06-04 08:37:08",
       "slug": "mycelium",
       "category": "Nature & Outdoors",
@@ -30897,7 +30897,7 @@
     },
     {
       "title": "Music Stand",
-      "file_name": "music-stand.png",
+      "file_name": "images/entertainment_leisure/music-stand.png",
       "added_on": "2025-06-10 21:08:46",
       "slug": "music-stand",
       "category": "Entertainment & Leisure",
@@ -31539,7 +31539,7 @@
     },
     {
       "title": "Mystic amulet",
-      "file_name": "mystic-amulet.png",
+      "file_name": "images/fantasy_imagination/mystic-amulet.png",
       "added_on": "2025-06-11 02:42:53",
       "slug": "mystic-amulet",
       "category": "Fantasy & Imagination",
@@ -38406,7 +38406,7 @@
     },
     {
       "title": "Mystic Key",
-      "file_name": "mystic-key.png",
+      "file_name": "images/fantasy_imagination/mystic-key.png",
       "added_on": "2025-06-13 02:07:24",
       "slug": "mystic-key",
       "category": "Fantasy & Imagination",
@@ -50032,7 +50032,7 @@
     },
     {
       "title": "Muskellunge",
-      "file_name": "muskellunge.png",
+      "file_name": "images/animals/muskellunge.png",
       "added_on": "2025-06-22 21:39:44",
       "slug": "muskellunge",
       "category": "Animals",
@@ -90305,7 +90305,7 @@
     },
     {
       "title": "Music Storage Box",
-      "file_name": "music-storage-box.png",
+      "file_name": "images/everyday_life/music-storage-box.png",
       "added_on": "2025-09-09 17:31:28",
       "slug": "music-storage-box",
       "category": "Everyday Life",
@@ -98372,7 +98372,7 @@
     },
     {
       "title": "Musical Chairs",
-      "file_name": "musical-chairs.png",
+      "file_name": "images/entertainment_leisure/musical-chairs.png",
       "added_on": "2025-09-30 13:11:24",
       "slug": "musical-chairs",
       "category": "Entertainment & Leisure",
@@ -102557,7 +102557,7 @@
     },
     {
       "title": "Mute Swan",
-      "file_name": "mute-swan.png",
+      "file_name": "images/animals/mute-swan.png",
       "added_on": "2025-10-08 23:31:39",
       "slug": "mute-swan",
       "category": "Animals",
@@ -113933,7 +113933,7 @@
     },
     {
       "title": "Muslim boy wearing hat",
-      "file_name": "muslim-boy-wearing-islamic-hat.png",
+      "file_name": "images/history_culture/muslim-boy-wearing-islamic-hat.png",
       "added_on": "2025-11-08 18:52:08",
       "slug": "muslim-boy-wearing-islamic-hat",
       "category": "History & Culture",
@@ -114990,7 +114990,7 @@
     },
     {
       "title": "Myobatrachus",
-      "file_name": "myobatrachus.png",
+      "file_name": "images/animals/myobatrachus.png",
       "added_on": "2025-11-12 11:32:02",
       "slug": "myobatrachus",
       "category": "Animals",
@@ -115279,7 +115279,7 @@
     },
     {
       "title": "Mystery Box",
-      "file_name": "mystery-box.png",
+      "file_name": "images/entertainment_leisure/mystery-box.png",
       "added_on": "2025-11-14 11:41:59",
       "slug": "mystery-box",
       "category": "Entertainment & Leisure",
@@ -119306,7 +119306,7 @@
     },
     {
       "title": "Mustang Horse",
-      "file_name": "mustang-horse.png",
+      "file_name": "images/animals/mustang-horse.png",
       "added_on": "2025-12-04 21:21:21",
       "slug": "mustang-horse",
       "category": "Animals",
@@ -120374,7 +120374,7 @@
     },
     {
       "title": "Myrmecologist",
-      "file_name": "myrmecologist.png",
+      "file_name": "images/professions/myrmecologist.png",
       "added_on": "2026-01-22 18:01:21",
       "slug": "myrmecologist",
       "category": "Professions",
@@ -123975,7 +123975,7 @@
     },
     {
       "title": "Myanmar",
-      "file_name": "myanmar.png",
+      "file_name": "images/countries/myanmar.png",
       "added_on": "2026-02-02 12:31:37",
       "slug": "myanmar",
       "category": "Countries",
@@ -124437,7 +124437,7 @@
     },
     {
       "title": "Musk Deer",
-      "file_name": "musk-deer.png",
+      "file_name": "images/animals/musk-deer.png",
       "added_on": "2026-02-04 15:01:22",
       "slug": "musk-deer",
       "category": "Animals",
@@ -126344,7 +126344,7 @@
     },
     {
       "title": "Musical Fruit Shaker",
-      "file_name": "musical-fruit-shaker.png",
+      "file_name": "images/entertainment_leisure/musical-fruit-shaker.png",
       "added_on": "2026-02-11 18:21:08",
       "slug": "musical-fruit-shaker",
       "category": "Entertainment & Leisure",
