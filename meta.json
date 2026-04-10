@@ -114,7 +114,7 @@
     },
     {
       "title": "Rug",
-      "file_name": "rug.png",
+      "file_name": "images/everyday_life/rug.png",
       "added_on": "2025-05-15 15:30:35",
       "slug": "rug",
       "category": "Everyday Life",
@@ -9301,7 +9301,7 @@
     },
     {
       "title": "Rubber Duck",
-      "file_name": "rubber-duck.png",
+      "file_name": "images/everyday_life/rubber-duck.png",
       "added_on": "2025-05-23 01:50:52",
       "slug": "rubber-duck",
       "category": "Everyday Life",
@@ -31081,7 +31081,7 @@
     },
     {
       "title": "Rowing Oar",
-      "file_name": "rowing-oar.png",
+      "file_name": "images/sports/rowing-oar.png",
       "added_on": "2025-06-10 22:42:48",
       "slug": "rowing-oar",
       "category": "Sports",
@@ -31266,7 +31266,7 @@
     },
     {
       "title": "Rugby Ball",
-      "file_name": "rugby-ball.png",
+      "file_name": "images/sports/rugby-ball.png",
       "added_on": "2025-06-11 00:06:48",
       "slug": "rugby-ball",
       "category": "Sports",
@@ -41836,7 +41836,7 @@
     },
     {
       "title": "Rowing shell",
-      "file_name": "rowing-shell.png",
+      "file_name": "images/sports/rowing-shell.png",
       "added_on": "2025-06-13 22:49:19",
       "slug": "rowing-shell",
       "category": "Sports",
@@ -46291,7 +46291,7 @@
     },
     {
       "title": "Rubber Stamp",
-      "file_name": "rubber-stamp.png",
+      "file_name": "images/work_industry/rubber-stamp.png",
       "added_on": "2025-06-16 13:11:27",
       "slug": "rubber-stamp",
       "category": "Work & Industry",
@@ -47215,7 +47215,7 @@
     },
     {
       "title": "Rowing Machine",
-      "file_name": "rowing-machine.png",
+      "file_name": "images/health_wellness/rowing-machine.png",
       "added_on": "2025-06-18 13:29:51",
       "slug": "rowing-machine",
       "category": "Health & Wellness",
@@ -57571,7 +57571,7 @@
     },
     {
       "title": "Ruffle Socks",
-      "file_name": "ruffle-socks.png",
+      "file_name": "images/fashion_style/ruffle-socks.png",
       "added_on": "2025-07-05 22:11:21",
       "slug": "ruffle-socks",
       "category": "Fashion & Style",
@@ -58120,7 +58120,7 @@
     },
     {
       "title": "Ruffled blouse",
-      "file_name": "ruffled-blouse.png",
+      "file_name": "images/fashion_style/ruffled-blouse.png",
       "added_on": "2025-07-06 04:16:34",
       "slug": "ruffled-blouse",
       "category": "Fashion & Style",
@@ -58623,7 +58623,7 @@
     },
     {
       "title": "Ruined Castle",
-      "file_name": "ruined-castle.png",
+      "file_name": "images/places_structures/ruined-castle.png",
       "added_on": "2025-07-06 13:46:08",
       "slug": "ruined-castle",
       "category": "Places & Structures",
@@ -68046,7 +68046,7 @@
     },
     {
       "title": "Rugby",
-      "file_name": "rugby.png",
+      "file_name": "images/sports/rugby.png",
       "added_on": "2025-07-12 16:21:25",
       "slug": "rugby",
       "category": "Sports",
@@ -68152,7 +68152,7 @@
     },
     {
       "title": "Rubber Chicken",
-      "file_name": "rubber-chicken.png",
+      "file_name": "images/entertainment_leisure/rubber-chicken.png",
       "added_on": "2025-07-12 19:11:17",
       "slug": "rubber-chicken",
       "category": "Entertainment & Leisure",
@@ -71481,7 +71481,7 @@
     },
     {
       "title": "RPG Dice",
-      "file_name": "rpg-dice.png",
+      "file_name": "images/entertainment_leisure/rpg-dice.png",
       "added_on": "2025-07-16 08:40:23",
       "slug": "rpg-dice",
       "category": "Entertainment & Leisure",
@@ -91317,7 +91317,7 @@
     },
     {
       "title": "Rubber Stamp Roller",
-      "file_name": "rubber-stamp-roller.png",
+      "file_name": "images/hobbies/rubber-stamp-roller.png",
       "added_on": "2025-09-10 18:31:26",
       "slug": "rubber-stamp-roller",
       "category": "Hobbies",
@@ -91761,7 +91761,7 @@
     },
     {
       "title": "Rubber Band Ball",
-      "file_name": "rubber-band-ball.png",
+      "file_name": "images/hobbies/rubber-band-ball.png",
       "added_on": "2025-09-12 03:51:23",
       "slug": "rubber-band-ball",
       "category": "Hobbies",
@@ -92132,7 +92132,7 @@
     },
     {
       "title": "Rubber Stamps",
-      "file_name": "rubber-stamps.png",
+      "file_name": "images/hobbies/rubber-stamps.png",
       "added_on": "2025-09-12 23:31:25",
       "slug": "rubber-stamps",
       "category": "Hobbies",
@@ -93395,7 +93395,7 @@
     },
     {
       "title": "Ruin",
-      "file_name": "ruin.png",
+      "file_name": "images/places_structures/ruin.png",
       "added_on": "2025-09-16 15:21:28",
       "slug": "ruin",
       "category": "Places & Structures",
@@ -98333,7 +98333,7 @@
     },
     {
       "title": "Ruby",
-      "file_name": "ruby-gemstone.png",
+      "file_name": "images/nature_outdoors/ruby-gemstone.png",
       "added_on": "2025-09-27 19:41:12",
       "slug": "ruby-gemstone",
       "category": "Nature & Outdoors",
@@ -115136,7 +115136,7 @@
     },
     {
       "title": "Ruble",
-      "file_name": "ruble.png",
+      "file_name": "images/everyday_life/ruble.png",
       "added_on": "2025-11-12 13:42:03",
       "slug": "ruble",
       "category": "Everyday Life",
@@ -129004,7 +129004,7 @@
     },
     {
       "title": "Royal scepter",
-      "file_name": "royal-scepter.png",
+      "file_name": "images/history_culture/royal-scepter.png",
       "added_on": "2026-03-09 11:10:50",
       "slug": "royal-scepter",
       "category": "History & Culture",
@@ -131251,7 +131251,7 @@
     },
     {
       "title": "Royal Seal",
-      "file_name": "royal-seal.png",
+      "file_name": "images/history_culture/royal-seal.png",
       "added_on": "2026-03-20 16:31:15",
       "slug": "royal-seal",
       "category": "History & Culture",
