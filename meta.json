@@ -4025,7 +4025,7 @@
     },
     {
       "title": "Road",
-      "file_name": "road.png",
+      "file_name": "images/places_structures/road.png",
       "added_on": "2025-05-17 02:51:07",
       "slug": "road",
       "category": "Places & Structures",
@@ -4934,7 +4934,7 @@
     },
     {
       "title": "River",
-      "file_name": "river.png",
+      "file_name": "images/nature_outdoors/river.png",
       "added_on": "2025-05-17 16:15:35",
       "slug": "river",
       "category": "Nature & Outdoors",
@@ -15925,7 +15925,7 @@
     },
     {
       "title": "River Pebble",
-      "file_name": "river-pebble.png",
+      "file_name": "images/nature_outdoors/river-pebble.png",
       "added_on": "2025-05-27 23:31:00",
       "slug": "river-pebble",
       "category": "Nature & Outdoors",
@@ -26469,7 +26469,7 @@
     },
     {
       "title": "Road Block Sign",
-      "file_name": "road-block-sign.png",
+      "file_name": "images/places_structures/road-block-sign.png",
       "added_on": "2025-06-07 14:31:25",
       "slug": "road-block-sign",
       "category": "Places & Structures",
@@ -43922,7 +43922,7 @@
     },
     {
       "title": "Robot Arm",
-      "file_name": "robot-arm.png",
+      "file_name": "images/technology_media/robot-arm.png",
       "added_on": "2025-06-14 13:21:17",
       "slug": "robot-arm",
       "category": "Technology & Media",
@@ -47257,7 +47257,7 @@
     },
     {
       "title": "Roadmap",
-      "file_name": "roadmap.png",
+      "file_name": "images/interface_symbols/roadmap.png",
       "added_on": "2025-06-18 13:29:58",
       "slug": "roadmap",
       "category": "Interface & Symbols",
@@ -53651,7 +53651,7 @@
     },
     {
       "title": "Risotto al Limone e Gamberi",
-      "file_name": "risotto-al-limone-e-gamberi.png",
+      "file_name": "images/food_drink/risotto-al-limone-e-gamberi.png",
       "added_on": "2025-06-27 08:38:07",
       "slug": "risotto-al-limone-e-gamberi",
       "category": "Food & Drink",
@@ -56426,7 +56426,7 @@
     },
     {
       "title": "Robin",
-      "file_name": "robin.png",
+      "file_name": "images/animals/robin.png",
       "added_on": "2025-07-02 11:01:09",
       "slug": "robin",
       "category": "Animals",
@@ -58374,7 +58374,7 @@
     },
     {
       "title": "Robot Building",
-      "file_name": "robot-building.png",
+      "file_name": "images/hobbies/robot-building.png",
       "added_on": "2025-07-06 10:06:22",
       "slug": "robot-building",
       "category": "Hobbies",
@@ -61265,7 +61265,7 @@
     },
     {
       "title": "Rivet Gun",
-      "file_name": "rivet-gun.png",
+      "file_name": "images/work_industry/rivet-gun.png",
       "added_on": "2025-07-08 20:55:56",
       "slug": "rivet-gun",
       "category": "Work & Industry",
@@ -72794,7 +72794,7 @@
     },
     {
       "title": "RNA Strand Model",
-      "file_name": "rna-strand-model.png",
+      "file_name": "images/space_science/rna-strand-model.png",
       "added_on": "2025-07-16 21:51:37",
       "slug": "rna-strand-model",
       "category": "Space & Science",
@@ -74634,7 +74634,7 @@
     },
     {
       "title": "Robot Dog",
-      "file_name": "robot-dog.png",
+      "file_name": "images/technology_media/robot-dog.png",
       "added_on": "2025-07-18 15:41:25",
       "slug": "robot-dog",
       "category": "Technology & Media",
@@ -97548,7 +97548,7 @@
     },
     {
       "title": "Roasted Potatoes",
-      "file_name": "roasted-potatoes.png",
+      "file_name": "images/food_drink/roasted-potatoes.png",
       "added_on": "2025-09-25 18:11:18",
       "slug": "roasted-potatoes",
       "category": "Food & Drink",
@@ -97665,7 +97665,7 @@
     },
     {
       "title": "Roast Turkey",
-      "file_name": "roast-turkey.png",
+      "file_name": "images/food_drink/roast-turkey.png",
       "added_on": "2025-09-25 19:41:16",
       "slug": "roast-turkey",
       "category": "Food & Drink",
@@ -101309,7 +101309,7 @@
     },
     {
       "title": "Roadster Tractor",
-      "file_name": "roadster-tractor.png",
+      "file_name": "images/vehicles_transport/roadster-tractor.png",
       "added_on": "2025-10-05 11:31:44",
       "slug": "roadster-tractor",
       "category": "Vehicles & Transport",
@@ -102238,7 +102238,7 @@
     },
     {
       "title": "Robespierre",
-      "file_name": "robespierre.png",
+      "file_name": "images/historical_figures/robespierre.png",
       "added_on": "2025-10-08 16:01:50",
       "slug": "robespierre",
       "category": "Historical Figures",
@@ -117413,7 +117413,7 @@
     },
     {
       "title": "River Delta",
-      "file_name": "river-delta.png",
+      "file_name": "images/nature_outdoors/river-delta.png",
       "added_on": "2025-11-24 14:41:40",
       "slug": "river-delta",
       "category": "Nature & Outdoors",
@@ -117728,7 +117728,7 @@
     },
     {
       "title": "Roasted Bone Marrow",
-      "file_name": "roasted-bone-marrow.png",
+      "file_name": "images/food_drink/roasted-bone-marrow.png",
       "added_on": "2025-11-25 10:21:34",
       "slug": "roasted-bone-marrow",
       "category": "Food & Drink",
@@ -118406,7 +118406,7 @@
     },
     {
       "title": "Road Paver",
-      "file_name": "road-paver.png",
+      "file_name": "images/vehicles_transport/road-paver.png",
       "added_on": "2025-12-01 11:21:31",
       "slug": "road-paver",
       "category": "Vehicles & Transport",
@@ -129069,7 +129069,7 @@
     },
     {
       "title": "Rivet Bucket",
-      "file_name": "rivet-bucket.png",
+      "file_name": "images/work_industry/rivet-bucket.png",
       "added_on": "2026-03-09 12:01:10",
       "slug": "rivet-bucket",
       "category": "Work & Industry",
