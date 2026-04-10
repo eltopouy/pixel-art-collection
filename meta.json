@@ -4726,7 +4726,7 @@
     },
     {
       "title": "Skateboard",
-      "file_name": "skateboard.png",
+      "file_name": "images/vehicles_transport/skateboard.png",
       "added_on": "2025-05-17 13:41:22",
       "slug": "skateboard",
       "category": "Vehicles & Transport",
@@ -6857,7 +6857,7 @@
     },
     {
       "title": "Sketchbook",
-      "file_name": "sketchbook.png",
+      "file_name": "images/hobbies/sketchbook.png",
       "added_on": "2025-05-19 01:00:54",
       "slug": "sketchbook",
       "category": "Hobbies",
@@ -12956,7 +12956,7 @@
     },
     {
       "title": "Skate Park",
-      "file_name": "skate-park.png",
+      "file_name": "images/places_structures/skate-park.png",
       "added_on": "2025-05-26 00:51:28",
       "slug": "skate-park",
       "category": "Places & Structures",
@@ -14962,7 +14962,7 @@
     },
     {
       "title": "Sketch Pad",
-      "file_name": "sketch-pad.png",
+      "file_name": "images/hobbies/sketch-pad.png",
       "added_on": "2025-05-27 07:10:45",
       "slug": "sketch-pad",
       "category": "Hobbies",
@@ -31578,7 +31578,7 @@
     },
     {
       "title": "Skeleton sled",
-      "file_name": "skeleton-sled.png",
+      "file_name": "images/sports/skeleton-sled.png",
       "added_on": "2025-06-11 03:00:57",
       "slug": "skeleton-sled",
       "category": "Sports",
@@ -58187,7 +58187,7 @@
     },
     {
       "title": "Skateboarding",
-      "file_name": "skateboarding.png",
+      "file_name": "images/sports/skateboarding.png",
       "added_on": "2025-07-06 06:41:22",
       "slug": "skateboarding",
       "category": "Sports",
@@ -63641,7 +63641,7 @@
     },
     {
       "title": "Skeleton Suit",
-      "file_name": "skeleton-suit.png",
+      "file_name": "images/sports/skeleton-suit.png",
       "added_on": "2025-07-09 14:40:58",
       "slug": "skeleton-suit",
       "category": "Sports",
@@ -63946,7 +63946,7 @@
     },
     {
       "title": "Skee-Ball Machine",
-      "file_name": "skee-ball-machine.png",
+      "file_name": "images/entertainment_leisure/skee-ball-machine.png",
       "added_on": "2025-07-09 16:41:03",
       "slug": "skee-ball-machine",
       "category": "Entertainment & Leisure",
@@ -65003,7 +65003,7 @@
     },
     {
       "title": "Skeleton Butler",
-      "file_name": "skeleton-butler.png",
+      "file_name": "images/fantasy_imagination/skeleton-butler.png",
       "added_on": "2025-07-10 16:01:01",
       "slug": "skeleton-butler",
       "category": "Fantasy & Imagination",
@@ -68794,7 +68794,7 @@
     },
     {
       "title": "Skeleton King",
-      "file_name": "skeleton-king.png",
+      "file_name": "images/fantasy_imagination/skeleton-king.png",
       "added_on": "2025-07-13 13:56:36",
       "slug": "skeleton-king",
       "category": "Fantasy & Imagination",
@@ -69405,7 +69405,7 @@
     },
     {
       "title": "Skeleton Bob Helmet",
-      "file_name": "skeleton-bob-helmet.png",
+      "file_name": "images/sports/skeleton-bob-helmet.png",
       "added_on": "2025-07-13 23:21:33",
       "slug": "skeleton-bob-helmet",
       "category": "Sports",
@@ -70854,7 +70854,7 @@
     },
     {
       "title": "Skate Ramp",
-      "file_name": "skate-ramp.png",
+      "file_name": "images/sports/skate-ramp.png",
       "added_on": "2025-07-14 19:31:39",
       "slug": "skate-ramp",
       "category": "Sports",
@@ -72768,7 +72768,7 @@
     },
     {
       "title": "Skeleton Key",
-      "file_name": "skeleton-key.png",
+      "file_name": "images/hobbies/skeleton-key.png",
       "added_on": "2025-07-16 21:31:57",
       "slug": "skeleton-key",
       "category": "Hobbies",
@@ -73277,7 +73277,7 @@
     },
     {
       "title": "Skatepark",
-      "file_name": "skatepark.png",
+      "file_name": "images/places_structures/skatepark.png",
       "added_on": "2025-07-17 12:32:02",
       "slug": "skatepark",
       "category": "Places & Structures",
@@ -92327,7 +92327,7 @@
     },
     {
       "title": "Skateboard Rail",
-      "file_name": "skateboard-rail.png",
+      "file_name": "images/sports/skateboard-rail.png",
       "added_on": "2025-09-13 15:21:23",
       "slug": "skateboard-rail",
       "category": "Sports",
@@ -99699,7 +99699,7 @@
     },
     {
       "title": "Skateboard Backpack",
-      "file_name": "skateboard-backpack.png",
+      "file_name": "images/fashion_style/skateboard-backpack.png",
       "added_on": "2025-10-02 09:01:27",
       "slug": "skateboard-backpack",
       "category": "Fashion & Style",
@@ -123643,7 +123643,7 @@
     },
     {
       "title": "Skateboard Halfpipe",
-      "file_name": "skateboard-halfpipe.png",
+      "file_name": "images/sports/skateboard-halfpipe.png",
       "added_on": "2026-02-01 18:21:07",
       "slug": "skateboard-halfpipe",
       "category": "Sports",
@@ -126123,7 +126123,7 @@
     },
     {
       "title": "Sketching Mannequin",
-      "file_name": "sketching-mannequin.png",
+      "file_name": "images/hobbies/sketching-mannequin.png",
       "added_on": "2026-02-11 15:21:05",
       "slug": "sketching-mannequin",
       "category": "Hobbies",
@@ -128253,7 +128253,7 @@
     },
     {
       "title": "Skateboard Knee Pads",
-      "file_name": "skateboard-knee-pads.png",
+      "file_name": "images/sports/skateboard-knee-pads.png",
       "added_on": "2026-03-09 00:40:48",
       "slug": "skateboard-knee-pads",
       "category": "Sports",
@@ -130835,7 +130835,7 @@
     },
     {
       "title": "Skateboard helmet",
-      "file_name": "skateboard-helmet.png",
+      "file_name": "images/sports/skateboard-helmet.png",
       "added_on": "2026-03-18 16:21:13",
       "slug": "skateboard-helmet",
       "category": "Sports",
