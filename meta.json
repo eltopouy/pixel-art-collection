@@ -4284,7 +4284,7 @@
     },
     {
       "title": "Goat",
-      "file_name": "goat.png",
+      "file_name": "images/animals/goat.png",
       "added_on": "2025-05-17 06:21:14",
       "slug": "goat",
       "category": "Animals",
@@ -16433,7 +16433,7 @@
     },
     {
       "title": "Goal Post",
-      "file_name": "goal-post.png",
+      "file_name": "images/sports/goal-post.png",
       "added_on": "2025-05-28 07:41:05",
       "slug": "goal-post",
       "category": "Sports",
@@ -17395,7 +17395,7 @@
     },
     {
       "title": "Goban",
-      "file_name": "goban.png",
+      "file_name": "images/entertainment_leisure/goban.png",
       "added_on": "2025-05-31 11:02:11",
       "slug": "goban",
       "category": "Entertainment & Leisure",
@@ -23883,7 +23883,7 @@
     },
     {
       "title": "Gnomon",
-      "file_name": "gnomon.png",
+      "file_name": "images/space_science/gnomon.png",
       "added_on": "2025-06-04 08:49:41",
       "slug": "gnomon",
       "category": "Space & Science",
@@ -26258,7 +26258,7 @@
     },
     {
       "title": "Goalkeeper Gloves",
-      "file_name": "goalkeeper-gloves.png",
+      "file_name": "images/sports/goalkeeper-gloves.png",
       "added_on": "2025-06-07 12:48:21",
       "slug": "goalkeeper-gloves",
       "category": "Sports",
@@ -39570,7 +39570,7 @@
     },
     {
       "title": "Goblin Lantern",
-      "file_name": "goblin-lantern.png",
+      "file_name": "images/fantasy_imagination/goblin-lantern.png",
       "added_on": "2025-06-13 12:01:20",
       "slug": "goblin-lantern",
       "category": "Fantasy & Imagination",
@@ -43111,7 +43111,7 @@
     },
     {
       "title": "Goat Milk",
-      "file_name": "goat-milk.png",
+      "file_name": "images/food_drink/goat-milk.png",
       "added_on": "2025-06-14 09:31:08",
       "slug": "goat-milk",
       "category": "Food & Drink",
@@ -50879,7 +50879,7 @@
     },
     {
       "title": "Goblin",
-      "file_name": "goblin.png",
+      "file_name": "images/fantasy_imagination/goblin.png",
       "added_on": "2025-06-23 01:31:25",
       "slug": "goblin",
       "category": "Fantasy & Imagination",
@@ -59195,7 +59195,7 @@
     },
     {
       "title": "Goblin Mask",
-      "file_name": "goblin-mask.png",
+      "file_name": "images/fantasy_imagination/goblin-mask.png",
       "added_on": "2025-07-07 00:36:14",
       "slug": "goblin-mask",
       "category": "Fantasy & Imagination",
@@ -62959,7 +62959,7 @@
     },
     {
       "title": "Goblin Shark",
-      "file_name": "goblin-shark.png",
+      "file_name": "images/animals/goblin-shark.png",
       "added_on": "2025-07-09 09:56:11",
       "slug": "goblin-shark",
       "category": "Animals",
@@ -63894,7 +63894,7 @@
     },
     {
       "title": "Goblin Ice Cream Truck",
-      "file_name": "goblin-ice-cream-truck.png",
+      "file_name": "images/fantasy_imagination/goblin-ice-cream-truck.png",
       "added_on": "2025-07-09 16:16:10",
       "slug": "goblin-ice-cream-truck",
       "category": "Fantasy & Imagination",
@@ -67331,7 +67331,7 @@
     },
     {
       "title": "Goalkeeper",
-      "file_name": "goalkeeper.png",
+      "file_name": "images/sports/goalkeeper.png",
       "added_on": "2025-07-12 05:41:37",
       "slug": "goalkeeper",
       "category": "Sports",
@@ -84081,7 +84081,7 @@
     },
     {
       "title": "Goatman",
-      "file_name": "goatman.png",
+      "file_name": "images/history_culture/goatman.png",
       "added_on": "2025-08-17 03:51:13",
       "slug": "goatman",
       "category": "History & Culture",
@@ -88718,7 +88718,7 @@
     },
     {
       "title": "Gobekli Tepe Pillar",
-      "file_name": "gobekli-tepe-pillar.png",
+      "file_name": "images/history_culture/gobekli-tepe-pillar.png",
       "added_on": "2025-09-05 18:01:12",
       "slug": "gobekli-tepe-pillar",
       "category": "History & Culture",
@@ -101088,7 +101088,7 @@
     },
     {
       "title": "Goat Cheese Log",
-      "file_name": "goat-cheese-log.png",
+      "file_name": "images/food_drink/goat-cheese-log.png",
       "added_on": "2025-10-04 21:31:17",
       "slug": "goat-cheese-log",
       "category": "Food & Drink",
@@ -105929,7 +105929,7 @@
     },
     {
       "title": "Gnome House",
-      "file_name": "gnome-house.png",
+      "file_name": "images/hobbies/gnome-house.png",
       "added_on": "2025-10-20 11:54:57",
       "slug": "gnome-house",
       "category": "Hobbies",
@@ -106319,7 +106319,7 @@
     },
     {
       "title": "Gobi Jerboa",
-      "file_name": "gobi-jerboa.png",
+      "file_name": "images/animals/gobi-jerboa.png",
       "added_on": "2025-10-20 17:21:15",
       "slug": "gobi-jerboa",
       "category": "Animals",
@@ -110914,7 +110914,7 @@
     },
     {
       "title": "Go Kart",
-      "file_name": "go-kart.png",
+      "file_name": "images/sports/go-kart.png",
       "added_on": "2025-10-30 19:01:54",
       "slug": "go-kart",
       "category": "Sports",
@@ -122743,7 +122743,7 @@
     },
     {
       "title": "Goblin Shark Fish",
-      "file_name": "goblin-shark-fish.png",
+      "file_name": "images/animals/goblin-shark-fish.png",
       "added_on": "2026-01-29 17:51:07",
       "slug": "goblin-shark-fish",
       "category": "Animals",
@@ -124287,7 +124287,7 @@
     },
     {
       "title": "Goblin Spider",
-      "file_name": "goblin-spider.png",
+      "file_name": "images/animals/goblin-spider.png",
       "added_on": "2026-02-04 13:01:23",
       "slug": "goblin-spider",
       "category": "Animals",
