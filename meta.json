@@ -4090,7 +4090,7 @@
     },
     {
       "title": "Park",
-      "file_name": "park.png",
+      "file_name": "images/places_structures/park.png",
       "added_on": "2025-05-17 03:36:07",
       "slug": "park",
       "category": "Places & Structures",
@@ -11227,7 +11227,7 @@
     },
     {
       "title": "Parcel",
-      "file_name": "parcel.png",
+      "file_name": "images/everyday_life/parcel.png",
       "added_on": "2025-05-24 03:21:15",
       "slug": "parcel",
       "category": "Everyday Life",
@@ -16316,7 +16316,7 @@
     },
     {
       "title": "Parrot",
-      "file_name": "parrot.png",
+      "file_name": "images/animals/parrot.png",
       "added_on": "2025-05-28 06:10:54",
       "slug": "parrot",
       "category": "Animals",
@@ -16420,7 +16420,7 @@
     },
     {
       "title": "Parking lot",
-      "file_name": "parking-lot.png",
+      "file_name": "images/places_structures/parking-lot.png",
       "added_on": "2025-05-28 07:31:01",
       "slug": "parking-lot",
       "category": "Places & Structures",
@@ -24351,7 +24351,7 @@
     },
     {
       "title": "Parent",
-      "file_name": "parent.png",
+      "file_name": "images/everyday_life/parent.png",
       "added_on": "2025-06-04 21:35:57",
       "slug": "parent",
       "category": "Everyday Life",
@@ -37814,7 +37814,7 @@
     },
     {
       "title": "Paris, France",
-      "file_name": "paris-france.png",
+      "file_name": "images/places_structures/paris-france.png",
       "added_on": "2025-06-12 23:05:40",
       "slug": "paris-france",
       "category": "Places & Structures",
@@ -51078,7 +51078,7 @@
     },
     {
       "title": "Parasol",
-      "file_name": "parasol.png",
+      "file_name": "images/everyday_life/parasol.png",
       "added_on": "2025-06-23 03:07:24",
       "slug": "parasol",
       "category": "Everyday Life",
@@ -56884,7 +56884,7 @@
     },
     {
       "title": "Parking Garage",
-      "file_name": "parking-garage.png",
+      "file_name": "images/places_structures/parking-garage.png",
       "added_on": "2025-07-05 16:01:06",
       "slug": "parking-garage",
       "category": "Places & Structures",
@@ -59169,7 +59169,7 @@
     },
     {
       "title": "Parliament building",
-      "file_name": "parliament-building.png",
+      "file_name": "images/places_structures/parliament-building.png",
       "added_on": "2025-07-07 00:11:05",
       "slug": "parliament-building",
       "category": "Places & Structures",
@@ -62062,7 +62062,7 @@
     },
     {
       "title": "Parking Ticket",
-      "file_name": "parking-ticket.png",
+      "file_name": "images/everyday_life/parking-ticket.png",
       "added_on": "2025-07-09 02:50:59",
       "slug": "parking-ticket",
       "category": "Everyday Life",
@@ -70373,7 +70373,7 @@
     },
     {
       "title": "Parking Barrier Gate",
-      "file_name": "parking-barrier-gate.png",
+      "file_name": "images/vehicles_transport/parking-barrier-gate.png",
       "added_on": "2025-07-14 10:08:25",
       "slug": "parking-barrier-gate",
       "category": "Vehicles & Transport",
@@ -73711,7 +73711,7 @@
     },
     {
       "title": "Parking Meter",
-      "file_name": "parking-meter.png",
+      "file_name": "images/places_structures/parking-meter.png",
       "added_on": "2025-07-17 20:31:31",
       "slug": "parking-meter",
       "category": "Places & Structures",
@@ -87581,7 +87581,7 @@
     },
     {
       "title": "Parmesan Cheese",
-      "file_name": "parmesan-cheese.png",
+      "file_name": "images/food_drink/parmesan-cheese.png",
       "added_on": "2025-09-03 09:21:32",
       "slug": "parmesan-cheese",
       "category": "Food & Drink",
@@ -100615,7 +100615,7 @@
     },
     {
       "title": "Parcel Locker",
-      "file_name": "parcel-locker.png",
+      "file_name": "images/work_industry/parcel-locker.png",
       "added_on": "2025-10-04 15:01:21",
       "slug": "parcel-locker",
       "category": "Work & Industry",
@@ -105316,7 +105316,7 @@
     },
     {
       "title": "Parkour Wall",
-      "file_name": "parkour-wall.png",
+      "file_name": "images/sports/parkour-wall.png",
       "added_on": "2025-10-16 12:11:36",
       "slug": "parkour-wall",
       "category": "Sports",
@@ -107769,7 +107769,7 @@
     },
     {
       "title": "Parcel Conveyor",
-      "file_name": "parcel-conveyor.png",
+      "file_name": "images/work_industry/parcel-conveyor.png",
       "added_on": "2025-10-23 16:31:21",
       "slug": "parcel-conveyor",
       "category": "Work & Industry",
@@ -107990,7 +107990,7 @@
     },
     {
       "title": "Parkour Vault Box",
-      "file_name": "parkour-vault-box.png",
+      "file_name": "images/sports/parkour-vault-box.png",
       "added_on": "2025-10-23 20:01:11",
       "slug": "parkour-vault-box",
       "category": "Sports",
@@ -120595,7 +120595,7 @@
     },
     {
       "title": "Parsley",
-      "file_name": "parsley.png",
+      "file_name": "images/food_drink/parsley.png",
       "added_on": "2026-01-22 21:01:16",
       "slug": "parsley",
       "category": "Food & Drink",
@@ -120998,7 +120998,7 @@
     },
     {
       "title": "Parrotlet",
-      "file_name": "parrotlet.png",
+      "file_name": "images/animals/parrotlet.png",
       "added_on": "2026-01-23 02:21:17",
       "slug": "parrotlet",
       "category": "Animals",
@@ -123055,7 +123055,7 @@
     },
     {
       "title": "Parkour Gloves",
-      "file_name": "parkour-gloves.png",
+      "file_name": "images/sports/parkour-gloves.png",
       "added_on": "2026-01-29 21:51:09",
       "slug": "parkour-gloves",
       "category": "Sports",
@@ -127077,7 +127077,7 @@
     },
     {
       "title": "Parkour Rail",
-      "file_name": "parkour-rail.png",
+      "file_name": "images/sports/parkour-rail.png",
       "added_on": "2026-02-25 10:01:17",
       "slug": "parkour-rail",
       "category": "Sports",
