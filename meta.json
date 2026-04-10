@@ -10915,7 +10915,7 @@
     },
     {
       "title": "Punch",
-      "file_name": "punch.png",
+      "file_name": "images/sports/punch.png",
       "added_on": "2025-05-23 23:21:22",
       "slug": "punch",
       "category": "Sports",
@@ -12111,7 +12111,7 @@
     },
     {
       "title": "Puppet",
-      "file_name": "puppet.png",
+      "file_name": "images/entertainment_leisure/puppet.png",
       "added_on": "2025-05-25 11:51:26",
       "slug": "puppet",
       "category": "Entertainment & Leisure",
@@ -13204,7 +13204,7 @@
     },
     {
       "title": "Punch Card",
-      "file_name": "punch-card.png",
+      "file_name": "images/work_industry/punch-card.png",
       "added_on": "2025-05-26 04:41:32",
       "slug": "punch-card",
       "category": "Work & Industry",
@@ -15287,7 +15287,7 @@
     },
     {
       "title": "Punching Machine",
-      "file_name": "punching-machine.png",
+      "file_name": "images/work_industry/punching-machine.png",
       "added_on": "2025-05-27 12:21:11",
       "slug": "punching-machine",
       "category": "Work & Industry",
@@ -22979,7 +22979,7 @@
     },
     {
       "title": "Punch Card Machine",
-      "file_name": "punch-card-machine.png",
+      "file_name": "images/work_industry/punch-card-machine.png",
       "added_on": "2025-06-04 00:31:09",
       "slug": "punch-card-machine",
       "category": "Work & Industry",
@@ -33034,7 +33034,7 @@
     },
     {
       "title": "Punch clock",
-      "file_name": "punch-clock.png",
+      "file_name": "images/work_industry/punch-clock.png",
       "added_on": "2025-06-11 14:06:41",
       "slug": "punch-clock",
       "category": "Work & Industry",
@@ -33862,7 +33862,7 @@
     },
     {
       "title": "Punch press",
-      "file_name": "punch-press.png",
+      "file_name": "images/work_industry/punch-press.png",
       "added_on": "2025-06-11 20:42:44",
       "slug": "punch-press",
       "category": "Work & Industry",
@@ -47465,7 +47465,7 @@
     },
     {
       "title": "Punch Bag",
-      "file_name": "punch-bag.png",
+      "file_name": "images/sports/punch-bag.png",
       "added_on": "2025-06-19 12:58:21",
       "slug": "punch-bag",
       "category": "Sports",
@@ -54058,7 +54058,7 @@
     },
     {
       "title": "Purple Diamond",
-      "file_name": "purple-diamond.png",
+      "file_name": "images/fantasy_imagination/purple-diamond.png",
       "added_on": "2025-06-27 08:39:31",
       "slug": "purple-diamond",
       "category": "Fantasy & Imagination",
@@ -60045,7 +60045,7 @@
     },
     {
       "title": "Purified Water Dispenser",
-      "file_name": "purified-water-dispenser.png",
+      "file_name": "images/everyday_life/purified-water-dispenser.png",
       "added_on": "2025-07-08 10:20:36",
       "slug": "purified-water-dispenser",
       "category": "Everyday Life",
@@ -61789,7 +61789,7 @@
     },
     {
       "title": "Punch List",
-      "file_name": "punch-list.png",
+      "file_name": "images/work_industry/punch-list.png",
       "added_on": "2025-07-09 00:46:01",
       "slug": "punch-list",
       "category": "Work & Industry",
@@ -65029,7 +65029,7 @@
     },
     {
       "title": "Purple Frog",
-      "file_name": "purple-frog.png",
+      "file_name": "images/animals/purple-frog.png",
       "added_on": "2025-07-10 16:16:23",
       "slug": "purple-frog",
       "category": "Animals",
@@ -71897,7 +71897,7 @@
     },
     {
       "title": "Punch Needle",
-      "file_name": "punch-needle.png",
+      "file_name": "images/hobbies/punch-needle.png",
       "added_on": "2025-07-16 10:01:20",
       "slug": "punch-needle",
       "category": "Hobbies",
@@ -75509,7 +75509,7 @@
     },
     {
       "title": "Punching Bag",
-      "file_name": "punching-bag.png",
+      "file_name": "images/hobbies/punching-bag.png",
       "added_on": "2025-07-19 18:51:20",
       "slug": "punching-bag",
       "category": "Hobbies",
@@ -79679,7 +79679,7 @@
     },
     {
       "title": "Pungi",
-      "file_name": "pungi.png",
+      "file_name": "images/history_culture/pungi.png",
       "added_on": "2025-07-25 06:51:46",
       "slug": "pungi",
       "category": "History & Culture",
@@ -88863,7 +88863,7 @@
     },
     {
       "title": "Puppet Theater",
-      "file_name": "puppet-theater.png",
+      "file_name": "images/hobbies/puppet-theater.png",
       "added_on": "2025-09-06 15:21:10",
       "slug": "puppet-theater",
       "category": "Hobbies",
@@ -94832,7 +94832,7 @@
     },
     {
       "title": "Purple Corn Chip",
-      "file_name": "purple-corn-chip.png",
+      "file_name": "images/food_drink/purple-corn-chip.png",
       "added_on": "2025-09-19 13:01:12",
       "slug": "purple-corn-chip",
       "category": "Food & Drink",
@@ -95183,7 +95183,7 @@
     },
     {
       "title": "Purple Emperor Butterfly",
-      "file_name": "purple-emperor-butterfly.png",
+      "file_name": "images/animals/purple-emperor-butterfly.png",
       "added_on": "2025-09-20 13:41:29",
       "slug": "purple-emperor-butterfly",
       "category": "Animals",
@@ -116088,7 +116088,7 @@
     },
     {
       "title": "Purple Firefish",
-      "file_name": "purple-firefish.png",
+      "file_name": "images/animals/purple-firefish.png",
       "added_on": "2025-11-16 10:11:54",
       "slug": "purple-firefish",
       "category": "Animals",
@@ -127746,7 +127746,7 @@
     },
     {
       "title": "Purity",
-      "file_name": "purity.png",
+      "file_name": "images/everyday_life/purity.png",
       "added_on": "2026-03-02 21:21:12",
       "slug": "purity",
       "category": "Everyday Life",
