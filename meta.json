@@ -4465,7 +4465,7 @@
     },
     {
       "title": "Railway Station",
-      "file_name": "railway-station.png",
+      "file_name": "images/places_structures/railway-station.png",
       "added_on": "2025-05-17 08:41:05",
       "slug": "railway-station",
       "category": "Places & Structures",
@@ -13269,7 +13269,7 @@
     },
     {
       "title": "Radish",
-      "file_name": "radish.png",
+      "file_name": "images/food_drink/radish.png",
       "added_on": "2025-05-26 05:41:26",
       "slug": "radish",
       "category": "Food & Drink",
@@ -30499,7 +30499,7 @@
     },
     {
       "title": "Radioactivity Symbol",
-      "file_name": "radioactivity-symbol.png",
+      "file_name": "images/interface_symbols/radioactivity-symbol.png",
       "added_on": "2025-06-10 18:29:42",
       "slug": "radioactivity-symbol",
       "category": "Interface & Symbols",
@@ -51976,7 +51976,7 @@
     },
     {
       "title": "Rain",
-      "file_name": "rain.png",
+      "file_name": "images/nature_outdoors/rain.png",
       "added_on": "2025-06-24 16:19:20",
       "slug": "rain",
       "category": "Nature & Outdoors",
@@ -68716,7 +68716,7 @@
     },
     {
       "title": "Radon Gas Detection",
-      "file_name": "radon-gas-detection.png",
+      "file_name": "images/health_wellness/radon-gas-detection.png",
       "added_on": "2025-07-13 13:28:08",
       "slug": "radon-gas-detection",
       "category": "Health & Wellness",
@@ -76835,7 +76835,7 @@
     },
     {
       "title": "Rain Boots",
-      "file_name": "rain-boots.png",
+      "file_name": "images/fashion_style/rain-boots.png",
       "added_on": "2025-07-21 10:04:00",
       "slug": "rain-boots",
       "category": "Fashion & Style",
@@ -84198,7 +84198,7 @@
     },
     {
       "title": "Rainbow Serpent",
-      "file_name": "rainbow-serpent.png",
+      "file_name": "images/fantasy_imagination/rainbow-serpent.png",
       "added_on": "2025-08-17 05:41:09",
       "slug": "rainbow-serpent",
       "category": "Fantasy & Imagination",
@@ -84566,7 +84566,7 @@
     },
     {
       "title": "Ragdoll",
-      "file_name": "ragdoll.png",
+      "file_name": "images/animals/ragdoll.png",
       "added_on": "2025-08-19 16:35:18",
       "slug": "ragdoll",
       "category": "Animals",
@@ -84790,7 +84790,7 @@
     },
     {
       "title": "Ragamuffin",
-      "file_name": "ragamuffin.png",
+      "file_name": "images/animals/ragamuffin.png",
       "added_on": "2025-08-19 16:38:06",
       "slug": "ragamuffin",
       "category": "Animals",
@@ -89863,7 +89863,7 @@
     },
     {
       "title": "Rainbow Eucalyptus",
-      "file_name": "rainbow-eucalyptus.png",
+      "file_name": "images/nature_outdoors/rainbow-eucalyptus.png",
       "added_on": "2025-09-09 11:01:34",
       "slug": "rainbow-eucalyptus",
       "category": "Nature & Outdoors",
@@ -92379,7 +92379,7 @@
     },
     {
       "title": "Rainbow Platform Sneakers",
-      "file_name": "rainbow-platform-sneakers.png",
+      "file_name": "images/fashion_style/rainbow-platform-sneakers.png",
       "added_on": "2025-09-13 21:51:25",
       "slug": "rainbow-platform-sneakers",
       "category": "Fashion & Style",
@@ -92965,7 +92965,7 @@
     },
     {
       "title": "Rainbow Bagel",
-      "file_name": "rainbow-bagel.png",
+      "file_name": "images/food_drink/rainbow-bagel.png",
       "added_on": "2025-09-15 15:51:23",
       "slug": "rainbow-bagel",
       "category": "Food & Drink",
@@ -93160,7 +93160,7 @@
     },
     {
       "title": "Rainbow Carrots",
-      "file_name": "rainbow-carrots.png",
+      "file_name": "images/food_drink/rainbow-carrots.png",
       "added_on": "2025-09-16 11:10:59",
       "slug": "rainbow-carrots",
       "category": "Food & Drink",
@@ -93761,7 +93761,7 @@
     },
     {
       "title": "Rainbow Puffer Coat",
-      "file_name": "rainbow-puffer-coat.png",
+      "file_name": "images/fashion_style/rainbow-puffer-coat.png",
       "added_on": "2025-09-17 14:21:20",
       "slug": "rainbow-puffer-coat",
       "category": "Fashion & Style",
@@ -105027,7 +105027,7 @@
     },
     {
       "title": "Rainbow Layer Cake",
-      "file_name": "rainbow-layer-cake.png",
+      "file_name": "images/food_drink/rainbow-layer-cake.png",
       "added_on": "2025-10-15 10:01:42",
       "slug": "rainbow-layer-cake",
       "category": "Food & Drink",
@@ -106137,7 +106137,7 @@
     },
     {
       "title": "Rain Gauge",
-      "file_name": "rain-gauge.png",
+      "file_name": "images/hobbies/rain-gauge.png",
       "added_on": "2025-10-20 16:50:36",
       "slug": "rain-gauge",
       "category": "Hobbies",
@@ -116561,7 +116561,7 @@
     },
     {
       "title": "Rain Barrel",
-      "file_name": "rain-barrel.png",
+      "file_name": "images/nature_outdoors/rain-barrel.png",
       "added_on": "2025-11-18 13:21:24",
       "slug": "rain-barrel",
       "category": "Nature & Outdoors",
@@ -121388,7 +121388,7 @@
     },
     {
       "title": "Rainbow Faux Fur Scarf",
-      "file_name": "rainbow-faux-fur-scarf.png",
+      "file_name": "images/fashion_style/rainbow-faux-fur-scarf.png",
       "added_on": "2026-01-23 14:01:29",
       "slug": "rainbow-faux-fur-scarf",
       "category": "Fashion & Style",
@@ -126149,7 +126149,7 @@
     },
     {
       "title": "Radler Beer",
-      "file_name": "radler-beer.png",
+      "file_name": "images/food_drink/radler-beer.png",
       "added_on": "2026-02-11 15:41:09",
       "slug": "radler-beer",
       "category": "Food & Drink",
@@ -128465,7 +128465,7 @@
     },
     {
       "title": "Rail Maintenance Cart",
-      "file_name": "rail-maintenance-cart.png",
+      "file_name": "images/vehicles_transport/rail-maintenance-cart.png",
       "added_on": "2026-03-09 03:50:54",
       "slug": "rail-maintenance-cart",
       "category": "Vehicles & Transport",
