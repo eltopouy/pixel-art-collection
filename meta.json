@@ -11643,7 +11643,7 @@
     },
     {
       "title": "Hockey Equipment",
-      "file_name": "hockey-equipment.png",
+      "file_name": "images/sports/hockey-equipment.png",
       "added_on": "2025-05-24 11:11:32",
       "slug": "hockey-equipment",
       "category": "Sports",
@@ -13818,7 +13818,7 @@
     },
     {
       "title": "Hockey Puck",
-      "file_name": "hockey-puck.png",
+      "file_name": "images/sports/hockey-puck.png",
       "added_on": "2025-05-26 14:00:49",
       "slug": "hockey-puck",
       "category": "Sports",
@@ -18372,7 +18372,7 @@
     },
     {
       "title": "Hockey Puck",
-      "file_name": "hockey-puck-e6umxc.png",
+      "file_name": "images/sports/hockey-puck-e6umxc.png",
       "added_on": "2025-06-01 08:17:32",
       "slug": "hockey-puck-e6umxc",
       "category": "Sports",
@@ -19439,7 +19439,7 @@
     },
     {
       "title": "Hole",
-      "file_name": "hole.png",
+      "file_name": "images/everyday_life/hole.png",
       "added_on": "2025-06-02 09:16:53",
       "slug": "hole",
       "category": "Everyday Life",
@@ -31357,7 +31357,7 @@
     },
     {
       "title": "Hockey Stick",
-      "file_name": "hockey-stick.png",
+      "file_name": "images/sports/hockey-stick.png",
       "added_on": "2025-06-11 00:54:54",
       "slug": "hockey-stick",
       "category": "Sports",
@@ -35446,7 +35446,7 @@
     },
     {
       "title": "Holiday Parade",
-      "file_name": "holiday-parade.png",
+      "file_name": "images/events/holiday-parade.png",
       "added_on": "2025-06-12 06:13:14",
       "slug": "holiday-parade",
       "category": "Events",
@@ -40844,7 +40844,7 @@
     },
     {
       "title": "Hokusai's The Great Wave",
-      "file_name": "hokusais-the-great-wave.png",
+      "file_name": "images/history_culture/hokusais-the-great-wave.png",
       "added_on": "2025-06-13 22:27:16",
       "slug": "hokusais-the-great-wave",
       "category": "History & Culture",
@@ -43844,7 +43844,7 @@
     },
     {
       "title": "Hole Punch",
-      "file_name": "hole-punch.png",
+      "file_name": "images/everyday_life/hole-punch.png",
       "added_on": "2025-06-14 13:20:51",
       "slug": "hole-punch",
       "category": "Everyday Life",
@@ -45245,7 +45245,7 @@
     },
     {
       "title": "Hoatzin",
-      "file_name": "hoatzin.png",
+      "file_name": "images/animals/hoatzin.png",
       "added_on": "2025-06-14 23:48:53",
       "slug": "hoatzin",
       "category": "Animals",
@@ -45492,7 +45492,7 @@
     },
     {
       "title": "Hippo",
-      "file_name": "hippo.png",
+      "file_name": "images/animals/hippo.png",
       "added_on": "2025-06-15 02:06:59",
       "slug": "hippo",
       "category": "Animals",
@@ -61436,7 +61436,7 @@
     },
     {
       "title": "Hippie Van",
-      "file_name": "hippie-van.png",
+      "file_name": "images/vehicles_transport/hippie-van.png",
       "added_on": "2025-07-08 22:18:41",
       "slug": "hippie-van",
       "category": "Vehicles & Transport",
@@ -68282,7 +68282,7 @@
     },
     {
       "title": "Hobbit Hole House",
-      "file_name": "hobbit-hole-house.png",
+      "file_name": "images/places_structures/hobbit-hole-house.png",
       "added_on": "2025-07-12 23:21:35",
       "slug": "hobbit-hole-house",
       "category": "Places & Structures",
@@ -71026,7 +71026,7 @@
     },
     {
       "title": "Historic Train Car",
-      "file_name": "historic-train-car.png",
+      "file_name": "images/places_structures/historic-train-car.png",
       "added_on": "2025-07-15 03:21:42",
       "slug": "historic-train-car",
       "category": "Places & Structures",
@@ -72352,7 +72352,7 @@
     },
     {
       "title": "Hoarfrost",
-      "file_name": "hoarfrost.png",
+      "file_name": "images/nature_outdoors/hoarfrost.png",
       "added_on": "2025-07-16 16:21:17",
       "slug": "hoarfrost",
       "category": "Nature & Outdoors",
@@ -79106,7 +79106,7 @@
     },
     {
       "title": "Hippogriff",
-      "file_name": "hippogriff.png",
+      "file_name": "images/fantasy_imagination/hippogriff.png",
       "added_on": "2025-07-24 23:01:41",
       "slug": "hippogriff",
       "category": "Fantasy & Imagination",
@@ -99403,7 +99403,7 @@
     },
     {
       "title": "Hippopotamus",
-      "file_name": "hippopotamus.png",
+      "file_name": "images/animals/hippopotamus.png",
       "added_on": "2025-10-01 03:01:11",
       "slug": "hippopotamus",
       "category": "Animals",
@@ -112063,7 +112063,7 @@
     },
     {
       "title": "Hold up tights",
-      "file_name": "hold-up-tights.png",
+      "file_name": "images/fashion_style/hold-up-tights.png",
       "added_on": "2025-11-02 09:21:58",
       "slug": "hold-up-tights",
       "category": "Fashion & Style",
@@ -117047,7 +117047,7 @@
     },
     {
       "title": "History Class",
-      "file_name": "history-class.png",
+      "file_name": "images/history_culture/history-class.png",
       "added_on": "2025-11-24 09:18:26",
       "slug": "history-class",
       "category": "History & Culture",
@@ -119345,7 +119345,7 @@
     },
     {
       "title": "Hodgson's Bat",
-      "file_name": "hodgsons-bat.png",
+      "file_name": "images/animals/hodgsons-bat.png",
       "added_on": "2025-12-04 21:51:42",
       "slug": "hodgsons-bat",
       "category": "Animals",
@@ -130326,7 +130326,7 @@
     },
     {
       "title": "Hockey Mask",
-      "file_name": "hockey-mask.png",
+      "file_name": "images/entertainment_leisure/hockey-mask.png",
       "added_on": "2026-03-18 02:20:51",
       "slug": "hockey-mask",
       "category": "Entertainment & Leisure",
