@@ -943,7 +943,7 @@
     },
     {
       "title": "Stapler",
-      "file_name": "stapler.png",
+      "file_name": "images/everyday_life/stapler.png",
       "added_on": "2025-05-16 00:51:00",
       "slug": "stapler",
       "category": "Everyday Life",
@@ -2503,7 +2503,7 @@
     },
     {
       "title": "Stamp Collecting Album",
-      "file_name": "stamp-collecting-album.png",
+      "file_name": "images/hobbies/stamp-collecting-album.png",
       "added_on": "2025-05-16 13:19:39",
       "slug": "stamp-collecting-album",
       "category": "Hobbies",
@@ -7624,7 +7624,7 @@
     },
     {
       "title": "Starfish",
-      "file_name": "starfish.png",
+      "file_name": "images/animals/starfish.png",
       "added_on": "2025-05-19 08:55:54",
       "slug": "starfish",
       "category": "Animals",
@@ -11123,7 +11123,7 @@
     },
     {
       "title": "Star",
-      "file_name": "star.png",
+      "file_name": "images/nature_outdoors/star.png",
       "added_on": "2025-05-24 02:01:20",
       "slug": "star",
       "category": "Nature & Outdoors",
@@ -18006,7 +18006,7 @@
     },
     {
       "title": "Stapler",
-      "file_name": "stapler-k9oouy.png",
+      "file_name": "images/work_industry/stapler-k9oouy.png",
       "added_on": "2025-06-01 08:12:55",
       "slug": "stapler-k9oouy",
       "category": "Work & Industry",
@@ -27002,7 +27002,7 @@
     },
     {
       "title": "Stand Mixer",
-      "file_name": "stand-mixer.png",
+      "file_name": "images/everyday_life/stand-mixer.png",
       "added_on": "2025-06-07 15:20:40",
       "slug": "stand-mixer",
       "category": "Everyday Life",
@@ -35316,7 +35316,7 @@
     },
     {
       "title": "Stamp Collecting",
-      "file_name": "stamp-collecting.png",
+      "file_name": "images/hobbies/stamp-collecting.png",
       "added_on": "2025-06-12 05:01:11",
       "slug": "stamp-collecting",
       "category": "Hobbies",
@@ -42954,7 +42954,7 @@
     },
     {
       "title": "Standing Desk",
-      "file_name": "standing-desk.png",
+      "file_name": "images/health_wellness/standing-desk.png",
       "added_on": "2025-06-14 08:19:14",
       "slug": "standing-desk",
       "category": "Health & Wellness",
@@ -47439,7 +47439,7 @@
     },
     {
       "title": "Standing Calf Raise Machine",
-      "file_name": "standing-calf-raise-machine.png",
+      "file_name": "images/health_wellness/standing-calf-raise-machine.png",
       "added_on": "2025-06-19 12:58:16",
       "slug": "standing-calf-raise-machine",
       "category": "Health & Wellness",
@@ -53625,7 +53625,7 @@
     },
     {
       "title": "Starfire Soup",
-      "file_name": "starfire-soup.png",
+      "file_name": "images/fantasy_imagination/starfire-soup.png",
       "added_on": "2025-06-27 08:38:00",
       "slug": "starfire-soup",
       "category": "Fantasy & Imagination",
@@ -54467,7 +54467,7 @@
     },
     {
       "title": "Stamp",
-      "file_name": "stamp.png",
+      "file_name": "images/everyday_life/stamp.png",
       "added_on": "2025-06-27 19:13:16",
       "slug": "stamp",
       "category": "Everyday Life",
@@ -65886,7 +65886,7 @@
     },
     {
       "title": "Starfish Wizard",
-      "file_name": "starfish-wizard.png",
+      "file_name": "images/fantasy_imagination/starfish-wizard.png",
       "added_on": "2025-07-11 00:41:28",
       "slug": "starfish-wizard",
       "category": "Fantasy & Imagination",
@@ -70909,7 +70909,7 @@
     },
     {
       "title": "Staple Remover",
-      "file_name": "staple-remover.png",
+      "file_name": "images/everyday_life/staple-remover.png",
       "added_on": "2025-07-14 23:11:42",
       "slug": "staple-remover",
       "category": "Everyday Life",
@@ -76677,7 +76677,7 @@
     },
     {
       "title": "Star",
-      "file_name": "star-1.png",
+      "file_name": "images/interface_symbols/star-1.png",
       "added_on": "2025-07-21 10:03:13",
       "slug": "star-1",
       "category": "Interface & Symbols",
@@ -93238,7 +93238,7 @@
     },
     {
       "title": "Starfruit Flower",
-      "file_name": "starfruit-flower.png",
+      "file_name": "images/nature_outdoors/starfruit-flower.png",
       "added_on": "2025-09-16 12:21:33",
       "slug": "starfruit-flower",
       "category": "Nature & Outdoors",
@@ -98567,7 +98567,7 @@
     },
     {
       "title": "Standing Mat",
-      "file_name": "standing-mat.png",
+      "file_name": "images/health_wellness/standing-mat.png",
       "added_on": "2025-09-30 15:51:23",
       "slug": "standing-mat",
       "category": "Health & Wellness",
@@ -101610,7 +101610,7 @@
     },
     {
       "title": "Stanchion",
-      "file_name": "stanchion.png",
+      "file_name": "images/work_industry/stanchion.png",
       "added_on": "2025-10-06 00:51:42",
       "slug": "stanchion",
       "category": "Work & Industry",
@@ -119697,7 +119697,7 @@
     },
     {
       "title": "Star Fruit",
-      "file_name": "star-fruit.png",
+      "file_name": "images/food_drink/star-fruit.png",
       "added_on": "2025-12-10 02:21:24",
       "slug": "star-fruit",
       "category": "Food & Drink",
@@ -121921,7 +121921,7 @@
     },
     {
       "title": "Star-Nosed Mole",
-      "file_name": "star-nosed-mole.png",
+      "file_name": "images/animals/star-nosed-mole.png",
       "added_on": "2026-01-26 17:41:09",
       "slug": "star-nosed-mole",
       "category": "Animals",
@@ -125795,7 +125795,7 @@
     },
     {
       "title": "Stamp Carving Block",
-      "file_name": "stamp-carving-block.png",
+      "file_name": "images/hobbies/stamp-carving-block.png",
       "added_on": "2026-02-11 11:01:13",
       "slug": "stamp-carving-block",
       "category": "Hobbies",
