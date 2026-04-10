@@ -404,7 +404,7 @@
     },
     {
       "title": "Wardrobe",
-      "file_name": "wardrobe.png",
+      "file_name": "images/everyday_life/wardrobe.png",
       "added_on": "2025-05-15 18:36:46",
       "slug": "wardrobe",
       "category": "Everyday Life",
@@ -633,7 +633,7 @@
     },
     {
       "title": "Wall Thermostat",
-      "file_name": "wall-thermostat.png",
+      "file_name": "images/everyday_life/wall-thermostat.png",
       "added_on": "2025-05-15 20:40:50",
       "slug": "wall-thermostat",
       "category": "Everyday Life",
@@ -749,7 +749,7 @@
     },
     {
       "title": "Wallet",
-      "file_name": "wallet.png",
+      "file_name": "images/everyday_life/wallet.png",
       "added_on": "2025-05-15 22:20:57",
       "slug": "wallet",
       "category": "Everyday Life",
@@ -4012,7 +4012,7 @@
     },
     {
       "title": "Warehouse",
-      "file_name": "warehouse.png",
+      "file_name": "images/places_structures/warehouse.png",
       "added_on": "2025-05-17 02:41:09",
       "slug": "warehouse",
       "category": "Places & Structures",
@@ -13779,7 +13779,7 @@
     },
     {
       "title": "Walnut",
-      "file_name": "walnut.png",
+      "file_name": "images/food_drink/walnut.png",
       "added_on": "2025-05-26 13:20:49",
       "slug": "walnut",
       "category": "Food & Drink",
@@ -15391,7 +15391,7 @@
     },
     {
       "title": "Walrus",
-      "file_name": "walrus.png",
+      "file_name": "images/animals/walrus.png",
       "added_on": "2025-05-27 14:00:56",
       "slug": "walrus",
       "category": "Animals",
@@ -33429,7 +33429,7 @@
     },
     {
       "title": "Warm mist humidifier",
-      "file_name": "warm-mist-humidifier.png",
+      "file_name": "images/health_wellness/warm-mist-humidifier.png",
       "added_on": "2025-06-11 17:18:46",
       "slug": "warm-mist-humidifier",
       "category": "Health & Wellness",
@@ -34818,7 +34818,7 @@
     },
     {
       "title": "Warehouse Shelf",
-      "file_name": "warehouse-shelf.png",
+      "file_name": "images/work_industry/warehouse-shelf.png",
       "added_on": "2025-06-12 00:55:00",
       "slug": "warehouse-shelf",
       "category": "Work & Industry",
@@ -38197,7 +38197,7 @@
     },
     {
       "title": "Warehouse Rack",
-      "file_name": "warehouse-rack.png",
+      "file_name": "images/work_industry/warehouse-rack.png",
       "added_on": "2025-06-13 00:31:20",
       "slug": "warehouse-rack",
       "category": "Work & Industry",
@@ -43449,7 +43449,7 @@
     },
     {
       "title": "Wand of Fire",
-      "file_name": "wand-of-fire.png",
+      "file_name": "images/fantasy_imagination/wand-of-fire.png",
       "added_on": "2025-06-14 12:12:59",
       "slug": "wand-of-fire",
       "category": "Fantasy & Imagination",
@@ -50086,7 +50086,7 @@
     },
     {
       "title": "Walleye",
-      "file_name": "walleye.png",
+      "file_name": "images/animals/walleye.png",
       "added_on": "2025-06-22 21:39:53",
       "slug": "walleye",
       "category": "Animals",
@@ -55919,7 +55919,7 @@
     },
     {
       "title": "Wall",
-      "file_name": "wall.png",
+      "file_name": "images/places_structures/wall.png",
       "added_on": "2025-06-30 11:20:17",
       "slug": "wall",
       "category": "Places & Structures",
@@ -58688,7 +58688,7 @@
     },
     {
       "title": "Wallpaper",
-      "file_name": "wallpaper.png",
+      "file_name": "images/everyday_life/wallpaper.png",
       "added_on": "2025-07-06 14:36:06",
       "slug": "wallpaper",
       "category": "Everyday Life",
@@ -60671,7 +60671,7 @@
     },
     {
       "title": "Warning Beacon",
-      "file_name": "warning-beacon.png",
+      "file_name": "images/work_industry/warning-beacon.png",
       "added_on": "2025-07-08 16:35:59",
       "slug": "warning-beacon",
       "category": "Work & Industry",
@@ -71468,7 +71468,7 @@
     },
     {
       "title": "War Horse",
-      "file_name": "war-horse.png",
+      "file_name": "images/fantasy_imagination/war-horse.png",
       "added_on": "2025-07-16 08:40:22",
       "slug": "war-horse",
       "category": "Fantasy & Imagination",
@@ -82333,7 +82333,7 @@
     },
     {
       "title": "War Axe",
-      "file_name": "war-axe.png",
+      "file_name": "images/fantasy_imagination/war-axe.png",
       "added_on": "2025-08-05 05:17:12",
       "slug": "war-axe",
       "category": "Fantasy & Imagination",
@@ -83584,7 +83584,7 @@
     },
     {
       "title": "Wallaby",
-      "file_name": "wallaby.png",
+      "file_name": "images/animals/wallaby.png",
       "added_on": "2025-08-16 20:41:10",
       "slug": "wallaby",
       "category": "Animals",
@@ -112223,7 +112223,7 @@
     },
     {
       "title": "War Elephant",
-      "file_name": "war-elephant.png",
+      "file_name": "images/history_culture/war-elephant.png",
       "added_on": "2025-11-02 15:31:32",
       "slug": "war-elephant",
       "category": "History & Culture",
@@ -113673,7 +113673,7 @@
     },
     {
       "title": "Wandering Albatross",
-      "file_name": "wandering-albatross.png",
+      "file_name": "images/nature_outdoors/wandering-albatross.png",
       "added_on": "2025-11-08 14:31:55",
       "slug": "wandering-albatross",
       "category": "Nature & Outdoors",
@@ -121453,7 +121453,7 @@
     },
     {
       "title": "Wallet Chain",
-      "file_name": "wallet-chain.png",
+      "file_name": "images/everyday_life/wallet-chain.png",
       "added_on": "2026-01-23 15:21:09",
       "slug": "wallet-chain",
       "category": "Everyday Life",
