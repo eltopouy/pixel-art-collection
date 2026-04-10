@@ -13649,7 +13649,7 @@
     },
     {
       "title": "Speech Therapist",
-      "file_name": "speech-therapist.png",
+      "file_name": "images/professions/speech-therapist.png",
       "added_on": "2025-05-26 11:30:48",
       "slug": "speech-therapist",
       "category": "Professions",
@@ -19530,7 +19530,7 @@
     },
     {
       "title": "Spicy Chicken Wing",
-      "file_name": "spicy-chicken-wing.png",
+      "file_name": "images/food_drink/spicy-chicken-wing.png",
       "added_on": "2025-06-02 09:17:07",
       "slug": "spicy-chicken-wing",
       "category": "Food & Drink",
@@ -38074,7 +38074,7 @@
     },
     {
       "title": "Spectacled Bear",
-      "file_name": "spectacled-bear.png",
+      "file_name": "images/animals/spectacled-bear.png",
       "added_on": "2025-06-12 23:37:27",
       "slug": "spectacled-bear",
       "category": "Animals",
@@ -38523,7 +38523,7 @@
     },
     {
       "title": "Speed Skates",
-      "file_name": "speed-skates.png",
+      "file_name": "images/sports/speed-skates.png",
       "added_on": "2025-06-13 03:01:24",
       "slug": "speed-skates",
       "category": "Sports",
@@ -41966,7 +41966,7 @@
     },
     {
       "title": "Spectrometer",
-      "file_name": "spectrometer.png",
+      "file_name": "images/space_science/spectrometer.png",
       "added_on": "2025-06-14 00:07:07",
       "slug": "spectrometer",
       "category": "Space & Science",
@@ -42112,7 +42112,7 @@
     },
     {
       "title": "Spellbook",
-      "file_name": "spellbook.png",
+      "file_name": "images/fantasy_imagination/spellbook.png",
       "added_on": "2025-06-14 01:19:06",
       "slug": "spellbook",
       "category": "Fantasy & Imagination",
@@ -45115,7 +45115,7 @@
     },
     {
       "title": "Spectroscope",
-      "file_name": "spectroscope.png",
+      "file_name": "images/space_science/spectroscope.png",
       "added_on": "2025-06-14 22:30:58",
       "slug": "spectroscope",
       "category": "Space & Science",
@@ -55011,7 +55011,7 @@
     },
     {
       "title": "Sphynx Cat",
-      "file_name": "sphynx-cat.png",
+      "file_name": "images/animals/sphynx-cat.png",
       "added_on": "2025-06-28 13:07:20",
       "slug": "sphynx-cat",
       "category": "Animals",
@@ -63758,7 +63758,7 @@
     },
     {
       "title": "Speed Climbing Wall",
-      "file_name": "speed-climbing-wall.png",
+      "file_name": "images/sports/speed-climbing-wall.png",
       "added_on": "2025-07-09 15:01:02",
       "slug": "speed-climbing-wall",
       "category": "Sports",
@@ -71988,7 +71988,7 @@
     },
     {
       "title": "Speed Bag",
-      "file_name": "speed-bag.png",
+      "file_name": "images/sports/speed-bag.png",
       "added_on": "2025-07-16 11:11:23",
       "slug": "speed-bag",
       "category": "Sports",
@@ -78859,7 +78859,7 @@
     },
     {
       "title": "Spell Book",
-      "file_name": "spell-book.png",
+      "file_name": "images/fantasy_imagination/spell-book.png",
       "added_on": "2025-07-24 22:07:19",
       "slug": "spell-book",
       "category": "Fantasy & Imagination",
@@ -84458,7 +84458,7 @@
     },
     {
       "title": "Spectacled Caiman",
-      "file_name": "spectacled-caiman.png",
+      "file_name": "images/animals/spectacled-caiman.png",
       "added_on": "2025-08-18 14:01:31",
       "slug": "spectacled-caiman",
       "category": "Animals",
@@ -89155,7 +89155,7 @@
     },
     {
       "title": "Speedometer",
-      "file_name": "speedometer.png",
+      "file_name": "images/vehicles_transport/speedometer.png",
       "added_on": "2025-09-06 20:20:44",
       "slug": "speedometer",
       "category": "Vehicles & Transport",
@@ -94480,7 +94480,7 @@
     },
     {
       "title": "Speedometer",
-      "file_name": "speedometer-1.png",
+      "file_name": "images/vehicles_transport/speedometer-1.png",
       "added_on": "2025-09-19 08:28:51",
       "slug": "speedometer-1",
       "category": "Vehicles & Transport",
@@ -98502,7 +98502,7 @@
     },
     {
       "title": "Speed Skating Helmet",
-      "file_name": "speed-skating-helmet.png",
+      "file_name": "images/sports/speed-skating-helmet.png",
       "added_on": "2025-09-30 15:01:20",
       "slug": "speed-skating-helmet",
       "category": "Sports",
@@ -99475,7 +99475,7 @@
     },
     {
       "title": "Spectacled Flying Fox",
-      "file_name": "spectacled-flying-fox.png",
+      "file_name": "images/animals/spectacled-flying-fox.png",
       "added_on": "2025-10-01 04:01:20",
       "slug": "spectacled-flying-fox",
       "category": "Animals",
@@ -118432,7 +118432,7 @@
     },
     {
       "title": "Spicy Tuna Hand Roll",
-      "file_name": "spicy-tuna-hand-roll.png",
+      "file_name": "images/food_drink/spicy-tuna-hand-roll.png",
       "added_on": "2025-12-01 11:41:30",
       "slug": "spicy-tuna-hand-roll",
       "category": "Food & Drink",
@@ -118510,7 +118510,7 @@
     },
     {
       "title": "Sperm",
-      "file_name": "sperm.png",
+      "file_name": "images/space_science/sperm.png",
       "added_on": "2025-12-01 13:21:34",
       "slug": "sperm",
       "category": "Space & Science",
@@ -118978,7 +118978,7 @@
     },
     {
       "title": "Sperm Whale",
-      "file_name": "sperm-whale.png",
+      "file_name": "images/animals/sperm-whale.png",
       "added_on": "2025-12-04 16:31:53",
       "slug": "sperm-whale",
       "category": "Animals",
@@ -130157,7 +130157,7 @@
     },
     {
       "title": "Spice Rack",
-      "file_name": "spice-rack.png",
+      "file_name": "images/hobbies/spice-rack.png",
       "added_on": "2026-03-17 23:30:53",
       "slug": "spice-rack",
       "category": "Hobbies",
