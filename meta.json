@@ -2972,7 +2972,7 @@
     },
     {
       "title": "Geologist",
-      "file_name": "geologist.png",
+      "file_name": "images/professions/geologist.png",
       "added_on": "2025-05-16 16:50:55",
       "slug": "geologist",
       "category": "Professions",
@@ -7767,7 +7767,7 @@
     },
     {
       "title": "Germany",
-      "file_name": "germany.png",
+      "file_name": "images/countries/germany.png",
       "added_on": "2025-05-19 23:11:09",
       "slug": "germany",
       "category": "Countries",
@@ -8105,7 +8105,7 @@
     },
     {
       "title": "Ghana",
-      "file_name": "ghana.png",
+      "file_name": "images/countries/ghana.png",
       "added_on": "2025-05-20 05:51:19",
       "slug": "ghana",
       "category": "Countries",
@@ -22667,7 +22667,7 @@
     },
     {
       "title": "Georgia",
-      "file_name": "georgia-country.png",
+      "file_name": "images/countries/georgia-country.png",
       "added_on": "2025-06-03 19:56:08",
       "slug": "georgia-country",
       "category": "Countries",
@@ -31708,7 +31708,7 @@
     },
     {
       "title": "Gerenuk",
-      "file_name": "gerenuk.png",
+      "file_name": "images/animals/gerenuk.png",
       "added_on": "2025-06-11 04:13:00",
       "slug": "gerenuk",
       "category": "Animals",
@@ -35602,7 +35602,7 @@
     },
     {
       "title": "Geyser",
-      "file_name": "geyser.png",
+      "file_name": "images/nature_outdoors/geyser.png",
       "added_on": "2025-06-12 07:25:01",
       "slug": "geyser",
       "category": "Nature & Outdoors",
@@ -47093,7 +47093,7 @@
     },
     {
       "title": "German Shepherd",
-      "file_name": "german-shepherd.png",
+      "file_name": "images/animals/german-shepherd.png",
       "added_on": "2025-06-18 13:29:30",
       "slug": "german-shepherd",
       "category": "Animals",
@@ -49522,7 +49522,7 @@
     },
     {
       "title": "German Shorthaired Pointer",
-      "file_name": "german-shorthaired-pointer.png",
+      "file_name": "images/animals/german-shorthaired-pointer.png",
       "added_on": "2025-06-22 17:34:29",
       "slug": "german-shorthaired-pointer",
       "category": "Animals",
@@ -65251,7 +65251,7 @@
     },
     {
       "title": "Gerenuk Gazelle",
-      "file_name": "gerenuk-gazelle.png",
+      "file_name": "images/animals/gerenuk-gazelle.png",
       "added_on": "2025-07-10 17:55:56",
       "slug": "gerenuk-gazelle",
       "category": "Animals",
@@ -67760,7 +67760,7 @@
     },
     {
       "title": "Geothermal Energy",
-      "file_name": "geothermal-energy.png",
+      "file_name": "images/space_science/geothermal-energy.png",
       "added_on": "2025-07-12 13:44:56",
       "slug": "geothermal-energy",
       "category": "Space & Science",
@@ -68950,7 +68950,7 @@
     },
     {
       "title": "Germany Flag",
-      "file_name": "germany-flag.png",
+      "file_name": "images/flags/germany-flag.png",
       "added_on": "2025-07-13 14:15:54",
       "slug": "germany-flag",
       "category": "Flags",
@@ -84803,7 +84803,7 @@
     },
     {
       "title": "German Shorthaired Pointer",
-      "file_name": "german-shorthaired-pointer-1.png",
+      "file_name": "images/animals/german-shorthaired-pointer-1.png",
       "added_on": "2025-08-19 16:38:20",
       "slug": "german-shorthaired-pointer-1",
       "category": "Animals",
@@ -87959,7 +87959,7 @@
     },
     {
       "title": "Georgia O\u2019Keeffe",
-      "file_name": "georgia-okeeffe.png",
+      "file_name": "images/historical_figures/georgia-okeeffe.png",
       "added_on": "2025-09-04 15:52:04",
       "slug": "georgia-okeeffe",
       "category": "Historical Figures",
@@ -88311,7 +88311,7 @@
     },
     {
       "title": "Germ",
-      "file_name": "germ.png",
+      "file_name": "images/space_science/germ.png",
       "added_on": "2025-09-04 23:11:45",
       "slug": "germ",
       "category": "Space & Science",
@@ -97991,7 +97991,7 @@
     },
     {
       "title": "Geronimo",
-      "file_name": "geronimo.png",
+      "file_name": "images/historical_figures/geronimo.png",
       "added_on": "2025-09-27 15:11:23",
       "slug": "geronimo",
       "category": "Historical Figures",
@@ -111933,7 +111933,7 @@
     },
     {
       "title": "Geography Class",
-      "file_name": "geography-class.png",
+      "file_name": "images/space_science/geography-class.png",
       "added_on": "2025-11-02 07:54:12",
       "slug": "geography-class",
       "category": "Space & Science",
@@ -113907,7 +113907,7 @@
     },
     {
       "title": "George Washington",
-      "file_name": "george-washington.png",
+      "file_name": "images/historical_figures/george-washington.png",
       "added_on": "2025-11-08 18:11:58",
       "slug": "george-washington",
       "category": "Historical Figures",
@@ -117361,7 +117361,7 @@
     },
     {
       "title": "Gharial Crocodile",
-      "file_name": "gharial-crocodile.png",
+      "file_name": "images/animals/gharial-crocodile.png",
       "added_on": "2025-11-24 13:51:42",
       "slug": "gharial-crocodile",
       "category": "Animals",
@@ -122700,7 +122700,7 @@
     },
     {
       "title": "Gerenuk Antelope",
-      "file_name": "gerenuk-antelope.png",
+      "file_name": "images/animals/gerenuk-antelope.png",
       "added_on": "2026-01-29 17:11:09",
       "slug": "gerenuk-antelope",
       "category": "Animals",
@@ -124829,7 +124829,7 @@
     },
     {
       "title": "Gharial Hatchling",
-      "file_name": "gharial-hatchling.png",
+      "file_name": "images/animals/gharial-hatchling.png",
       "added_on": "2026-02-10 20:21:07",
       "slug": "gharial-hatchling",
       "category": "Animals",
