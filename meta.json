@@ -2477,7 +2477,7 @@
     },
     {
       "title": "Quokka",
-      "file_name": "quokka.png",
+      "file_name": "images/animals/quokka.png",
       "added_on": "2025-05-16 13:13:31",
       "slug": "quokka",
       "category": "Animals",
@@ -3583,7 +3583,7 @@
     },
     {
       "title": "Rabbit",
-      "file_name": "rabbit.png",
+      "file_name": "images/animals/rabbit.png",
       "added_on": "2025-05-16 21:55:54",
       "slug": "rabbit",
       "category": "Animals",
@@ -9951,7 +9951,7 @@
     },
     {
       "title": "Race Car",
-      "file_name": "race-car.png",
+      "file_name": "images/vehicles_transport/race-car.png",
       "added_on": "2025-05-23 10:21:01",
       "slug": "race-car",
       "category": "Vehicles & Transport",
@@ -10369,7 +10369,7 @@
     },
     {
       "title": "Raccoon",
-      "file_name": "raccoon.png",
+      "file_name": "images/animals/raccoon.png",
       "added_on": "2025-05-23 16:01:23",
       "slug": "raccoon",
       "category": "Animals",
@@ -14403,7 +14403,7 @@
     },
     {
       "title": "Quincea\u00f1era",
-      "file_name": "quinceaera.png",
+      "file_name": "images/events/quinceaera.png",
       "added_on": "2025-05-26 22:10:44",
       "slug": "quinceaera",
       "category": "Events",
@@ -17148,7 +17148,7 @@
     },
     {
       "title": "Quotation Marks",
-      "file_name": "quotation-marks.png",
+      "file_name": "images/interface_symbols/quotation-marks.png",
       "added_on": "2025-05-31 11:00:22",
       "slug": "quotation-marks",
       "category": "Interface & Symbols",
@@ -26872,7 +26872,7 @@
     },
     {
       "title": "Quilt",
-      "file_name": "quilt.png",
+      "file_name": "images/everyday_life/quilt.png",
       "added_on": "2025-06-07 15:04:34",
       "slug": "quilt",
       "category": "Everyday Life",
@@ -27956,7 +27956,7 @@
     },
     {
       "title": "Rabbit Hutch",
-      "file_name": "rabbit-hutch.png",
+      "file_name": "images/places_structures/rabbit-hutch.png",
       "added_on": "2025-06-08 21:31:49",
       "slug": "rabbit-hutch",
       "category": "Places & Structures",
@@ -38497,7 +38497,7 @@
     },
     {
       "title": "Race Bib",
-      "file_name": "race-bib.png",
+      "file_name": "images/sports/race-bib.png",
       "added_on": "2025-06-13 02:49:29",
       "slug": "race-bib",
       "category": "Sports",
@@ -46608,7 +46608,7 @@
     },
     {
       "title": "Quran",
-      "file_name": "quran.png",
+      "file_name": "images/history_culture/quran.png",
       "added_on": "2025-06-16 19:30:04",
       "slug": "quran",
       "category": "History & Culture",
@@ -51133,7 +51133,7 @@
     },
     {
       "title": "Race Track",
-      "file_name": "race-track.png",
+      "file_name": "images/places_structures/race-track.png",
       "added_on": "2025-06-23 03:31:41",
       "slug": "race-track",
       "category": "Places & Structures",
@@ -52669,7 +52669,7 @@
     },
     {
       "title": "Race Car Helmet",
-      "file_name": "race-car-helmet.png",
+      "file_name": "images/sports/race-car-helmet.png",
       "added_on": "2025-06-25 15:22:18",
       "slug": "race-car-helmet",
       "category": "Sports",
@@ -57584,7 +57584,7 @@
     },
     {
       "title": "Quilted Jacket",
-      "file_name": "quilted-jacket.png",
+      "file_name": "images/fashion_style/quilted-jacket.png",
       "added_on": "2025-07-05 22:16:31",
       "slug": "quilted-jacket",
       "category": "Fashion & Style",
@@ -59563,7 +59563,7 @@
     },
     {
       "title": "Quinoa Salad",
-      "file_name": "quinoa-salad.png",
+      "file_name": "images/food_drink/quinoa-salad.png",
       "added_on": "2025-07-07 08:11:06",
       "slug": "quinoa-salad",
       "category": "Food & Drink",
@@ -66214,7 +66214,7 @@
     },
     {
       "title": "Quinoa",
-      "file_name": "quinoa.png",
+      "file_name": "images/food_drink/quinoa.png",
       "added_on": "2025-07-11 10:13:30",
       "slug": "quinoa",
       "category": "Food & Drink",
@@ -82160,7 +82160,7 @@
     },
     {
       "title": "Quiet",
-      "file_name": "quiet.png",
+      "file_name": "images/everyday_life/quiet.png",
       "added_on": "2025-08-04 05:41:15",
       "slug": "quiet",
       "category": "Everyday Life",
@@ -88666,7 +88666,7 @@
     },
     {
       "title": "Quilling Tool",
-      "file_name": "quilling-tool.png",
+      "file_name": "images/hobbies/quilling-tool.png",
       "added_on": "2025-09-05 17:21:02",
       "slug": "quilling-tool",
       "category": "Hobbies",
@@ -89441,7 +89441,7 @@
     },
     {
       "title": "Raccoon Tail Keychain",
-      "file_name": "raccoon-tail-keychain.png",
+      "file_name": "images/fashion_style/raccoon-tail-keychain.png",
       "added_on": "2025-09-07 17:01:08",
       "slug": "raccoon-tail-keychain",
       "category": "Fashion & Style",
@@ -91592,7 +91592,7 @@
     },
     {
       "title": "Quidditch Broom",
-      "file_name": "quidditch-broom.png",
+      "file_name": "images/sports/quidditch-broom.png",
       "added_on": "2025-09-12 01:01:22",
       "slug": "quidditch-broom",
       "category": "Sports",
@@ -120296,7 +120296,7 @@
     },
     {
       "title": "Quote",
-      "file_name": "quote.png",
+      "file_name": "images/interface_symbols/quote.png",
       "added_on": "2026-01-22 17:01:18",
       "slug": "quote",
       "category": "Interface & Symbols",
