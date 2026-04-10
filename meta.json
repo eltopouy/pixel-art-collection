@@ -263,7 +263,7 @@
     },
     {
       "title": "Vacuum Cleaner",
-      "file_name": "vacuum-cleaner.png",
+      "file_name": "images/everyday_life/vacuum-cleaner.png",
       "added_on": "2025-05-15 16:25:03",
       "slug": "vacuum-cleaner",
       "category": "Everyday Life",
@@ -14104,7 +14104,7 @@
     },
     {
       "title": "Valentine\u2019s Day",
-      "file_name": "valentines-day.png",
+      "file_name": "images/events/valentines-day.png",
       "added_on": "2025-05-26 18:10:48",
       "slug": "valentines-day",
       "category": "Events",
@@ -18398,7 +18398,7 @@
     },
     {
       "title": "V8 Engine",
-      "file_name": "v8-engine.png",
+      "file_name": "images/vehicles_transport/v8-engine.png",
       "added_on": "2025-06-01 08:17:39",
       "slug": "v8-engine",
       "category": "Vehicles & Transport",
@@ -19048,7 +19048,7 @@
     },
     {
       "title": "V2 Rocket",
-      "file_name": "v2-rocket.png",
+      "file_name": "images/space_science/v2-rocket.png",
       "added_on": "2025-06-01 08:31:15",
       "slug": "v2-rocket",
       "category": "Space & Science",
@@ -32707,7 +32707,7 @@
     },
     {
       "title": "UX Designer",
-      "file_name": "ux-designer.png",
+      "file_name": "images/professions/ux-designer.png",
       "added_on": "2025-06-11 12:48:53",
       "slug": "ux-designer",
       "category": "Professions",
@@ -43857,7 +43857,7 @@
     },
     {
       "title": "USS Enterprise NCC-1701",
-      "file_name": "uss-enterprise-ncc-1701.png",
+      "file_name": "images/fantasy_imagination/uss-enterprise-ncc-1701.png",
       "added_on": "2025-06-14 13:20:53",
       "slug": "uss-enterprise-ncc-1701",
       "category": "Fantasy & Imagination",
@@ -44274,7 +44274,7 @@
     },
     {
       "title": "Valles Marineris",
-      "file_name": "valles-marineris.png",
+      "file_name": "images/space_science/valles-marineris.png",
       "added_on": "2025-06-14 14:36:54",
       "slug": "valles-marineris",
       "category": "Space & Science",
@@ -45362,7 +45362,7 @@
     },
     {
       "title": "Valley",
-      "file_name": "valley.png",
+      "file_name": "images/nature_outdoors/valley.png",
       "added_on": "2025-06-15 00:42:58",
       "slug": "valley",
       "category": "Nature & Outdoors",
@@ -50656,7 +50656,7 @@
     },
     {
       "title": "Vaccine",
-      "file_name": "vaccine.png",
+      "file_name": "images/health_wellness/vaccine.png",
       "added_on": "2025-06-22 23:37:25",
       "slug": "vaccine",
       "category": "Health & Wellness",
@@ -62127,7 +62127,7 @@
     },
     {
       "title": "Vacuum Lifter",
-      "file_name": "vacuum-lifter.png",
+      "file_name": "images/work_industry/vacuum-lifter.png",
       "added_on": "2025-07-09 03:15:59",
       "slug": "vacuum-lifter",
       "category": "Work & Industry",
@@ -71065,7 +71065,7 @@
     },
     {
       "title": "UV Sanitation Box",
-      "file_name": "uv-sanitation-box.png",
+      "file_name": "images/technology_media/uv-sanitation-box.png",
       "added_on": "2025-07-15 07:11:46",
       "slug": "uv-sanitation-box",
       "category": "Technology & Media",
@@ -72547,7 +72547,7 @@
     },
     {
       "title": "Uterus",
-      "file_name": "uterus.png",
+      "file_name": "images/health_wellness/uterus.png",
       "added_on": "2025-07-16 18:51:48",
       "slug": "uterus",
       "category": "Health & Wellness",
@@ -76029,7 +76029,7 @@
     },
     {
       "title": "Vacuum Chamber",
-      "file_name": "vacuum-chamber.png",
+      "file_name": "images/space_science/vacuum-chamber.png",
       "added_on": "2025-07-20 12:51:28",
       "slug": "vacuum-chamber",
       "category": "Space & Science",
@@ -78431,7 +78431,7 @@
     },
     {
       "title": "Vampire Bat",
-      "file_name": "vampire-bat.png",
+      "file_name": "images/animals/vampire-bat.png",
       "added_on": "2025-07-24 16:41:36",
       "slug": "vampire-bat",
       "category": "Animals",
@@ -78447,7 +78447,7 @@
     },
     {
       "title": "Ushanka",
-      "file_name": "ushanka.png",
+      "file_name": "images/fashion_style/ushanka.png",
       "added_on": "2025-07-24 16:51:39",
       "slug": "ushanka",
       "category": "Fashion & Style",
@@ -85621,7 +85621,7 @@
     },
     {
       "title": "Vacuuming Machine",
-      "file_name": "vacuuming-machine.png",
+      "file_name": "images/everyday_life/vacuuming-machine.png",
       "added_on": "2025-08-24 17:21:22",
       "slug": "vacuuming-machine",
       "category": "Everyday Life",
@@ -91434,7 +91434,7 @@
     },
     {
       "title": "Utility Cart",
-      "file_name": "utility-cart.png",
+      "file_name": "images/work_industry/utility-cart.png",
       "added_on": "2025-09-11 22:41:21",
       "slug": "utility-cart",
       "category": "Work & Industry",
@@ -94790,7 +94790,7 @@
     },
     {
       "title": "Vada Pav",
-      "file_name": "vada-pav.png",
+      "file_name": "images/food_drink/vada-pav.png",
       "added_on": "2025-09-19 12:31:22",
       "slug": "vada-pav",
       "category": "Food & Drink",
@@ -105537,7 +105537,7 @@
     },
     {
       "title": "Utility Knife",
-      "file_name": "utility-knife.png",
+      "file_name": "images/work_industry/utility-knife.png",
       "added_on": "2025-10-16 16:01:08",
       "slug": "utility-knife",
       "category": "Work & Industry",
@@ -109792,7 +109792,7 @@
     },
     {
       "title": "Uzbekistan Flag",
-      "file_name": "uzbekistan-flag.png",
+      "file_name": "images/flags/uzbekistan-flag.png",
       "added_on": "2025-10-28 16:22:04",
       "slug": "uzbekistan-flag",
       "category": "Flags",
@@ -109948,7 +109948,7 @@
     },
     {
       "title": "USSR Flag",
-      "file_name": "ussr-flag.png",
+      "file_name": "images/flags/ussr-flag.png",
       "added_on": "2025-10-28 18:21:24",
       "slug": "ussr-flag",
       "category": "Flags",
