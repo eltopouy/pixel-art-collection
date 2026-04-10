@@ -11903,7 +11903,7 @@
     },
     {
       "title": "Zookeeper",
-      "file_name": "zookeeper.png",
+      "file_name": "images/professions/zookeeper.png",
       "added_on": "2025-05-25 09:11:01",
       "slug": "zookeeper",
       "category": "Professions",
@@ -13061,7 +13061,7 @@
     },
     {
       "title": "Zebra",
-      "file_name": "zebra.png",
+      "file_name": "images/animals/zebra.png",
       "added_on": "2025-05-26 02:41:23",
       "slug": "zebra",
       "category": "Animals",
@@ -23675,7 +23675,7 @@
     },
     {
       "title": "Zeppelin",
-      "file_name": "zeppelin.png",
+      "file_name": "images/vehicles_transport/zeppelin.png",
       "added_on": "2025-06-04 08:37:07",
       "slug": "zeppelin",
       "category": "Vehicles & Transport",
@@ -23740,7 +23740,7 @@
     },
     {
       "title": "Ziggurat",
-      "file_name": "ziggurat.png",
+      "file_name": "images/places_structures/ziggurat.png",
       "added_on": "2025-06-04 08:47:47",
       "slug": "ziggurat",
       "category": "Places & Structures",
@@ -28324,7 +28324,7 @@
     },
     {
       "title": "Zippo Lighter",
-      "file_name": "zippo-lighter.png",
+      "file_name": "images/everyday_life/zippo-lighter.png",
       "added_on": "2025-06-08 21:33:39",
       "slug": "zippo-lighter",
       "category": "Everyday Life",
@@ -29805,7 +29805,7 @@
     },
     {
       "title": "Zoo",
-      "file_name": "zoo.png",
+      "file_name": "images/places_structures/zoo.png",
       "added_on": "2025-06-10 14:49:14",
       "slug": "zoo",
       "category": "Places & Structures",
@@ -41495,7 +41495,7 @@
     },
     {
       "title": "Zen Garden",
-      "file_name": "zen-garden.png",
+      "file_name": "images/places_structures/zen-garden.png",
       "added_on": "2025-06-13 22:33:15",
       "slug": "zen-garden",
       "category": "Places & Structures",
@@ -45691,7 +45691,7 @@
     },
     {
       "title": "Zombie",
-      "file_name": "zombie.png",
+      "file_name": "images/fantasy_imagination/zombie.png",
       "added_on": "2025-06-15 19:49:06",
       "slug": "zombie",
       "category": "Fantasy & Imagination",
@@ -52628,7 +52628,7 @@
     },
     {
       "title": "Zipper",
-      "file_name": "zipper.png",
+      "file_name": "images/fashion_style/zipper.png",
       "added_on": "2025-06-25 15:22:06",
       "slug": "zipper",
       "category": "Fashion & Style",
@@ -53139,7 +53139,7 @@
     },
     {
       "title": "Zentha Crystals",
-      "file_name": "zentha-crystals.png",
+      "file_name": "images/fantasy_imagination/zentha-crystals.png",
       "added_on": "2025-06-26 15:34:11",
       "slug": "zentha-crystals",
       "category": "Fantasy & Imagination",
@@ -53717,7 +53717,7 @@
     },
     {
       "title": "Zeppole di San Giuseppe",
-      "file_name": "zeppole-di-san-giuseppe.png",
+      "file_name": "images/food_drink/zeppole-di-san-giuseppe.png",
       "added_on": "2025-06-27 08:38:19",
       "slug": "zeppole-di-san-giuseppe",
       "category": "Food & Drink",
@@ -53902,7 +53902,7 @@
     },
     {
       "title": "Zero",
-      "file_name": "zero.png",
+      "file_name": "images/interface_symbols/zero.png",
       "added_on": "2025-06-27 08:38:59",
       "slug": "zero",
       "category": "Interface & Symbols",
@@ -59249,7 +59249,7 @@
     },
     {
       "title": "Zebra Duiker",
-      "file_name": "zebra-duiker.png",
+      "file_name": "images/animals/zebra-duiker.png",
       "added_on": "2025-07-07 01:11:02",
       "slug": "zebra-duiker",
       "category": "Animals",
@@ -63165,7 +63165,7 @@
     },
     {
       "title": "Zine",
-      "file_name": "zine.png",
+      "file_name": "images/hobbies/zine.png",
       "added_on": "2025-07-09 11:21:24",
       "slug": "zine",
       "category": "Hobbies",
@@ -80285,7 +80285,7 @@
     },
     {
       "title": "Zipper Dress",
-      "file_name": "zipper-dress.png",
+      "file_name": "images/fashion_style/zipper-dress.png",
       "added_on": "2025-07-25 19:11:32",
       "slug": "zipper-dress",
       "category": "Fashion & Style",
@@ -85003,7 +85003,7 @@
     },
     {
       "title": "Zombie Thumbs Up",
-      "file_name": "zombie-thumbs-up.png",
+      "file_name": "images/fantasy_imagination/zombie-thumbs-up.png",
       "added_on": "2025-08-20 14:28:22",
       "slug": "zombie-thumbs-up",
       "category": "Fantasy & Imagination",
@@ -86246,7 +86246,7 @@
     },
     {
       "title": "Zion National Park",
-      "file_name": "zion-national-park.png",
+      "file_name": "images/nature_outdoors/zion-national-park.png",
       "added_on": "2025-08-25 22:51:28",
       "slug": "zion-national-park",
       "category": "Nature & Outdoors",
@@ -92631,7 +92631,7 @@
     },
     {
       "title": "Zebra Print Fedora",
-      "file_name": "zebra-print-fedora.png",
+      "file_name": "images/fashion_style/zebra-print-fedora.png",
       "added_on": "2025-09-15 11:21:23",
       "slug": "zebra-print-fedora",
       "category": "Fashion & Style",
@@ -95773,7 +95773,7 @@
     },
     {
       "title": "Zeus",
-      "file_name": "zeus.png",
+      "file_name": "images/fantasy_imagination/zeus.png",
       "added_on": "2025-09-21 15:31:25",
       "slug": "zeus",
       "category": "Fantasy & Imagination",
@@ -116388,7 +116388,7 @@
     },
     {
       "title": "Zebra Seahorse",
-      "file_name": "zebra-seahorse.png",
+      "file_name": "images/animals/zebra-seahorse.png",
       "added_on": "2025-11-18 11:01:52",
       "slug": "zebra-seahorse",
       "category": "Animals",
