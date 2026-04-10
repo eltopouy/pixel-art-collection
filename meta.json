@@ -4219,7 +4219,7 @@
     },
     {
       "title": "Palace",
-      "file_name": "palace.png",
+      "file_name": "images/places_structures/palace.png",
       "added_on": "2025-05-17 05:16:03",
       "slug": "palace",
       "category": "Places & Structures",
@@ -5727,7 +5727,7 @@
     },
     {
       "title": "Painter",
-      "file_name": "painter.png",
+      "file_name": "images/professions/painter.png",
       "added_on": "2025-05-18 03:06:01",
       "slug": "painter",
       "category": "Professions",
@@ -12605,7 +12605,7 @@
     },
     {
       "title": "Pakistan",
-      "file_name": "pakistan.png",
+      "file_name": "images/countries/pakistan.png",
       "added_on": "2025-05-25 19:31:29",
       "slug": "pakistan",
       "category": "Countries",
@@ -23753,7 +23753,7 @@
     },
     {
       "title": "Palimpsest",
-      "file_name": "palimpsest.png",
+      "file_name": "images/history_culture/palimpsest.png",
       "added_on": "2025-06-04 08:48:20",
       "slug": "palimpsest",
       "category": "History & Culture",
@@ -35303,7 +35303,7 @@
     },
     {
       "title": "Painting Miniatures",
-      "file_name": "painting-miniatures.png",
+      "file_name": "images/hobbies/painting-miniatures.png",
       "added_on": "2025-06-12 04:55:08",
       "slug": "painting-miniatures",
       "category": "Hobbies",
@@ -38712,7 +38712,7 @@
     },
     {
       "title": "Palau",
-      "file_name": "palau.png",
+      "file_name": "images/countries/palau.png",
       "added_on": "2025-06-13 04:25:22",
       "slug": "palau",
       "category": "Countries",
@@ -40093,7 +40093,7 @@
     },
     {
       "title": "Paintball Marker",
-      "file_name": "paintball-marker.png",
+      "file_name": "images/entertainment_leisure/paintball-marker.png",
       "added_on": "2025-06-13 16:19:18",
       "slug": "paintball-marker",
       "category": "Entertainment & Leisure",
@@ -43553,7 +43553,7 @@
     },
     {
       "title": "Paintbrush",
-      "file_name": "paintbrush.png",
+      "file_name": "images/entertainment_leisure/paintbrush.png",
       "added_on": "2025-06-14 13:01:09",
       "slug": "paintbrush",
       "category": "Entertainment & Leisure",
@@ -45375,7 +45375,7 @@
     },
     {
       "title": "Paleontologist",
-      "file_name": "paleontologist.png",
+      "file_name": "images/professions/paleontologist.png",
       "added_on": "2025-06-15 00:48:56",
       "slug": "paleontologist",
       "category": "Professions",
@@ -46278,7 +46278,7 @@
     },
     {
       "title": "Palestine",
-      "file_name": "palestine-1.png",
+      "file_name": "images/places_structures/palestine-1.png",
       "added_on": "2025-06-16 13:11:01",
       "slug": "palestine-1",
       "category": "Places & Structures",
@@ -51989,7 +51989,7 @@
     },
     {
       "title": "Painting Bucket",
-      "file_name": "painting-bucket.png",
+      "file_name": "images/everyday_life/painting-bucket.png",
       "added_on": "2025-06-24 19:37:39",
       "slug": "painting-bucket",
       "category": "Everyday Life",
@@ -53271,7 +53271,7 @@
     },
     {
       "title": "Pajamas",
-      "file_name": "pajamas.png",
+      "file_name": "images/fashion_style/pajamas.png",
       "added_on": "2025-06-26 15:35:32",
       "slug": "pajamas",
       "category": "Fashion & Style",
@@ -57424,7 +57424,7 @@
     },
     {
       "title": "Painting Nails",
-      "file_name": "painting-nails.png",
+      "file_name": "images/fashion_style/painting-nails.png",
       "added_on": "2025-07-05 21:06:24",
       "slug": "painting-nails",
       "category": "Fashion & Style",
@@ -86334,7 +86334,7 @@
     },
     {
       "title": "Pajama",
-      "file_name": "pajama.png",
+      "file_name": "images/fashion_style/pajama.png",
       "added_on": "2025-08-26 09:21:37",
       "slug": "pajama",
       "category": "Fashion & Style",
@@ -104079,7 +104079,7 @@
     },
     {
       "title": "Paisley Bandana",
-      "file_name": "paisley-bandana.png",
+      "file_name": "images/fashion_style/paisley-bandana.png",
       "added_on": "2025-10-11 14:21:37",
       "slug": "paisley-bandana",
       "category": "Fashion & Style",
@@ -106306,7 +106306,7 @@
     },
     {
       "title": "Paintball Mask",
-      "file_name": "paintball-mask.png",
+      "file_name": "images/sports/paintball-mask.png",
       "added_on": "2025-10-20 17:11:20",
       "slug": "paintball-mask",
       "category": "Sports",
@@ -111201,7 +111201,7 @@
     },
     {
       "title": "Palestine Flag",
-      "file_name": "palestine-flag.png",
+      "file_name": "images/flags/palestine-flag.png",
       "added_on": "2025-10-30 23:11:52",
       "slug": "palestine-flag",
       "category": "Flags",
@@ -124673,7 +124673,7 @@
     },
     {
       "title": "Palestinian Sunbird",
-      "file_name": "palestinian-sunbird.png",
+      "file_name": "images/animals/palestinian-sunbird.png",
       "added_on": "2026-02-08 15:11:11",
       "slug": "palestinian-sunbird",
       "category": "Animals",
@@ -128662,7 +128662,7 @@
     },
     {
       "title": "Pair",
-      "file_name": "pair.png",
+      "file_name": "images/everyday_life/pair.png",
       "added_on": "2026-03-09 06:30:51",
       "slug": "pair",
       "category": "Everyday Life",
@@ -129017,7 +129017,7 @@
     },
     {
       "title": "Painted funerary urn",
-      "file_name": "painted-funerary-urn.png",
+      "file_name": "images/history_culture/painted-funerary-urn.png",
       "added_on": "2026-03-09 11:20:57",
       "slug": "painted-funerary-urn",
       "category": "History & Culture",
