@@ -1242,7 +1242,7 @@
     },
     {
       "title": "Watering Can",
-      "file_name": "watering-can.png",
+      "file_name": "images/nature_outdoors/watering-can.png",
       "added_on": "2025-05-16 05:20:51",
       "slug": "watering-can",
       "category": "Nature & Outdoors",
@@ -5558,7 +5558,7 @@
     },
     {
       "title": "Water",
-      "file_name": "water.png",
+      "file_name": "images/food_drink/water.png",
       "added_on": "2025-05-17 23:31:10",
       "slug": "water",
       "category": "Food & Drink",
@@ -12202,7 +12202,7 @@
     },
     {
       "title": "Weasel",
-      "file_name": "weasel.png",
+      "file_name": "images/animals/weasel.png",
       "added_on": "2025-05-25 13:01:27",
       "slug": "weasel",
       "category": "Animals",
@@ -13675,7 +13675,7 @@
     },
     {
       "title": "Webcam",
-      "file_name": "webcam.png",
+      "file_name": "images/technology_media/webcam.png",
       "added_on": "2025-05-26 11:50:46",
       "slug": "webcam",
       "category": "Technology & Media",
@@ -27525,7 +27525,7 @@
     },
     {
       "title": "Watermelon",
-      "file_name": "watermelon.png",
+      "file_name": "images/food_drink/watermelon.png",
       "added_on": "2025-06-08 05:31:27",
       "slug": "watermelon",
       "category": "Food & Drink",
@@ -32154,7 +32154,7 @@
     },
     {
       "title": "Watermill",
-      "file_name": "watermill.png",
+      "file_name": "images/places_structures/watermill.png",
       "added_on": "2025-06-11 07:49:02",
       "slug": "watermill",
       "category": "Places & Structures",
@@ -32852,7 +32852,7 @@
     },
     {
       "title": "Watermelon",
-      "file_name": "watermelon-1.png",
+      "file_name": "images/food_drink/watermelon-1.png",
       "added_on": "2025-06-11 12:57:35",
       "slug": "watermelon-1",
       "category": "Food & Drink",
@@ -43007,7 +43007,7 @@
     },
     {
       "title": "Waterfall",
-      "file_name": "waterfall.png",
+      "file_name": "images/nature_outdoors/waterfall.png",
       "added_on": "2025-06-14 08:43:06",
       "slug": "waterfall",
       "category": "Nature & Outdoors",
@@ -43766,7 +43766,7 @@
     },
     {
       "title": "Waterfall",
-      "file_name": "waterfall-1.png",
+      "file_name": "images/nature_outdoors/waterfall-1.png",
       "added_on": "2025-06-14 13:20:22",
       "slug": "waterfall-1",
       "category": "Nature & Outdoors",
@@ -62493,7 +62493,7 @@
     },
     {
       "title": "Weather Sensor Station",
-      "file_name": "weather-sensor-station.png",
+      "file_name": "images/technology_media/weather-sensor-station.png",
       "added_on": "2025-07-09 06:16:00",
       "slug": "weather-sensor-station",
       "category": "Technology & Media",
@@ -67156,7 +67156,7 @@
     },
     {
       "title": "Wave Pool",
-      "file_name": "wave-pool.png",
+      "file_name": "images/sports/wave-pool.png",
       "added_on": "2025-07-12 03:31:37",
       "slug": "wave-pool",
       "category": "Sports",
@@ -75925,7 +75925,7 @@
     },
     {
       "title": "Waterpik",
-      "file_name": "waterpik.png",
+      "file_name": "images/health_wellness/waterpik.png",
       "added_on": "2025-07-20 11:21:32",
       "slug": "waterpik",
       "category": "Health & Wellness",
@@ -86842,7 +86842,7 @@
     },
     {
       "title": "Wearing a Cap",
-      "file_name": "wearing-a-cap.png",
+      "file_name": "images/everyday_life/wearing-a-cap.png",
       "added_on": "2025-08-29 13:10:55",
       "slug": "wearing-a-cap",
       "category": "Everyday Life",
@@ -91304,7 +91304,7 @@
     },
     {
       "title": "Wax Seal Stamp",
-      "file_name": "wax-seal-stamp.png",
+      "file_name": "images/hobbies/wax-seal-stamp.png",
       "added_on": "2025-09-10 18:21:58",
       "slug": "wax-seal-stamp",
       "category": "Hobbies",
@@ -97377,7 +97377,7 @@
     },
     {
       "title": "Weather Vane",
-      "file_name": "weather-vane.png",
+      "file_name": "images/hobbies/weather-vane.png",
       "added_on": "2025-09-25 16:01:22",
       "slug": "weather-vane",
       "category": "Hobbies",
@@ -99829,7 +99829,7 @@
     },
     {
       "title": "Wearable Camera Clip",
-      "file_name": "wearable-camera-clip.png",
+      "file_name": "images/technology_media/wearable-camera-clip.png",
       "added_on": "2025-10-02 10:51:26",
       "slug": "wearable-camera-clip",
       "category": "Technology & Media",
@@ -105771,7 +105771,7 @@
     },
     {
       "title": "Watermelon Socks",
-      "file_name": "watermelon-socks.png",
+      "file_name": "images/fashion_style/watermelon-socks.png",
       "added_on": "2025-10-20 09:11:20",
       "slug": "watermelon-socks",
       "category": "Fashion & Style",
@@ -111813,7 +111813,7 @@
     },
     {
       "title": "Watusi cattle",
-      "file_name": "watusi-cattle.png",
+      "file_name": "images/animals/watusi-cattle.png",
       "added_on": "2025-11-01 19:31:58",
       "slug": "watusi-cattle",
       "category": "Animals",
@@ -125782,7 +125782,7 @@
     },
     {
       "title": "Wax Crayon Rubbing Plate",
-      "file_name": "wax-crayon-rubbing-plate.png",
+      "file_name": "images/hobbies/wax-crayon-rubbing-plate.png",
       "added_on": "2026-02-11 10:51:12",
       "slug": "wax-crayon-rubbing-plate",
       "category": "Hobbies",
@@ -128833,7 +128833,7 @@
     },
     {
       "title": "Web Site",
-      "file_name": "web-site.png",
+      "file_name": "images/technology_media/web-site.png",
       "added_on": "2026-03-09 08:50:53",
       "slug": "web-site",
       "category": "Technology & Media",
@@ -128900,7 +128900,7 @@
     },
     {
       "title": "Watercolor Palette",
-      "file_name": "watercolor-palette.png",
+      "file_name": "images/hobbies/watercolor-palette.png",
       "added_on": "2026-03-09 09:50:50",
       "slug": "watercolor-palette",
       "category": "Hobbies",
