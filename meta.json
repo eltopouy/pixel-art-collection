@@ -17707,7 +17707,7 @@
     },
     {
       "title": "Kimono",
-      "file_name": "kimono.png",
+      "file_name": "images/fashion_style/kimono.png",
       "added_on": "2025-05-31 17:23:46",
       "slug": "kimono",
       "category": "Fashion & Style",
@@ -18151,7 +18151,7 @@
     },
     {
       "title": "King (Chess Piece)",
-      "file_name": "king-chess-piece.png",
+      "file_name": "images/entertainment_leisure/king-chess-piece.png",
       "added_on": "2025-06-01 08:14:49",
       "slug": "king-chess-piece",
       "category": "Entertainment & Leisure",
@@ -26365,7 +26365,7 @@
     },
     {
       "title": "Kingdom Tower",
-      "file_name": "kingdom-tower.png",
+      "file_name": "images/places_structures/kingdom-tower.png",
       "added_on": "2025-06-07 12:50:32",
       "slug": "kingdom-tower",
       "category": "Places & Structures",
@@ -36029,7 +36029,7 @@
     },
     {
       "title": "King Ghidorah",
-      "file_name": "king-ghidorah.png",
+      "file_name": "images/fantasy_imagination/king-ghidorah.png",
       "added_on": "2025-06-12 08:39:24",
       "slug": "king-ghidorah",
       "category": "Fantasy & Imagination",
@@ -38289,7 +38289,7 @@
     },
     {
       "title": "Kimchi",
-      "file_name": "kimchi.png",
+      "file_name": "images/food_drink/kimchi.png",
       "added_on": "2025-06-13 01:13:23",
       "slug": "kimchi",
       "category": "Food & Drink",
@@ -40555,7 +40555,7 @@
     },
     {
       "title": "Kinkajou",
-      "file_name": "kinkajou.png",
+      "file_name": "images/animals/kinkajou.png",
       "added_on": "2025-06-13 21:01:16",
       "slug": "kinkajou",
       "category": "Animals",
@@ -44079,7 +44079,7 @@
     },
     {
       "title": "Kinect Camera",
-      "file_name": "kinect-camera.png",
+      "file_name": "images/technology_media/kinect-camera.png",
       "added_on": "2025-06-14 13:22:49",
       "slug": "kinect-camera",
       "category": "Technology & Media",
@@ -44287,7 +44287,7 @@
     },
     {
       "title": "Kiribati",
-      "file_name": "kiribati.png",
+      "file_name": "images/countries/kiribati.png",
       "added_on": "2025-06-14 14:55:02",
       "slug": "kiribati",
       "category": "Countries",
@@ -47970,7 +47970,7 @@
     },
     {
       "title": "King Cobra Snake",
-      "file_name": "king-cobra-snake.png",
+      "file_name": "images/animals/king-cobra-snake.png",
       "added_on": "2025-06-20 13:29:56",
       "slug": "king-cobra-snake",
       "category": "Animals",
@@ -48378,7 +48378,7 @@
     },
     {
       "title": "King",
-      "file_name": "king-person.png",
+      "file_name": "images/history_culture/king-person.png",
       "added_on": "2025-06-20 15:01:27",
       "slug": "king-person",
       "category": "History & Culture",
@@ -51146,7 +51146,7 @@
     },
     {
       "title": "Kiss",
-      "file_name": "kiss.png",
+      "file_name": "images/everyday_life/kiss.png",
       "added_on": "2025-06-23 03:37:25",
       "slug": "kiss",
       "category": "Everyday Life",
@@ -70802,7 +70802,7 @@
     },
     {
       "title": "Kisses Chocolate",
-      "file_name": "kisses-chocolate.png",
+      "file_name": "images/food_drink/kisses-chocolate.png",
       "added_on": "2025-07-14 18:51:39",
       "slug": "kisses-chocolate",
       "category": "Food & Drink",
@@ -97273,7 +97273,7 @@
     },
     {
       "title": "King Henry VIII",
-      "file_name": "king-henry-viii.png",
+      "file_name": "images/historical_figures/king-henry-viii.png",
       "added_on": "2025-09-24 17:11:26",
       "slug": "king-henry-viii",
       "category": "Historical Figures",
@@ -100063,7 +100063,7 @@
     },
     {
       "title": "Kintsugi Bowl",
-      "file_name": "kintsugi-bowl.png",
+      "file_name": "images/history_culture/kintsugi-bowl.png",
       "added_on": "2025-10-02 14:01:06",
       "slug": "kintsugi-bowl",
       "category": "History & Culture",
@@ -106373,7 +106373,7 @@
     },
     {
       "title": "King Vulture",
-      "file_name": "king-vulture.png",
+      "file_name": "images/animals/king-vulture.png",
       "added_on": "2025-10-20 18:21:12",
       "slug": "king-vulture",
       "category": "Animals",
@@ -108057,7 +108057,7 @@
     },
     {
       "title": "Kinetic Sculpture",
-      "file_name": "kinetic-sculpture.png",
+      "file_name": "images/hobbies/kinetic-sculpture.png",
       "added_on": "2025-10-23 20:51:17",
       "slug": "kinetic-sculpture",
       "category": "Hobbies",
@@ -121674,7 +121674,7 @@
     },
     {
       "title": "Kimchi Pancake",
-      "file_name": "kimchi-pancake.png",
+      "file_name": "images/food_drink/kimchi-pancake.png",
       "added_on": "2026-01-24 10:21:16",
       "slug": "kimchi-pancake",
       "category": "Food & Drink",
@@ -122489,7 +122489,7 @@
     },
     {
       "title": "Kimchi Jar",
-      "file_name": "kimchi-jar.png",
+      "file_name": "images/food_drink/kimchi-jar.png",
       "added_on": "2026-01-29 13:21:14",
       "slug": "kimchi-jar",
       "category": "Food & Drink",
@@ -125821,7 +125821,7 @@
     },
     {
       "title": "King Tutankhamun",
-      "file_name": "king-tutankhamun.png",
+      "file_name": "images/historical_figures/king-tutankhamun.png",
       "added_on": "2026-02-11 11:21:13",
       "slug": "king-tutankhamun",
       "category": "Historical Figures",
@@ -127640,7 +127640,7 @@
     },
     {
       "title": "King Louis XIV",
-      "file_name": "king-louis-xiv.png",
+      "file_name": "images/historical_figures/king-louis-xiv.png",
       "added_on": "2026-03-02 20:01:15",
       "slug": "king-louis-xiv",
       "category": "Historical Figures",
