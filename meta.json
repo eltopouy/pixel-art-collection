@@ -6831,7 +6831,7 @@
     },
     {
       "title": "Gazebo",
-      "file_name": "gazebo.png",
+      "file_name": "images/places_structures/gazebo.png",
       "added_on": "2025-05-19 00:50:52",
       "slug": "gazebo",
       "category": "Places & Structures",
@@ -8989,7 +8989,7 @@
     },
     {
       "title": "Gas pump",
-      "file_name": "gas-pump.png",
+      "file_name": "images/vehicles_transport/gas-pump.png",
       "added_on": "2025-05-22 19:21:00",
       "slug": "gas-pump",
       "category": "Vehicles & Transport",
@@ -9678,7 +9678,7 @@
     },
     {
       "title": "Gear",
-      "file_name": "gear.png",
+      "file_name": "images/technology_media/gear.png",
       "added_on": "2025-05-23 06:50:55",
       "slug": "gear",
       "category": "Technology & Media",
@@ -19452,7 +19452,7 @@
     },
     {
       "title": "Gavel",
-      "file_name": "gavel.png",
+      "file_name": "images/professions/gavel.png",
       "added_on": "2025-06-02 09:16:55",
       "slug": "gavel",
       "category": "Professions",
@@ -26482,7 +26482,7 @@
     },
     {
       "title": "Gas Installer",
-      "file_name": "gas-installer.png",
+      "file_name": "images/professions/gas-installer.png",
       "added_on": "2025-06-07 15:01:29",
       "slug": "gas-installer",
       "category": "Professions",
@@ -34382,7 +34382,7 @@
     },
     {
       "title": "Garment Bag",
-      "file_name": "garment-bag.png",
+      "file_name": "images/fashion_style/garment-bag.png",
       "added_on": "2025-06-11 22:47:57",
       "slug": "garment-bag",
       "category": "Fashion & Style",
@@ -36411,7 +36411,7 @@
     },
     {
       "title": "Gazelle",
-      "file_name": "gazelle.png",
+      "file_name": "images/animals/gazelle.png",
       "added_on": "2025-06-12 08:41:49",
       "slug": "gazelle",
       "category": "Animals",
@@ -46848,7 +46848,7 @@
     },
     {
       "title": "Gauge",
-      "file_name": "gauge.png",
+      "file_name": "images/interface_symbols/gauge.png",
       "added_on": "2025-06-18 13:27:31",
       "slug": "gauge",
       "category": "Interface & Symbols",
@@ -54998,7 +54998,7 @@
     },
     {
       "title": "Gas Cylinder",
-      "file_name": "gas-cylinder.png",
+      "file_name": "images/everyday_life/gas-cylinder.png",
       "added_on": "2025-06-28 12:50:22",
       "slug": "gas-cylinder",
       "category": "Everyday Life",
@@ -55221,7 +55221,7 @@
     },
     {
       "title": "Garlic",
-      "file_name": "garlic.png",
+      "file_name": "images/food_drink/garlic.png",
       "added_on": "2025-06-28 18:07:13",
       "slug": "garlic",
       "category": "Food & Drink",
@@ -55826,7 +55826,7 @@
     },
     {
       "title": "Garlic Clove",
-      "file_name": "garlic-clove.png",
+      "file_name": "images/food_drink/garlic-clove.png",
       "added_on": "2025-06-30 10:37:40",
       "slug": "garlic-clove",
       "category": "Food & Drink",
@@ -58857,7 +58857,7 @@
     },
     {
       "title": "Gazpacho",
-      "file_name": "gazpacho.png",
+      "file_name": "images/food_drink/gazpacho.png",
       "added_on": "2025-07-06 17:31:07",
       "slug": "gazpacho",
       "category": "Food & Drink",
@@ -77085,7 +77085,7 @@
     },
     {
       "title": "Gastrolith",
-      "file_name": "gastrolith.png",
+      "file_name": "images/nature_outdoors/gastrolith.png",
       "added_on": "2025-07-22 10:31:50",
       "slug": "gastrolith",
       "category": "Nature & Outdoors",
@@ -77345,7 +77345,7 @@
     },
     {
       "title": "Gas Station",
-      "file_name": "gas-station.png",
+      "file_name": "images/places_structures/gas-station.png",
       "added_on": "2025-07-24 09:02:03",
       "slug": "gas-station",
       "category": "Places & Structures",
@@ -98266,7 +98266,7 @@
     },
     {
       "title": "Gastronomy",
-      "file_name": "gastronomy.png",
+      "file_name": "images/food_drink/gastronomy.png",
       "added_on": "2025-09-27 18:51:15",
       "slug": "gastronomy",
       "category": "Food & Drink",
@@ -105732,7 +105732,7 @@
     },
     {
       "title": "Garlic powder",
-      "file_name": "garlic-powder.png",
+      "file_name": "images/food_drink/garlic-powder.png",
       "added_on": "2025-10-16 18:51:37",
       "slug": "garlic-powder",
       "category": "Food & Drink",
@@ -106685,7 +106685,7 @@
     },
     {
       "title": "Garlic Butter Shrimp",
-      "file_name": "garlic-butter-shrimp.png",
+      "file_name": "images/food_drink/garlic-butter-shrimp.png",
       "added_on": "2025-10-21 12:41:31",
       "slug": "garlic-butter-shrimp",
       "category": "Food & Drink",
@@ -108801,7 +108801,7 @@
     },
     {
       "title": "Gaud\u00ed Chimney",
-      "file_name": "gaud-chimney.png",
+      "file_name": "images/history_culture/gaud-chimney.png",
       "added_on": "2025-10-26 18:30:47",
       "slug": "gaud-chimney",
       "category": "History & Culture",
@@ -118952,7 +118952,7 @@
     },
     {
       "title": "Gaur",
-      "file_name": "gaur.png",
+      "file_name": "images/animals/gaur.png",
       "added_on": "2025-12-04 16:11:20",
       "slug": "gaur",
       "category": "Animals",
@@ -121713,7 +121713,7 @@
     },
     {
       "title": "Garlic Knots",
-      "file_name": "garlic-knots.png",
+      "file_name": "images/food_drink/garlic-knots.png",
       "added_on": "2026-01-26 14:41:10",
       "slug": "garlic-knots",
       "category": "Food & Drink",
@@ -123682,7 +123682,7 @@
     },
     {
       "title": "Gas Balloon Airship",
-      "file_name": "gas-balloon-airship.png",
+      "file_name": "images/vehicles_transport/gas-balloon-airship.png",
       "added_on": "2026-02-01 18:51:08",
       "slug": "gas-balloon-airship",
       "category": "Vehicles & Transport",
