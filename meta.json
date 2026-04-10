@@ -9379,7 +9379,7 @@
     },
     {
       "title": "Medal/Reward",
-      "file_name": "medalreward.png",
+      "file_name": "images/interface_symbols/medalreward.png",
       "added_on": "2025-05-23 02:50:48",
       "slug": "medalreward",
       "category": "Interface & Symbols",
@@ -35264,7 +35264,7 @@
     },
     {
       "title": "Medical Mask",
-      "file_name": "medical-mask.png",
+      "file_name": "images/health_wellness/medical-mask.png",
       "added_on": "2025-06-12 04:36:58",
       "slug": "medical-mask",
       "category": "Health & Wellness",
@@ -41602,7 +41602,7 @@
     },
     {
       "title": "Mechanical Pencil",
-      "file_name": "mechanical-pencil.png",
+      "file_name": "images/everyday_life/mechanical-pencil.png",
       "added_on": "2025-06-13 22:34:22",
       "slug": "mechanical-pencil",
       "category": "Everyday Life",
@@ -61291,7 +61291,7 @@
     },
     {
       "title": "Mechanical Switch Tester",
-      "file_name": "mechanical-switch-tester.png",
+      "file_name": "images/technology_media/mechanical-switch-tester.png",
       "added_on": "2025-07-08 21:10:58",
       "slug": "mechanical-switch-tester",
       "category": "Technology & Media",
@@ -67825,7 +67825,7 @@
     },
     {
       "title": "Mechanical Ventilation",
-      "file_name": "mechanical-ventilation.png",
+      "file_name": "images/technology_media/mechanical-ventilation.png",
       "added_on": "2025-07-12 13:45:38",
       "slug": "mechanical-ventilation",
       "category": "Technology & Media",
@@ -72573,7 +72573,7 @@
     },
     {
       "title": "Medialuna",
-      "file_name": "medialuna.png",
+      "file_name": "images/food_drink/medialuna.png",
       "added_on": "2025-07-16 18:55:36",
       "slug": "medialuna",
       "category": "Food & Drink",
@@ -76294,7 +76294,7 @@
     },
     {
       "title": "Mechanical Puzzle",
-      "file_name": "mechanical-puzzle.png",
+      "file_name": "images/hobbies/mechanical-puzzle.png",
       "added_on": "2025-07-20 15:51:25",
       "slug": "mechanical-puzzle",
       "category": "Hobbies",
@@ -88915,7 +88915,7 @@
     },
     {
       "title": "Medical ID Bracelet",
-      "file_name": "medical-id-bracelet.png",
+      "file_name": "images/health_wellness/medical-id-bracelet.png",
       "added_on": "2025-09-06 16:01:07",
       "slug": "medical-id-bracelet",
       "category": "Health & Wellness",
@@ -88968,7 +88968,7 @@
     },
     {
       "title": "Mechanical Fortune Teller",
-      "file_name": "mechanical-fortune-teller.png",
+      "file_name": "images/entertainment_leisure/mechanical-fortune-teller.png",
       "added_on": "2025-09-06 16:51:08",
       "slug": "mechanical-fortune-teller",
       "category": "Entertainment & Leisure",
@@ -92039,7 +92039,7 @@
     },
     {
       "title": "Medical Report",
-      "file_name": "medical-report.png",
+      "file_name": "images/health_wellness/medical-report.png",
       "added_on": "2025-09-12 16:01:20",
       "slug": "medical-report",
       "category": "Health & Wellness",
@@ -93564,7 +93564,7 @@
     },
     {
       "title": "Mechanical Keyboard",
-      "file_name": "mechanical-keyboard.png",
+      "file_name": "images/technology_media/mechanical-keyboard.png",
       "added_on": "2025-09-17 11:31:28",
       "slug": "mechanical-keyboard",
       "category": "Technology & Media",
@@ -97130,7 +97130,7 @@
     },
     {
       "title": "Mechanical Music Box",
-      "file_name": "mechanical-music-box.png",
+      "file_name": "images/hobbies/mechanical-music-box.png",
       "added_on": "2025-09-24 12:31:22",
       "slug": "mechanical-music-box",
       "category": "Hobbies",
@@ -99147,7 +99147,7 @@
     },
     {
       "title": "Mechanical Pencil Sharpener",
-      "file_name": "mechanical-pencil-sharpener.png",
+      "file_name": "images/technology_media/mechanical-pencil-sharpener.png",
       "added_on": "2025-09-30 23:41:23",
       "slug": "mechanical-pencil-sharpener",
       "category": "Technology & Media",
@@ -100024,7 +100024,7 @@
     },
     {
       "title": "Mechanical Flip Clock",
-      "file_name": "mechanical-flip-clock.png",
+      "file_name": "images/hobbies/mechanical-flip-clock.png",
       "added_on": "2025-10-02 13:31:02",
       "slug": "mechanical-flip-clock",
       "category": "Hobbies",
@@ -104576,7 +104576,7 @@
     },
     {
       "title": "Mechanical Owl",
-      "file_name": "mechanical-owl.png",
+      "file_name": "images/hobbies/mechanical-owl.png",
       "added_on": "2025-10-12 16:41:46",
       "slug": "mechanical-owl",
       "category": "Hobbies",
@@ -117309,7 +117309,7 @@
     },
     {
       "title": "Mechanical Plotter",
-      "file_name": "mechanical-plotter.png",
+      "file_name": "images/technology_media/mechanical-plotter.png",
       "added_on": "2025-11-24 13:11:25",
       "slug": "mechanical-plotter",
       "category": "Technology & Media",
@@ -117977,7 +117977,7 @@
     },
     {
       "title": "Mechanical Numeric Keypad",
-      "file_name": "mechanical-numeric-keypad.png",
+      "file_name": "images/technology_media/mechanical-numeric-keypad.png",
       "added_on": "2025-11-26 12:31:15",
       "slug": "mechanical-numeric-keypad",
       "category": "Technology & Media",
@@ -126227,7 +126227,7 @@
     },
     {
       "title": "Mechanical Dragon",
-      "file_name": "mechanical-dragon.png",
+      "file_name": "images/hobbies/mechanical-dragon.png",
       "added_on": "2026-02-11 16:51:15",
       "slug": "mechanical-dragon",
       "category": "Hobbies",
@@ -128019,7 +128019,7 @@
     },
     {
       "title": "Mechanical Gaming Keypad",
-      "file_name": "mechanical-gaming-keypad.png",
+      "file_name": "images/technology_media/mechanical-gaming-keypad.png",
       "added_on": "2026-03-08 21:20:51",
       "slug": "mechanical-gaming-keypad",
       "category": "Technology & Media",
@@ -130586,7 +130586,7 @@
     },
     {
       "title": "Medicine ball",
-      "file_name": "medicine-ball.png",
+      "file_name": "images/sports/medicine-ball.png",
       "added_on": "2026-03-18 12:51:28",
       "slug": "medicine-ball",
       "category": "Sports",
