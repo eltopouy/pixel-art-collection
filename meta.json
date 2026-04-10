@@ -2282,7 +2282,7 @@
     },
     {
       "title": "Okapi",
-      "file_name": "okapi.png",
+      "file_name": "images/animals/okapi.png",
       "added_on": "2025-05-16 12:28:17",
       "slug": "okapi",
       "category": "Animals",
@@ -11825,7 +11825,7 @@
     },
     {
       "title": "Old Fashioned",
-      "file_name": "old-fashioned.png",
+      "file_name": "images/food_drink/old-fashioned.png",
       "added_on": "2025-05-24 14:21:23",
       "slug": "old-fashioned",
       "category": "Food & Drink",
@@ -17824,7 +17824,7 @@
     },
     {
       "title": "Old-Fashioned Motorcycle",
-      "file_name": "old-fashioned-motorcycle.png",
+      "file_name": "images/vehicles_transport/old-fashioned-motorcycle.png",
       "added_on": "2025-06-01 08:10:25",
       "slug": "old-fashioned-motorcycle",
       "category": "Vehicles & Transport",
@@ -18944,7 +18944,7 @@
     },
     {
       "title": "Old Fashioned Radio Show Microphone",
-      "file_name": "old-fashioned-radio-show-microphone.png",
+      "file_name": "images/technology_media/old-fashioned-radio-show-microphone.png",
       "added_on": "2025-06-01 08:29:56",
       "slug": "old-fashioned-radio-show-microphone",
       "category": "Technology & Media",
@@ -20319,7 +20319,7 @@
     },
     {
       "title": "Old City of Jerusalem",
-      "file_name": "old-city-of-jerusalem.png",
+      "file_name": "images/places_structures/old-city-of-jerusalem.png",
       "added_on": "2025-06-02 09:44:46",
       "slug": "old-city-of-jerusalem",
       "category": "Places & Structures",
@@ -26007,7 +26007,7 @@
     },
     {
       "title": "Oil Barrel",
-      "file_name": "oil-barrel.png",
+      "file_name": "images/work_industry/oil-barrel.png",
       "added_on": "2025-06-07 02:00:49",
       "slug": "oil-barrel",
       "category": "Work & Industry",
@@ -28337,7 +28337,7 @@
     },
     {
       "title": "Oil Lamp",
-      "file_name": "oil-lamp.png",
+      "file_name": "images/everyday_life/oil-lamp.png",
       "added_on": "2025-06-08 21:33:44",
       "slug": "oil-lamp",
       "category": "Everyday Life",
@@ -28402,7 +28402,7 @@
     },
     {
       "title": "Oil Palm (Elaeis guineensis)",
-      "file_name": "oil-palm-elaeis-guineensis.png",
+      "file_name": "images/nature_outdoors/oil-palm-elaeis-guineensis.png",
       "added_on": "2025-06-09 07:53:08",
       "slug": "oil-palm-elaeis-guineensis",
       "category": "Nature & Outdoors",
@@ -42822,7 +42822,7 @@
     },
     {
       "title": "Oil Rig",
-      "file_name": "oil-rig.png",
+      "file_name": "images/work_industry/oil-rig.png",
       "added_on": "2025-06-14 07:19:18",
       "slug": "oil-rig",
       "category": "Work & Industry",
@@ -50866,7 +50866,7 @@
     },
     {
       "title": "Ogre",
-      "file_name": "ogre.png",
+      "file_name": "images/fantasy_imagination/ogre.png",
       "added_on": "2025-06-23 01:25:27",
       "slug": "ogre",
       "category": "Fantasy & Imagination",
@@ -59537,7 +59537,7 @@
     },
     {
       "title": "Okonomiyaki",
-      "file_name": "okonomiyaki.png",
+      "file_name": "images/food_drink/okonomiyaki.png",
       "added_on": "2025-07-07 08:01:10",
       "slug": "okonomiyaki",
       "category": "Food & Drink",
@@ -65688,7 +65688,7 @@
     },
     {
       "title": "Okra Chip",
-      "file_name": "okra-chip.png",
+      "file_name": "images/food_drink/okra-chip.png",
       "added_on": "2025-07-10 21:31:26",
       "slug": "okra-chip",
       "category": "Food & Drink",
@@ -67877,7 +67877,7 @@
     },
     {
       "title": "Offline Status Icon",
-      "file_name": "offline-status-icon.png",
+      "file_name": "images/interface_symbols/offline-status-icon.png",
       "added_on": "2025-07-12 14:11:38",
       "slug": "offline-status-icon",
       "category": "Interface & Symbols",
@@ -74844,7 +74844,7 @@
     },
     {
       "title": "Oil Can",
-      "file_name": "oil-can.png",
+      "file_name": "images/work_industry/oil-can.png",
       "added_on": "2025-07-18 21:11:22",
       "slug": "oil-can",
       "category": "Work & Industry",
@@ -79997,7 +79997,7 @@
     },
     {
       "title": "Ointment",
-      "file_name": "ointment.png",
+      "file_name": "images/health_wellness/ointment.png",
       "added_on": "2025-07-25 15:31:44",
       "slug": "ointment",
       "category": "Health & Wellness",
@@ -81650,7 +81650,7 @@
     },
     {
       "title": "Oil Change",
-      "file_name": "oil-change.png",
+      "file_name": "images/vehicles_transport/oil-change.png",
       "added_on": "2025-08-02 16:21:29",
       "slug": "oil-change",
       "category": "Vehicles & Transport",
@@ -90780,7 +90780,7 @@
     },
     {
       "title": "Oil Roller",
-      "file_name": "oil-roller.png",
+      "file_name": "images/health_wellness/oil-roller.png",
       "added_on": "2025-09-10 11:21:31",
       "slug": "oil-roller",
       "category": "Health & Wellness",
@@ -111253,7 +111253,7 @@
     },
     {
       "title": "Office",
-      "file_name": "office.png",
+      "file_name": "images/places_structures/office.png",
       "added_on": "2025-10-31 09:03:05",
       "slug": "office",
       "category": "Places & Structures",
@@ -123003,7 +123003,7 @@
     },
     {
       "title": "Office Shred Bin",
-      "file_name": "office-shred-bin.png",
+      "file_name": "images/work_industry/office-shred-bin.png",
       "added_on": "2026-01-29 21:11:09",
       "slug": "office-shred-bin",
       "category": "Work & Industry",
@@ -124131,7 +124131,7 @@
     },
     {
       "title": "Office Recycling Bin",
-      "file_name": "office-recycling-bin.png",
+      "file_name": "images/work_industry/office-recycling-bin.png",
       "added_on": "2026-02-04 10:31:21",
       "slug": "office-recycling-bin",
       "category": "Work & Industry",
