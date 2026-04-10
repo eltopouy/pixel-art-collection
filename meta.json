@@ -1762,7 +1762,7 @@
     },
     {
       "title": "Observatory",
-      "file_name": "observatory.png",
+      "file_name": "images/places_structures/observatory.png",
       "added_on": "2025-05-16 10:19:35",
       "slug": "observatory",
       "category": "Places & Structures",
@@ -10616,7 +10616,7 @@
     },
     {
       "title": "Octopus",
-      "file_name": "octopus.png",
+      "file_name": "images/animals/octopus.png",
       "added_on": "2025-05-23 19:21:17",
       "slug": "octopus",
       "category": "Animals",
@@ -29765,7 +29765,7 @@
     },
     {
       "title": "Observation Tower",
-      "file_name": "observation-tower.png",
+      "file_name": "images/places_structures/observation-tower.png",
       "added_on": "2025-06-10 14:31:17",
       "slug": "observation-tower",
       "category": "Places & Structures",
@@ -31695,7 +31695,7 @@
     },
     {
       "title": "Office cubicle",
-      "file_name": "office-cubicle.png",
+      "file_name": "images/work_industry/office-cubicle.png",
       "added_on": "2025-06-11 04:07:00",
       "slug": "office-cubicle",
       "category": "Work & Industry",
@@ -40713,7 +40713,7 @@
     },
     {
       "title": "Office Desk",
-      "file_name": "office-desk.png",
+      "file_name": "images/work_industry/office-desk.png",
       "added_on": "2025-06-13 22:07:22",
       "slug": "office-desk",
       "category": "Work & Industry",
@@ -41693,7 +41693,7 @@
     },
     {
       "title": "Ocean",
-      "file_name": "ocean.png",
+      "file_name": "images/nature_outdoors/ocean.png",
       "added_on": "2025-06-13 22:35:02",
       "slug": "ocean",
       "category": "Nature & Outdoors",
@@ -47517,7 +47517,7 @@
     },
     {
       "title": "Off Switch",
-      "file_name": "off-switch.png",
+      "file_name": "images/interface_symbols/off-switch.png",
       "added_on": "2025-06-19 12:58:58",
       "slug": "off-switch",
       "category": "Interface & Symbols",
@@ -51011,7 +51011,7 @@
     },
     {
       "title": "Ocean wave",
-      "file_name": "ocean-wave.png",
+      "file_name": "images/nature_outdoors/ocean-wave.png",
       "added_on": "2025-06-23 02:37:21",
       "slug": "ocean-wave",
       "category": "Nature & Outdoors",
@@ -58792,7 +58792,7 @@
     },
     {
       "title": "Office Chair",
-      "file_name": "office-chair.png",
+      "file_name": "images/work_industry/office-chair.png",
       "added_on": "2025-07-06 16:36:01",
       "slug": "office-chair",
       "category": "Work & Industry",
@@ -73316,7 +73316,7 @@
     },
     {
       "title": "Obsidian Wolf",
-      "file_name": "obsidian-wolf.png",
+      "file_name": "images/fantasy_imagination/obsidian-wolf.png",
       "added_on": "2025-07-17 13:02:24",
       "slug": "obsidian-wolf",
       "category": "Fantasy & Imagination",
@@ -75470,7 +75470,7 @@
     },
     {
       "title": "Ocarina",
-      "file_name": "ocarina.png",
+      "file_name": "images/hobbies/ocarina.png",
       "added_on": "2025-07-19 18:21:30",
       "slug": "ocarina",
       "category": "Hobbies",
@@ -79722,7 +79722,7 @@
     },
     {
       "title": "Obsidian",
-      "file_name": "obsidian.png",
+      "file_name": "images/nature_outdoors/obsidian.png",
       "added_on": "2025-07-25 07:31:36",
       "slug": "obsidian",
       "category": "Nature & Outdoors",
@@ -85994,7 +85994,7 @@
     },
     {
       "title": "Ocelot",
-      "file_name": "ocelot.png",
+      "file_name": "images/animals/ocelot.png",
       "added_on": "2025-08-24 21:51:23",
       "slug": "ocelot",
       "category": "Animals",
@@ -89324,7 +89324,7 @@
     },
     {
       "title": "Obstacle Wall",
-      "file_name": "obstacle-wall.png",
+      "file_name": "images/sports/obstacle-wall.png",
       "added_on": "2025-09-07 15:21:04",
       "slug": "obstacle-wall",
       "category": "Sports",
@@ -96521,7 +96521,7 @@
     },
     {
       "title": "Octopus Tentacle",
-      "file_name": "octopus-tentacle.png",
+      "file_name": "images/food_drink/octopus-tentacle.png",
       "added_on": "2025-09-23 10:41:56",
       "slug": "octopus-tentacle",
       "category": "Food & Drink",
@@ -96857,7 +96857,7 @@
     },
     {
       "title": "Octopus Ring",
-      "file_name": "octopus-ring.png",
+      "file_name": "images/fashion_style/octopus-ring.png",
       "added_on": "2025-09-23 15:21:20",
       "slug": "octopus-ring",
       "category": "Fashion & Style",
@@ -105066,7 +105066,7 @@
     },
     {
       "title": "Obstacle Tire",
-      "file_name": "obstacle-tire.png",
+      "file_name": "images/sports/obstacle-tire.png",
       "added_on": "2025-10-15 10:31:55",
       "slug": "obstacle-tire",
       "category": "Sports",
@@ -111266,7 +111266,7 @@
     },
     {
       "title": "Office",
-      "file_name": "office-1.png",
+      "file_name": "images/work_industry/office-1.png",
       "added_on": "2025-10-31 09:03:06",
       "slug": "office-1",
       "category": "Work & Industry",
@@ -114847,7 +114847,7 @@
     },
     {
       "title": "Offer",
-      "file_name": "offer.png",
+      "file_name": "images/everyday_life/offer.png",
       "added_on": "2025-11-11 21:32:03",
       "slug": "offer",
       "category": "Everyday Life",
@@ -123576,7 +123576,7 @@
     },
     {
       "title": "Office Coffee Machine",
-      "file_name": "office-coffee-machine.png",
+      "file_name": "images/work_industry/office-coffee-machine.png",
       "added_on": "2026-02-01 17:01:14",
       "slug": "office-coffee-machine",
       "category": "Work & Industry",
