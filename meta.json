@@ -2087,7 +2087,7 @@
     },
     {
       "title": "Origami Paper Set",
-      "file_name": "origami-paper-set.png",
+      "file_name": "images/hobbies/origami-paper-set.png",
       "added_on": "2025-05-16 11:43:25",
       "slug": "origami-paper-set",
       "category": "Hobbies",
@@ -5597,7 +5597,7 @@
     },
     {
       "title": "Orange",
-      "file_name": "orange.png",
+      "file_name": "images/food_drink/orange.png",
       "added_on": "2025-05-18 00:11:02",
       "slug": "orange",
       "category": "Food & Drink",
@@ -7078,7 +7078,7 @@
     },
     {
       "title": "Origami Crane",
-      "file_name": "origami-crane.png",
+      "file_name": "images/hobbies/origami-crane.png",
       "added_on": "2025-05-19 02:45:45",
       "slug": "origami-crane",
       "category": "Hobbies",
@@ -7338,7 +7338,7 @@
     },
     {
       "title": "Origami Paper Folder",
-      "file_name": "origami-paper-folder.png",
+      "file_name": "images/hobbies/origami-paper-folder.png",
       "added_on": "2025-05-19 05:10:58",
       "slug": "origami-paper-folder",
       "category": "Hobbies",
@@ -10213,7 +10213,7 @@
     },
     {
       "title": "Orangutan",
-      "file_name": "orangutan.png",
+      "file_name": "images/animals/orangutan.png",
       "added_on": "2025-05-23 13:50:57",
       "slug": "orangutan",
       "category": "Animals",
@@ -19335,7 +19335,7 @@
     },
     {
       "title": "Orchestra Conductor",
-      "file_name": "orchestra-conductor.png",
+      "file_name": "images/professions/orchestra-conductor.png",
       "added_on": "2025-06-01 12:48:59",
       "slug": "orchestra-conductor",
       "category": "Professions",
@@ -20267,7 +20267,7 @@
     },
     {
       "title": "Orca",
-      "file_name": "orca.png",
+      "file_name": "images/animals/orca.png",
       "added_on": "2025-06-02 09:44:26",
       "slug": "orca",
       "category": "Animals",
@@ -20626,7 +20626,7 @@
     },
     {
       "title": "Orchid",
-      "file_name": "orchid.png",
+      "file_name": "images/nature_outdoors/orchid.png",
       "added_on": "2025-06-02 10:17:58",
       "slug": "orchid",
       "category": "Nature & Outdoors",
@@ -41087,7 +41087,7 @@
     },
     {
       "title": "Orca",
-      "file_name": "orca-1.png",
+      "file_name": "images/animals/orca-1.png",
       "added_on": "2025-06-13 22:28:42",
       "slug": "orca-1",
       "category": "Animals",
@@ -41576,7 +41576,7 @@
     },
     {
       "title": "Orbital Sander",
-      "file_name": "orbital-sander.png",
+      "file_name": "images/work_industry/orbital-sander.png",
       "added_on": "2025-06-13 22:34:15",
       "slug": "orbital-sander",
       "category": "Work & Industry",
@@ -51172,7 +51172,7 @@
     },
     {
       "title": "Orange wine glass",
-      "file_name": "orange-wine-glass.png",
+      "file_name": "images/food_drink/orange-wine-glass.png",
       "added_on": "2025-06-23 03:49:19",
       "slug": "orange-wine-glass",
       "category": "Food & Drink",
@@ -51185,7 +51185,7 @@
     },
     {
       "title": "Orange Wine Bottle",
-      "file_name": "orange-wine-bottle.png",
+      "file_name": "images/food_drink/orange-wine-bottle.png",
       "added_on": "2025-06-23 03:55:25",
       "slug": "orange-wine-bottle",
       "category": "Food & Drink",
@@ -54322,7 +54322,7 @@
     },
     {
       "title": "Oreo",
-      "file_name": "oreo.png",
+      "file_name": "images/food_drink/oreo.png",
       "added_on": "2025-06-27 16:19:23",
       "slug": "oreo",
       "category": "Food & Drink",
@@ -73329,7 +73329,7 @@
     },
     {
       "title": "Origami Dragonfly",
-      "file_name": "origami-dragonfly.png",
+      "file_name": "images/fantasy_imagination/origami-dragonfly.png",
       "added_on": "2025-07-17 13:11:56",
       "slug": "origami-dragonfly",
       "category": "Fantasy & Imagination",
@@ -76321,7 +76321,7 @@
     },
     {
       "title": "Orc",
-      "file_name": "orc.png",
+      "file_name": "images/fantasy_imagination/orc.png",
       "added_on": "2025-07-20 16:21:32",
       "slug": "orc",
       "category": "Fantasy & Imagination",
@@ -80326,7 +80326,7 @@
     },
     {
       "title": "Ordering Kiosk",
-      "file_name": "ordering-kiosk.png",
+      "file_name": "images/technology_media/ordering-kiosk.png",
       "added_on": "2025-07-25 19:41:18",
       "slug": "ordering-kiosk",
       "category": "Technology & Media",
@@ -84686,7 +84686,7 @@
     },
     {
       "title": "Oriental Shorthair",
-      "file_name": "oriental-shorthair.png",
+      "file_name": "images/animals/oriental-shorthair.png",
       "added_on": "2025-08-19 16:36:11",
       "slug": "oriental-shorthair",
       "category": "Animals",
@@ -93134,7 +93134,7 @@
     },
     {
       "title": "Origami Lotus Flower",
-      "file_name": "origami-lotus-flower.png",
+      "file_name": "images/hobbies/origami-lotus-flower.png",
       "added_on": "2025-09-16 10:41:24",
       "slug": "origami-lotus-flower",
       "category": "Hobbies",
@@ -105420,7 +105420,7 @@
     },
     {
       "title": "Origami Frog",
-      "file_name": "origami-frog.png",
+      "file_name": "images/hobbies/origami-frog.png",
       "added_on": "2025-10-16 14:21:35",
       "slug": "origami-frog",
       "category": "Hobbies",
@@ -109610,7 +109610,7 @@
     },
     {
       "title": "Orchid Mantis",
-      "file_name": "orchid-mantis.png",
+      "file_name": "images/nature_outdoors/orchid-mantis.png",
       "added_on": "2025-10-28 13:22:06",
       "slug": "orchid-mantis",
       "category": "Nature & Outdoors",
@@ -120803,7 +120803,7 @@
     },
     {
       "title": "Orchestra",
-      "file_name": "orchestra.png",
+      "file_name": "images/entertainment_leisure/orchestra.png",
       "added_on": "2026-01-22 23:41:29",
       "slug": "orchestra",
       "category": "Entertainment & Leisure",
