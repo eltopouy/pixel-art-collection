@@ -2841,7 +2841,7 @@
     },
     {
       "title": "Pagoda",
-      "file_name": "pagoda.png",
+      "file_name": "images/places_structures/pagoda.png",
       "added_on": "2025-05-16 15:45:50",
       "slug": "pagoda",
       "category": "Places & Structures",
@@ -8326,7 +8326,7 @@
     },
     {
       "title": "Padel",
-      "file_name": "padel.png",
+      "file_name": "images/sports/padel.png",
       "added_on": "2025-05-22 14:21:30",
       "slug": "padel",
       "category": "Sports",
@@ -9275,7 +9275,7 @@
     },
     {
       "title": "Paella",
-      "file_name": "paella.png",
+      "file_name": "images/food_drink/paella.png",
       "added_on": "2025-05-23 01:30:51",
       "slug": "paella",
       "category": "Food & Drink",
@@ -14715,7 +14715,7 @@
     },
     {
       "title": "Paddleboard",
-      "file_name": "paddleboard.png",
+      "file_name": "images/vehicles_transport/paddleboard.png",
       "added_on": "2025-05-27 02:40:46",
       "slug": "paddleboard",
       "category": "Vehicles & Transport",
@@ -15274,7 +15274,7 @@
     },
     {
       "title": "Paddle Boat",
-      "file_name": "paddle-boat.png",
+      "file_name": "images/vehicles_transport/paddle-boat.png",
       "added_on": "2025-05-27 12:10:53",
       "slug": "paddle-boat",
       "category": "Vehicles & Transport",
@@ -21592,7 +21592,7 @@
     },
     {
       "title": "Paddle Steamer",
-      "file_name": "paddle-steamer.png",
+      "file_name": "images/vehicles_transport/paddle-steamer.png",
       "added_on": "2025-06-03 08:10:00",
       "slug": "paddle-steamer",
       "category": "Vehicles & Transport",
@@ -27080,7 +27080,7 @@
     },
     {
       "title": "Pain au Chocolat",
-      "file_name": "pain-au-chocolat.png",
+      "file_name": "images/food_drink/pain-au-chocolat.png",
       "added_on": "2025-06-07 15:20:55",
       "slug": "pain-au-chocolat",
       "category": "Food & Drink",
@@ -27119,7 +27119,7 @@
     },
     {
       "title": "Pain au Levain",
-      "file_name": "pain-au-levain.png",
+      "file_name": "images/food_drink/pain-au-levain.png",
       "added_on": "2025-06-07 15:21:03",
       "slug": "pain-au-levain",
       "category": "Food & Drink",
@@ -29050,7 +29050,7 @@
     },
     {
       "title": "Padel Court",
-      "file_name": "padel-court.png",
+      "file_name": "images/sports/padel-court.png",
       "added_on": "2025-06-10 08:10:09",
       "slug": "padel-court",
       "category": "Sports",
@@ -52206,7 +52206,7 @@
     },
     {
       "title": "Pad Thai",
-      "file_name": "pad-thai.png",
+      "file_name": "images/food_drink/pad-thai.png",
       "added_on": "2025-06-25 13:57:47",
       "slug": "pad-thai",
       "category": "Food & Drink",
@@ -59394,7 +59394,7 @@
     },
     {
       "title": "Paint Set",
-      "file_name": "paint-set.png",
+      "file_name": "images/entertainment_leisure/paint-set.png",
       "added_on": "2025-07-07 04:36:06",
       "slug": "paint-set",
       "category": "Entertainment & Leisure",
@@ -64627,7 +64627,7 @@
     },
     {
       "title": "Paintball Gun",
-      "file_name": "paintball-gun.png",
+      "file_name": "images/sports/paintball-gun.png",
       "added_on": "2025-07-10 13:36:03",
       "slug": "paintball-gun",
       "category": "Sports",
@@ -107678,7 +107678,7 @@
     },
     {
       "title": "Padded Shoulder Strap",
-      "file_name": "padded-shoulder-strap.png",
+      "file_name": "images/fashion_style/padded-shoulder-strap.png",
       "added_on": "2025-10-23 02:11:10",
       "slug": "padded-shoulder-strap",
       "category": "Fashion & Style",
@@ -108213,7 +108213,7 @@
     },
     {
       "title": "Paea",
-      "file_name": "paea.png",
+      "file_name": "images/food_drink/paea.png",
       "added_on": "2025-10-24 11:51:16",
       "slug": "paea",
       "category": "Food & Drink",
@@ -108629,7 +108629,7 @@
     },
     {
       "title": "Paddleboat",
-      "file_name": "paddleboat.png",
+      "file_name": "images/sports/paddleboat.png",
       "added_on": "2025-10-26 16:01:13",
       "slug": "paddleboat",
       "category": "Sports",
@@ -108931,7 +108931,7 @@
     },
     {
       "title": "Paint Mixing Machine",
-      "file_name": "paint-mixing-machine.png",
+      "file_name": "images/work_industry/paint-mixing-machine.png",
       "added_on": "2025-10-27 09:41:16",
       "slug": "paint-mixing-machine",
       "category": "Work & Industry",
@@ -115903,7 +115903,7 @@
     },
     {
       "title": "Pacu Fish",
-      "file_name": "pacu-fish.png",
+      "file_name": "images/animals/pacu-fish.png",
       "added_on": "2025-11-15 19:21:54",
       "slug": "pacu-fish",
       "category": "Animals",
@@ -118926,7 +118926,7 @@
     },
     {
       "title": "Paintball Balls",
-      "file_name": "paintball-balls.png",
+      "file_name": "images/sports/paintball-balls.png",
       "added_on": "2025-12-04 15:31:31",
       "slug": "paintball-balls",
       "category": "Sports",
@@ -127051,7 +127051,7 @@
     },
     {
       "title": "Paint Splatter Card",
-      "file_name": "paint-splatter-card.png",
+      "file_name": "images/hobbies/paint-splatter-card.png",
       "added_on": "2026-02-25 09:31:15",
       "slug": "paint-splatter-card",
       "category": "Hobbies",
@@ -130079,7 +130079,7 @@
     },
     {
       "title": "Pagoda Bridge",
-      "file_name": "pagoda-bridge.png",
+      "file_name": "images/places_structures/pagoda-bridge.png",
       "added_on": "2026-03-17 22:30:56",
       "slug": "pagoda-bridge",
       "category": "Places & Structures",
