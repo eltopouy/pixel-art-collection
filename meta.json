@@ -2243,7 +2243,7 @@
     },
     {
       "title": "Rock Climbing Kit",
-      "file_name": "rock-climbing-starter-kit.png",
+      "file_name": "images/hobbies/rock-climbing-starter-kit.png",
       "added_on": "2025-05-16 12:19:28",
       "slug": "rock-climbing-starter-kit",
       "category": "Hobbies",
@@ -4973,7 +4973,7 @@
     },
     {
       "title": "Rock",
-      "file_name": "rock.png",
+      "file_name": "images/nature_outdoors/rock.png",
       "added_on": "2025-05-17 16:40:38",
       "slug": "rock",
       "category": "Nature & Outdoors",
@@ -9028,7 +9028,7 @@
     },
     {
       "title": "Rocket",
-      "file_name": "rocket.png",
+      "file_name": "images/space_science/rocket.png",
       "added_on": "2025-05-22 22:20:45",
       "slug": "rocket",
       "category": "Space & Science",
@@ -13139,7 +13139,7 @@
     },
     {
       "title": "Rock Tumbler",
-      "file_name": "rock-tumbler.png",
+      "file_name": "images/hobbies/rock-tumbler.png",
       "added_on": "2025-05-26 03:51:32",
       "slug": "rock-tumbler",
       "category": "Hobbies",
@@ -28298,7 +28298,7 @@
     },
     {
       "title": "Rocking Chair",
-      "file_name": "rocking-chair.png",
+      "file_name": "images/everyday_life/rocking-chair.png",
       "added_on": "2025-06-08 21:33:27",
       "slug": "rocking-chair",
       "category": "Everyday Life",
@@ -36068,7 +36068,7 @@
     },
     {
       "title": "Rodan",
-      "file_name": "rodan.png",
+      "file_name": "images/fantasy_imagination/rodan.png",
       "added_on": "2025-06-12 08:39:31",
       "slug": "rodan",
       "category": "Fantasy & Imagination",
@@ -41992,7 +41992,7 @@
     },
     {
       "title": "Rocky Cliff",
-      "file_name": "rocky-cliff.png",
+      "file_name": "images/nature_outdoors/rocky-cliff.png",
       "added_on": "2025-06-14 00:25:01",
       "slug": "rocky-cliff",
       "category": "Nature & Outdoors",
@@ -44118,7 +44118,7 @@
     },
     {
       "title": "Rock climbing",
-      "file_name": "rock-climbing.png",
+      "file_name": "images/hobbies/rock-climbing.png",
       "added_on": "2025-06-14 13:24:55",
       "slug": "rock-climbing",
       "category": "Hobbies",
@@ -60515,7 +60515,7 @@
     },
     {
       "title": "Rocketsled",
-      "file_name": "rocketsled.png",
+      "file_name": "images/vehicles_transport/rocketsled.png",
       "added_on": "2025-07-08 15:31:32",
       "slug": "rocketsled",
       "category": "Vehicles & Transport",
@@ -69836,7 +69836,7 @@
     },
     {
       "title": "Rogue",
-      "file_name": "rogue.png",
+      "file_name": "images/fantasy_imagination/rogue.png",
       "added_on": "2025-07-14 09:58:40",
       "slug": "rogue",
       "category": "Fantasy & Imagination",
@@ -70490,7 +70490,7 @@
     },
     {
       "title": "Rock-Cut Tomb",
-      "file_name": "rock-cut-tomb.png",
+      "file_name": "images/places_structures/rock-cut-tomb.png",
       "added_on": "2025-07-14 13:51:28",
       "slug": "rock-cut-tomb",
       "category": "Places & Structures",
@@ -70841,7 +70841,7 @@
     },
     {
       "title": "Rock Climbing Chalk Bag",
-      "file_name": "rock-climbing-chalk-bag.png",
+      "file_name": "images/sports/rock-climbing-chalk-bag.png",
       "added_on": "2025-07-14 19:21:27",
       "slug": "rock-climbing-chalk-bag",
       "category": "Sports",
@@ -73527,7 +73527,7 @@
     },
     {
       "title": "Rock music",
-      "file_name": "rock-music.png",
+      "file_name": "images/entertainment_leisure/rock-music.png",
       "added_on": "2025-07-17 16:01:50",
       "slug": "rock-music",
       "category": "Entertainment & Leisure",
@@ -88350,7 +88350,7 @@
     },
     {
       "title": "Rod",
-      "file_name": "rod.png",
+      "file_name": "images/everyday_life/rod.png",
       "added_on": "2025-09-04 23:41:51",
       "slug": "rod",
       "category": "Everyday Life",
@@ -91696,7 +91696,7 @@
     },
     {
       "title": "Rock Skipping Stone",
-      "file_name": "rock-skipping-stone.png",
+      "file_name": "images/sports/rock-skipping-stone.png",
       "added_on": "2025-09-12 02:31:22",
       "slug": "rock-skipping-stone",
       "category": "Sports",
@@ -97260,7 +97260,7 @@
     },
     {
       "title": "Rock Painting Stone",
-      "file_name": "rock-painting-stone.png",
+      "file_name": "images/hobbies/rock-painting-stone.png",
       "added_on": "2025-09-24 17:01:20",
       "slug": "rock-painting-stone",
       "category": "Hobbies",
@@ -108970,7 +108970,7 @@
     },
     {
       "title": "Rock Salt Lamp",
-      "file_name": "rock-salt-lamp.png",
+      "file_name": "images/hobbies/rock-salt-lamp.png",
       "added_on": "2025-10-27 10:11:13",
       "slug": "rock-salt-lamp",
       "category": "Hobbies",
@@ -111422,7 +111422,7 @@
     },
     {
       "title": "Rocket Launch Pad",
-      "file_name": "rocket-launch-pad.png",
+      "file_name": "images/places_structures/rocket-launch-pad.png",
       "added_on": "2025-10-31 12:01:56",
       "slug": "rocket-launch-pad",
       "category": "Places & Structures",
@@ -114598,7 +114598,7 @@
     },
     {
       "title": "Rocket Car",
-      "file_name": "rocket-car.png",
+      "file_name": "images/vehicles_transport/rocket-car.png",
       "added_on": "2025-11-10 15:11:57",
       "slug": "rocket-car",
       "category": "Vehicles & Transport",
@@ -116035,7 +116035,7 @@
     },
     {
       "title": "Rocket Silo",
-      "file_name": "rocket-silo.png",
+      "file_name": "images/places_structures/rocket-silo.png",
       "added_on": "2025-11-16 09:32:00",
       "slug": "rocket-silo",
       "category": "Places & Structures",
