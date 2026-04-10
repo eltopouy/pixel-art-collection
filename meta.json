@@ -6675,7 +6675,7 @@
     },
     {
       "title": "Kick Scooter",
-      "file_name": "kick-scooter.png",
+      "file_name": "images/vehicles_transport/kick-scooter.png",
       "added_on": "2025-05-18 23:45:49",
       "slug": "kick-scooter",
       "category": "Vehicles & Transport",
@@ -7598,7 +7598,7 @@
     },
     {
       "title": "Kickstand",
-      "file_name": "kickstand.png",
+      "file_name": "images/vehicles_transport/kickstand.png",
       "added_on": "2025-05-19 08:30:43",
       "slug": "kickstand",
       "category": "Vehicles & Transport",
@@ -24000,7 +24000,7 @@
     },
     {
       "title": "Khipu",
-      "file_name": "khipu.png",
+      "file_name": "images/history_culture/khipu.png",
       "added_on": "2025-06-04 08:50:33",
       "slug": "khipu",
       "category": "History & Culture",
@@ -54309,7 +54309,7 @@
     },
     {
       "title": "Kidney",
-      "file_name": "kidney.png",
+      "file_name": "images/health_wellness/kidney.png",
       "added_on": "2025-06-27 16:13:13",
       "slug": "kidney",
       "category": "Health & Wellness",
@@ -56075,7 +56075,7 @@
     },
     {
       "title": "Kids Playing",
-      "file_name": "kids-playing.png",
+      "file_name": "images/everyday_life/kids-playing.png",
       "added_on": "2025-06-30 22:19:07",
       "slug": "kids-playing",
       "category": "Everyday Life",
@@ -56088,7 +56088,7 @@
     },
     {
       "title": "Kids Hugging",
-      "file_name": "kids-hugging.png",
+      "file_name": "images/everyday_life/kids-hugging.png",
       "added_on": "2025-06-30 22:25:03",
       "slug": "kids-hugging",
       "category": "Everyday Life",
@@ -62900,7 +62900,7 @@
     },
     {
       "title": "Kimbap",
-      "file_name": "kimbap.png",
+      "file_name": "images/food_drink/kimbap.png",
       "added_on": "2025-07-09 09:31:12",
       "slug": "kimbap",
       "category": "Food & Drink",
@@ -66630,7 +66630,7 @@
     },
     {
       "title": "Kickboard",
-      "file_name": "kickboard.png",
+      "file_name": "images/sports/kickboard.png",
       "added_on": "2025-07-11 20:01:15",
       "slug": "kickboard",
       "category": "Sports",
@@ -67127,7 +67127,7 @@
     },
     {
       "title": "Kiln",
-      "file_name": "kiln.png",
+      "file_name": "images/hobbies/kiln.png",
       "added_on": "2025-07-12 03:11:43",
       "slug": "kiln",
       "category": "Hobbies",
@@ -73553,7 +73553,7 @@
     },
     {
       "title": "Khinkali",
-      "file_name": "khinkali.png",
+      "file_name": "images/food_drink/khinkali.png",
       "added_on": "2025-07-17 18:49:09",
       "slug": "khinkali",
       "category": "Food & Drink",
@@ -80404,7 +80404,7 @@
     },
     {
       "title": "Kilt",
-      "file_name": "kilt.png",
+      "file_name": "images/fashion_style/kilt.png",
       "added_on": "2025-07-25 20:51:33",
       "slug": "kilt",
       "category": "Fashion & Style",
@@ -80443,7 +80443,7 @@
     },
     {
       "title": "Kickball Ball",
-      "file_name": "kickball-ball.png",
+      "file_name": "images/sports/kickball-ball.png",
       "added_on": "2025-07-25 21:21:19",
       "slug": "kickball-ball",
       "category": "Sports",
@@ -80963,7 +80963,7 @@
     },
     {
       "title": "Kick Drum",
-      "file_name": "kick-drum.png",
+      "file_name": "images/technology_media/kick-drum.png",
       "added_on": "2025-07-28 17:45:15",
       "slug": "kick-drum",
       "category": "Technology & Media",
@@ -84289,7 +84289,7 @@
     },
     {
       "title": "Kimchi Bokkeumbap",
-      "file_name": "kimchi-bokkeumbap.png",
+      "file_name": "images/food_drink/kimchi-bokkeumbap.png",
       "added_on": "2025-08-18 09:37:37",
       "slug": "kimchi-bokkeumbap",
       "category": "Food & Drink",
@@ -88705,7 +88705,7 @@
     },
     {
       "title": "Kibori kuma",
-      "file_name": "kibori-kuma.png",
+      "file_name": "images/history_culture/kibori-kuma.png",
       "added_on": "2025-09-05 17:51:06",
       "slug": "kibori-kuma",
       "category": "History & Culture",
@@ -100838,7 +100838,7 @@
     },
     {
       "title": "Khmer Stone Lion",
-      "file_name": "khmer-stone-lion.png",
+      "file_name": "images/history_culture/khmer-stone-lion.png",
       "added_on": "2025-10-04 18:01:22",
       "slug": "khmer-stone-lion",
       "category": "History & Culture",
@@ -112990,7 +112990,7 @@
     },
     {
       "title": "Kids and Nature",
-      "file_name": "kids-and-nature.png",
+      "file_name": "images/nature_outdoors/kids-and-nature.png",
       "added_on": "2025-11-04 12:32:05",
       "slug": "kids-and-nature",
       "category": "Nature & Outdoors",
@@ -123750,7 +123750,7 @@
     },
     {
       "title": "Kimchi Grilled Cheese",
-      "file_name": "kimchi-grilled-cheese.png",
+      "file_name": "images/food_drink/kimchi-grilled-cheese.png",
       "added_on": "2026-02-01 19:41:08",
       "slug": "kimchi-grilled-cheese",
       "category": "Food & Drink",
@@ -124660,7 +124660,7 @@
     },
     {
       "title": "Kid Running",
-      "file_name": "kid-running.png",
+      "file_name": "images/everyday_life/kid-running.png",
       "added_on": "2026-02-04 18:01:08",
       "slug": "kid-running",
       "category": "Everyday Life",
@@ -125335,7 +125335,7 @@
     },
     {
       "title": "Kimchi Hotdog",
-      "file_name": "kimchi-hotdog.png",
+      "file_name": "images/food_drink/kimchi-hotdog.png",
       "added_on": "2026-02-11 02:51:09",
       "slug": "kimchi-hotdog",
       "category": "Food & Drink",
@@ -125521,7 +125521,7 @@
     },
     {
       "title": "Kickboxing Pads",
-      "file_name": "kickboxing-pads.png",
+      "file_name": "images/sports/kickboxing-pads.png",
       "added_on": "2026-02-11 05:11:07",
       "slug": "kickboxing-pads",
       "category": "Sports",
