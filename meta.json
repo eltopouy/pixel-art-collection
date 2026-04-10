@@ -2035,7 +2035,7 @@
     },
     {
       "title": "Librarian",
-      "file_name": "librarian.png",
+      "file_name": "images/professions/librarian.png",
       "added_on": "2025-05-16 11:31:28",
       "slug": "librarian",
       "category": "Professions",
@@ -3336,7 +3336,7 @@
     },
     {
       "title": "Library",
-      "file_name": "library.png",
+      "file_name": "images/places_structures/library.png",
       "added_on": "2025-05-16 20:05:53",
       "slug": "library",
       "category": "Places & Structures",
@@ -7182,7 +7182,7 @@
     },
     {
       "title": "Lettuce",
-      "file_name": "lettuce.png",
+      "file_name": "images/food_drink/lettuce.png",
       "added_on": "2025-05-19 03:41:00",
       "slug": "lettuce",
       "category": "Food & Drink",
@@ -15430,7 +15430,7 @@
     },
     {
       "title": "Leopard",
-      "file_name": "leopard.png",
+      "file_name": "images/animals/leopard.png",
       "added_on": "2025-05-27 14:30:58",
       "slug": "leopard",
       "category": "Animals",
@@ -17590,7 +17590,7 @@
     },
     {
       "title": "Letter",
-      "file_name": "letter.png",
+      "file_name": "images/everyday_life/letter.png",
       "added_on": "2025-05-31 13:21:23",
       "slug": "letter",
       "category": "Everyday Life",
@@ -26391,7 +26391,7 @@
     },
     {
       "title": "Lifebuoy",
-      "file_name": "lifebuoy.png",
+      "file_name": "images/everyday_life/lifebuoy.png",
       "added_on": "2025-06-07 12:50:41",
       "slug": "lifebuoy",
       "category": "Everyday Life",
@@ -32538,7 +32538,7 @@
     },
     {
       "title": "Liechtenstein",
-      "file_name": "liechtenstein.png",
+      "file_name": "images/countries/liechtenstein.png",
       "added_on": "2025-06-11 11:12:52",
       "slug": "liechtenstein",
       "category": "Countries",
@@ -33258,7 +33258,7 @@
     },
     {
       "title": "Level",
-      "file_name": "level.png",
+      "file_name": "images/everyday_life/level.png",
       "added_on": "2025-06-11 16:00:39",
       "slug": "level",
       "category": "Everyday Life",
@@ -45297,7 +45297,7 @@
     },
     {
       "title": "Liberty Bell",
-      "file_name": "liberty-bell.png",
+      "file_name": "images/history_culture/liberty-bell.png",
       "added_on": "2025-06-15 00:12:58",
       "slug": "liberty-bell",
       "category": "History & Culture",
@@ -59822,7 +59822,7 @@
     },
     {
       "title": "Levitating Lantern",
-      "file_name": "levitating-lantern.png",
+      "file_name": "images/fantasy_imagination/levitating-lantern.png",
       "added_on": "2025-07-07 13:41:34",
       "slug": "levitating-lantern",
       "category": "Fantasy & Imagination",
@@ -59993,7 +59993,7 @@
     },
     {
       "title": "Libra Zodiac Sign",
-      "file_name": "libra-zodiac-sign.png",
+      "file_name": "images/history_culture/libra-zodiac-sign.png",
       "added_on": "2025-07-08 10:20:26",
       "slug": "libra-zodiac-sign",
       "category": "History & Culture",
@@ -69719,7 +69719,7 @@
     },
     {
       "title": "Lichen Patch",
-      "file_name": "lichen-patch.png",
+      "file_name": "images/nature_outdoors/lichen-patch.png",
       "added_on": "2025-07-14 08:21:39",
       "slug": "lichen-patch",
       "category": "Nature & Outdoors",
@@ -72690,7 +72690,7 @@
     },
     {
       "title": "Licorice",
-      "file_name": "licorice.png",
+      "file_name": "images/food_drink/licorice.png",
       "added_on": "2025-07-16 20:21:59",
       "slug": "licorice",
       "category": "Food & Drink",
@@ -78833,7 +78833,7 @@
     },
     {
       "title": "Lich",
-      "file_name": "lich.png",
+      "file_name": "images/fantasy_imagination/lich.png",
       "added_on": "2025-07-24 21:51:21",
       "slug": "lich",
       "category": "Fantasy & Imagination",
@@ -84847,7 +84847,7 @@
     },
     {
       "title": "Lhasa Apso",
-      "file_name": "lhasa-apso.png",
+      "file_name": "images/animals/lhasa-apso.png",
       "added_on": "2025-08-19 16:38:40",
       "slug": "lhasa-apso",
       "category": "Animals",
@@ -90162,7 +90162,7 @@
     },
     {
       "title": "Letter Opener",
-      "file_name": "letter-opener.png",
+      "file_name": "images/everyday_life/letter-opener.png",
       "added_on": "2025-09-09 15:31:21",
       "slug": "letter-opener",
       "category": "Everyday Life",
@@ -90201,7 +90201,7 @@
     },
     {
       "title": "License Plate",
-      "file_name": "license-plate.png",
+      "file_name": "images/vehicles_transport/license-plate.png",
       "added_on": "2025-09-09 16:11:35",
       "slug": "license-plate",
       "category": "Vehicles & Transport",
@@ -91514,7 +91514,7 @@
     },
     {
       "title": "Life-Size Cutout",
-      "file_name": "life-size-cutout.png",
+      "file_name": "images/entertainment_leisure/life-size-cutout.png",
       "added_on": "2025-09-11 23:51:24",
       "slug": "life-size-cutout",
       "category": "Entertainment & Leisure",
@@ -101820,7 +101820,7 @@
     },
     {
       "title": "License Plate Frame",
-      "file_name": "license-plate-frame.png",
+      "file_name": "images/everyday_life/license-plate-frame.png",
       "added_on": "2025-10-08 09:51:42",
       "slug": "license-plate-frame",
       "category": "Everyday Life",
@@ -106386,7 +106386,7 @@
     },
     {
       "title": "Leverage",
-      "file_name": "leverage.png",
+      "file_name": "images/interface_symbols/leverage.png",
       "added_on": "2025-10-20 18:31:21",
       "slug": "leverage",
       "category": "Interface & Symbols",
