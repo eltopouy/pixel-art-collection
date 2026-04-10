@@ -301,7 +301,7 @@
     },
     {
       "title": "Oven",
-      "file_name": "oven.png",
+      "file_name": "images/everyday_life/oven.png",
       "added_on": "2025-05-15 16:34:00",
       "slug": "oven",
       "category": "Everyday Life",
@@ -16758,7 +16758,7 @@
     },
     {
       "title": "Overhead Projector",
-      "file_name": "overhead-projector.png",
+      "file_name": "images/technology_media/overhead-projector.png",
       "added_on": "2025-05-31 10:20:55",
       "slug": "overhead-projector",
       "category": "Technology & Media",
@@ -23935,7 +23935,7 @@
     },
     {
       "title": "Oubliette",
-      "file_name": "oubliette.png",
+      "file_name": "images/places_structures/oubliette.png",
       "added_on": "2025-06-04 08:50:01",
       "slug": "oubliette",
       "category": "Places & Structures",
@@ -59889,7 +59889,7 @@
     },
     {
       "title": "Outdoor Movie Screen",
-      "file_name": "outdoor-movie-screen.png",
+      "file_name": "images/entertainment_leisure/outdoor-movie-screen.png",
       "added_on": "2025-07-07 14:26:33",
       "slug": "outdoor-movie-screen",
       "category": "Entertainment & Leisure",
@@ -60227,7 +60227,7 @@
     },
     {
       "title": "Ottoman Sultans' Tugra",
-      "file_name": "ottoman-sultans-tugra.png",
+      "file_name": "images/history_culture/ottoman-sultans-tugra.png",
       "added_on": "2025-07-08 13:15:46",
       "slug": "ottoman-sultans-tugra",
       "category": "History & Culture",
@@ -72209,7 +72209,7 @@
     },
     {
       "title": "Oversized Sunglasses",
-      "file_name": "oversized-sunglasses.png",
+      "file_name": "images/entertainment_leisure/oversized-sunglasses.png",
       "added_on": "2025-07-16 14:01:25",
       "slug": "oversized-sunglasses",
       "category": "Entertainment & Leisure",
@@ -73394,7 +73394,7 @@
     },
     {
       "title": "Ottoman Turban Helmet",
-      "file_name": "ottoman-turban-helmet.png",
+      "file_name": "images/history_culture/ottoman-turban-helmet.png",
       "added_on": "2025-07-17 14:12:06",
       "slug": "ottoman-turban-helmet",
       "category": "History & Culture",
@@ -93642,7 +93642,7 @@
     },
     {
       "title": "Overripe Banana",
-      "file_name": "overripe-banana.png",
+      "file_name": "images/everyday_life/overripe-banana.png",
       "added_on": "2025-09-17 12:31:20",
       "slug": "overripe-banana",
       "category": "Everyday Life",
@@ -96883,7 +96883,7 @@
     },
     {
       "title": "Oud",
-      "file_name": "oud.png",
+      "file_name": "images/history_culture/oud.png",
       "added_on": "2025-09-23 15:41:18",
       "slug": "oud",
       "category": "History & Culture",
@@ -99082,7 +99082,7 @@
     },
     {
       "title": "Overfilled Trash Can",
-      "file_name": "overfilled-trash-can.png",
+      "file_name": "images/everyday_life/overfilled-trash-can.png",
       "added_on": "2025-09-30 22:51:11",
       "slug": "overfilled-trash-can",
       "category": "Everyday Life",
@@ -100351,7 +100351,7 @@
     },
     {
       "title": "Overload",
-      "file_name": "overload.png",
+      "file_name": "images/interface_symbols/overload.png",
       "added_on": "2025-10-02 17:41:19",
       "slug": "overload",
       "category": "Interface & Symbols",
@@ -117190,7 +117190,7 @@
     },
     {
       "title": "Overfilled Trash Bag",
-      "file_name": "overfilled-trash-bag.png",
+      "file_name": "images/everyday_life/overfilled-trash-bag.png",
       "added_on": "2025-11-24 11:11:33",
       "slug": "overfilled-trash-bag",
       "category": "Everyday Life",
@@ -117216,7 +117216,7 @@
     },
     {
       "title": "Overfilled Wallet",
-      "file_name": "overfilled-wallet.png",
+      "file_name": "images/everyday_life/overfilled-wallet.png",
       "added_on": "2025-11-24 11:41:32",
       "slug": "overfilled-wallet",
       "category": "Everyday Life",
@@ -118341,7 +118341,7 @@
     },
     {
       "title": "Overflowing Mailbox",
-      "file_name": "overflowing-mailbox.png",
+      "file_name": "images/everyday_life/overflowing-mailbox.png",
       "added_on": "2025-12-01 10:21:35",
       "slug": "overflowing-mailbox",
       "category": "Everyday Life",
@@ -121466,7 +121466,7 @@
     },
     {
       "title": "Overflowing Laundry Hamper",
-      "file_name": "overflowing-laundry-hamper.png",
+      "file_name": "images/everyday_life/overflowing-laundry-hamper.png",
       "added_on": "2026-01-23 15:41:12",
       "slug": "overflowing-laundry-hamper",
       "category": "Everyday Life",
@@ -121830,7 +121830,7 @@
     },
     {
       "title": "Oversized Chain Necklace",
-      "file_name": "oversized-chain-necklace.png",
+      "file_name": "images/fashion_style/oversized-chain-necklace.png",
       "added_on": "2026-01-26 16:31:11",
       "slug": "oversized-chain-necklace",
       "category": "Fashion & Style",
@@ -123016,7 +123016,7 @@
     },
     {
       "title": "Overhead Crane Hook",
-      "file_name": "overhead-crane-hook.png",
+      "file_name": "images/work_industry/overhead-crane-hook.png",
       "added_on": "2026-01-29 21:21:07",
       "slug": "overhead-crane-hook",
       "category": "Work & Industry",
@@ -124235,7 +124235,7 @@
     },
     {
       "title": "Overdue Bill",
-      "file_name": "overdue-bill.png",
+      "file_name": "images/everyday_life/overdue-bill.png",
       "added_on": "2026-02-04 12:01:25",
       "slug": "overdue-bill",
       "category": "Everyday Life",
@@ -128582,7 +128582,7 @@
     },
     {
       "title": "Overgrown Parking Tower",
-      "file_name": "overgrown-parking-tower.png",
+      "file_name": "images/places_structures/overgrown-parking-tower.png",
       "added_on": "2026-03-09 05:20:56",
       "slug": "overgrown-parking-tower",
       "category": "Places & Structures",
@@ -129214,7 +129214,7 @@
     },
     {
       "title": "Oven Tray",
-      "file_name": "oven-tray.png",
+      "file_name": "images/everyday_life/oven-tray.png",
       "added_on": "2026-03-09 14:00:47",
       "slug": "oven-tray",
       "category": "Everyday Life",
