@@ -32720,7 +32720,7 @@
     },
     {
       "title": "Sommelier",
-      "file_name": "sommelier.png",
+      "file_name": "images/professions/sommelier.png",
       "added_on": "2025-06-11 12:54:50",
       "slug": "sommelier",
       "category": "Professions",
@@ -40572,7 +40572,7 @@
     },
     {
       "title": "Solenodon",
-      "file_name": "solenodon.png",
+      "file_name": "images/animals/solenodon.png",
       "added_on": "2025-06-13 21:07:19",
       "slug": "solenodon",
       "category": "Animals",
@@ -40791,7 +40791,7 @@
     },
     {
       "title": "Sopwith Camel",
-      "file_name": "sopwith-camel.png",
+      "file_name": "images/vehicles_transport/sopwith-camel.png",
       "added_on": "2025-06-13 22:25:43",
       "slug": "sopwith-camel",
       "category": "Vehicles & Transport",
@@ -40818,7 +40818,7 @@
     },
     {
       "title": "Sopwith Salamander",
-      "file_name": "sopwith-salamander.png",
+      "file_name": "images/vehicles_transport/sopwith-salamander.png",
       "added_on": "2025-06-13 22:26:48",
       "slug": "sopwith-salamander",
       "category": "Vehicles & Transport",
@@ -41244,7 +41244,7 @@
     },
     {
       "title": "Soprano Saxophone",
-      "file_name": "soprano-saxophone.png",
+      "file_name": "images/entertainment_leisure/soprano-saxophone.png",
       "added_on": "2025-06-13 22:31:41",
       "slug": "soprano-saxophone",
       "category": "Entertainment & Leisure",
@@ -43909,7 +43909,7 @@
     },
     {
       "title": "Soprano Saxophone (Straight)",
-      "file_name": "soprano-saxophone-straight.png",
+      "file_name": "images/entertainment_leisure/soprano-saxophone-straight.png",
       "added_on": "2025-06-14 13:21:13",
       "slug": "soprano-saxophone-straight",
       "category": "Entertainment & Leisure",
@@ -56494,7 +56494,7 @@
     },
     {
       "title": "Soldier",
-      "file_name": "soldier.png",
+      "file_name": "images/professions/soldier.png",
       "added_on": "2025-07-02 23:01:04",
       "slug": "soldier",
       "category": "Professions",
@@ -58081,7 +58081,7 @@
     },
     {
       "title": "Sorghum Bread",
-      "file_name": "sorghum-bread.png",
+      "file_name": "images/food_drink/sorghum-bread.png",
       "added_on": "2025-07-06 03:46:33",
       "slug": "sorghum-bread",
       "category": "Food & Drink",
@@ -63576,7 +63576,7 @@
     },
     {
       "title": "Soul",
-      "file_name": "soul.png",
+      "file_name": "images/fantasy_imagination/soul.png",
       "added_on": "2025-07-09 14:20:57",
       "slug": "soul",
       "category": "Fantasy & Imagination",
@@ -74491,7 +74491,7 @@
     },
     {
       "title": "Sommelier Knife",
-      "file_name": "sommelier-knife.png",
+      "file_name": "images/everyday_life/sommelier-knife.png",
       "added_on": "2025-07-18 14:31:29",
       "slug": "sommelier-knife",
       "category": "Everyday Life",
@@ -75039,7 +75039,7 @@
     },
     {
       "title": "Sound Bath Bowl",
-      "file_name": "sound-bath-bowl.png",
+      "file_name": "images/health_wellness/sound-bath-bowl.png",
       "added_on": "2025-07-18 23:41:27",
       "slug": "sound-bath-bowl",
       "category": "Health & Wellness",
@@ -82746,7 +82746,7 @@
     },
     {
       "title": "Sound Design",
-      "file_name": "sound-design.png",
+      "file_name": "images/technology_media/sound-design.png",
       "added_on": "2025-08-08 06:54:05",
       "slug": "sound-design",
       "category": "Technology & Media",
@@ -85094,7 +85094,7 @@
     },
     {
       "title": "Somali",
-      "file_name": "somali.png",
+      "file_name": "images/animals/somali.png",
       "added_on": "2025-08-20 14:29:23",
       "slug": "somali",
       "category": "Animals",
@@ -86207,7 +86207,7 @@
     },
     {
       "title": "Sound Mixer",
-      "file_name": "sound-mixer.png",
+      "file_name": "images/technology_media/sound-mixer.png",
       "added_on": "2025-08-25 22:38:16",
       "slug": "sound-mixer",
       "category": "Technology & Media",
@@ -86972,7 +86972,7 @@
     },
     {
       "title": "Sorbonne University Paris",
-      "file_name": "sorbonne-university-paris.png",
+      "file_name": "images/places_structures/sorbonne-university-paris.png",
       "added_on": "2025-08-30 12:51:23",
       "slug": "sorbonne-university-paris",
       "category": "Places & Structures",
@@ -103273,7 +103273,7 @@
     },
     {
       "title": "Sopaipilla",
-      "file_name": "sopaipilla.png",
+      "file_name": "images/food_drink/sopaipilla.png",
       "added_on": "2025-10-09 21:21:46",
       "slug": "sopaipilla",
       "category": "Food & Drink",
@@ -105222,7 +105222,7 @@
     },
     {
       "title": "Sound-Reducing Ear Muffs",
-      "file_name": "sound-reducing-ear-muffs.png",
+      "file_name": "images/health_wellness/sound-reducing-ear-muffs.png",
       "added_on": "2025-10-15 14:51:45",
       "slug": "sound-reducing-ear-muffs",
       "category": "Health & Wellness",
@@ -109178,7 +109178,7 @@
     },
     {
       "title": "Sonar",
-      "file_name": "sonar.png",
+      "file_name": "images/technology_media/sonar.png",
       "added_on": "2025-10-27 13:41:10",
       "slug": "sonar",
       "category": "Technology & Media",
@@ -109740,7 +109740,7 @@
     },
     {
       "title": "SOS Flag",
-      "file_name": "sos-flag.png",
+      "file_name": "images/flags/sos-flag.png",
       "added_on": "2025-10-28 15:41:42",
       "slug": "sos-flag",
       "category": "Flags",
@@ -110156,7 +110156,7 @@
     },
     {
       "title": "Sombrero",
-      "file_name": "sombrero.png",
+      "file_name": "images/fashion_style/sombrero.png",
       "added_on": "2025-10-28 21:01:53",
       "slug": "sombrero",
       "category": "Fashion & Style",
@@ -113266,7 +113266,7 @@
     },
     {
       "title": "SOS Symbol",
-      "file_name": "sos-symbol.png",
+      "file_name": "images/interface_symbols/sos-symbol.png",
       "added_on": "2025-11-05 23:31:54",
       "slug": "sos-symbol",
       "category": "Interface & Symbols",
