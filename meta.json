@@ -17798,7 +17798,7 @@
     },
     {
       "title": "Acoustic Guitar",
-      "file_name": "guitar.png",
+      "file_name": "images/entertainment_leisure/guitar.png",
       "added_on": "2025-06-01 08:09:08",
       "slug": "guitar",
       "category": "Entertainment & Leisure",
@@ -17811,7 +17811,7 @@
     },
     {
       "title": "Electric Guitar",
-      "file_name": "guitar-jh4gp1.png",
+      "file_name": "images/entertainment_leisure/guitar-jh4gp1.png",
       "added_on": "2025-06-01 08:09:13",
       "slug": "guitar-jh4gp1",
       "category": "Entertainment & Leisure",
@@ -22459,7 +22459,7 @@
     },
     {
       "title": "Guinea Pig",
-      "file_name": "guinea-pig.png",
+      "file_name": "images/animals/guinea-pig.png",
       "added_on": "2025-06-03 18:05:59",
       "slug": "guinea-pig",
       "category": "Animals",
@@ -24650,7 +24650,7 @@
     },
     {
       "title": "Gudgeon",
-      "file_name": "gudgeon.png",
+      "file_name": "images/animals/gudgeon.png",
       "added_on": "2025-06-04 21:37:48",
       "slug": "gudgeon",
       "category": "Animals",
@@ -36372,7 +36372,7 @@
     },
     {
       "title": "Guitar Amplifier",
-      "file_name": "guitar-amplifier.png",
+      "file_name": "images/technology_media/guitar-amplifier.png",
       "added_on": "2025-06-12 08:41:38",
       "slug": "guitar-amplifier",
       "category": "Technology & Media",
@@ -37253,7 +37253,7 @@
     },
     {
       "title": "Guitar Pick",
-      "file_name": "guitar-pick.png",
+      "file_name": "images/entertainment_leisure/guitar-pick.png",
       "added_on": "2025-06-12 23:01:32",
       "slug": "guitar-pick",
       "category": "Entertainment & Leisure",
@@ -49837,7 +49837,7 @@
     },
     {
       "title": "Guillotine",
-      "file_name": "guillotine.png",
+      "file_name": "images/history_culture/guillotine.png",
       "added_on": "2025-06-22 19:01:19",
       "slug": "guillotine",
       "category": "History & Culture",
@@ -51120,7 +51120,7 @@
     },
     {
       "title": "Guava",
-      "file_name": "guava.png",
+      "file_name": "images/food_drink/guava.png",
       "added_on": "2025-06-23 03:25:22",
       "slug": "guava",
       "category": "Food & Drink",
@@ -53126,7 +53126,7 @@
     },
     {
       "title": "Gulab Jamun Cheesecake Slice",
-      "file_name": "gulab-jamun-cheesecake-slice.png",
+      "file_name": "images/food_drink/gulab-jamun-cheesecake-slice.png",
       "added_on": "2025-06-26 15:33:57",
       "slug": "gulab-jamun-cheesecake-slice",
       "category": "Food & Drink",
@@ -56637,7 +56637,7 @@
     },
     {
       "title": "Guiro",
-      "file_name": "guiro.png",
+      "file_name": "images/entertainment_leisure/guiro.png",
       "added_on": "2025-07-05 08:03:07",
       "slug": "guiro",
       "category": "Entertainment & Leisure",
@@ -75535,7 +75535,7 @@
     },
     {
       "title": "Gua Sha Tool",
-      "file_name": "gua-sha-tool.png",
+      "file_name": "images/health_wellness/gua-sha-tool.png",
       "added_on": "2025-07-19 19:11:20",
       "slug": "gua-sha-tool",
       "category": "Health & Wellness",
@@ -78172,7 +78172,7 @@
     },
     {
       "title": "Guinea-Bissau",
-      "file_name": "guinea-bissau.png",
+      "file_name": "images/countries/guinea-bissau.png",
       "added_on": "2025-07-24 13:21:38",
       "slug": "guinea-bissau",
       "category": "Countries",
@@ -78290,7 +78290,7 @@
     },
     {
       "title": "Guanaco",
-      "file_name": "guanaco.png",
+      "file_name": "images/animals/guanaco.png",
       "added_on": "2025-07-24 14:51:33",
       "slug": "guanaco",
       "category": "Animals",
@@ -78566,7 +78566,7 @@
     },
     {
       "title": "Guardian Angel",
-      "file_name": "guardian-angel.png",
+      "file_name": "images/fantasy_imagination/guardian-angel.png",
       "added_on": "2025-07-24 18:21:33",
       "slug": "guardian-angel",
       "category": "Fantasy & Imagination",
@@ -79802,7 +79802,7 @@
     },
     {
       "title": "Grumpy Cat",
-      "file_name": "grumpy-cat.png",
+      "file_name": "images/animals/grumpy-cat.png",
       "added_on": "2025-07-25 08:51:36",
       "slug": "grumpy-cat",
       "category": "Animals",
@@ -81991,7 +81991,7 @@
     },
     {
       "title": "Guacamole",
-      "file_name": "guacamole.png",
+      "file_name": "images/food_drink/guacamole.png",
       "added_on": "2025-08-02 18:11:10",
       "slug": "guacamole",
       "category": "Food & Drink",
@@ -87856,7 +87856,7 @@
     },
     {
       "title": "Guernica",
-      "file_name": "guernica.png",
+      "file_name": "images/history_culture/guernica.png",
       "added_on": "2025-09-04 12:21:14",
       "slug": "guernica",
       "category": "History & Culture",
@@ -109961,7 +109961,7 @@
     },
     {
       "title": "Guatemala Flag",
-      "file_name": "guatemala-flag.png",
+      "file_name": "images/flags/guatemala-flag.png",
       "added_on": "2025-10-28 18:31:59",
       "slug": "guatemala-flag",
       "category": "Flags",
@@ -113292,7 +113292,7 @@
     },
     {
       "title": "Guestbook",
-      "file_name": "guestbook.png",
+      "file_name": "images/technology_media/guestbook.png",
       "added_on": "2025-11-06 00:02:09",
       "slug": "guestbook",
       "category": "Technology & Media",
@@ -119280,7 +119280,7 @@
     },
     {
       "title": "Gua bao",
-      "file_name": "gua-bao.png",
+      "file_name": "images/food_drink/gua-bao.png",
       "added_on": "2025-12-04 21:01:49",
       "slug": "gua-bao",
       "category": "Food & Drink",
