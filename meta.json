@@ -6961,7 +6961,7 @@
     },
     {
       "title": "Meerkat",
-      "file_name": "meerkat.png",
+      "file_name": "images/animals/meerkat.png",
       "added_on": "2025-05-19 01:50:53",
       "slug": "meerkat",
       "category": "Animals",
@@ -8391,7 +8391,7 @@
     },
     {
       "title": "Meditation",
-      "file_name": "meditation.png",
+      "file_name": "images/hobbies/meditation.png",
       "added_on": "2025-05-22 14:56:32",
       "slug": "meditation",
       "category": "Hobbies",
@@ -19714,7 +19714,7 @@
     },
     {
       "title": "Medicine Capsule",
-      "file_name": "medicine-capsule.png",
+      "file_name": "images/health_wellness/medicine-capsule.png",
       "added_on": "2025-06-02 09:31:57",
       "slug": "medicine-capsule",
       "category": "Health & Wellness",
@@ -27930,7 +27930,7 @@
     },
     {
       "title": "Medieval Guild Sign",
-      "file_name": "medieval-guild-sign.png",
+      "file_name": "images/history_culture/medieval-guild-sign.png",
       "added_on": "2025-06-08 21:31:32",
       "slug": "medieval-guild-sign",
       "category": "History & Culture",
@@ -34161,7 +34161,7 @@
     },
     {
       "title": "Megaphone",
-      "file_name": "megaphone.png",
+      "file_name": "images/everyday_life/megaphone.png",
       "added_on": "2025-06-11 22:47:10",
       "slug": "megaphone",
       "category": "Everyday Life",
@@ -35277,7 +35277,7 @@
     },
     {
       "title": "Meditation Cushion",
-      "file_name": "meditation-cushion.png",
+      "file_name": "images/health_wellness/meditation-cushion.png",
       "added_on": "2025-06-12 04:42:58",
       "slug": "meditation-cushion",
       "category": "Health & Wellness",
@@ -46369,7 +46369,7 @@
     },
     {
       "title": "Meeting",
-      "file_name": "meeting.png",
+      "file_name": "images/work_industry/meeting.png",
       "added_on": "2025-06-16 13:12:53",
       "slug": "meeting",
       "category": "Work & Industry",
@@ -49928,7 +49928,7 @@
     },
     {
       "title": "Medjool Date",
-      "file_name": "medjool-date.png",
+      "file_name": "images/food_drink/medjool-date.png",
       "added_on": "2025-06-22 19:49:23",
       "slug": "medjool-date",
       "category": "Food & Drink",
@@ -61919,7 +61919,7 @@
     },
     {
       "title": "Melon Pan",
-      "file_name": "melon-pan.png",
+      "file_name": "images/food_drink/melon-pan.png",
       "added_on": "2025-07-09 01:56:01",
       "slug": "melon-pan",
       "category": "Food & Drink",
@@ -68111,7 +68111,7 @@
     },
     {
       "title": "Melting Clock",
-      "file_name": "melting-clock.png",
+      "file_name": "images/fantasy_imagination/melting-clock.png",
       "added_on": "2025-07-12 18:11:48",
       "slug": "melting-clock",
       "category": "Fantasy & Imagination",
@@ -70122,7 +70122,7 @@
     },
     {
       "title": "Medusa",
-      "file_name": "medusa.png",
+      "file_name": "images/fantasy_imagination/medusa.png",
       "added_on": "2025-07-14 10:06:39",
       "slug": "medusa",
       "category": "Fantasy & Imagination",
@@ -107597,7 +107597,7 @@
     },
     {
       "title": "Megalodon",
-      "file_name": "megalodon.png",
+      "file_name": "images/animals/megalodon.png",
       "added_on": "2025-10-23 01:11:13",
       "slug": "megalodon",
       "category": "Animals",
@@ -108018,7 +108018,7 @@
     },
     {
       "title": "Medieval Drinking Horn",
-      "file_name": "medieval-drinking-horn.png",
+      "file_name": "images/history_culture/medieval-drinking-horn.png",
       "added_on": "2025-10-23 20:21:16",
       "slug": "medieval-drinking-horn",
       "category": "History & Culture",
@@ -114089,7 +114089,7 @@
     },
     {
       "title": "Medieval Bestiary Page",
-      "file_name": "medieval-bestiary-page.png",
+      "file_name": "images/history_culture/medieval-bestiary-page.png",
       "added_on": "2025-11-09 14:32:05",
       "slug": "medieval-bestiary-page",
       "category": "History & Culture",
@@ -114977,7 +114977,7 @@
     },
     {
       "title": "Medieval Flail",
-      "file_name": "medieval-flail.png",
+      "file_name": "images/history_culture/medieval-flail.png",
       "added_on": "2025-11-12 11:12:08",
       "slug": "medieval-flail",
       "category": "History & Culture",
@@ -123709,7 +123709,7 @@
     },
     {
       "title": "Meeting Room Speakerphone",
-      "file_name": "meeting-room-speakerphone.png",
+      "file_name": "images/work_industry/meeting-room-speakerphone.png",
       "added_on": "2026-02-01 19:11:08",
       "slug": "meeting-room-speakerphone",
       "category": "Work & Industry",
@@ -124157,7 +124157,7 @@
     },
     {
       "title": "Meditation App Screen",
-      "file_name": "meditation-app-screen.png",
+      "file_name": "images/health_wellness/meditation-app-screen.png",
       "added_on": "2026-02-04 10:51:25",
       "slug": "meditation-app-screen",
       "category": "Health & Wellness",
@@ -126773,7 +126773,7 @@
     },
     {
       "title": "Melon",
-      "file_name": "melon.png",
+      "file_name": "images/food_drink/melon.png",
       "added_on": "2026-02-23 10:31:15",
       "slug": "melon",
       "category": "Food & Drink",
@@ -127142,7 +127142,7 @@
     },
     {
       "title": "Medieval Reliquary Hand",
-      "file_name": "medieval-reliquary-hand.png",
+      "file_name": "images/history_culture/medieval-reliquary-hand.png",
       "added_on": "2026-02-25 10:51:14",
       "slug": "medieval-reliquary-hand",
       "category": "History & Culture",
@@ -128504,7 +128504,7 @@
     },
     {
       "title": "Medieval Astrolabe",
-      "file_name": "medieval-astrolabe.png",
+      "file_name": "images/history_culture/medieval-astrolabe.png",
       "added_on": "2026-03-09 04:20:52",
       "slug": "medieval-astrolabe",
       "category": "History & Culture",
