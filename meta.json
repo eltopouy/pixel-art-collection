@@ -3869,7 +3869,7 @@
     },
     {
       "title": "Market Square",
-      "file_name": "market-square.png",
+      "file_name": "images/places_structures/market-square.png",
       "added_on": "2025-05-17 00:11:13",
       "slug": "market-square",
       "category": "Places & Structures",
@@ -6597,7 +6597,7 @@
     },
     {
       "title": "Marine Biologist",
-      "file_name": "marine-biologist.png",
+      "file_name": "images/professions/marine-biologist.png",
       "added_on": "2025-05-18 23:01:15",
       "slug": "marine-biologist",
       "category": "Professions",
@@ -15183,7 +15183,7 @@
     },
     {
       "title": "Marmot",
-      "file_name": "marmot.png",
+      "file_name": "images/animals/marmot.png",
       "added_on": "2025-05-27 10:41:05",
       "slug": "marmot",
       "category": "Animals",
@@ -15404,7 +15404,7 @@
     },
     {
       "title": "Marmoset",
-      "file_name": "marmoset.png",
+      "file_name": "images/animals/marmoset.png",
       "added_on": "2025-05-27 14:11:16",
       "slug": "marmoset",
       "category": "Animals",
@@ -20600,7 +20600,7 @@
     },
     {
       "title": "Marine Iguana",
-      "file_name": "marine-iguana.png",
+      "file_name": "images/animals/marine-iguana.png",
       "added_on": "2025-06-02 10:17:55",
       "slug": "marine-iguana",
       "category": "Animals",
@@ -24598,7 +24598,7 @@
     },
     {
       "title": "Marotte",
-      "file_name": "marotte.png",
+      "file_name": "images/history_culture/marotte.png",
       "added_on": "2025-06-04 21:37:11",
       "slug": "marotte",
       "category": "History & Culture",
@@ -29115,7 +29115,7 @@
     },
     {
       "title": "Marker",
-      "file_name": "marker.png",
+      "file_name": "images/everyday_life/marker.png",
       "added_on": "2025-06-10 09:12:46",
       "slug": "marker",
       "category": "Everyday Life",
@@ -33349,7 +33349,7 @@
     },
     {
       "title": "Markhor",
-      "file_name": "markhor.png",
+      "file_name": "images/animals/markhor.png",
       "added_on": "2025-06-11 16:42:40",
       "slug": "markhor",
       "category": "Animals",
@@ -33745,7 +33745,7 @@
     },
     {
       "title": "Marina",
-      "file_name": "marina.png",
+      "file_name": "images/places_structures/marina.png",
       "added_on": "2025-06-11 20:24:45",
       "slug": "marina",
       "category": "Places & Structures",
@@ -39859,7 +39859,7 @@
     },
     {
       "title": "Market Hall",
-      "file_name": "market-hall.png",
+      "file_name": "images/places_structures/market-hall.png",
       "added_on": "2025-06-13 14:25:26",
       "slug": "market-hall",
       "category": "Places & Structures",
@@ -42387,7 +42387,7 @@
     },
     {
       "title": "Marketplace",
-      "file_name": "marketplace.png",
+      "file_name": "images/places_structures/marketplace.png",
       "added_on": "2025-06-14 04:01:08",
       "slug": "marketplace",
       "category": "Places & Structures",
@@ -43962,7 +43962,7 @@
     },
     {
       "title": "Markdown Format Document Icon",
-      "file_name": "markdown-format-document-icon.png",
+      "file_name": "images/interface_symbols/markdown-format-document-icon.png",
       "added_on": "2025-06-14 13:21:33",
       "slug": "markdown-format-document-icon",
       "category": "Interface & Symbols",
@@ -63407,7 +63407,7 @@
     },
     {
       "title": "Markhor Kid",
-      "file_name": "markhor-kid.png",
+      "file_name": "images/animals/markhor-kid.png",
       "added_on": "2025-07-09 12:56:01",
       "slug": "markhor-kid",
       "category": "Animals",
@@ -77766,7 +77766,7 @@
     },
     {
       "title": "Marriage Registrar",
-      "file_name": "marriage-registrar.png",
+      "file_name": "images/professions/marriage-registrar.png",
       "added_on": "2025-07-24 09:04:52",
       "slug": "marriage-registrar",
       "category": "Professions",
@@ -92210,7 +92210,7 @@
     },
     {
       "title": "Marie Curie",
-      "file_name": "marie-curie.png",
+      "file_name": "images/historical_figures/marie-curie.png",
       "added_on": "2025-09-13 13:41:25",
       "slug": "marie-curie",
       "category": "Historical Figures",
@@ -95564,7 +95564,7 @@
     },
     {
       "title": "Marionette",
-      "file_name": "marionette.png",
+      "file_name": "images/entertainment_leisure/marionette.png",
       "added_on": "2025-09-21 12:41:46",
       "slug": "marionette",
       "category": "Entertainment & Leisure",
@@ -96179,7 +96179,7 @@
     },
     {
       "title": "Marie Antoinette",
-      "file_name": "marie-antoinette.png",
+      "file_name": "images/historical_figures/marie-antoinette.png",
       "added_on": "2025-09-22 15:31:42",
       "slug": "marie-antoinette",
       "category": "Historical Figures",
@@ -108512,7 +108512,7 @@
     },
     {
       "title": "Mars Helmet",
-      "file_name": "mars-helmet.png",
+      "file_name": "images/space_science/mars-helmet.png",
       "added_on": "2025-10-26 14:31:20",
       "slug": "mars-helmet",
       "category": "Space & Science",
@@ -109321,7 +109321,7 @@
     },
     {
       "title": "Marine Vessel",
-      "file_name": "marine-vessel.png",
+      "file_name": "images/vehicles_transport/marine-vessel.png",
       "added_on": "2025-10-27 17:10:53",
       "slug": "marine-vessel",
       "category": "Vehicles & Transport",
@@ -128913,7 +128913,7 @@
     },
     {
       "title": "Marionette Puppet",
-      "file_name": "marionette-puppet.png",
+      "file_name": "images/hobbies/marionette-puppet.png",
       "added_on": "2026-03-09 10:00:52",
       "slug": "marionette-puppet",
       "category": "Hobbies",
