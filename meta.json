@@ -17525,7 +17525,7 @@
     },
     {
       "title": "Olives",
-      "file_name": "olives.png",
+      "file_name": "images/food_drink/olives.png",
       "added_on": "2025-05-31 13:20:30",
       "slug": "olives",
       "category": "Food & Drink",
@@ -25756,7 +25756,7 @@
     },
     {
       "title": "Olympiastadion",
-      "file_name": "olympiastadion.png",
+      "file_name": "images/places_structures/olympiastadion.png",
       "added_on": "2025-06-06 14:33:55",
       "slug": "olympiastadion",
       "category": "Places & Structures",
@@ -27067,7 +27067,7 @@
     },
     {
       "title": "Omelette",
-      "file_name": "omelette.png",
+      "file_name": "images/food_drink/omelette.png",
       "added_on": "2025-06-07 15:20:53",
       "slug": "omelette",
       "category": "Food & Drink",
@@ -30473,7 +30473,7 @@
     },
     {
       "title": "Ominous Duck",
-      "file_name": "ominous-duck.png",
+      "file_name": "images/fantasy_imagination/ominous-duck.png",
       "added_on": "2025-06-10 18:29:34",
       "slug": "ominous-duck",
       "category": "Fantasy & Imagination",
@@ -31972,7 +31972,7 @@
     },
     {
       "title": "Oman",
-      "file_name": "oman.png",
+      "file_name": "images/countries/oman.png",
       "added_on": "2025-06-11 06:19:05",
       "slug": "oman",
       "category": "Countries",
@@ -45600,7 +45600,7 @@
     },
     {
       "title": "Olympic weightlifting",
-      "file_name": "olympic-weightlifting.png",
+      "file_name": "images/sports/olympic-weightlifting.png",
       "added_on": "2025-06-15 19:06:58",
       "slug": "olympic-weightlifting",
       "category": "Sports",
@@ -47387,7 +47387,7 @@
     },
     {
       "title": "Olympic Swimming Pool",
-      "file_name": "olympic-swimming-pool.png",
+      "file_name": "images/sports/olympic-swimming-pool.png",
       "added_on": "2025-06-19 12:58:01",
       "slug": "olympic-swimming-pool",
       "category": "Sports",
@@ -56663,7 +56663,7 @@
     },
     {
       "title": "Olive Branch",
-      "file_name": "olive-branch.png",
+      "file_name": "images/nature_outdoors/olive-branch.png",
       "added_on": "2025-07-05 08:03:15",
       "slug": "olive-branch",
       "category": "Nature & Outdoors",
@@ -60058,7 +60058,7 @@
     },
     {
       "title": "Omnichannel Dashboard",
-      "file_name": "omnichannel-dashboard.png",
+      "file_name": "images/interface_symbols/omnichannel-dashboard.png",
       "added_on": "2025-07-08 10:20:41",
       "slug": "omnichannel-dashboard",
       "category": "Interface & Symbols",
@@ -60764,7 +60764,7 @@
     },
     {
       "title": "Olm",
-      "file_name": "olm.png",
+      "file_name": "images/animals/olm.png",
       "added_on": "2025-07-08 17:15:55",
       "slug": "olm",
       "category": "Animals",
@@ -74411,7 +74411,7 @@
     },
     {
       "title": "Olive Oil",
-      "file_name": "olive-oil.png",
+      "file_name": "images/food_drink/olive-oil.png",
       "added_on": "2025-07-18 13:31:20",
       "slug": "olive-oil",
       "category": "Food & Drink",
@@ -79707,7 +79707,7 @@
     },
     {
       "title": "Olive Baboon",
-      "file_name": "olive-baboon.png",
+      "file_name": "images/animals/olive-baboon.png",
       "added_on": "2025-07-25 07:21:41",
       "slug": "olive-baboon",
       "category": "Animals",
@@ -80534,7 +80534,7 @@
     },
     {
       "title": "Olive Tree",
-      "file_name": "olive-tree.png",
+      "file_name": "images/nature_outdoors/olive-tree.png",
       "added_on": "2025-07-25 22:51:34",
       "slug": "olive-tree",
       "category": "Nature & Outdoors",
@@ -85361,7 +85361,7 @@
     },
     {
       "title": "On Air",
-      "file_name": "on-air.png",
+      "file_name": "images/interface_symbols/on-air.png",
       "added_on": "2025-08-21 11:38:56",
       "slug": "on-air",
       "category": "Interface & Symbols",
@@ -90058,7 +90058,7 @@
     },
     {
       "title": "Olmec Colossal Head",
-      "file_name": "olmec-colossal-head.png",
+      "file_name": "images/history_culture/olmec-colossal-head.png",
       "added_on": "2025-09-09 13:51:33",
       "slug": "olmec-colossal-head",
       "category": "History & Culture",
@@ -93316,7 +93316,7 @@
     },
     {
       "title": "Old Trafford Stadium",
-      "file_name": "old-trafford-stadium.png",
+      "file_name": "images/places_structures/old-trafford-stadium.png",
       "added_on": "2025-09-16 14:11:25",
       "slug": "old-trafford-stadium",
       "category": "Places & Structures",
@@ -98819,7 +98819,7 @@
     },
     {
       "title": "Old Water Wheelhouse",
-      "file_name": "old-water-wheelhouse.png",
+      "file_name": "images/places_structures/old-water-wheelhouse.png",
       "added_on": "2025-09-30 19:11:29",
       "slug": "old-water-wheelhouse",
       "category": "Places & Structures",
@@ -102527,7 +102527,7 @@
     },
     {
       "title": "Old World Swallowtail",
-      "file_name": "old-world-swallowtail.png",
+      "file_name": "images/animals/old-world-swallowtail.png",
       "added_on": "2025-10-08 23:11:41",
       "slug": "old-world-swallowtail",
       "category": "Animals",
@@ -103416,7 +103416,7 @@
     },
     {
       "title": "Old-School Pager",
-      "file_name": "old-school-pager.png",
+      "file_name": "images/technology_media/old-school-pager.png",
       "added_on": "2025-10-10 11:01:52",
       "slug": "old-school-pager",
       "category": "Technology & Media",
@@ -110979,7 +110979,7 @@
     },
     {
       "title": "Olympic Flag",
-      "file_name": "olympic-flag.png",
+      "file_name": "images/flags/olympic-flag.png",
       "added_on": "2025-10-30 20:01:53",
       "slug": "olympic-flag",
       "category": "Flags",
@@ -126266,7 +126266,7 @@
     },
     {
       "title": "Old Stone Aqueduct",
-      "file_name": "old-stone-aqueduct.png",
+      "file_name": "images/places_structures/old-stone-aqueduct.png",
       "added_on": "2026-02-11 17:21:07",
       "slug": "old-stone-aqueduct",
       "category": "Places & Structures",
