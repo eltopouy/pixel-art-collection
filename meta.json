@@ -1879,7 +1879,7 @@
     },
     {
       "title": "Home Brewing Kit",
-      "file_name": "home-brewing-kit.png",
+      "file_name": "images/hobbies/home-brewing-kit.png",
       "added_on": "2025-05-16 10:52:08",
       "slug": "home-brewing-kit",
       "category": "Hobbies",
@@ -10564,7 +10564,7 @@
     },
     {
       "title": "Home",
-      "file_name": "home.png",
+      "file_name": "images/places_structures/home.png",
       "added_on": "2025-05-23 18:41:17",
       "slug": "home",
       "category": "Places & Structures",
@@ -29037,7 +29037,7 @@
     },
     {
       "title": "Home",
-      "file_name": "home-4ocm5k.png",
+      "file_name": "images/places_structures/home-4ocm5k.png",
       "added_on": "2025-06-10 08:10:05",
       "slug": "home-4ocm5k",
       "category": "Places & Structures",
@@ -35709,7 +35709,7 @@
     },
     {
       "title": "Homebrewing",
-      "file_name": "homebrewing.png",
+      "file_name": "images/hobbies/homebrewing.png",
       "added_on": "2025-06-12 08:19:08",
       "slug": "homebrewing",
       "category": "Hobbies",
@@ -40334,7 +40334,7 @@
     },
     {
       "title": "Home roasting",
-      "file_name": "home-roasting.png",
+      "file_name": "images/hobbies/home-roasting.png",
       "added_on": "2025-06-13 18:43:23",
       "slug": "home-roasting",
       "category": "Hobbies",
@@ -43658,7 +43658,7 @@
     },
     {
       "title": "Honduras",
-      "file_name": "honduras-1.png",
+      "file_name": "images/countries/honduras-1.png",
       "added_on": "2025-06-14 13:18:47",
       "slug": "honduras-1",
       "category": "Countries",
@@ -44092,7 +44092,7 @@
     },
     {
       "title": "Hollywood Sign",
-      "file_name": "hollywood-sign.png",
+      "file_name": "images/places_structures/hollywood-sign.png",
       "added_on": "2025-06-14 13:22:51",
       "slug": "hollywood-sign",
       "category": "Places & Structures",
@@ -47241,7 +47241,7 @@
     },
     {
       "title": "Holstein Cow",
-      "file_name": "holstein-cow.png",
+      "file_name": "images/animals/holstein-cow.png",
       "added_on": "2025-06-18 13:29:55",
       "slug": "holstein-cow",
       "category": "Animals",
@@ -51656,7 +51656,7 @@
     },
     {
       "title": "Holodeck",
-      "file_name": "holodeck.png",
+      "file_name": "images/fantasy_imagination/holodeck.png",
       "added_on": "2025-06-23 21:27:14",
       "slug": "holodeck",
       "category": "Fantasy & Imagination",
@@ -52041,7 +52041,7 @@
     },
     {
       "title": "Home Appliances",
-      "file_name": "home-appliances.png",
+      "file_name": "images/everyday_life/home-appliances.png",
       "added_on": "2025-06-24 19:37:53",
       "slug": "home-appliances",
       "category": "Everyday Life",
@@ -54786,7 +54786,7 @@
     },
     {
       "title": "Homework",
-      "file_name": "homework.png",
+      "file_name": "images/everyday_life/homework.png",
       "added_on": "2025-06-28 08:43:24",
       "slug": "homework",
       "category": "Everyday Life",
@@ -71104,7 +71104,7 @@
     },
     {
       "title": "Holographic Jacket",
-      "file_name": "holographic-jacket.png",
+      "file_name": "images/fashion_style/holographic-jacket.png",
       "added_on": "2025-07-15 08:21:48",
       "slug": "holographic-jacket",
       "category": "Fashion & Style",
@@ -71624,7 +71624,7 @@
     },
     {
       "title": "Holographic Projection",
-      "file_name": "holographic-projection.png",
+      "file_name": "images/technology_media/holographic-projection.png",
       "added_on": "2025-07-16 08:41:11",
       "slug": "holographic-projection",
       "category": "Technology & Media",
@@ -83256,7 +83256,7 @@
     },
     {
       "title": "Home with Sold Sign",
-      "file_name": "home-with-sold-sign.png",
+      "file_name": "images/places_structures/home-with-sold-sign.png",
       "added_on": "2025-08-08 08:21:11",
       "slug": "home-with-sold-sign",
       "category": "Places & Structures",
@@ -86646,7 +86646,7 @@
     },
     {
       "title": "Holly",
-      "file_name": "holly.png",
+      "file_name": "images/nature_outdoors/holly.png",
       "added_on": "2025-08-29 13:10:22",
       "slug": "holly",
       "category": "Nature & Outdoors",
@@ -100997,7 +100997,7 @@
     },
     {
       "title": "Hologram Sticker",
-      "file_name": "hologram-sticker.png",
+      "file_name": "images/technology_media/hologram-sticker.png",
       "added_on": "2025-10-04 20:11:18",
       "slug": "hologram-sticker",
       "category": "Technology & Media",
@@ -102459,7 +102459,7 @@
     },
     {
       "title": "Hollow Log",
-      "file_name": "hollow-log.png",
+      "file_name": "images/nature_outdoors/hollow-log.png",
       "added_on": "2025-10-08 22:21:17",
       "slug": "hollow-log",
       "category": "Nature & Outdoors",
@@ -103723,7 +103723,7 @@
     },
     {
       "title": "Hommaru Palace",
-      "file_name": "hommaru-palace.png",
+      "file_name": "images/places_structures/hommaru-palace.png",
       "added_on": "2025-10-10 15:21:40",
       "slug": "hommaru-palace",
       "category": "Places & Structures",
@@ -111514,7 +111514,7 @@
     },
     {
       "title": "Honduran White Bat",
-      "file_name": "honduran-white-bat.png",
+      "file_name": "images/animals/honduran-white-bat.png",
       "added_on": "2025-11-01 15:21:56",
       "slug": "honduran-white-bat",
       "category": "Animals",
@@ -111907,7 +111907,7 @@
     },
     {
       "title": "Home Economics",
-      "file_name": "home-economics.png",
+      "file_name": "images/everyday_life/home-economics.png",
       "added_on": "2025-11-02 07:54:04",
       "slug": "home-economics",
       "category": "Everyday Life",
@@ -130430,7 +130430,7 @@
     },
     {
       "title": "Home Run",
-      "file_name": "home-run.png",
+      "file_name": "images/sports/home-run.png",
       "added_on": "2026-03-18 03:41:01",
       "slug": "home-run",
       "category": "Sports",
