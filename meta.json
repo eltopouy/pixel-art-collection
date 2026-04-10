@@ -9808,7 +9808,7 @@
     },
     {
       "title": "Gym",
-      "file_name": "gym.png",
+      "file_name": "images/places_structures/gym.png",
       "added_on": "2025-05-23 08:31:01",
       "slug": "gym",
       "category": "Places & Structures",
@@ -23636,7 +23636,7 @@
     },
     {
       "title": "Gutenberg Bible",
-      "file_name": "gutenberg-bible.png",
+      "file_name": "images/history_culture/gutenberg-bible.png",
       "added_on": "2025-06-04 08:36:58",
       "slug": "gutenberg-bible",
       "category": "History & Culture",
@@ -30070,7 +30070,7 @@
     },
     {
       "title": "Gutenberg Press",
-      "file_name": "gutenberg-press.png",
+      "file_name": "images/history_culture/gutenberg-press.png",
       "added_on": "2025-06-10 16:49:17",
       "slug": "gutenberg-press",
       "category": "History & Culture",
@@ -31643,7 +31643,7 @@
     },
     {
       "title": "Gymnastics Mat",
-      "file_name": "gymnastics-mat.png",
+      "file_name": "images/sports/gymnastics-mat.png",
       "added_on": "2025-06-11 03:42:51",
       "slug": "gymnastics-mat",
       "category": "Sports",
@@ -32286,7 +32286,7 @@
     },
     {
       "title": "Gumbo",
-      "file_name": "gumbo.png",
+      "file_name": "images/food_drink/gumbo.png",
       "added_on": "2025-06-11 09:01:42",
       "slug": "gumbo",
       "category": "Food & Drink",
@@ -37440,7 +37440,7 @@
     },
     {
       "title": "Gyeongbokgung Palace",
-      "file_name": "gyeongbokgung-palace.png",
+      "file_name": "images/places_structures/gyeongbokgung-palace.png",
       "added_on": "2025-06-12 23:02:23",
       "slug": "gyeongbokgung-palace",
       "category": "Places & Structures",
@@ -40939,7 +40939,7 @@
     },
     {
       "title": "Guppy",
-      "file_name": "guppy.png",
+      "file_name": "images/animals/guppy.png",
       "added_on": "2025-06-13 22:27:58",
       "slug": "guppy",
       "category": "Animals",
@@ -45626,7 +45626,7 @@
     },
     {
       "title": "Gummy Bear",
-      "file_name": "gummy-bear.png",
+      "file_name": "images/food_drink/gummy-bear.png",
       "added_on": "2025-06-15 19:19:02",
       "slug": "gummy-bear",
       "category": "Food & Drink",
@@ -47647,7 +47647,7 @@
     },
     {
       "title": "Gummy Worm",
-      "file_name": "gummy-worm.png",
+      "file_name": "images/food_drink/gummy-worm.png",
       "added_on": "2025-06-19 15:37:23",
       "slug": "gummy-worm",
       "category": "Food & Drink",
@@ -51461,7 +51461,7 @@
     },
     {
       "title": "Gustave Eiffel",
-      "file_name": "gustave-eiffel.png",
+      "file_name": "images/history_culture/gustave-eiffel.png",
       "added_on": "2025-06-23 08:13:36",
       "slug": "gustave-eiffel",
       "category": "History & Culture",
@@ -53466,7 +53466,7 @@
     },
     {
       "title": "Gym Weight",
-      "file_name": "gym-weight.png",
+      "file_name": "images/health_wellness/gym-weight.png",
       "added_on": "2025-06-26 15:37:30",
       "slug": "gym-weight",
       "category": "Health & Wellness",
@@ -54506,7 +54506,7 @@
     },
     {
       "title": "Gymnasium",
-      "file_name": "gymnasium.png",
+      "file_name": "images/places_structures/gymnasium.png",
       "added_on": "2025-06-27 19:31:15",
       "slug": "gymnasium",
       "category": "Places & Structures",
@@ -59078,7 +59078,7 @@
     },
     {
       "title": "Gymnastics Rings",
-      "file_name": "gymnastics-rings.png",
+      "file_name": "images/sports/gymnastics-rings.png",
       "added_on": "2025-07-06 23:06:07",
       "slug": "gymnastics-rings",
       "category": "Sports",
@@ -65597,7 +65597,7 @@
     },
     {
       "title": "Gumball Machine",
-      "file_name": "gumball-machine.png",
+      "file_name": "images/hobbies/gumball-machine.png",
       "added_on": "2025-07-10 20:41:15",
       "slug": "gumball-machine",
       "category": "Hobbies",
@@ -72820,7 +72820,7 @@
     },
     {
       "title": "Gunpowder",
-      "file_name": "gunpowder.png",
+      "file_name": "images/history_culture/gunpowder.png",
       "added_on": "2025-07-16 22:10:31",
       "slug": "gunpowder",
       "category": "History & Culture",
@@ -74987,7 +74987,7 @@
     },
     {
       "title": "Gut",
-      "file_name": "gut.png",
+      "file_name": "images/health_wellness/gut.png",
       "added_on": "2025-07-18 22:51:07",
       "slug": "gut",
       "category": "Health & Wellness",
@@ -90292,7 +90292,7 @@
     },
     {
       "title": "Gumdrop",
-      "file_name": "gumdrop.png",
+      "file_name": "images/food_drink/gumdrop.png",
       "added_on": "2025-09-09 17:21:23",
       "slug": "gumdrop",
       "category": "Food & Drink",
@@ -96961,7 +96961,7 @@
     },
     {
       "title": "Gumball Dispenser",
-      "file_name": "gumball-dispenser.png",
+      "file_name": "images/hobbies/gumball-dispenser.png",
       "added_on": "2025-09-24 10:11:31",
       "slug": "gumball-dispenser",
       "category": "Hobbies",
@@ -109269,7 +109269,7 @@
     },
     {
       "title": "Gymnastics Ribbon",
-      "file_name": "gymnastics-ribbon.png",
+      "file_name": "images/sports/gymnastics-ribbon.png",
       "added_on": "2025-10-27 16:31:10",
       "slug": "gymnastics-ribbon",
       "category": "Sports",
@@ -128690,7 +128690,7 @@
     },
     {
       "title": "Gum",
-      "file_name": "gum.png",
+      "file_name": "images/food_drink/gum.png",
       "added_on": "2026-03-09 06:50:53",
       "slug": "gum",
       "category": "Food & Drink",
@@ -130352,7 +130352,7 @@
     },
     {
       "title": "Gun",
-      "file_name": "gun.png",
+      "file_name": "images/everyday_life/gun.png",
       "added_on": "2026-03-18 02:40:53",
       "slug": "gun",
       "category": "Everyday Life",
