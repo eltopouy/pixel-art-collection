@@ -4830,7 +4830,7 @@
     },
     {
       "title": "Mountain",
-      "file_name": "mountain.png",
+      "file_name": "images/nature_outdoors/mountain.png",
       "added_on": "2025-05-17 15:30:38",
       "slug": "mountain",
       "category": "Nature & Outdoors",
@@ -8638,7 +8638,7 @@
     },
     {
       "title": "Mountain Lion",
-      "file_name": "mountain-lion.png",
+      "file_name": "images/animals/mountain-lion.png",
       "added_on": "2025-05-22 17:01:03",
       "slug": "mountain-lion",
       "category": "Animals",
@@ -10525,7 +10525,7 @@
     },
     {
       "title": "Mountainbike",
-      "file_name": "mountainbike.png",
+      "file_name": "images/vehicles_transport/mountainbike.png",
       "added_on": "2025-05-23 18:11:20",
       "slug": "mountainbike",
       "category": "Vehicles & Transport",
@@ -30083,7 +30083,7 @@
     },
     {
       "title": "Mouthguard",
-      "file_name": "mouthguard.png",
+      "file_name": "images/sports/mouthguard.png",
       "added_on": "2025-06-10 16:55:17",
       "slug": "mouthguard",
       "category": "Sports",
@@ -31461,7 +31461,7 @@
     },
     {
       "title": "Mountain Hut",
-      "file_name": "mountain-hut.png",
+      "file_name": "images/places_structures/mountain-hut.png",
       "added_on": "2025-06-11 01:42:58",
       "slug": "mountain-hut",
       "category": "Places & Structures",
@@ -36649,7 +36649,7 @@
     },
     {
       "title": "Mouse Cursor",
-      "file_name": "mouse-cursor.png",
+      "file_name": "images/interface_symbols/mouse-cursor.png",
       "added_on": "2025-06-12 17:51:52",
       "slug": "mouse-cursor",
       "category": "Interface & Symbols",
@@ -38954,7 +38954,7 @@
     },
     {
       "title": "Mountain cabin",
-      "file_name": "mountain-cabin.png",
+      "file_name": "images/places_structures/mountain-cabin.png",
       "added_on": "2025-06-13 06:13:21",
       "slug": "mountain-cabin",
       "category": "Places & Structures",
@@ -40739,7 +40739,7 @@
     },
     {
       "title": "Mouse Pointer",
-      "file_name": "mouse-pointer.png",
+      "file_name": "images/interface_symbols/mouse-pointer.png",
       "added_on": "2025-06-13 22:25:07",
       "slug": "mouse-pointer",
       "category": "Interface & Symbols",
@@ -45323,7 +45323,7 @@
     },
     {
       "title": "Mountain Bike",
-      "file_name": "mountain-bike.png",
+      "file_name": "images/vehicles_transport/mountain-bike.png",
       "added_on": "2025-06-15 00:25:11",
       "slug": "mountain-bike",
       "category": "Vehicles & Transport",
@@ -55748,7 +55748,7 @@
     },
     {
       "title": "Moustache",
-      "file_name": "moustache.png",
+      "file_name": "images/fashion_style/moustache.png",
       "added_on": "2025-06-30 10:16:48",
       "slug": "moustache",
       "category": "Fashion & Style",
@@ -58662,7 +58662,7 @@
     },
     {
       "title": "Mountain Peak",
-      "file_name": "mountain-peak.png",
+      "file_name": "images/nature_outdoors/mountain-peak.png",
       "added_on": "2025-07-06 14:11:12",
       "slug": "mountain-peak",
       "category": "Nature & Outdoors",
@@ -66604,7 +66604,7 @@
     },
     {
       "title": "Mouthwash",
-      "file_name": "mouthwash.png",
+      "file_name": "images/health_wellness/mouthwash.png",
       "added_on": "2025-07-11 19:41:25",
       "slug": "mouthwash",
       "category": "Health & Wellness",
@@ -78318,7 +78318,7 @@
     },
     {
       "title": "Mountain Goat",
-      "file_name": "mountain-goat.png",
+      "file_name": "images/animals/mountain-goat.png",
       "added_on": "2025-07-24 15:11:39",
       "slug": "mountain-goat",
       "category": "Animals",
@@ -84673,7 +84673,7 @@
     },
     {
       "title": "Mouse Trap",
-      "file_name": "mouse-trap.png",
+      "file_name": "images/everyday_life/mouse-trap.png",
       "added_on": "2025-08-19 16:36:07",
       "slug": "mouse-trap",
       "category": "Everyday Life",
@@ -90279,7 +90279,7 @@
     },
     {
       "title": "Mouse Pad",
-      "file_name": "mouse-pad.png",
+      "file_name": "images/technology_media/mouse-pad.png",
       "added_on": "2025-09-09 17:11:27",
       "slug": "mouse-pad",
       "category": "Technology & Media",
@@ -103247,7 +103247,7 @@
     },
     {
       "title": "Mountain Rescue Sled",
-      "file_name": "mountain-rescue-sled.png",
+      "file_name": "images/vehicles_transport/mountain-rescue-sled.png",
       "added_on": "2025-10-09 21:01:41",
       "slug": "mountain-rescue-sled",
       "category": "Vehicles & Transport",
@@ -103429,7 +103429,7 @@
     },
     {
       "title": "Mountain-side Elevator",
-      "file_name": "mountain-side-elevator.png",
+      "file_name": "images/places_structures/mountain-side-elevator.png",
       "added_on": "2025-10-10 11:11:47",
       "slug": "mountain-side-elevator",
       "category": "Places & Structures",
@@ -106007,7 +106007,7 @@
     },
     {
       "title": "Moustache Glasses",
-      "file_name": "moustache-glasses.png",
+      "file_name": "images/entertainment_leisure/moustache-glasses.png",
       "added_on": "2025-10-20 16:07:39",
       "slug": "moustache-glasses",
       "category": "Entertainment & Leisure",
@@ -118120,7 +118120,7 @@
     },
     {
       "title": "Mountain Suspension Bridge",
-      "file_name": "mountain-suspension-bridge.png",
+      "file_name": "images/places_structures/mountain-suspension-bridge.png",
       "added_on": "2025-11-26 14:51:09",
       "slug": "mountain-suspension-bridge",
       "category": "Places & Structures",
@@ -123485,7 +123485,7 @@
     },
     {
       "title": "Mouth Tape",
-      "file_name": "mouth-tape.png",
+      "file_name": "images/health_wellness/mouth-tape.png",
       "added_on": "2026-02-01 15:51:29",
       "slug": "mouth-tape",
       "category": "Health & Wellness",
