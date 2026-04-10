@@ -1320,7 +1320,7 @@
     },
     {
       "title": "Mailbox",
-      "file_name": "mailbox.png",
+      "file_name": "images/everyday_life/mailbox.png",
       "added_on": "2025-05-16 07:01:05",
       "slug": "mailbox",
       "category": "Everyday Life",
@@ -9392,7 +9392,7 @@
     },
     {
       "title": "Magnifying glass",
-      "file_name": "magnifying-glass.png",
+      "file_name": "images/everyday_life/magnifying-glass.png",
       "added_on": "2025-05-23 03:00:44",
       "slug": "magnifying-glass",
       "category": "Everyday Life",
@@ -15079,7 +15079,7 @@
     },
     {
       "title": "Video tape recorder",
-      "file_name": "magnetoscope.png",
+      "file_name": "images/technology_media/magnetoscope.png",
       "added_on": "2025-05-27 09:01:11",
       "slug": "magnetoscope",
       "category": "Technology & Media",
@@ -17239,7 +17239,7 @@
     },
     {
       "title": "Mail",
-      "file_name": "mail.png",
+      "file_name": "images/interface_symbols/mail.png",
       "added_on": "2025-05-31 11:01:24",
       "slug": "mail",
       "category": "Interface & Symbols",
@@ -18801,7 +18801,7 @@
     },
     {
       "title": "Mahjong Board",
-      "file_name": "mahjong-board.png",
+      "file_name": "images/entertainment_leisure/mahjong-board.png",
       "added_on": "2025-06-01 08:29:03",
       "slug": "mahjong-board",
       "category": "Entertainment & Leisure",
@@ -38876,7 +38876,7 @@
     },
     {
       "title": "Maintenance cart",
-      "file_name": "maintenance-cart.png",
+      "file_name": "images/work_industry/maintenance-cart.png",
       "added_on": "2025-06-13 05:37:26",
       "slug": "maintenance-cart",
       "category": "Work & Industry",
@@ -60357,7 +60357,7 @@
     },
     {
       "title": "Magnetic Knife Strip",
-      "file_name": "magnetic-knife-strip.png",
+      "file_name": "images/everyday_life/magnetic-knife-strip.png",
       "added_on": "2025-07-08 14:16:32",
       "slug": "magnetic-knife-strip",
       "category": "Everyday Life",
@@ -60777,7 +60777,7 @@
     },
     {
       "title": "Magnificent Frigatebird",
-      "file_name": "magnificent-frigatebird.png",
+      "file_name": "images/animals/magnificent-frigatebird.png",
       "added_on": "2025-07-08 17:21:04",
       "slug": "magnificent-frigatebird",
       "category": "Animals",
@@ -62257,7 +62257,7 @@
     },
     {
       "title": "Maintenance Hatch",
-      "file_name": "maintenance-hatch.png",
+      "file_name": "images/work_industry/maintenance-hatch.png",
       "added_on": "2025-07-09 04:10:59",
       "slug": "maintenance-hatch",
       "category": "Work & Industry",
@@ -68623,7 +68623,7 @@
     },
     {
       "title": "Magnetic Pick-up Tool",
-      "file_name": "magnetic-pick-up-tool.png",
+      "file_name": "images/work_industry/magnetic-pick-up-tool.png",
       "added_on": "2025-07-13 10:21:42",
       "slug": "magnetic-pick-up-tool",
       "category": "Work & Industry",
@@ -69132,7 +69132,7 @@
     },
     {
       "title": "Magnetic Putty",
-      "file_name": "magnetic-putty.png",
+      "file_name": "images/hobbies/magnetic-putty.png",
       "added_on": "2025-07-13 16:51:30",
       "slug": "magnetic-putty",
       "category": "Hobbies",
@@ -80872,7 +80872,7 @@
     },
     {
       "title": "Mailman",
-      "file_name": "mailman.png",
+      "file_name": "images/professions/mailman.png",
       "added_on": "2025-07-28 17:43:51",
       "slug": "mailman",
       "category": "Professions",
@@ -81949,7 +81949,7 @@
     },
     {
       "title": "Magpie",
-      "file_name": "magpie.png",
+      "file_name": "images/animals/magpie.png",
       "added_on": "2025-08-02 17:31:06",
       "slug": "magpie",
       "category": "Animals",
@@ -84551,7 +84551,7 @@
     },
     {
       "title": "Maine Coon",
-      "file_name": "maine-coon.png",
+      "file_name": "images/animals/maine-coon.png",
       "added_on": "2025-08-19 16:35:17",
       "slug": "maine-coon",
       "category": "Animals",
@@ -88519,7 +88519,7 @@
     },
     {
       "title": "Mai Tai",
-      "file_name": "mai-tai.png",
+      "file_name": "images/food_drink/mai-tai.png",
       "added_on": "2025-09-05 11:41:09",
       "slug": "mai-tai",
       "category": "Food & Drink",
@@ -89625,7 +89625,7 @@
     },
     {
       "title": "Mahatma Gandhi",
-      "file_name": "mahatma-gandhi.png",
+      "file_name": "images/historical_figures/mahatma-gandhi.png",
       "added_on": "2025-09-08 14:21:44",
       "slug": "mahatma-gandhi",
       "category": "Historical Figures",
@@ -105758,7 +105758,7 @@
     },
     {
       "title": "Maintain",
-      "file_name": "maintain.png",
+      "file_name": "images/everyday_life/maintain.png",
       "added_on": "2025-10-16 19:11:30",
       "slug": "maintain",
       "category": "Everyday Life",
@@ -113985,7 +113985,7 @@
     },
     {
       "title": "Mahjong Tile",
-      "file_name": "mahjong-tile.png",
+      "file_name": "images/entertainment_leisure/mahjong-tile.png",
       "added_on": "2025-11-08 19:31:59",
       "slug": "mahjong-tile",
       "category": "Entertainment & Leisure",
@@ -114063,7 +114063,7 @@
     },
     {
       "title": "Magnetic Dart",
-      "file_name": "magnetic-dart.png",
+      "file_name": "images/sports/magnetic-dart.png",
       "added_on": "2025-11-09 14:01:57",
       "slug": "magnetic-dart",
       "category": "Sports",
@@ -116431,7 +116431,7 @@
     },
     {
       "title": "Magnetic Sculpture",
-      "file_name": "magnetic-sculpture.png",
+      "file_name": "images/hobbies/magnetic-sculpture.png",
       "added_on": "2025-11-18 11:31:45",
       "slug": "magnetic-sculpture",
       "category": "Hobbies",
@@ -130768,7 +130768,7 @@
     },
     {
       "title": "Mail slot",
-      "file_name": "mail-slot.png",
+      "file_name": "images/everyday_life/mail-slot.png",
       "added_on": "2026-03-18 15:11:15",
       "slug": "mail-slot",
       "category": "Everyday Life",
