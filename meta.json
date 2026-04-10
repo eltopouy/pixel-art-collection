@@ -17044,7 +17044,7 @@
     },
     {
       "title": "M1 Abrams Tank",
-      "file_name": "m1-abrams-tank.png",
+      "file_name": "images/vehicles_transport/m1-abrams-tank.png",
       "added_on": "2025-05-31 10:59:50",
       "slug": "m1-abrams-tank",
       "category": "Vehicles & Transport",
@@ -26417,7 +26417,7 @@
     },
     {
       "title": "Luzzu",
-      "file_name": "luzzu.png",
+      "file_name": "images/vehicles_transport/luzzu.png",
       "added_on": "2025-06-07 12:50:43",
       "slug": "luzzu",
       "category": "Vehicles & Transport",
@@ -32076,7 +32076,7 @@
     },
     {
       "title": "Luxury Yacht",
-      "file_name": "luxury-yacht.png",
+      "file_name": "images/vehicles_transport/luxury-yacht.png",
       "added_on": "2025-06-11 07:06:54",
       "slug": "luxury-yacht",
       "category": "Vehicles & Transport",
@@ -43896,7 +43896,7 @@
     },
     {
       "title": "Macaron",
-      "file_name": "macaron.png",
+      "file_name": "images/food_drink/macaron.png",
       "added_on": "2025-06-14 13:21:06",
       "slug": "macaron",
       "category": "Food & Drink",
@@ -47673,7 +47673,7 @@
     },
     {
       "title": "Lynx",
-      "file_name": "lynx.png",
+      "file_name": "images/animals/lynx.png",
       "added_on": "2025-06-19 15:49:24",
       "slug": "lynx",
       "category": "Animals",
@@ -48105,7 +48105,7 @@
     },
     {
       "title": "Lying Leg Curl Machine",
-      "file_name": "lying-leg-curl-machine.png",
+      "file_name": "images/health_wellness/lying-leg-curl-machine.png",
       "added_on": "2025-06-20 13:30:53",
       "slug": "lying-leg-curl-machine",
       "category": "Health & Wellness",
@@ -53809,7 +53809,7 @@
     },
     {
       "title": "Mac & Cheese Waffle Melt",
-      "file_name": "mac-cheese-waffle-melt.png",
+      "file_name": "images/food_drink/mac-cheese-waffle-melt.png",
       "added_on": "2025-06-27 08:38:38",
       "slug": "mac-cheese-waffle-melt",
       "category": "Food & Drink",
@@ -62887,7 +62887,7 @@
     },
     {
       "title": "Lychee",
-      "file_name": "lychee.png",
+      "file_name": "images/food_drink/lychee.png",
       "added_on": "2025-07-09 09:21:05",
       "slug": "lychee",
       "category": "Food & Drink",
@@ -67088,7 +67088,7 @@
     },
     {
       "title": "Lymph Node",
-      "file_name": "lymph-node.png",
+      "file_name": "images/health_wellness/lymph-node.png",
       "added_on": "2025-07-12 02:41:33",
       "slug": "lymph-node",
       "category": "Health & Wellness",
@@ -73566,7 +73566,7 @@
     },
     {
       "title": "Luwombo",
-      "file_name": "luwombo.png",
+      "file_name": "images/food_drink/luwombo.png",
       "added_on": "2025-07-17 18:49:11",
       "slug": "luwombo",
       "category": "Food & Drink",
@@ -78026,7 +78026,7 @@
     },
     {
       "title": "Lycaon",
-      "file_name": "lycaon.png",
+      "file_name": "images/animals/lycaon.png",
       "added_on": "2025-07-24 11:31:39",
       "slug": "lycaon",
       "category": "Animals",
@@ -94251,7 +94251,7 @@
     },
     {
       "title": "Lusitano Horse",
-      "file_name": "lusitano-horse.png",
+      "file_name": "images/animals/lusitano-horse.png",
       "added_on": "2025-09-18 13:01:05",
       "slug": "lusitano-horse",
       "category": "Animals",
@@ -96270,7 +96270,7 @@
     },
     {
       "title": "Luther Burger",
-      "file_name": "luther-burger.png",
+      "file_name": "images/food_drink/luther-burger.png",
       "added_on": "2025-09-22 16:41:27",
       "slug": "luther-burger",
       "category": "Food & Drink",
@@ -104446,7 +104446,7 @@
     },
     {
       "title": "Lymphatic Roller",
-      "file_name": "lymphatic-roller.png",
+      "file_name": "images/health_wellness/lymphatic-roller.png",
       "added_on": "2025-10-12 11:41:40",
       "slug": "lymphatic-roller",
       "category": "Health & Wellness",
@@ -109529,7 +109529,7 @@
     },
     {
       "title": "Lyrebird",
-      "file_name": "lyrebird.png",
+      "file_name": "images/animals/lyrebird.png",
       "added_on": "2025-10-28 10:51:18",
       "slug": "lyrebird",
       "category": "Animals",
@@ -110195,7 +110195,7 @@
     },
     {
       "title": "Mac and Cheese",
-      "file_name": "mac-and-cheese.png",
+      "file_name": "images/food_drink/mac-and-cheese.png",
       "added_on": "2025-10-29 09:01:58",
       "slug": "mac-and-cheese",
       "category": "Food & Drink",
@@ -110797,7 +110797,7 @@
     },
     {
       "title": "Lychee Jelly",
-      "file_name": "lychee-jelly.png",
+      "file_name": "images/food_drink/lychee-jelly.png",
       "added_on": "2025-10-30 17:31:55",
       "slug": "lychee-jelly",
       "category": "Food & Drink",
@@ -111123,7 +111123,7 @@
     },
     {
       "title": "M4A1",
-      "file_name": "m4a1.png",
+      "file_name": "images/technology_media/m4a1.png",
       "added_on": "2025-10-30 22:11:51",
       "slug": "m4a1",
       "category": "Technology & Media",
@@ -114572,7 +114572,7 @@
     },
     {
       "title": "Luxury Sleeper Train",
-      "file_name": "luxury-sleeper-train.png",
+      "file_name": "images/vehicles_transport/luxury-sleeper-train.png",
       "added_on": "2025-11-10 14:52:09",
       "slug": "luxury-sleeper-train",
       "category": "Vehicles & Transport",
@@ -121362,7 +121362,7 @@
     },
     {
       "title": "Lyre",
-      "file_name": "lyre.png",
+      "file_name": "images/history_culture/lyre.png",
       "added_on": "2026-01-23 13:41:28",
       "slug": "lyre",
       "category": "History & Culture",
@@ -131095,7 +131095,7 @@
     },
     {
       "title": "Lymphocyte",
-      "file_name": "lymphocyte.png",
+      "file_name": "images/health_wellness/lymphocyte.png",
       "added_on": "2026-03-19 02:41:13",
       "slug": "lymphocyte",
       "category": "Health & Wellness",
