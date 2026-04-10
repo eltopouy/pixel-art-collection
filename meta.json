@@ -6623,7 +6623,7 @@
     },
     {
       "title": "Reusable Shopping Bag",
-      "file_name": "reusable-shopping-bag.png",
+      "file_name": "images/everyday_life/reusable-shopping-bag.png",
       "added_on": "2025-05-18 23:11:26",
       "slug": "reusable-shopping-bag",
       "category": "Everyday Life",
@@ -51869,7 +51869,7 @@
     },
     {
       "title": "Retro Touring Caravan",
-      "file_name": "retro-touring-caravan.png",
+      "file_name": "images/vehicles_transport/retro-touring-caravan.png",
       "added_on": "2025-06-24 09:48:51",
       "slug": "retro-touring-caravan",
       "category": "Vehicles & Transport",
@@ -64226,7 +64226,7 @@
     },
     {
       "title": "Reusable Ice Pack",
-      "file_name": "reusable-ice-pack.png",
+      "file_name": "images/everyday_life/reusable-ice-pack.png",
       "added_on": "2025-07-09 19:01:11",
       "slug": "reusable-ice-pack",
       "category": "Everyday Life",
@@ -65290,7 +65290,7 @@
     },
     {
       "title": "Retro Lunchbox",
-      "file_name": "retro-lunchbox.png",
+      "file_name": "images/entertainment_leisure/retro-lunchbox.png",
       "added_on": "2025-07-10 18:11:02",
       "slug": "retro-lunchbox",
       "category": "Entertainment & Leisure",
@@ -67062,7 +67062,7 @@
     },
     {
       "title": "Retro Web Browser Interface",
-      "file_name": "retro-web-browser-interface.png",
+      "file_name": "images/technology_media/retro-web-browser-interface.png",
       "added_on": "2025-07-12 02:21:35",
       "slug": "retro-web-browser-interface",
       "category": "Technology & Media",
@@ -67682,7 +67682,7 @@
     },
     {
       "title": "Retro Pager",
-      "file_name": "retro-pager.png",
+      "file_name": "images/technology_media/retro-pager.png",
       "added_on": "2025-07-12 12:21:33",
       "slug": "retro-pager",
       "category": "Technology & Media",
@@ -70987,7 +70987,7 @@
     },
     {
       "title": "Retro Virtual Pet",
-      "file_name": "retro-virtual-pet.png",
+      "file_name": "images/technology_media/retro-virtual-pet.png",
       "added_on": "2025-07-15 02:21:37",
       "slug": "retro-virtual-pet",
       "category": "Technology & Media",
@@ -85491,7 +85491,7 @@
     },
     {
       "title": "Return",
-      "file_name": "return.png",
+      "file_name": "images/interface_symbols/return.png",
       "added_on": "2025-08-24 15:41:00",
       "slug": "return",
       "category": "Interface & Symbols",
@@ -88902,7 +88902,7 @@
     },
     {
       "title": "Retro Joystick",
-      "file_name": "retro-joystick.png",
+      "file_name": "images/hobbies/retro-joystick.png",
       "added_on": "2025-09-06 15:51:03",
       "slug": "retro-joystick",
       "category": "Hobbies",
@@ -94936,7 +94936,7 @@
     },
     {
       "title": "Retro TV Game Box",
-      "file_name": "retro-tv-game-box.png",
+      "file_name": "images/technology_media/retro-tv-game-box.png",
       "added_on": "2025-09-19 22:31:34",
       "slug": "retro-tv-game-box",
       "category": "Technology & Media",
@@ -95376,7 +95376,7 @@
     },
     {
       "title": "Neon Sign",
-      "file_name": "retro-neon-sign.png",
+      "file_name": "images/entertainment_leisure/retro-neon-sign.png",
       "added_on": "2025-09-21 10:01:27",
       "slug": "retro-neon-sign",
       "category": "Entertainment & Leisure",
@@ -102829,7 +102829,7 @@
     },
     {
       "title": "Retro Flying Saucer",
-      "file_name": "retro-flying-saucer.png",
+      "file_name": "images/vehicles_transport/retro-flying-saucer.png",
       "added_on": "2025-10-09 11:21:48",
       "slug": "retro-flying-saucer",
       "category": "Vehicles & Transport",
@@ -113790,7 +113790,7 @@
     },
     {
       "title": "Retro Tube Amplifier",
-      "file_name": "retro-tube-amplifier.png",
+      "file_name": "images/technology_media/retro-tube-amplifier.png",
       "added_on": "2025-11-08 16:21:57",
       "slug": "retro-tube-amplifier",
       "category": "Technology & Media",
@@ -116114,7 +116114,7 @@
     },
     {
       "title": "Retro Microphone",
-      "file_name": "retro-microphone.png",
+      "file_name": "images/entertainment_leisure/retro-microphone.png",
       "added_on": "2025-11-16 10:41:54",
       "slug": "retro-microphone",
       "category": "Entertainment & Leisure",
@@ -116166,7 +116166,7 @@
     },
     {
       "title": "Retro Handheld Game",
-      "file_name": "retro-handheld-game.png",
+      "file_name": "images/entertainment_leisure/retro-handheld-game.png",
       "added_on": "2025-11-17 13:31:45",
       "slug": "retro-handheld-game",
       "category": "Entertainment & Leisure",
@@ -117507,7 +117507,7 @@
     },
     {
       "title": "Reusable Coffee Cup",
-      "file_name": "reusable-coffee-cup.png",
+      "file_name": "images/everyday_life/reusable-coffee-cup.png",
       "added_on": "2025-11-24 16:11:35",
       "slug": "reusable-coffee-cup",
       "category": "Everyday Life",
@@ -121518,7 +121518,7 @@
     },
     {
       "title": "Reusable Grocery Bag",
-      "file_name": "reusable-grocery-bag.png",
+      "file_name": "images/everyday_life/reusable-grocery-bag.png",
       "added_on": "2026-01-23 16:31:09",
       "slug": "reusable-grocery-bag",
       "category": "Everyday Life",
@@ -124992,7 +124992,7 @@
     },
     {
       "title": "Reusable Shopping Tote",
-      "file_name": "reusable-shopping-tote.png",
+      "file_name": "images/everyday_life/reusable-shopping-tote.png",
       "added_on": "2026-02-10 22:21:07",
       "slug": "reusable-shopping-tote",
       "category": "Everyday Life",
@@ -125203,7 +125203,7 @@
     },
     {
       "title": "Retro Pinball Backglass",
-      "file_name": "retro-pinball-backglass.png",
+      "file_name": "images/entertainment_leisure/retro-pinball-backglass.png",
       "added_on": "2026-02-11 01:01:14",
       "slug": "retro-pinball-backglass",
       "category": "Entertainment & Leisure",
@@ -125678,7 +125678,7 @@
     },
     {
       "title": "Retro Radio Alarm Clock",
-      "file_name": "retro-radio-alarm-clock.png",
+      "file_name": "images/technology_media/retro-radio-alarm-clock.png",
       "added_on": "2026-02-11 09:31:12",
       "slug": "retro-radio-alarm-clock",
       "category": "Technology & Media",
