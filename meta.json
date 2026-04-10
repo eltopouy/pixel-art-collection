@@ -9522,7 +9522,7 @@
     },
     {
       "title": "Prosthetic",
-      "file_name": "prosthetic.png",
+      "file_name": "images/everyday_life/prosthetic.png",
       "added_on": "2025-05-23 04:40:52",
       "slug": "prosthetic",
       "category": "Everyday Life",
@@ -10655,7 +10655,7 @@
     },
     {
       "title": "Profile",
-      "file_name": "profile.png",
+      "file_name": "images/interface_symbols/profile.png",
       "added_on": "2025-05-23 20:01:18",
       "slug": "profile",
       "category": "Interface & Symbols",
@@ -10785,7 +10785,7 @@
     },
     {
       "title": "Profit",
-      "file_name": "profit.png",
+      "file_name": "images/work_industry/profit.png",
       "added_on": "2025-05-23 21:41:19",
       "slug": "profit",
       "category": "Work & Industry",
@@ -18203,7 +18203,7 @@
     },
     {
       "title": "Profile Icon",
-      "file_name": "profile-icon.png",
+      "file_name": "images/interface_symbols/profile-icon.png",
       "added_on": "2025-06-01 08:16:20",
       "slug": "profile-icon",
       "category": "Interface & Symbols",
@@ -21134,7 +21134,7 @@
     },
     {
       "title": "Profile Button",
-      "file_name": "profile-button.png",
+      "file_name": "images/interface_symbols/profile-button.png",
       "added_on": "2025-06-02 13:56:32",
       "slug": "profile-button",
       "category": "Interface & Symbols",
@@ -26963,7 +26963,7 @@
     },
     {
       "title": "Proofing Basket",
-      "file_name": "proofing-basket.png",
+      "file_name": "images/food_drink/proofing-basket.png",
       "added_on": "2025-06-07 15:20:35",
       "slug": "proofing-basket",
       "category": "Food & Drink",
@@ -27694,7 +27694,7 @@
     },
     {
       "title": "Programmer",
-      "file_name": "programmer.png",
+      "file_name": "images/professions/programmer.png",
       "added_on": "2025-06-08 09:31:32",
       "slug": "programmer",
       "category": "Professions",
@@ -34752,7 +34752,7 @@
     },
     {
       "title": "Product Manager",
-      "file_name": "product-manager.png",
+      "file_name": "images/professions/product-manager.png",
       "added_on": "2025-06-12 00:19:07",
       "slug": "product-manager",
       "category": "Professions",
@@ -54744,7 +54744,7 @@
     },
     {
       "title": "Promotional Booth Tent",
-      "file_name": "promotional-booth-tent.png",
+      "file_name": "images/events/promotional-booth-tent.png",
       "added_on": "2025-06-28 08:35:55",
       "slug": "promotional-booth-tent",
       "category": "Events",
@@ -72521,7 +72521,7 @@
     },
     {
       "title": "Propeller Hat",
-      "file_name": "propeller-hat.png",
+      "file_name": "images/fashion_style/propeller-hat.png",
       "added_on": "2025-07-16 18:31:51",
       "slug": "propeller-hat",
       "category": "Fashion & Style",
@@ -76164,7 +76164,7 @@
     },
     {
       "title": "Prosthetic Arm",
-      "file_name": "prosthetic-arm.png",
+      "file_name": "images/health_wellness/prosthetic-arm.png",
       "added_on": "2025-07-20 14:11:34",
       "slug": "prosthetic-arm",
       "category": "Health & Wellness",
@@ -81403,7 +81403,7 @@
     },
     {
       "title": "Prospector",
-      "file_name": "prospector.png",
+      "file_name": "images/professions/prospector.png",
       "added_on": "2025-07-30 17:22:00",
       "slug": "prospector",
       "category": "Professions",
@@ -84406,7 +84406,7 @@
     },
     {
       "title": "Property",
-      "file_name": "property.png",
+      "file_name": "images/places_structures/property.png",
       "added_on": "2025-08-18 13:30:22",
       "slug": "property",
       "category": "Places & Structures",
@@ -89746,7 +89746,7 @@
     },
     {
       "title": "Woman Presenting",
-      "file_name": "professional-woman-presenting-gesture.png",
+      "file_name": "images/professions/professional-woman-presenting-gesture.png",
       "added_on": "2025-09-09 08:55:24",
       "slug": "professional-woman-presenting-gesture",
       "category": "Professions",
@@ -100440,7 +100440,7 @@
     },
     {
       "title": "Pronghorn Antelope",
-      "file_name": "pronghorn-antelope.png",
+      "file_name": "images/animals/pronghorn-antelope.png",
       "added_on": "2025-10-02 19:11:18",
       "slug": "pronghorn-antelope",
       "category": "Animals",
@@ -112444,7 +112444,7 @@
     },
     {
       "title": "Professional Chess Clock",
-      "file_name": "professional-chess-clock.png",
+      "file_name": "images/sports/professional-chess-clock.png",
       "added_on": "2025-11-03 11:02:10",
       "slug": "professional-chess-clock",
       "category": "Sports",
@@ -119124,7 +119124,7 @@
     },
     {
       "title": "Promotion",
-      "file_name": "promotion.png",
+      "file_name": "images/work_industry/promotion.png",
       "added_on": "2025-12-04 18:51:22",
       "slug": "promotion",
       "category": "Work & Industry",
@@ -123277,7 +123277,7 @@
     },
     {
       "title": "Profile Icon",
-      "file_name": "profile-icon-neutral.png",
+      "file_name": "images/interface_symbols/profile-icon-neutral.png",
       "added_on": "2026-01-30 08:11:29",
       "slug": "profile-icon-neutral",
       "category": "Interface & Symbols",
@@ -124118,7 +124118,7 @@
     },
     {
       "title": "Protective Face Mask",
-      "file_name": "protective-face-mask.png",
+      "file_name": "images/work_industry/protective-face-mask.png",
       "added_on": "2026-02-04 10:21:34",
       "slug": "protective-face-mask",
       "category": "Work & Industry",
@@ -130014,7 +130014,7 @@
     },
     {
       "title": "Profiterole",
-      "file_name": "profiterole.png",
+      "file_name": "images/food_drink/profiterole.png",
       "added_on": "2026-03-17 21:40:51",
       "slug": "profiterole",
       "category": "Food & Drink",
