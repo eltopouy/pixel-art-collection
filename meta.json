@@ -288,7 +288,7 @@
     },
     {
       "title": "Kettle",
-      "file_name": "kettle.png",
+      "file_name": "images/everyday_life/kettle.png",
       "added_on": "2025-05-15 16:31:07",
       "slug": "kettle",
       "category": "Everyday Life",
@@ -904,7 +904,7 @@
     },
     {
       "title": "Key",
-      "file_name": "key.png",
+      "file_name": "images/everyday_life/key.png",
       "added_on": "2025-05-16 00:20:47",
       "slug": "key",
       "category": "Everyday Life",
@@ -6584,7 +6584,7 @@
     },
     {
       "title": "Key Holder",
-      "file_name": "key-holder.png",
+      "file_name": "images/everyday_life/key-holder.png",
       "added_on": "2025-05-18 22:56:15",
       "slug": "key-holder",
       "category": "Everyday Life",
@@ -8560,7 +8560,7 @@
     },
     {
       "title": "Keyboard",
-      "file_name": "keyboard.png",
+      "file_name": "images/technology_media/keyboard.png",
       "added_on": "2025-05-22 16:31:39",
       "slug": "keyboard",
       "category": "Technology & Media",
@@ -16133,7 +16133,7 @@
     },
     {
       "title": "Keychain",
-      "file_name": "keychain.png",
+      "file_name": "images/everyday_life/keychain.png",
       "added_on": "2025-05-28 02:51:00",
       "slug": "keychain",
       "category": "Everyday Life",
@@ -16927,7 +16927,7 @@
     },
     {
       "title": "Keynote Presentation",
-      "file_name": "keynote-presentation.png",
+      "file_name": "images/technology_media/keynote-presentation.png",
       "added_on": "2025-05-31 10:40:27",
       "slug": "keynote-presentation",
       "category": "Technology & Media",
@@ -18528,7 +18528,7 @@
     },
     {
       "title": "Keynote",
-      "file_name": "keynote.png",
+      "file_name": "images/events/keynote.png",
       "added_on": "2025-06-01 08:24:23",
       "slug": "keynote",
       "category": "Events",
@@ -21370,7 +21370,7 @@
     },
     {
       "title": "Kettle Drum",
-      "file_name": "kettle-drum.png",
+      "file_name": "images/entertainment_leisure/kettle-drum.png",
       "added_on": "2025-06-02 21:47:57",
       "slug": "kettle-drum",
       "category": "Entertainment & Leisure",
@@ -36805,7 +36805,7 @@
     },
     {
       "title": "Keys",
-      "file_name": "keys.png",
+      "file_name": "images/everyday_life/keys.png",
       "added_on": "2025-06-12 19:25:04",
       "slug": "keys",
       "category": "Everyday Life",
@@ -43685,7 +43685,7 @@
     },
     {
       "title": "Kettlebell",
-      "file_name": "kettlebell.png",
+      "file_name": "images/sports/kettlebell.png",
       "added_on": "2025-06-14 13:18:50",
       "slug": "kettlebell",
       "category": "Sports",
@@ -46501,7 +46501,7 @@
     },
     {
       "title": "Ketchup",
-      "file_name": "ketchup.png",
+      "file_name": "images/food_drink/ketchup.png",
       "added_on": "2025-06-16 13:14:26",
       "slug": "ketchup",
       "category": "Food & Drink",
@@ -63998,7 +63998,7 @@
     },
     {
       "title": "Keyboard Keycap Puller",
-      "file_name": "keyboard-keycap-puller.png",
+      "file_name": "images/technology_media/keyboard-keycap-puller.png",
       "added_on": "2025-07-09 16:55:55",
       "slug": "keyboard-keycap-puller",
       "category": "Technology & Media",
@@ -69509,7 +69509,7 @@
     },
     {
       "title": "Key Hider Rock",
-      "file_name": "key-hider-rock.png",
+      "file_name": "images/everyday_life/key-hider-rock.png",
       "added_on": "2025-07-14 02:21:42",
       "slug": "key-hider-rock",
       "category": "Everyday Life",
@@ -73540,7 +73540,7 @@
     },
     {
       "title": "Khachapuri",
-      "file_name": "khachapuri.png",
+      "file_name": "images/food_drink/khachapuri.png",
       "added_on": "2025-07-17 18:49:02",
       "slug": "khachapuri",
       "category": "Food & Drink",
@@ -88467,7 +88467,7 @@
     },
     {
       "title": "Key Lime Pie",
-      "file_name": "key-lime-pie.png",
+      "file_name": "images/food_drink/key-lime-pie.png",
       "added_on": "2025-09-05 10:31:35",
       "slug": "key-lime-pie",
       "category": "Food & Drink",
@@ -102868,7 +102868,7 @@
     },
     {
       "title": "Key Fob",
-      "file_name": "key-fob.png",
+      "file_name": "images/everyday_life/key-fob.png",
       "added_on": "2025-10-09 11:51:21",
       "slug": "key-fob",
       "category": "Everyday Life",
@@ -107886,7 +107886,7 @@
     },
     {
       "title": "Key Bowl",
-      "file_name": "key-bowl.png",
+      "file_name": "images/everyday_life/key-bowl.png",
       "added_on": "2025-10-23 18:11:17",
       "slug": "key-bowl",
       "category": "Everyday Life",
@@ -121778,7 +121778,7 @@
     },
     {
       "title": "Key Hook",
-      "file_name": "key-hook.png",
+      "file_name": "images/everyday_life/key-hook.png",
       "added_on": "2026-01-26 15:51:12",
       "slug": "key-hook",
       "category": "Everyday Life",
@@ -124209,7 +124209,7 @@
     },
     {
       "title": "Keychain Collection",
-      "file_name": "keychain-collection.png",
+      "file_name": "images/everyday_life/keychain-collection.png",
       "added_on": "2026-02-04 11:41:35",
       "slug": "keychain-collection",
       "category": "Everyday Life",
@@ -129082,7 +129082,7 @@
     },
     {
       "title": "Key Cutter",
-      "file_name": "key-cutter.png",
+      "file_name": "images/work_industry/key-cutter.png",
       "added_on": "2026-03-09 12:10:54",
       "slug": "key-cutter",
       "category": "Work & Industry",
