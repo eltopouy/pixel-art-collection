@@ -723,7 +723,7 @@
     },
     {
       "title": "Tree",
-      "file_name": "tree.png",
+      "file_name": "images/nature_outdoors/tree.png",
       "added_on": "2025-05-15 21:50:47",
       "slug": "tree",
       "category": "Nature & Outdoors",
@@ -11305,7 +11305,7 @@
     },
     {
       "title": "Treasure Chest",
-      "file_name": "treasure-chest.png",
+      "file_name": "images/places_structures/treasure-chest.png",
       "added_on": "2025-05-24 04:21:25",
       "slug": "treasure-chest",
       "category": "Places & Structures",
@@ -15951,7 +15951,7 @@
     },
     {
       "title": "Tree Stump",
-      "file_name": "tree-stump.png",
+      "file_name": "images/nature_outdoors/tree-stump.png",
       "added_on": "2025-05-27 23:50:51",
       "slug": "tree-stump",
       "category": "Nature & Outdoors",
@@ -16498,7 +16498,7 @@
     },
     {
       "title": "Treadmill",
-      "file_name": "treadmill.png",
+      "file_name": "images/everyday_life/treadmill.png",
       "added_on": "2025-05-30 19:40:56",
       "slug": "treadmill",
       "category": "Everyday Life",
@@ -17863,7 +17863,7 @@
     },
     {
       "title": "Treble Clef",
-      "file_name": "treble-clef.png",
+      "file_name": "images/interface_symbols/treble-clef.png",
       "added_on": "2025-06-01 08:10:49",
       "slug": "treble-clef",
       "category": "Interface & Symbols",
@@ -18853,7 +18853,7 @@
     },
     {
       "title": "Trebuchet",
-      "file_name": "trebuchet.png",
+      "file_name": "images/history_culture/trebuchet.png",
       "added_on": "2025-06-01 08:29:14",
       "slug": "trebuchet",
       "category": "History & Culture",
@@ -24780,7 +24780,7 @@
     },
     {
       "title": "Tremissis",
-      "file_name": "tremissis.png",
+      "file_name": "images/history_culture/tremissis.png",
       "added_on": "2025-06-04 21:38:30",
       "slug": "tremissis",
       "category": "History & Culture",
@@ -28970,7 +28970,7 @@
     },
     {
       "title": "TravelSax 2",
-      "file_name": "travelsax-2.png",
+      "file_name": "images/technology_media/travelsax-2.png",
       "added_on": "2025-06-10 08:09:34",
       "slug": "travelsax-2",
       "category": "Technology & Media",
@@ -31448,7 +31448,7 @@
     },
     {
       "title": "Treehouse",
-      "file_name": "treehouse.png",
+      "file_name": "images/places_structures/treehouse.png",
       "added_on": "2025-06-11 01:36:53",
       "slug": "treehouse",
       "category": "Places & Structures",
@@ -65384,7 +65384,7 @@
     },
     {
       "title": "Tree Kangaroo",
-      "file_name": "tree-kangaroo.png",
+      "file_name": "images/animals/tree-kangaroo.png",
       "added_on": "2025-07-10 18:56:20",
       "slug": "tree-kangaroo",
       "category": "Animals",
@@ -66344,7 +66344,7 @@
     },
     {
       "title": "Treasure Map",
-      "file_name": "treasure-map.png",
+      "file_name": "images/fantasy_imagination/treasure-map.png",
       "added_on": "2025-07-11 14:01:59",
       "slug": "treasure-map",
       "category": "Fantasy & Imagination",
@@ -69966,7 +69966,7 @@
     },
     {
       "title": "Treant",
-      "file_name": "treant.png",
+      "file_name": "images/fantasy_imagination/treant.png",
       "added_on": "2025-07-14 09:59:12",
       "slug": "treant",
       "category": "Fantasy & Imagination",
@@ -72924,7 +72924,7 @@
     },
     {
       "title": "Tree Hollow",
-      "file_name": "tree-hollow.png",
+      "file_name": "images/nature_outdoors/tree-hollow.png",
       "added_on": "2025-07-16 23:12:02",
       "slug": "tree-hollow",
       "category": "Nature & Outdoors",
@@ -86894,7 +86894,7 @@
     },
     {
       "title": "Tree of Life",
-      "file_name": "tree-of-life.png",
+      "file_name": "images/history_culture/tree-of-life.png",
       "added_on": "2025-08-29 13:11:11",
       "slug": "tree-of-life",
       "category": "History & Culture",
@@ -92405,7 +92405,7 @@
     },
     {
       "title": "Tree Shrew",
-      "file_name": "tree-shrew.png",
+      "file_name": "images/animals/tree-shrew.png",
       "added_on": "2025-09-13 22:21:22",
       "slug": "tree-shrew",
       "category": "Animals",
@@ -94738,7 +94738,7 @@
     },
     {
       "title": "Tree Platform",
-      "file_name": "tree-platform.png",
+      "file_name": "images/places_structures/tree-platform.png",
       "added_on": "2025-09-19 11:41:01",
       "slug": "tree-platform",
       "category": "Places & Structures",
@@ -95213,7 +95213,7 @@
     },
     {
       "title": "Tree Harvester Vehicle",
-      "file_name": "tree-harvester-vehicle.png",
+      "file_name": "images/vehicles_transport/tree-harvester-vehicle.png",
       "added_on": "2025-09-20 14:01:20",
       "slug": "tree-harvester-vehicle",
       "category": "Vehicles & Transport",
@@ -100864,7 +100864,7 @@
     },
     {
       "title": "Treetop Walkway",
-      "file_name": "treetop-walkway.png",
+      "file_name": "images/places_structures/treetop-walkway.png",
       "added_on": "2025-10-04 18:21:07",
       "slug": "treetop-walkway",
       "category": "Places & Structures",
@@ -104459,7 +104459,7 @@
     },
     {
       "title": "Treadmill Desk",
-      "file_name": "treadmill-desk.png",
+      "file_name": "images/health_wellness/treadmill-desk.png",
       "added_on": "2025-10-12 11:51:38",
       "slug": "treadmill-desk",
       "category": "Health & Wellness",
@@ -117585,7 +117585,7 @@
     },
     {
       "title": "Tree Trunk House",
-      "file_name": "tree-trunk-house.png",
+      "file_name": "images/places_structures/tree-trunk-house.png",
       "added_on": "2025-11-24 17:11:31",
       "slug": "tree-trunk-house",
       "category": "Places & Structures",
@@ -128729,7 +128729,7 @@
     },
     {
       "title": "Tree Removal",
-      "file_name": "tree-removal.png",
+      "file_name": "images/nature_outdoors/tree-removal.png",
       "added_on": "2026-03-09 07:20:56",
       "slug": "tree-removal",
       "category": "Nature & Outdoors",
