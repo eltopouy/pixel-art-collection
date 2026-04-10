@@ -5272,7 +5272,7 @@
     },
     {
       "title": "Wheelchair",
-      "file_name": "wheelchair.png",
+      "file_name": "images/vehicles_transport/wheelchair.png",
       "added_on": "2025-05-17 20:00:44",
       "slug": "wheelchair",
       "category": "Vehicles & Transport",
@@ -6987,7 +6987,7 @@
     },
     {
       "title": "Whistle",
-      "file_name": "whistle.png",
+      "file_name": "images/sports/whistle.png",
       "added_on": "2025-05-19 02:06:01",
       "slug": "whistle",
       "category": "Sports",
@@ -7312,7 +7312,7 @@
     },
     {
       "title": "Whistle (Referee)",
-      "file_name": "whistle-referee.png",
+      "file_name": "images/sports/whistle-referee.png",
       "added_on": "2025-05-19 04:45:47",
       "slug": "whistle-referee",
       "category": "Sports",
@@ -18164,7 +18164,7 @@
     },
     {
       "title": "White King Chess Piece",
-      "file_name": "white-king-chess-piece.png",
+      "file_name": "images/entertainment_leisure/white-king-chess-piece.png",
       "added_on": "2025-06-01 08:14:49",
       "slug": "white-king-chess-piece",
       "category": "Entertainment & Leisure",
@@ -21780,7 +21780,7 @@
     },
     {
       "title": "Whisky Glass",
-      "file_name": "whisky-glass.png",
+      "file_name": "images/food_drink/whisky-glass.png",
       "added_on": "2025-06-03 10:07:30",
       "slug": "whisky-glass",
       "category": "Food & Drink",
@@ -43632,7 +43632,7 @@
     },
     {
       "title": "Whippet",
-      "file_name": "whippet.png",
+      "file_name": "images/animals/whippet.png",
       "added_on": "2025-06-14 13:18:37",
       "slug": "whippet",
       "category": "Animals",
@@ -49137,7 +49137,7 @@
     },
     {
       "title": "Whippet",
-      "file_name": "whippet-1.png",
+      "file_name": "images/animals/whippet-1.png",
       "added_on": "2025-06-22 17:32:39",
       "slug": "whippet-1",
       "category": "Animals",
@@ -50604,7 +50604,7 @@
     },
     {
       "title": "White Lily",
-      "file_name": "white-lily.png",
+      "file_name": "images/nature_outdoors/white-lily.png",
       "added_on": "2025-06-22 23:13:27",
       "slug": "white-lily",
       "category": "Nature & Outdoors",
@@ -50931,7 +50931,7 @@
     },
     {
       "title": "Whisk",
-      "file_name": "whisk.png",
+      "file_name": "images/food_drink/whisk.png",
       "added_on": "2025-06-23 01:55:21",
       "slug": "whisk",
       "category": "Food & Drink",
@@ -58241,7 +58241,7 @@
     },
     {
       "title": "Whispering Stones",
-      "file_name": "whispering-stones.png",
+      "file_name": "images/fantasy_imagination/whispering-stones.png",
       "added_on": "2025-07-06 07:46:23",
       "slug": "whispering-stones",
       "category": "Fantasy & Imagination",
@@ -78264,7 +78264,7 @@
     },
     {
       "title": "White Cliffs of Dover",
-      "file_name": "white-cliffs-of-dover.png",
+      "file_name": "images/places_structures/white-cliffs-of-dover.png",
       "added_on": "2025-07-24 14:31:40",
       "slug": "white-cliffs-of-dover",
       "category": "Places & Structures",
@@ -83007,7 +83007,7 @@
     },
     {
       "title": "White Bed Sheet",
-      "file_name": "white-bed-sheet.png",
+      "file_name": "images/everyday_life/white-bed-sheet.png",
       "added_on": "2025-08-08 06:55:36",
       "slug": "white-bed-sheet",
       "category": "Everyday Life",
@@ -85582,7 +85582,7 @@
     },
     {
       "title": "White Flag",
-      "file_name": "white-flag.png",
+      "file_name": "images/flags/white-flag.png",
       "added_on": "2025-08-24 16:41:31",
       "slug": "white-flag",
       "category": "Flags",
@@ -90318,7 +90318,7 @@
     },
     {
       "title": "White Corrector",
-      "file_name": "white-corrector.png",
+      "file_name": "images/everyday_life/white-corrector.png",
       "added_on": "2025-09-09 17:52:08",
       "slug": "white-corrector",
       "category": "Everyday Life",
@@ -96948,7 +96948,7 @@
     },
     {
       "title": "Whirligig",
-      "file_name": "whirligig.png",
+      "file_name": "images/hobbies/whirligig.png",
       "added_on": "2025-09-24 10:01:22",
       "slug": "whirligig",
       "category": "Hobbies",
@@ -97730,7 +97730,7 @@
     },
     {
       "title": "White Noise Machine",
-      "file_name": "white-noise-machine.png",
+      "file_name": "images/everyday_life/white-noise-machine.png",
       "added_on": "2025-09-27 11:41:20",
       "slug": "white-noise-machine",
       "category": "Everyday Life",
@@ -99431,7 +99431,7 @@
     },
     {
       "title": "White-Faced Saki",
-      "file_name": "white-faced-saki.png",
+      "file_name": "images/animals/white-faced-saki.png",
       "added_on": "2025-10-01 03:21:26",
       "slug": "white-faced-saki",
       "category": "Animals",
@@ -107467,7 +107467,7 @@
     },
     {
       "title": "Whipped Cream",
-      "file_name": "whipped-cream.png",
+      "file_name": "images/food_drink/whipped-cream.png",
       "added_on": "2025-10-22 23:21:18",
       "slug": "whipped-cream",
       "category": "Food & Drink",
@@ -110325,7 +110325,7 @@
     },
     {
       "title": "White Asparagus",
-      "file_name": "white-asparagus.png",
+      "file_name": "images/food_drink/white-asparagus.png",
       "added_on": "2025-10-29 11:01:46",
       "slug": "white-asparagus",
       "category": "Food & Drink",
@@ -113240,7 +113240,7 @@
     },
     {
       "title": "Whirling Dervish",
-      "file_name": "whirling-dervish.png",
+      "file_name": "images/history_culture/whirling-dervish.png",
       "added_on": "2025-11-05 23:12:05",
       "slug": "whirling-dervish",
       "category": "History & Culture",
