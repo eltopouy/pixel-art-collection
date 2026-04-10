@@ -11747,7 +11747,7 @@
     },
     {
       "title": "X Mark",
-      "file_name": "x-mark.png",
+      "file_name": "images/interface_symbols/x-mark.png",
       "added_on": "2025-05-24 13:21:21",
       "slug": "x-mark",
       "category": "Interface & Symbols",
@@ -19569,7 +19569,7 @@
     },
     {
       "title": "Yacht",
-      "file_name": "yacht.png",
+      "file_name": "images/vehicles_transport/yacht.png",
       "added_on": "2025-06-02 09:17:14",
       "slug": "yacht",
       "category": "Vehicles & Transport",
@@ -22275,7 +22275,7 @@
     },
     {
       "title": "Yarn",
-      "file_name": "yarn.png",
+      "file_name": "images/hobbies/yarn.png",
       "added_on": "2025-06-03 16:46:05",
       "slug": "yarn",
       "category": "Hobbies",
@@ -23779,7 +23779,7 @@
     },
     {
       "title": "Wunderkammer",
-      "file_name": "wunderkammer.png",
+      "file_name": "images/history_culture/wunderkammer.png",
       "added_on": "2025-06-04 08:48:41",
       "slug": "wunderkammer",
       "category": "History & Culture",
@@ -32390,7 +32390,7 @@
     },
     {
       "title": "Yak",
-      "file_name": "yak.png",
+      "file_name": "images/animals/yak.png",
       "added_on": "2025-06-11 09:54:51",
       "slug": "yak",
       "category": "Animals",
@@ -48313,7 +48313,7 @@
     },
     {
       "title": "Xylophone",
-      "file_name": "xylophone.png",
+      "file_name": "images/entertainment_leisure/xylophone.png",
       "added_on": "2025-06-20 14:25:22",
       "slug": "xylophone",
       "category": "Entertainment & Leisure",
@@ -52641,7 +52641,7 @@
     },
     {
       "title": "Xiao Long Bao",
-      "file_name": "xiao-long-bao.png",
+      "file_name": "images/food_drink/xiao-long-bao.png",
       "added_on": "2025-06-25 15:22:10",
       "slug": "xiao-long-bao",
       "category": "Food & Drink",
@@ -66305,7 +66305,7 @@
     },
     {
       "title": "Yachting Safety Vest",
-      "file_name": "yachting-safety-vest.png",
+      "file_name": "images/sports/yachting-safety-vest.png",
       "added_on": "2025-07-11 13:01:07",
       "slug": "yachting-safety-vest",
       "category": "Sports",
@@ -74621,7 +74621,7 @@
     },
     {
       "title": "Wyvern",
-      "file_name": "wyvern.png",
+      "file_name": "images/fantasy_imagination/wyvern.png",
       "added_on": "2025-07-18 15:31:29",
       "slug": "wyvern",
       "category": "Fantasy & Imagination",
@@ -78344,7 +78344,7 @@
     },
     {
       "title": "Xoloitzcuintle",
-      "file_name": "xoloitzcuintle.png",
+      "file_name": "images/animals/xoloitzcuintle.png",
       "added_on": "2025-07-24 15:31:35",
       "slug": "xoloitzcuintle",
       "category": "Animals",
@@ -80023,7 +80023,7 @@
     },
     {
       "title": "Yard Sale",
-      "file_name": "yard-sale.png",
+      "file_name": "images/events/yard-sale.png",
       "added_on": "2025-07-25 15:51:36",
       "slug": "yard-sale",
       "category": "Events",
@@ -83701,7 +83701,7 @@
     },
     {
       "title": "Xian Long Bao",
-      "file_name": "xian-long-bao.png",
+      "file_name": "images/food_drink/xian-long-bao.png",
       "added_on": "2025-08-16 22:10:52",
       "slug": "xian-long-bao",
       "category": "Food & Drink",
@@ -86041,7 +86041,7 @@
     },
     {
       "title": "Xoloitzcuintle",
-      "file_name": "xoloitzcuintle-1.png",
+      "file_name": "images/animals/xoloitzcuintle-1.png",
       "added_on": "2025-08-25 14:53:31",
       "slug": "xoloitzcuintle-1",
       "category": "Animals",
@@ -88363,7 +88363,7 @@
     },
     {
       "title": "X-ray",
-      "file_name": "x-ray.png",
+      "file_name": "images/space_science/x-ray.png",
       "added_on": "2025-09-04 23:51:49",
       "slug": "x-ray",
       "category": "Space & Science",
@@ -103000,7 +103000,7 @@
     },
     {
       "title": "Wu Zetian",
-      "file_name": "wu-zetian.png",
+      "file_name": "images/historical_figures/wu-zetian.png",
       "added_on": "2025-10-09 13:41:51",
       "slug": "wu-zetian",
       "category": "Historical Figures",
@@ -108655,7 +108655,7 @@
     },
     {
       "title": "Yarn Bowtie",
-      "file_name": "yarn-bowtie.png",
+      "file_name": "images/fashion_style/yarn-bowtie.png",
       "added_on": "2025-10-26 16:21:13",
       "slug": "yarn-bowtie",
       "category": "Fashion & Style",
@@ -112076,7 +112076,7 @@
     },
     {
       "title": "W\u00fcrstelstand",
-      "file_name": "wrstelstand.png",
+      "file_name": "images/food_drink/wrstelstand.png",
       "added_on": "2025-11-02 09:32:07",
       "slug": "wrstelstand",
       "category": "Food & Drink",
@@ -120686,7 +120686,7 @@
     },
     {
       "title": "Yeast",
-      "file_name": "yeast.png",
+      "file_name": "images/food_drink/yeast.png",
       "added_on": "2026-01-22 22:11:27",
       "slug": "yeast",
       "category": "Food & Drink",
@@ -122674,7 +122674,7 @@
     },
     {
       "title": "Yardang",
-      "file_name": "yardang.png",
+      "file_name": "images/nature_outdoors/yardang.png",
       "added_on": "2026-01-29 16:31:06",
       "slug": "yardang",
       "category": "Nature & Outdoors",
@@ -130365,7 +130365,7 @@
     },
     {
       "title": "X2",
-      "file_name": "x2.png",
+      "file_name": "images/interface_symbols/x2.png",
       "added_on": "2026-03-18 02:50:56",
       "slug": "x2",
       "category": "Interface & Symbols",
