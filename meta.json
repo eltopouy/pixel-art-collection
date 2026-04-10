@@ -10629,7 +10629,7 @@
     },
     {
       "title": "Volleyball",
-      "file_name": "volleyball.png",
+      "file_name": "images/sports/volleyball.png",
       "added_on": "2025-05-23 19:31:21",
       "slug": "volleyball",
       "category": "Sports",
@@ -10889,7 +10889,7 @@
     },
     {
       "title": "Voodoo Doll",
-      "file_name": "voodoo-doll.png",
+      "file_name": "images/everyday_life/voodoo-doll.png",
       "added_on": "2025-05-23 23:01:22",
       "slug": "voodoo-doll",
       "category": "Everyday Life",
@@ -16394,7 +16394,7 @@
     },
     {
       "title": "Vulture",
-      "file_name": "vulture.png",
+      "file_name": "images/animals/vulture.png",
       "added_on": "2025-05-28 07:11:07",
       "slug": "vulture",
       "category": "Animals",
@@ -22537,7 +22537,7 @@
     },
     {
       "title": "Voyager Spacecraft",
-      "file_name": "voyager-spacecraft.png",
+      "file_name": "images/space_science/voyager-spacecraft.png",
       "added_on": "2025-06-03 18:46:02",
       "slug": "voyager-spacecraft",
       "category": "Space & Science",
@@ -23597,7 +23597,7 @@
     },
     {
       "title": "Waffle Iron",
-      "file_name": "waffle-iron.png",
+      "file_name": "images/food_drink/waffle-iron.png",
       "added_on": "2025-06-04 08:36:49",
       "slug": "waffle-iron",
       "category": "Food & Drink",
@@ -25724,7 +25724,7 @@
     },
     {
       "title": "Volksparkstadion",
-      "file_name": "volksparkstadion.png",
+      "file_name": "images/places_structures/volksparkstadion.png",
       "added_on": "2025-06-06 14:33:46",
       "slug": "volksparkstadion",
       "category": "Places & Structures",
@@ -36870,7 +36870,7 @@
     },
     {
       "title": "Volcano",
-      "file_name": "volcano.png",
+      "file_name": "images/nature_outdoors/volcano.png",
       "added_on": "2025-06-12 19:55:06",
       "slug": "volcano",
       "category": "Nature & Outdoors",
@@ -39924,7 +39924,7 @@
     },
     {
       "title": "VR headset",
-      "file_name": "vr-headset.png",
+      "file_name": "images/entertainment_leisure/vr-headset.png",
       "added_on": "2025-06-13 14:55:24",
       "slug": "vr-headset",
       "category": "Entertainment & Leisure",
@@ -40674,7 +40674,7 @@
     },
     {
       "title": "Volleyball net",
-      "file_name": "volleyball-net.png",
+      "file_name": "images/sports/volleyball-net.png",
       "added_on": "2025-06-13 21:49:16",
       "slug": "volleyball-net",
       "category": "Sports",
@@ -40805,7 +40805,7 @@
     },
     {
       "title": "Voisin III",
-      "file_name": "voisin-iii.png",
+      "file_name": "images/vehicles_transport/voisin-iii.png",
       "added_on": "2025-06-13 22:25:56",
       "slug": "voisin-iii",
       "category": "Vehicles & Transport",
@@ -41469,7 +41469,7 @@
     },
     {
       "title": "Volcano",
-      "file_name": "volcano-1.png",
+      "file_name": "images/nature_outdoors/volcano-1.png",
       "added_on": "2025-06-13 22:33:04",
       "slug": "volcano-1",
       "category": "Nature & Outdoors",
@@ -46462,7 +46462,7 @@
     },
     {
       "title": "Volcano Eruption",
-      "file_name": "volcano-eruption.png",
+      "file_name": "images/nature_outdoors/volcano-eruption.png",
       "added_on": "2025-06-16 13:14:16",
       "slug": "volcano-eruption",
       "category": "Nature & Outdoors",
@@ -73303,7 +73303,7 @@
     },
     {
       "title": "Wagyu Slider",
-      "file_name": "wagyu-slider.png",
+      "file_name": "images/food_drink/wagyu-slider.png",
       "added_on": "2025-07-17 12:51:45",
       "slug": "wagyu-slider",
       "category": "Food & Drink",
@@ -80036,7 +80036,7 @@
     },
     {
       "title": "Voltage Testing Device",
-      "file_name": "voltage-testing-device.png",
+      "file_name": "images/technology_media/voltage-testing-device.png",
       "added_on": "2025-07-25 16:01:45",
       "slug": "voltage-testing-device",
       "category": "Technology & Media",
@@ -95040,7 +95040,7 @@
     },
     {
       "title": "Wacky Waving Tube Man",
-      "file_name": "wacky-waving-tube-man.png",
+      "file_name": "images/entertainment_leisure/wacky-waving-tube-man.png",
       "added_on": "2025-09-20 00:01:27",
       "slug": "wacky-waving-tube-man",
       "category": "Entertainment & Leisure",
@@ -96818,7 +96818,7 @@
     },
     {
       "title": "VS Symbol",
-      "file_name": "vs-symbol.png",
+      "file_name": "images/interface_symbols/vs-symbol.png",
       "added_on": "2025-09-23 14:51:19",
       "slug": "vs-symbol",
       "category": "Interface & Symbols",
@@ -101335,7 +101335,7 @@
     },
     {
       "title": "Wagyu Steak",
-      "file_name": "wagyu-steak.png",
+      "file_name": "images/food_drink/wagyu-steak.png",
       "added_on": "2025-10-05 12:01:45",
       "slug": "wagyu-steak",
       "category": "Food & Drink",
@@ -109870,7 +109870,7 @@
     },
     {
       "title": "Voyager Golden Record",
-      "file_name": "voyager-golden-record.png",
+      "file_name": "images/space_science/voyager-golden-record.png",
       "added_on": "2025-10-28 17:22:01",
       "slug": "voyager-golden-record",
       "category": "Space & Science",
@@ -111829,7 +111829,7 @@
     },
     {
       "title": "Vote",
-      "file_name": "vote.png",
+      "file_name": "images/interface_symbols/vote.png",
       "added_on": "2025-11-01 19:41:36",
       "slug": "vote",
       "category": "Interface & Symbols",
@@ -120031,7 +120031,7 @@
     },
     {
       "title": "Wafer Semiconductor",
-      "file_name": "wafer-semiconductor.png",
+      "file_name": "images/technology_media/wafer-semiconductor.png",
       "added_on": "2025-12-14 13:41:23",
       "slug": "wafer-semiconductor",
       "category": "Technology & Media",
