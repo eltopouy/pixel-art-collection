@@ -224,7 +224,7 @@
     },
     {
       "title": "Stool",
-      "file_name": "stool.png",
+      "file_name": "images/everyday_life/stool.png",
       "added_on": "2025-05-15 16:15:45",
       "slug": "stool",
       "category": "Everyday Life",
@@ -13087,7 +13087,7 @@
     },
     {
       "title": "Story Dice",
-      "file_name": "story-dice.png",
+      "file_name": "images/entertainment_leisure/story-dice.png",
       "added_on": "2025-05-26 03:01:20",
       "slug": "story-dice",
       "category": "Entertainment & Leisure",
@@ -16914,7 +16914,7 @@
     },
     {
       "title": "Storytelling",
-      "file_name": "storytelling.png",
+      "file_name": "images/fantasy_imagination/storytelling.png",
       "added_on": "2025-05-31 10:40:26",
       "slug": "storytelling",
       "category": "Fantasy & Imagination",
@@ -17720,7 +17720,7 @@
     },
     {
       "title": "Straw Hat",
-      "file_name": "straw-hat.png",
+      "file_name": "images/fashion_style/straw-hat.png",
       "added_on": "2025-05-31 17:23:48",
       "slug": "straw-hat",
       "category": "Fashion & Style",
@@ -20008,7 +20008,7 @@
     },
     {
       "title": "Stonehenge",
-      "file_name": "stonehenge.png",
+      "file_name": "images/places_structures/stonehenge.png",
       "added_on": "2025-06-02 09:39:49",
       "slug": "stonehenge",
       "category": "Places & Structures",
@@ -28441,7 +28441,7 @@
     },
     {
       "title": "Stopwatch",
-      "file_name": "stopwatch.png",
+      "file_name": "images/everyday_life/stopwatch.png",
       "added_on": "2025-06-09 07:54:12",
       "slug": "stopwatch",
       "category": "Everyday Life",
@@ -36467,7 +36467,7 @@
     },
     {
       "title": "Stork",
-      "file_name": "stork.png",
+      "file_name": "images/animals/stork.png",
       "added_on": "2025-06-12 17:51:02",
       "slug": "stork",
       "category": "Animals",
@@ -48794,7 +48794,7 @@
     },
     {
       "title": "Stoned Monkey",
-      "file_name": "stoned-monkey.png",
+      "file_name": "images/fantasy_imagination/stoned-monkey.png",
       "added_on": "2025-06-22 17:31:00",
       "slug": "stoned-monkey",
       "category": "Fantasy & Imagination",
@@ -52654,7 +52654,7 @@
     },
     {
       "title": "Stop Sign",
-      "file_name": "stop-sign.png",
+      "file_name": "images/interface_symbols/stop-sign.png",
       "added_on": "2025-06-25 15:22:14",
       "slug": "stop-sign",
       "category": "Interface & Symbols",
@@ -56023,7 +56023,7 @@
     },
     {
       "title": "Storyboard",
-      "file_name": "storyboard.png",
+      "file_name": "images/technology_media/storyboard.png",
       "added_on": "2025-06-30 22:00:15",
       "slug": "storyboard",
       "category": "Technology & Media",
@@ -57214,7 +57214,7 @@
     },
     {
       "title": "Stone Cottage",
-      "file_name": "stone-cottage.png",
+      "file_name": "images/places_structures/stone-cottage.png",
       "added_on": "2025-07-05 19:41:33",
       "slug": "stone-cottage",
       "category": "Places & Structures",
@@ -57437,7 +57437,7 @@
     },
     {
       "title": "Stomach",
-      "file_name": "stomach.png",
+      "file_name": "images/health_wellness/stomach.png",
       "added_on": "2025-07-05 21:11:18",
       "slug": "stomach",
       "category": "Health & Wellness",
@@ -68269,7 +68269,7 @@
     },
     {
       "title": "Storm Drain",
-      "file_name": "storm-drain.png",
+      "file_name": "images/places_structures/storm-drain.png",
       "added_on": "2025-07-12 23:11:31",
       "slug": "storm-drain",
       "category": "Places & Structures",
@@ -70464,7 +70464,7 @@
     },
     {
       "title": "Storm Shelter",
-      "file_name": "storm-shelter.png",
+      "file_name": "images/places_structures/storm-shelter.png",
       "added_on": "2025-07-14 13:31:42",
       "slug": "storm-shelter",
       "category": "Places & Structures",
@@ -73093,7 +73093,7 @@
     },
     {
       "title": "Strawberry Jam",
-      "file_name": "strawberry-jam.png",
+      "file_name": "images/food_drink/strawberry-jam.png",
       "added_on": "2025-07-17 10:33:29",
       "slug": "strawberry-jam",
       "category": "Food & Drink",
@@ -73173,7 +73173,7 @@
     },
     {
       "title": "Stone Archway",
-      "file_name": "stone-archway.png",
+      "file_name": "images/places_structures/stone-archway.png",
       "added_on": "2025-07-17 11:02:09",
       "slug": "stone-archway",
       "category": "Places & Structures",
@@ -86542,7 +86542,7 @@
     },
     {
       "title": "Stone Bench",
-      "file_name": "stone-bench.png",
+      "file_name": "images/places_structures/stone-bench.png",
       "added_on": "2025-08-27 11:21:27",
       "slug": "stone-bench",
       "category": "Places & Structures",
@@ -96643,7 +96643,7 @@
     },
     {
       "title": "Stork Nest",
-      "file_name": "stork-nest.png",
+      "file_name": "images/nature_outdoors/stork-nest.png",
       "added_on": "2025-09-23 12:21:15",
       "slug": "stork-nest",
       "category": "Nature & Outdoors",
@@ -113438,7 +113438,7 @@
     },
     {
       "title": "Stone Money Disk",
-      "file_name": "stone-money-disk.png",
+      "file_name": "images/history_culture/stone-money-disk.png",
       "added_on": "2025-11-07 00:31:57",
       "slug": "stone-money-disk",
       "category": "History & Culture",
@@ -120413,7 +120413,7 @@
     },
     {
       "title": "Stopka",
-      "file_name": "stopka.png",
+      "file_name": "images/food_drink/stopka.png",
       "added_on": "2026-01-22 18:31:23",
       "slug": "stopka",
       "category": "Food & Drink",
@@ -121323,7 +121323,7 @@
     },
     {
       "title": "Strangler Fig",
-      "file_name": "strangler-fig.png",
+      "file_name": "images/nature_outdoors/strangler-fig.png",
       "added_on": "2026-01-23 13:01:33",
       "slug": "strangler-fig",
       "category": "Nature & Outdoors",
