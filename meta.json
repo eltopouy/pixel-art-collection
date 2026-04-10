@@ -1957,7 +1957,7 @@
     },
     {
       "title": "Teacher",
-      "file_name": "teacher.png",
+      "file_name": "images/professions/teacher.png",
       "added_on": "2025-05-16 11:13:14",
       "slug": "teacher",
       "category": "Professions",
@@ -5389,7 +5389,7 @@
     },
     {
       "title": "Tea",
-      "file_name": "tea.png",
+      "file_name": "images/food_drink/tea.png",
       "added_on": "2025-05-17 21:35:42",
       "slug": "tea",
       "category": "Food & Drink",
@@ -17512,7 +17512,7 @@
     },
     {
       "title": "Team",
-      "file_name": "team.png",
+      "file_name": "images/interface_symbols/team.png",
       "added_on": "2025-05-31 11:02:59",
       "slug": "team",
       "category": "Interface & Symbols",
@@ -19582,7 +19582,7 @@
     },
     {
       "title": "Teapot",
-      "file_name": "teapot.png",
+      "file_name": "images/food_drink/teapot.png",
       "added_on": "2025-06-02 09:17:14",
       "slug": "teapot",
       "category": "Food & Drink",
@@ -19634,7 +19634,7 @@
     },
     {
       "title": "Teddy Bear",
-      "file_name": "teddy-bear.png",
+      "file_name": "images/everyday_life/teddy-bear.png",
       "added_on": "2025-06-02 09:17:24",
       "slug": "teddy-bear",
       "category": "Everyday Life",
@@ -27356,7 +27356,7 @@
     },
     {
       "title": "Technical University of Munich",
-      "file_name": "technical-university-of-munich.png",
+      "file_name": "images/places_structures/technical-university-of-munich.png",
       "added_on": "2025-06-08 01:00:10",
       "slug": "technical-university-of-munich",
       "category": "Places & Structures",
@@ -28814,7 +28814,7 @@
     },
     {
       "title": "Tea Bag",
-      "file_name": "tea-bag.png",
+      "file_name": "images/food_drink/tea-bag.png",
       "added_on": "2025-06-09 19:50:39",
       "slug": "tea-bag",
       "category": "Food & Drink",
@@ -46958,7 +46958,7 @@
     },
     {
       "title": "Teeth",
-      "file_name": "teeth.png",
+      "file_name": "images/health_wellness/teeth.png",
       "added_on": "2025-06-18 13:27:58",
       "slug": "teeth",
       "category": "Health & Wellness",
@@ -66201,7 +66201,7 @@
     },
     {
       "title": "Teenager",
-      "file_name": "teenager.png",
+      "file_name": "images/everyday_life/teenager.png",
       "added_on": "2025-07-11 10:12:56",
       "slug": "teenager",
       "category": "Everyday Life",
@@ -74608,7 +74608,7 @@
     },
     {
       "title": "Teenager",
-      "file_name": "teenager-1.png",
+      "file_name": "images/everyday_life/teenager-1.png",
       "added_on": "2025-07-18 15:24:45",
       "slug": "teenager-1",
       "category": "Everyday Life",
@@ -74699,7 +74699,7 @@
     },
     {
       "title": "Teardrop Trailer",
-      "file_name": "teardrop-trailer.png",
+      "file_name": "images/vehicles_transport/teardrop-trailer.png",
       "added_on": "2025-07-18 16:34:09",
       "slug": "teardrop-trailer",
       "category": "Vehicles & Transport",
@@ -82121,7 +82121,7 @@
     },
     {
       "title": "Tea Time",
-      "file_name": "tea-time.png",
+      "file_name": "images/everyday_life/tea-time.png",
       "added_on": "2025-08-04 05:28:43",
       "slug": "tea-time",
       "category": "Everyday Life",
@@ -84302,7 +84302,7 @@
     },
     {
       "title": "Teazen Kombucha",
-      "file_name": "teazen-kombucha.png",
+      "file_name": "images/food_drink/teazen-kombucha.png",
       "added_on": "2025-08-18 09:37:50",
       "slug": "teazen-kombucha",
       "category": "Food & Drink",
@@ -86056,7 +86056,7 @@
     },
     {
       "title": "Technical Support",
-      "file_name": "technical-support.png",
+      "file_name": "images/technology_media/technical-support.png",
       "added_on": "2025-08-25 15:11:25",
       "slug": "technical-support",
       "category": "Technology & Media",
@@ -88584,7 +88584,7 @@
     },
     {
       "title": "Tea House on Stilts",
-      "file_name": "tea-house-on-stilts.png",
+      "file_name": "images/places_structures/tea-house-on-stilts.png",
       "added_on": "2025-09-05 16:11:16",
       "slug": "tea-house-on-stilts",
       "category": "Places & Structures",
@@ -104251,7 +104251,7 @@
     },
     {
       "title": "Teleportation Booth",
-      "file_name": "teleportation-booth.png",
+      "file_name": "images/places_structures/teleportation-booth.png",
       "added_on": "2025-10-12 08:51:56",
       "slug": "teleportation-booth",
       "category": "Places & Structures",
@@ -107090,7 +107090,7 @@
     },
     {
       "title": "Tektite",
-      "file_name": "tektite.png",
+      "file_name": "images/space_science/tektite.png",
       "added_on": "2025-10-22 18:11:06",
       "slug": "tektite",
       "category": "Space & Science",
@@ -109386,7 +109386,7 @@
     },
     {
       "title": "Tea Bag Holder",
-      "file_name": "tea-bag-holder.png",
+      "file_name": "images/everyday_life/tea-bag-holder.png",
       "added_on": "2025-10-28 09:31:19",
       "slug": "tea-bag-holder",
       "category": "Everyday Life",
@@ -124940,7 +124940,7 @@
     },
     {
       "title": "Telepresence Robot",
-      "file_name": "telepresence-robot.png",
+      "file_name": "images/work_industry/telepresence-robot.png",
       "added_on": "2026-02-10 21:41:11",
       "slug": "telepresence-robot",
       "category": "Work & Industry",
@@ -130469,7 +130469,7 @@
     },
     {
       "title": "Teleprompter",
-      "file_name": "teleprompter.png",
+      "file_name": "images/technology_media/teleprompter.png",
       "added_on": "2026-03-18 11:21:17",
       "slug": "teleprompter",
       "category": "Technology & Media",
