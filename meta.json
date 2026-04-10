@@ -557,7 +557,7 @@
     },
     {
       "title": "Plant Pot",
-      "file_name": "plant-pot.png",
+      "file_name": "images/nature_outdoors/plant-pot.png",
       "added_on": "2025-05-15 19:30:56",
       "slug": "plant-pot",
       "category": "Nature & Outdoors",
@@ -5818,7 +5818,7 @@
     },
     {
       "title": "Pizza",
-      "file_name": "pizza.png",
+      "file_name": "images/food_drink/pizza.png",
       "added_on": "2025-05-18 06:06:03",
       "slug": "pizza",
       "category": "Food & Drink",
@@ -12137,7 +12137,7 @@
     },
     {
       "title": "Planetarium Projector",
-      "file_name": "planetarium-projector.png",
+      "file_name": "images/space_science/planetarium-projector.png",
       "added_on": "2025-05-25 12:11:31",
       "slug": "planetarium-projector",
       "category": "Space & Science",
@@ -25876,7 +25876,7 @@
     },
     {
       "title": "Pizza Slice",
-      "file_name": "pizza-slice.png",
+      "file_name": "images/food_drink/pizza-slice.png",
       "added_on": "2025-06-06 21:00:50",
       "slug": "pizza-slice",
       "category": "Food & Drink",
@@ -33602,7 +33602,7 @@
     },
     {
       "title": "Planetarium",
-      "file_name": "planetarium.png",
+      "file_name": "images/space_science/planetarium.png",
       "added_on": "2025-06-11 19:00:42",
       "slug": "planetarium",
       "category": "Space & Science",
@@ -35615,7 +35615,7 @@
     },
     {
       "title": "Plaid skirt",
-      "file_name": "plaid-skirt.png",
+      "file_name": "images/fashion_style/plaid-skirt.png",
       "added_on": "2025-06-12 07:31:03",
       "slug": "plaid-skirt",
       "category": "Fashion & Style",
@@ -54946,7 +54946,7 @@
     },
     {
       "title": "Plain Waffle",
-      "file_name": "plain-waffle.png",
+      "file_name": "images/food_drink/plain-waffle.png",
       "added_on": "2025-06-28 10:19:09",
       "slug": "plain-waffle",
       "category": "Food & Drink",
@@ -57912,7 +57912,7 @@
     },
     {
       "title": "Plaid blazer",
-      "file_name": "plaid-blazer.png",
+      "file_name": "images/fashion_style/plaid-blazer.png",
       "added_on": "2025-07-06 01:36:25",
       "slug": "plaid-blazer",
       "category": "Fashion & Style",
@@ -60370,7 +60370,7 @@
     },
     {
       "title": "Plant Mister",
-      "file_name": "plant-mister.png",
+      "file_name": "images/everyday_life/plant-mister.png",
       "added_on": "2025-07-08 14:21:32",
       "slug": "plant-mister",
       "category": "Everyday Life",
@@ -67630,7 +67630,7 @@
     },
     {
       "title": "Plaid Trench Coat",
-      "file_name": "plaid-trench-coat.png",
+      "file_name": "images/fashion_style/plaid-trench-coat.png",
       "added_on": "2025-07-12 09:51:24",
       "slug": "plaid-trench-coat",
       "category": "Fashion & Style",
@@ -73646,7 +73646,7 @@
     },
     {
       "title": "Plaid Overalls",
-      "file_name": "plaid-overalls.png",
+      "file_name": "images/fashion_style/plaid-overalls.png",
       "added_on": "2025-07-17 19:41:46",
       "slug": "plaid-overalls",
       "category": "Fashion & Style",
@@ -74185,7 +74185,7 @@
     },
     {
       "title": "Pizza Delivery Scooter",
-      "file_name": "pizza-delivery-scooter.png",
+      "file_name": "images/vehicles_transport/pizza-delivery-scooter.png",
       "added_on": "2025-07-18 10:41:23",
       "slug": "pizza-delivery-scooter",
       "category": "Vehicles & Transport",
@@ -74250,7 +74250,7 @@
     },
     {
       "title": "Pizza Saver",
-      "file_name": "pizza-saver.png",
+      "file_name": "images/everyday_life/pizza-saver.png",
       "added_on": "2025-07-18 11:31:33",
       "slug": "pizza-saver",
       "category": "Everyday Life",
@@ -76347,7 +76347,7 @@
     },
     {
       "title": "Planck Satellite",
-      "file_name": "planck-satellite.png",
+      "file_name": "images/space_science/planck-satellite.png",
       "added_on": "2025-07-20 16:41:31",
       "slug": "planck-satellite",
       "category": "Space & Science",
@@ -77610,7 +77610,7 @@
     },
     {
       "title": "Planks",
-      "file_name": "planks.png",
+      "file_name": "images/everyday_life/planks.png",
       "added_on": "2025-07-24 09:03:51",
       "slug": "planks",
       "category": "Everyday Life",
@@ -80781,7 +80781,7 @@
     },
     {
       "title": "Plank",
-      "file_name": "plank.png",
+      "file_name": "images/health_wellness/plank.png",
       "added_on": "2025-07-28 17:43:12",
       "slug": "plank",
       "category": "Health & Wellness",
@@ -90071,7 +90071,7 @@
     },
     {
       "title": "Plague Doctor Mask",
-      "file_name": "plague-doctor-mask.png",
+      "file_name": "images/history_culture/plague-doctor-mask.png",
       "added_on": "2025-09-09 14:02:38",
       "slug": "plague-doctor-mask",
       "category": "History & Culture",
@@ -90227,7 +90227,7 @@
     },
     {
       "title": "Pizza Delivery Box",
-      "file_name": "pizza-delivery-box.png",
+      "file_name": "images/food_drink/pizza-delivery-box.png",
       "added_on": "2025-09-09 16:31:32",
       "slug": "pizza-delivery-box",
       "category": "Food & Drink",
@@ -107899,7 +107899,7 @@
     },
     {
       "title": "Plant Stake",
-      "file_name": "plant-stake.png",
+      "file_name": "images/everyday_life/plant-stake.png",
       "added_on": "2025-10-23 18:21:13",
       "slug": "plant-stake",
       "category": "Everyday Life",
@@ -108382,7 +108382,7 @@
     },
     {
       "title": "Planck Scale Caliper",
-      "file_name": "planck-scale-caliper.png",
+      "file_name": "images/space_science/planck-scale-caliper.png",
       "added_on": "2025-10-24 15:41:20",
       "slug": "planck-scale-caliper",
       "category": "Space & Science",
@@ -130196,7 +130196,7 @@
     },
     {
       "title": "Plaid Cap",
-      "file_name": "plaid-cap.png",
+      "file_name": "images/fashion_style/plaid-cap.png",
       "added_on": "2026-03-18 00:20:52",
       "slug": "plaid-cap",
       "category": "Fashion & Style",
