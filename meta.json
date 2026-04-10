@@ -3635,7 +3635,7 @@
     },
     {
       "title": "Helicopter",
-      "file_name": "helicopter.png",
+      "file_name": "images/vehicles_transport/helicopter.png",
       "added_on": "2025-05-16 22:15:55",
       "slug": "helicopter",
       "category": "Vehicles & Transport",
@@ -6844,7 +6844,7 @@
     },
     {
       "title": "Hedgehog",
-      "file_name": "hedgehog.png",
+      "file_name": "images/animals/hedgehog.png",
       "added_on": "2025-05-19 00:55:45",
       "slug": "hedgehog",
       "category": "Animals",
@@ -24767,7 +24767,7 @@
     },
     {
       "title": "Heliograph",
-      "file_name": "heliograph.png",
+      "file_name": "images/space_science/heliograph.png",
       "added_on": "2025-06-04 21:38:27",
       "slug": "heliograph",
       "category": "Space & Science",
@@ -32167,7 +32167,7 @@
     },
     {
       "title": "Helipad",
-      "file_name": "helipad.png",
+      "file_name": "images/places_structures/helipad.png",
       "added_on": "2025-06-11 07:54:57",
       "slug": "helipad",
       "category": "Places & Structures",
@@ -36107,7 +36107,7 @@
     },
     {
       "title": "Hedorah",
-      "file_name": "hedorah.png",
+      "file_name": "images/fantasy_imagination/hedorah.png",
       "added_on": "2025-06-12 08:39:44",
       "slug": "hedorah",
       "category": "Fantasy & Imagination",
@@ -48183,7 +48183,7 @@
     },
     {
       "title": "Heraklit Bust",
-      "file_name": "heraklit-bust.png",
+      "file_name": "images/history_culture/heraklit-bust.png",
       "added_on": "2025-06-20 13:31:19",
       "slug": "heraklit-bust",
       "category": "History & Culture",
@@ -51448,7 +51448,7 @@
     },
     {
       "title": "Hedy Lamarr",
-      "file_name": "hedy-lamarr.png",
+      "file_name": "images/history_culture/hedy-lamarr.png",
       "added_on": "2025-06-23 08:13:29",
       "slug": "hedy-lamarr",
       "category": "History & Culture",
@@ -60882,7 +60882,7 @@
     },
     {
       "title": "Henley Shirt",
-      "file_name": "henley-shirt.png",
+      "file_name": "images/fashion_style/henley-shirt.png",
       "added_on": "2025-07-08 18:05:59",
       "slug": "henley-shirt",
       "category": "Fashion & Style",
@@ -61672,7 +61672,7 @@
     },
     {
       "title": "Heptathlon Baton",
-      "file_name": "heptathlon-baton.png",
+      "file_name": "images/sports/heptathlon-baton.png",
       "added_on": "2025-07-09 00:01:08",
       "slug": "heptathlon-baton",
       "category": "Sports",
@@ -62426,7 +62426,7 @@
     },
     {
       "title": "Helter Skelter",
-      "file_name": "helter-skelter.png",
+      "file_name": "images/places_structures/helter-skelter.png",
       "added_on": "2025-07-09 05:36:01",
       "slug": "helter-skelter",
       "category": "Places & Structures",
@@ -74909,7 +74909,7 @@
     },
     {
       "title": "Henna",
-      "file_name": "henna.png",
+      "file_name": "images/hobbies/henna.png",
       "added_on": "2025-07-18 22:01:23",
       "slug": "henna",
       "category": "Hobbies",
@@ -75288,7 +75288,7 @@
     },
     {
       "title": "Helmeted Hornbill",
-      "file_name": "helmeted-hornbill.png",
+      "file_name": "images/animals/helmeted-hornbill.png",
       "added_on": "2025-07-19 16:01:26",
       "slug": "helmeted-hornbill",
       "category": "Animals",
@@ -79763,7 +79763,7 @@
     },
     {
       "title": "Henkel's Leaf-Tailed Gecko",
-      "file_name": "henkels-leaf-tailed-gecko.png",
+      "file_name": "images/animals/henkels-leaf-tailed-gecko.png",
       "added_on": "2025-07-25 08:11:54",
       "slug": "henkels-leaf-tailed-gecko",
       "category": "Animals",
@@ -79984,7 +79984,7 @@
     },
     {
       "title": "Helicopter Blade",
-      "file_name": "helicopter-blade.png",
+      "file_name": "images/vehicles_transport/helicopter-blade.png",
       "added_on": "2025-07-25 15:21:21",
       "slug": "helicopter-blade",
       "category": "Vehicles & Transport",
@@ -83311,7 +83311,7 @@
     },
     {
       "title": "Hedge",
-      "file_name": "hedge.png",
+      "file_name": "images/nature_outdoors/hedge.png",
       "added_on": "2025-08-08 09:01:14",
       "slug": "hedge",
       "category": "Nature & Outdoors",
@@ -84355,7 +84355,7 @@
     },
     {
       "title": "He/Him Pronoun Badge",
-      "file_name": "hehim-pronoun-badge.png",
+      "file_name": "images/interface_symbols/hehim-pronoun-badge.png",
       "added_on": "2025-08-18 13:29:26",
       "slug": "hehim-pronoun-badge",
       "category": "Interface & Symbols",
@@ -101426,7 +101426,7 @@
     },
     {
       "title": "Heian Court Fan",
-      "file_name": "heian-court-fan.png",
+      "file_name": "images/history_culture/heian-court-fan.png",
       "added_on": "2025-10-05 14:31:37",
       "slug": "heian-court-fan",
       "category": "History & Culture",
@@ -104224,7 +104224,7 @@
     },
     {
       "title": "Helmeted Guineafowl",
-      "file_name": "helmeted-guineafowl.png",
+      "file_name": "images/animals/helmeted-guineafowl.png",
       "added_on": "2025-10-12 08:31:44",
       "slug": "helmeted-guineafowl",
       "category": "Animals",
@@ -117715,7 +117715,7 @@
     },
     {
       "title": "Helmet Camera",
-      "file_name": "helmet-camera.png",
+      "file_name": "images/sports/helmet-camera.png",
       "added_on": "2025-11-25 10:11:34",
       "slug": "helmet-camera",
       "category": "Sports",
@@ -130822,7 +130822,7 @@
     },
     {
       "title": "Hellbender",
-      "file_name": "hellbender.png",
+      "file_name": "images/animals/hellbender.png",
       "added_on": "2026-03-18 15:51:17",
       "slug": "hellbender",
       "category": "Animals",
