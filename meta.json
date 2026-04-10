@@ -12384,7 +12384,7 @@
     },
     {
       "title": "Geode",
-      "file_name": "geode.png",
+      "file_name": "images/space_science/geode.png",
       "added_on": "2025-05-25 16:21:30",
       "slug": "geode",
       "category": "Space & Science",
@@ -14312,7 +14312,7 @@
     },
     {
       "title": "Gender Reveal",
-      "file_name": "gender-reveal.png",
+      "file_name": "images/events/gender-reveal.png",
       "added_on": "2025-05-26 20:50:43",
       "slug": "gender-reveal",
       "category": "Events",
@@ -22446,7 +22446,7 @@
     },
     {
       "title": "Gecko",
-      "file_name": "gecko.png",
+      "file_name": "images/animals/gecko.png",
       "added_on": "2025-06-03 18:01:03",
       "slug": "gecko",
       "category": "Animals",
@@ -27733,7 +27733,7 @@
     },
     {
       "title": "Geocaching GPS",
-      "file_name": "geocaching-gps.png",
+      "file_name": "images/hobbies/geocaching-gps.png",
       "added_on": "2025-06-08 11:31:31",
       "slug": "geocaching-gps",
       "category": "Hobbies",
@@ -32245,7 +32245,7 @@
     },
     {
       "title": "Gemologist",
-      "file_name": "gemologist.png",
+      "file_name": "images/professions/gemologist.png",
       "added_on": "2025-06-11 08:31:02",
       "slug": "gemologist",
       "category": "Professions",
@@ -33589,7 +33589,7 @@
     },
     {
       "title": "Gene Sequencer",
-      "file_name": "gene-sequencer.png",
+      "file_name": "images/space_science/gene-sequencer.png",
       "added_on": "2025-06-11 18:54:53",
       "slug": "gene-sequencer",
       "category": "Space & Science",
@@ -33797,7 +33797,7 @@
     },
     {
       "title": "Generator",
-      "file_name": "generator.png",
+      "file_name": "images/work_industry/generator.png",
       "added_on": "2025-06-11 20:26:05",
       "slug": "generator",
       "category": "Work & Industry",
@@ -38354,7 +38354,7 @@
     },
     {
       "title": "Genie's Lamp",
-      "file_name": "genies-lamp.png",
+      "file_name": "images/fantasy_imagination/genies-lamp.png",
       "added_on": "2025-06-13 01:43:21",
       "slug": "genies-lamp",
       "category": "Fantasy & Imagination",
@@ -42164,7 +42164,7 @@
     },
     {
       "title": "Gelato",
-      "file_name": "gelato.png",
+      "file_name": "images/food_drink/gelato.png",
       "added_on": "2025-06-14 01:49:08",
       "slug": "gelato",
       "category": "Food & Drink",
@@ -44795,7 +44795,7 @@
     },
     {
       "title": "Gelada",
-      "file_name": "gelada.png",
+      "file_name": "images/animals/gelada.png",
       "added_on": "2025-06-14 19:48:59",
       "slug": "gelada",
       "category": "Animals",
@@ -59954,7 +59954,7 @@
     },
     {
       "title": "Gemini Zodiac Sign",
-      "file_name": "gemini-zodiac-sign.png",
+      "file_name": "images/history_culture/gemini-zodiac-sign.png",
       "added_on": "2025-07-08 10:20:20",
       "slug": "gemini-zodiac-sign",
       "category": "History & Culture",
@@ -65860,7 +65860,7 @@
     },
     {
       "title": "Gemstone Beetle",
-      "file_name": "gemstone-beetle.png",
+      "file_name": "images/fantasy_imagination/gemstone-beetle.png",
       "added_on": "2025-07-11 00:01:01",
       "slug": "gemstone-beetle",
       "category": "Fantasy & Imagination",
@@ -67169,7 +67169,7 @@
     },
     {
       "title": "Gearbox",
-      "file_name": "gearbox.png",
+      "file_name": "images/vehicles_transport/gearbox.png",
       "added_on": "2025-07-12 03:41:21",
       "slug": "gearbox",
       "category": "Vehicles & Transport",
@@ -70254,7 +70254,7 @@
     },
     {
       "title": "Gelatinous Cube",
-      "file_name": "gelatinous-cube.png",
+      "file_name": "images/fantasy_imagination/gelatinous-cube.png",
       "added_on": "2025-07-14 10:07:30",
       "slug": "gelatinous-cube",
       "category": "Fantasy & Imagination",
@@ -73264,7 +73264,7 @@
     },
     {
       "title": "Geodesic Dome House",
-      "file_name": "geodesic-dome-house.png",
+      "file_name": "images/places_structures/geodesic-dome-house.png",
       "added_on": "2025-07-17 12:22:02",
       "slug": "geodesic-dome-house",
       "category": "Places & Structures",
@@ -88835,7 +88835,7 @@
     },
     {
       "title": "Genghis Khan",
-      "file_name": "genghis-khan.png",
+      "file_name": "images/historical_figures/genghis-khan.png",
       "added_on": "2025-09-06 15:01:08",
       "slug": "genghis-khan",
       "category": "Historical Figures",
@@ -91174,7 +91174,7 @@
     },
     {
       "title": "Gemsbok",
-      "file_name": "gemsbok.png",
+      "file_name": "images/animals/gemsbok.png",
       "added_on": "2025-09-10 16:51:31",
       "slug": "gemsbok",
       "category": "Animals",
@@ -105706,7 +105706,7 @@
     },
     {
       "title": "Gelato Batch Freezer",
-      "file_name": "gelato-batch-freezer.png",
+      "file_name": "images/food_drink/gelato-batch-freezer.png",
       "added_on": "2025-10-16 18:31:35",
       "slug": "gelato-batch-freezer",
       "category": "Food & Drink",
@@ -113198,7 +113198,7 @@
     },
     {
       "title": "Geisha Wig",
-      "file_name": "geisha-wig.png",
+      "file_name": "images/history_culture/geisha-wig.png",
       "added_on": "2025-11-05 22:32:03",
       "slug": "geisha-wig",
       "category": "History & Culture",
@@ -130887,7 +130887,7 @@
     },
     {
       "title": "Genealogy Chart",
-      "file_name": "genealogy-chart.png",
+      "file_name": "images/hobbies/genealogy-chart.png",
       "added_on": "2026-03-18 23:51:20",
       "slug": "genealogy-chart",
       "category": "Hobbies",
