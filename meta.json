@@ -3310,7 +3310,7 @@
     },
     {
       "title": "Wolf",
-      "file_name": "wolf.png",
+      "file_name": "images/animals/wolf.png",
       "added_on": "2025-05-16 19:45:53",
       "slug": "wolf",
       "category": "Animals",
@@ -18554,7 +18554,7 @@
     },
     {
       "title": "Wok",
-      "file_name": "wok.png",
+      "file_name": "images/food_drink/wok.png",
       "added_on": "2025-06-01 08:25:01",
       "slug": "wok",
       "category": "Food & Drink",
@@ -29713,7 +29713,7 @@
     },
     {
       "title": "Wishing Well",
-      "file_name": "wishing-well.png",
+      "file_name": "images/fantasy_imagination/wishing-well.png",
       "added_on": "2025-06-10 14:07:08",
       "slug": "wishing-well",
       "category": "Fantasy & Imagination",
@@ -30408,7 +30408,7 @@
     },
     {
       "title": "Wolf",
-      "file_name": "wolf-1.png",
+      "file_name": "images/animals/wolf-1.png",
       "added_on": "2025-06-10 18:29:08",
       "slug": "wolf-1",
       "category": "Animals",
@@ -30682,7 +30682,7 @@
     },
     {
       "title": "Wizard",
-      "file_name": "wizard.png",
+      "file_name": "images/fantasy_imagination/wizard.png",
       "added_on": "2025-06-10 19:49:14",
       "slug": "wizard",
       "category": "Fantasy & Imagination",
@@ -37146,7 +37146,7 @@
     },
     {
       "title": "Witch's Broomstick",
-      "file_name": "witchs-broomstick.png",
+      "file_name": "images/fantasy_imagination/witchs-broomstick.png",
       "added_on": "2025-06-12 22:43:03",
       "slug": "witchs-broomstick",
       "category": "Fantasy & Imagination",
@@ -57160,7 +57160,7 @@
     },
     {
       "title": "Wizard\u2019s Mask",
-      "file_name": "wizards-mask.png",
+      "file_name": "images/fantasy_imagination/wizards-mask.png",
       "added_on": "2025-07-05 19:21:22",
       "slug": "wizards-mask",
       "category": "Fantasy & Imagination",
@@ -58042,7 +58042,7 @@
     },
     {
       "title": "Wolf Den",
-      "file_name": "wolf-den.png",
+      "file_name": "images/nature_outdoors/wolf-den.png",
       "added_on": "2025-07-06 03:16:18",
       "slug": "wolf-den",
       "category": "Nature & Outdoors",
@@ -58426,7 +58426,7 @@
     },
     {
       "title": "Wizard Hat",
-      "file_name": "wizard-hat.png",
+      "file_name": "images/fantasy_imagination/wizard-hat.png",
       "added_on": "2025-07-06 10:46:18",
       "slug": "wizard-hat",
       "category": "Fantasy & Imagination",
@@ -58844,7 +58844,7 @@
     },
     {
       "title": "Wisteria Vine",
-      "file_name": "wisteria-vine.png",
+      "file_name": "images/nature_outdoors/wisteria-vine.png",
       "added_on": "2025-07-06 17:11:05",
       "slug": "wisteria-vine",
       "category": "Nature & Outdoors",
@@ -64489,7 +64489,7 @@
     },
     {
       "title": "Wolf Howl",
-      "file_name": "wolf-howl.png",
+      "file_name": "images/nature_outdoors/wolf-howl.png",
       "added_on": "2025-07-10 12:41:03",
       "slug": "wolf-howl",
       "category": "Nature & Outdoors",
@@ -66747,7 +66747,7 @@
     },
     {
       "title": "Wishbone",
-      "file_name": "wishbone.png",
+      "file_name": "images/everyday_life/wishbone.png",
       "added_on": "2025-07-11 21:41:57",
       "slug": "wishbone",
       "category": "Everyday Life",
@@ -69862,7 +69862,7 @@
     },
     {
       "title": "Wizard",
-      "file_name": "wizard-1.png",
+      "file_name": "images/fantasy_imagination/wizard-1.png",
       "added_on": "2025-07-14 09:58:49",
       "slug": "wizard-1",
       "category": "Fantasy & Imagination",
@@ -71741,7 +71741,7 @@
     },
     {
       "title": "Witch Girl",
-      "file_name": "witch-girl.png",
+      "file_name": "images/fantasy_imagination/witch-girl.png",
       "added_on": "2025-07-16 08:41:42",
       "slug": "witch-girl",
       "category": "Fantasy & Imagination",
@@ -83165,7 +83165,7 @@
     },
     {
       "title": "Witches Hat",
-      "file_name": "witches-hat.png",
+      "file_name": "images/fantasy_imagination/witches-hat.png",
       "added_on": "2025-08-08 06:56:30",
       "slug": "witches-hat",
       "category": "Fantasy & Imagination",
@@ -87054,7 +87054,7 @@
     },
     {
       "title": "Wisent",
-      "file_name": "wisent.png",
+      "file_name": "images/animals/wisent.png",
       "added_on": "2025-08-30 15:51:23",
       "slug": "wisent",
       "category": "Animals",
@@ -91943,7 +91943,7 @@
     },
     {
       "title": "Wolf-Eel",
-      "file_name": "wolf-eel.png",
+      "file_name": "images/animals/wolf-eel.png",
       "added_on": "2025-09-12 14:41:28",
       "slug": "wolf-eel",
       "category": "Animals",
@@ -92657,7 +92657,7 @@
     },
     {
       "title": "Wizard Wand",
-      "file_name": "wizard-wand.png",
+      "file_name": "images/entertainment_leisure/wizard-wand.png",
       "added_on": "2025-09-15 11:41:23",
       "slug": "wizard-wand",
       "category": "Entertainment & Leisure",
@@ -94897,7 +94897,7 @@
     },
     {
       "title": "Wishlist",
-      "file_name": "wishlist.png",
+      "file_name": "images/everyday_life/wishlist.png",
       "added_on": "2025-09-19 13:51:07",
       "slug": "wishlist",
       "category": "Everyday Life",
@@ -102212,7 +102212,7 @@
     },
     {
       "title": "Wobble Board",
-      "file_name": "wobble-board.png",
+      "file_name": "images/entertainment_leisure/wobble-board.png",
       "added_on": "2025-10-08 15:41:41",
       "slug": "wobble-board",
       "category": "Entertainment & Leisure",
@@ -125242,7 +125242,7 @@
     },
     {
       "title": "Wobble Stool",
-      "file_name": "wobble-stool.png",
+      "file_name": "images/health_wellness/wobble-stool.png",
       "added_on": "2026-02-11 01:31:07",
       "slug": "wobble-stool",
       "category": "Health & Wellness",
