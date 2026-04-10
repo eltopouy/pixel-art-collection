@@ -11331,7 +11331,7 @@
     },
     {
       "title": "Verified",
-      "file_name": "verified.png",
+      "file_name": "images/interface_symbols/verified.png",
       "added_on": "2025-05-24 04:41:25",
       "slug": "verified",
       "category": "Interface & Symbols",
@@ -14169,7 +14169,7 @@
     },
     {
       "title": "Vesak",
-      "file_name": "vesak.png",
+      "file_name": "images/events/vesak.png",
       "added_on": "2025-05-26 19:00:44",
       "slug": "vesak",
       "category": "Events",
@@ -21897,7 +21897,7 @@
     },
     {
       "title": "Venezuela",
-      "file_name": "venezuela.png",
+      "file_name": "images/countries/venezuela.png",
       "added_on": "2025-06-03 14:30:59",
       "slug": "venezuela",
       "category": "Countries",
@@ -34005,7 +34005,7 @@
     },
     {
       "title": "Vernal Pool",
-      "file_name": "vernal-pool.png",
+      "file_name": "images/nature_outdoors/vernal-pool.png",
       "added_on": "2025-06-11 21:49:00",
       "slug": "vernal-pool",
       "category": "Nature & Outdoors",
@@ -37308,7 +37308,7 @@
     },
     {
       "title": "Versailles Palace",
-      "file_name": "versailles-palace.png",
+      "file_name": "images/places_structures/versailles-palace.png",
       "added_on": "2025-06-12 23:01:59",
       "slug": "versailles-palace",
       "category": "Places & Structures",
@@ -54019,7 +54019,7 @@
     },
     {
       "title": "Verified Shield",
-      "file_name": "verified-shield.png",
+      "file_name": "images/interface_symbols/verified-shield.png",
       "added_on": "2025-06-27 08:39:24",
       "slug": "verified-shield",
       "category": "Interface & Symbols",
@@ -66643,7 +66643,7 @@
     },
     {
       "title": "Vertical Storage Rack",
-      "file_name": "vertical-storage-rack.png",
+      "file_name": "images/places_structures/vertical-storage-rack.png",
       "added_on": "2025-07-11 20:11:40",
       "slug": "vertical-storage-rack",
       "category": "Places & Structures",
@@ -69054,7 +69054,7 @@
     },
     {
       "title": "Venus Flytrap",
-      "file_name": "venus-flytrap.png",
+      "file_name": "images/nature_outdoors/venus-flytrap.png",
       "added_on": "2025-07-13 15:41:40",
       "slug": "venus-flytrap",
       "category": "Nature & Outdoors",
@@ -75899,7 +75899,7 @@
     },
     {
       "title": "Ventriloquist Dummy",
-      "file_name": "ventriloquist-dummy.png",
+      "file_name": "images/entertainment_leisure/ventriloquist-dummy.png",
       "added_on": "2025-07-20 11:01:34",
       "slug": "ventriloquist-dummy",
       "category": "Entertainment & Leisure",
@@ -76770,7 +76770,7 @@
     },
     {
       "title": "Vest",
-      "file_name": "vest.png",
+      "file_name": "images/fashion_style/vest.png",
       "added_on": "2025-07-21 10:03:48",
       "slug": "vest",
       "category": "Fashion & Style",
@@ -78389,7 +78389,7 @@
     },
     {
       "title": "Vervet Monkey",
-      "file_name": "vervet-monkey.png",
+      "file_name": "images/animals/vervet-monkey.png",
       "added_on": "2025-07-24 16:11:46",
       "slug": "vervet-monkey",
       "category": "Animals",
@@ -81923,7 +81923,7 @@
     },
     {
       "title": "Venus",
-      "file_name": "venus.png",
+      "file_name": "images/space_science/venus.png",
       "added_on": "2025-08-02 17:11:14",
       "slug": "venus",
       "category": "Space & Science",
@@ -97416,7 +97416,7 @@
     },
     {
       "title": "Ventilation Duct",
-      "file_name": "ventilation-duct.png",
+      "file_name": "images/work_industry/ventilation-duct.png",
       "added_on": "2025-09-25 16:31:22",
       "slug": "ventilation-duct",
       "category": "Work & Industry",
@@ -100076,7 +100076,7 @@
     },
     {
       "title": "Venetian Glass Bead",
-      "file_name": "venetian-glass-bead.png",
+      "file_name": "images/history_culture/venetian-glass-bead.png",
       "added_on": "2025-10-02 14:11:19",
       "slug": "venetian-glass-bead",
       "category": "History & Culture",
@@ -102751,7 +102751,7 @@
     },
     {
       "title": "Versus Symbol",
-      "file_name": "versus-symbol.png",
+      "file_name": "images/interface_symbols/versus-symbol.png",
       "added_on": "2025-10-09 01:51:42",
       "slug": "versus-symbol",
       "category": "Interface & Symbols",
@@ -103195,7 +103195,7 @@
     },
     {
       "title": "Venetian Gondola",
-      "file_name": "venetian-gondola.png",
+      "file_name": "images/history_culture/venetian-gondola.png",
       "added_on": "2025-10-09 20:21:38",
       "slug": "venetian-gondola",
       "category": "History & Culture",
@@ -110299,7 +110299,7 @@
     },
     {
       "title": "Vertical Farm",
-      "file_name": "vertical-farm.png",
+      "file_name": "images/places_structures/vertical-farm.png",
       "added_on": "2025-10-29 10:32:02",
       "slug": "vertical-farm",
       "category": "Places & Structures",
@@ -111527,7 +111527,7 @@
     },
     {
       "title": "Venezuelan Poodle Moth",
-      "file_name": "venezuelan-poodle-moth.png",
+      "file_name": "images/animals/venezuelan-poodle-moth.png",
       "added_on": "2025-11-01 15:41:58",
       "slug": "venezuelan-poodle-moth",
       "category": "Animals",
@@ -121193,7 +121193,7 @@
     },
     {
       "title": "Venezuelan flag",
-      "file_name": "venezuelan-flag.png",
+      "file_name": "images/flags/venezuelan-flag.png",
       "added_on": "2026-01-23 05:11:16",
       "slug": "venezuelan-flag",
       "category": "Flags",
@@ -123472,7 +123472,7 @@
     },
     {
       "title": "Vertical Shantytown",
-      "file_name": "vertical-shantytown.png",
+      "file_name": "images/places_structures/vertical-shantytown.png",
       "added_on": "2026-02-01 15:41:18",
       "slug": "vertical-shantytown",
       "category": "Places & Structures",
