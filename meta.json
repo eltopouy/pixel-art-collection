@@ -7923,7 +7923,7 @@
     },
     {
       "title": "Thailand",
-      "file_name": "thailand.png",
+      "file_name": "images/countries/thailand.png",
       "added_on": "2025-05-20 01:21:03",
       "slug": "thailand",
       "category": "Countries",
@@ -17434,7 +17434,7 @@
     },
     {
       "title": "The Great Wave",
-      "file_name": "the-great-wave.png",
+      "file_name": "images/history_culture/the-great-wave.png",
       "added_on": "2025-05-31 11:02:33",
       "slug": "the-great-wave",
       "category": "History & Culture",
@@ -19740,7 +19740,7 @@
     },
     {
       "title": "The Great Pyramid",
-      "file_name": "the-great-pyramid.png",
+      "file_name": "images/places_structures/the-great-pyramid.png",
       "added_on": "2025-06-02 09:32:05",
       "slug": "the-great-pyramid",
       "category": "Places & Structures",
@@ -19982,7 +19982,7 @@
     },
     {
       "title": "The Parthenon",
-      "file_name": "the-parthenon.png",
+      "file_name": "images/places_structures/the-parthenon.png",
       "added_on": "2025-06-02 09:39:43",
       "slug": "the-parthenon",
       "category": "Places & Structures",
@@ -20561,7 +20561,7 @@
     },
     {
       "title": "The Bit from Tron",
-      "file_name": "the-bit-from-tron.png",
+      "file_name": "images/technology_media/the-bit-from-tron.png",
       "added_on": "2025-06-02 10:17:46",
       "slug": "the-bit-from-tron",
       "category": "Technology & Media",
@@ -21487,7 +21487,7 @@
     },
     {
       "title": "The Real Book",
-      "file_name": "the-real-book.png",
+      "file_name": "images/entertainment_leisure/the-real-book.png",
       "added_on": "2025-06-03 08:08:03",
       "slug": "the-real-book",
       "category": "Entertainment & Leisure",
@@ -23857,7 +23857,7 @@
     },
     {
       "title": "Thaumatrope",
-      "file_name": "thaumatrope.png",
+      "file_name": "images/entertainment_leisure/thaumatrope.png",
       "added_on": "2025-06-04 08:49:25",
       "slug": "thaumatrope",
       "category": "Entertainment & Leisure",
@@ -40859,7 +40859,7 @@
     },
     {
       "title": "The Red Baron's Tri-Wing",
-      "file_name": "the-red-barons-tri-wing.png",
+      "file_name": "images/vehicles_transport/the-red-barons-tri-wing.png",
       "added_on": "2025-06-13 22:27:18",
       "slug": "the-red-barons-tri-wing",
       "category": "Vehicles & Transport",
@@ -48170,7 +48170,7 @@
     },
     {
       "title": "The Roman Gladiator",
-      "file_name": "the-roman-gladiator.png",
+      "file_name": "images/history_culture/the-roman-gladiator.png",
       "added_on": "2025-06-20 13:31:17",
       "slug": "the-roman-gladiator",
       "category": "History & Culture",
@@ -77727,7 +77727,7 @@
     },
     {
       "title": "The Gambia",
-      "file_name": "the-gambia.png",
+      "file_name": "images/countries/the-gambia.png",
       "added_on": "2025-07-24 09:04:35",
       "slug": "the-gambia",
       "category": "Countries",
@@ -81083,7 +81083,7 @@
     },
     {
       "title": "Thank You",
-      "file_name": "thank-you.png",
+      "file_name": "images/everyday_life/thank-you.png",
       "added_on": "2025-07-28 18:31:35",
       "slug": "thank-you",
       "category": "Everyday Life",
@@ -83376,7 +83376,7 @@
     },
     {
       "title": "Thai Flag",
-      "file_name": "thai-flag.png",
+      "file_name": "images/flags/thai-flag.png",
       "added_on": "2025-08-12 15:59:39",
       "slug": "thai-flag",
       "category": "Flags",
@@ -85227,7 +85227,7 @@
     },
     {
       "title": "The Grand Hotel Taipei",
-      "file_name": "the-grand-hotel-taipei.png",
+      "file_name": "images/places_structures/the-grand-hotel-taipei.png",
       "added_on": "2025-08-20 14:41:33",
       "slug": "the-grand-hotel-taipei",
       "category": "Places & Structures",
@@ -87529,7 +87529,7 @@
     },
     {
       "title": "The Scream",
-      "file_name": "the-scream.png",
+      "file_name": "images/history_culture/the-scream.png",
       "added_on": "2025-09-02 14:01:32",
       "slug": "the-scream",
       "category": "History & Culture",
@@ -87830,7 +87830,7 @@
     },
     {
       "title": "The Last Supper",
-      "file_name": "the-last-supper.png",
+      "file_name": "images/history_culture/the-last-supper.png",
       "added_on": "2025-09-04 12:01:21",
       "slug": "the-last-supper",
       "category": "History & Culture",
@@ -87843,7 +87843,7 @@
     },
     {
       "title": "The Persistence of Memory",
-      "file_name": "the-persistence-of-memory.png",
+      "file_name": "images/history_culture/the-persistence-of-memory.png",
       "added_on": "2025-09-04 12:11:11",
       "slug": "the-persistence-of-memory",
       "category": "History & Culture",
@@ -88441,7 +88441,7 @@
     },
     {
       "title": "Thanks",
-      "file_name": "thanks.png",
+      "file_name": "images/everyday_life/thanks.png",
       "added_on": "2025-09-05 01:01:46",
       "slug": "thanks",
       "category": "Everyday Life",
@@ -122554,7 +122554,7 @@
     },
     {
       "title": "The Berlin Wall",
-      "file_name": "the-berlin-wall.png",
+      "file_name": "images/historical_figures/the-berlin-wall.png",
       "added_on": "2026-01-29 14:21:16",
       "slug": "the-berlin-wall",
       "category": "Historical Figures",
@@ -122567,7 +122567,7 @@
     },
     {
       "title": "The Colosseum",
-      "file_name": "the-colosseum.png",
+      "file_name": "images/historical_figures/the-colosseum.png",
       "added_on": "2026-01-29 14:41:15",
       "slug": "the-colosseum",
       "category": "Historical Figures",
@@ -125652,7 +125652,7 @@
     },
     {
       "title": "The River Nile",
-      "file_name": "the-river-nile.png",
+      "file_name": "images/nature_outdoors/the-river-nile.png",
       "added_on": "2026-02-11 09:19:33",
       "slug": "the-river-nile",
       "category": "Nature & Outdoors",
