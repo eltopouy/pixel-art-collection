@@ -3843,7 +3843,7 @@
     },
     {
       "title": "Raincoat",
-      "file_name": "raincoat.png",
+      "file_name": "images/nature_outdoors/raincoat.png",
       "added_on": "2025-05-16 23:56:04",
       "slug": "raincoat",
       "category": "Nature & Outdoors",
@@ -11045,7 +11045,7 @@
     },
     {
       "title": "Rainbow",
-      "file_name": "rainbow.png",
+      "file_name": "images/nature_outdoors/rainbow.png",
       "added_on": "2025-05-24 01:01:20",
       "slug": "rainbow",
       "category": "Nature & Outdoors",
@@ -14156,7 +14156,7 @@
     },
     {
       "title": "Raksha Bandhan",
-      "file_name": "raksha-bandhan.png",
+      "file_name": "images/events/raksha-bandhan.png",
       "added_on": "2025-05-26 18:50:51",
       "slug": "raksha-bandhan",
       "category": "Events",
@@ -15664,7 +15664,7 @@
     },
     {
       "title": "Raisin",
-      "file_name": "raisin.png",
+      "file_name": "images/food_drink/raisin.png",
       "added_on": "2025-05-27 18:40:54",
       "slug": "raisin",
       "category": "Food & Drink",
@@ -27447,7 +27447,7 @@
     },
     {
       "title": "Rake",
-      "file_name": "rake.png",
+      "file_name": "images/everyday_life/rake.png",
       "added_on": "2025-06-08 02:31:20",
       "slug": "rake",
       "category": "Everyday Life",
@@ -38970,7 +38970,7 @@
     },
     {
       "title": "Rally",
-      "file_name": "rally.png",
+      "file_name": "images/events/rally.png",
       "added_on": "2025-06-13 06:19:23",
       "slug": "rally",
       "category": "Events",
@@ -43020,7 +43020,7 @@
     },
     {
       "title": "Rainforest",
-      "file_name": "rainforest.png",
+      "file_name": "images/nature_outdoors/rainforest.png",
       "added_on": "2025-06-14 08:49:11",
       "slug": "rainforest",
       "category": "Nature & Outdoors",
@@ -49993,7 +49993,7 @@
     },
     {
       "title": "Rainbow Trout",
-      "file_name": "rainbow-trout.png",
+      "file_name": "images/animals/rainbow-trout.png",
       "added_on": "2025-06-22 21:39:19",
       "slug": "rainbow-trout",
       "category": "Animals",
@@ -54189,7 +54189,7 @@
     },
     {
       "title": "Rally Car",
-      "file_name": "rally-car.png",
+      "file_name": "images/vehicles_transport/rally-car.png",
       "added_on": "2025-06-27 11:40:15",
       "slug": "rally-car",
       "category": "Vehicles & Transport",
@@ -57043,7 +57043,7 @@
     },
     {
       "title": "Rainstorm",
-      "file_name": "rainstorm.png",
+      "file_name": "images/nature_outdoors/rainstorm.png",
       "added_on": "2025-07-05 18:11:01",
       "slug": "rainstorm",
       "category": "Nature & Outdoors",
@@ -58753,7 +58753,7 @@
     },
     {
       "title": "Rainforest Canopy Walkway",
-      "file_name": "rainforest-canopy-walkway.png",
+      "file_name": "images/places_structures/rainforest-canopy-walkway.png",
       "added_on": "2025-07-06 15:31:15",
       "slug": "rainforest-canopy-walkway",
       "category": "Places & Structures",
@@ -59550,7 +59550,7 @@
     },
     {
       "title": "Rambutan",
-      "file_name": "rambutan.png",
+      "file_name": "images/food_drink/rambutan.png",
       "added_on": "2025-07-07 08:06:09",
       "slug": "rambutan",
       "category": "Food & Drink",
@@ -62623,7 +62623,7 @@
     },
     {
       "title": "Rainbow Suspenders",
-      "file_name": "rainbow-suspenders.png",
+      "file_name": "images/fashion_style/rainbow-suspenders.png",
       "added_on": "2025-07-09 07:21:02",
       "slug": "rainbow-suspenders",
       "category": "Fashion & Style",
@@ -77254,7 +77254,7 @@
     },
     {
       "title": "Ramen Burger",
-      "file_name": "ramen-burger.png",
+      "file_name": "images/food_drink/ramen-burger.png",
       "added_on": "2025-07-22 12:42:02",
       "slug": "ramen-burger",
       "category": "Food & Drink",
@@ -79347,7 +79347,7 @@
     },
     {
       "title": "RAM",
-      "file_name": "ram.png",
+      "file_name": "images/technology_media/ram.png",
       "added_on": "2025-07-25 02:21:47",
       "slug": "ram",
       "category": "Technology & Media",
@@ -95363,7 +95363,7 @@
     },
     {
       "title": "Rainstick",
-      "file_name": "rainstick.png",
+      "file_name": "images/hobbies/rainstick.png",
       "added_on": "2025-09-21 09:51:15",
       "slug": "rainstick",
       "category": "Hobbies",
@@ -97312,7 +97312,7 @@
     },
     {
       "title": "Rainbow Sushi Roll",
-      "file_name": "rainbow-sushi-roll.png",
+      "file_name": "images/food_drink/rainbow-sushi-roll.png",
       "added_on": "2025-09-25 15:11:25",
       "slug": "rainbow-sushi-roll",
       "category": "Food & Drink",
@@ -107821,7 +107821,7 @@
     },
     {
       "title": "Rainbow Wig",
-      "file_name": "rainbow-wig.png",
+      "file_name": "images/entertainment_leisure/rainbow-wig.png",
       "added_on": "2025-10-23 17:11:22",
       "slug": "rainbow-wig",
       "category": "Entertainment & Leisure",
@@ -115344,7 +115344,7 @@
     },
     {
       "title": "Rainbow Umbrella",
-      "file_name": "rainbow-umbrella.png",
+      "file_name": "images/entertainment_leisure/rainbow-umbrella.png",
       "added_on": "2025-11-14 12:32:00",
       "slug": "rainbow-umbrella",
       "category": "Entertainment & Leisure",
@@ -117112,7 +117112,7 @@
     },
     {
       "title": "Rainwater Harvesting Tower",
-      "file_name": "rainwater-harvesting-tower.png",
+      "file_name": "images/places_structures/rainwater-harvesting-tower.png",
       "added_on": "2025-11-24 10:11:41",
       "slug": "rainwater-harvesting-tower",
       "category": "Places & Structures",
