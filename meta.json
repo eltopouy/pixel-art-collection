@@ -10447,7 +10447,7 @@
     },
     {
       "title": "Ticket",
-      "file_name": "ticket.png",
+      "file_name": "images/everyday_life/ticket.png",
       "added_on": "2025-05-23 17:11:14",
       "slug": "ticket",
       "category": "Everyday Life",
@@ -13425,7 +13425,7 @@
     },
     {
       "title": "Thunder",
-      "file_name": "thunder.png",
+      "file_name": "images/nature_outdoors/thunder.png",
       "added_on": "2025-05-26 08:21:25",
       "slug": "thunder",
       "category": "Nature & Outdoors",
@@ -17655,7 +17655,7 @@
     },
     {
       "title": "Ticket",
-      "file_name": "ticket-4xjdbi.png",
+      "file_name": "images/events/ticket-4xjdbi.png",
       "added_on": "2025-05-31 17:23:34",
       "slug": "ticket-4xjdbi",
       "category": "Events",
@@ -33115,7 +33115,7 @@
     },
     {
       "title": "Thundercloud",
-      "file_name": "thundercloud.png",
+      "file_name": "images/nature_outdoors/thundercloud.png",
       "added_on": "2025-06-11 14:42:44",
       "slug": "thundercloud",
       "category": "Nature & Outdoors",
@@ -39950,7 +39950,7 @@
     },
     {
       "title": "Ticket stub",
-      "file_name": "ticket-stub.png",
+      "file_name": "images/entertainment_leisure/ticket-stub.png",
       "added_on": "2025-06-13 15:07:25",
       "slug": "ticket-stub",
       "category": "Entertainment & Leisure",
@@ -41375,7 +41375,7 @@
     },
     {
       "title": "Tibetan Singing Bowl",
-      "file_name": "tibetan-singing-bowl.png",
+      "file_name": "images/history_culture/tibetan-singing-bowl.png",
       "added_on": "2025-06-13 22:32:30",
       "slug": "tibetan-singing-bowl",
       "category": "History & Culture",
@@ -49684,7 +49684,7 @@
     },
     {
       "title": "Tibetan Mastiff",
-      "file_name": "tibetan-mastiff.png",
+      "file_name": "images/animals/tibetan-mastiff.png",
       "added_on": "2025-06-22 17:34:58",
       "slug": "tibetan-mastiff",
       "category": "Animals",
@@ -49712,7 +49712,7 @@
     },
     {
       "title": "Tibetan Terrier",
-      "file_name": "tibetan-terrier.png",
+      "file_name": "images/animals/tibetan-terrier.png",
       "added_on": "2025-06-22 17:35:08",
       "slug": "tibetan-terrier",
       "category": "Animals",
@@ -83415,7 +83415,7 @@
     },
     {
       "title": "Tick",
-      "file_name": "tick.png",
+      "file_name": "images/interface_symbols/tick.png",
       "added_on": "2025-08-12 15:59:44",
       "slug": "tick",
       "category": "Interface & Symbols",
@@ -83545,7 +83545,7 @@
     },
     {
       "title": "Thyme",
-      "file_name": "thyme.png",
+      "file_name": "images/food_drink/thyme.png",
       "added_on": "2025-08-16 20:01:06",
       "slug": "thyme",
       "category": "Food & Drink",
@@ -88558,7 +88558,7 @@
     },
     {
       "title": "Tick Remover",
-      "file_name": "tick-remover.png",
+      "file_name": "images/health_wellness/tick-remover.png",
       "added_on": "2025-09-05 12:11:04",
       "slug": "tick-remover",
       "category": "Health & Wellness",
@@ -91930,7 +91930,7 @@
     },
     {
       "title": "Tibetan Prayer Wheel",
-      "file_name": "tibetan-prayer-wheel.png",
+      "file_name": "images/history_culture/tibetan-prayer-wheel.png",
       "added_on": "2025-09-12 14:31:25",
       "slug": "tibetan-prayer-wheel",
       "category": "History & Culture",
@@ -106046,7 +106046,7 @@
     },
     {
       "title": "Ticket Punch",
-      "file_name": "ticket-punch.png",
+      "file_name": "images/hobbies/ticket-punch.png",
       "added_on": "2025-10-20 16:41:32",
       "slug": "ticket-punch",
       "category": "Hobbies",
@@ -111787,7 +111787,7 @@
     },
     {
       "title": "Ticket Dispenser",
-      "file_name": "ticket-dispenser.png",
+      "file_name": "images/work_industry/ticket-dispenser.png",
       "added_on": "2025-11-01 19:11:50",
       "slug": "ticket-dispenser",
       "category": "Work & Industry",
@@ -112652,7 +112652,7 @@
     },
     {
       "title": "Thurible",
-      "file_name": "thurible.png",
+      "file_name": "images/history_culture/thurible.png",
       "added_on": "2025-11-03 14:03:37",
       "slug": "thurible",
       "category": "History & Culture",
@@ -125456,7 +125456,7 @@
     },
     {
       "title": "Ticket Puncher",
-      "file_name": "ticket-puncher.png",
+      "file_name": "images/work_industry/ticket-puncher.png",
       "added_on": "2026-02-11 04:21:11",
       "slug": "ticket-puncher",
       "category": "Work & Industry",
@@ -126318,7 +126318,7 @@
     },
     {
       "title": "Tibetan Thangka",
-      "file_name": "tibetan-thangka.png",
+      "file_name": "images/history_culture/tibetan-thangka.png",
       "added_on": "2026-02-11 18:01:12",
       "slug": "tibetan-thangka",
       "category": "History & Culture",
@@ -126786,7 +126786,7 @@
     },
     {
       "title": "Tibetan antelope",
-      "file_name": "tibetan-antelope.png",
+      "file_name": "images/animals/tibetan-antelope.png",
       "added_on": "2026-02-23 10:51:18",
       "slug": "tibetan-antelope",
       "category": "Animals",
@@ -128266,7 +128266,7 @@
     },
     {
       "title": "Thyroid Gland",
-      "file_name": "thyroid-gland.png",
+      "file_name": "images/health_wellness/thyroid-gland.png",
       "added_on": "2026-03-09 01:00:48",
       "slug": "thyroid-gland",
       "category": "Health & Wellness",
@@ -129331,7 +129331,7 @@
     },
     {
       "title": "Ticket Booth",
-      "file_name": "ticket-booth.png",
+      "file_name": "images/entertainment_leisure/ticket-booth.png",
       "added_on": "2026-03-09 15:50:53",
       "slug": "ticket-booth",
       "category": "Entertainment & Leisure",
@@ -129918,7 +129918,7 @@
     },
     {
       "title": "Thylacine",
-      "file_name": "thylacine.png",
+      "file_name": "images/animals/thylacine.png",
       "added_on": "2026-03-17 20:30:52",
       "slug": "thylacine",
       "category": "Animals",
