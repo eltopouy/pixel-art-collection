@@ -492,7 +492,7 @@
     },
     {
       "title": "Window",
-      "file_name": "window.png",
+      "file_name": "images/everyday_life/window.png",
       "added_on": "2025-05-15 19:00:59",
       "slug": "window",
       "category": "Everyday Life",
@@ -659,7 +659,7 @@
     },
     {
       "title": "Window Air Conditioner",
-      "file_name": "window-air-conditioner.png",
+      "file_name": "images/everyday_life/window-air-conditioner.png",
       "added_on": "2025-05-15 21:01:02",
       "slug": "window-air-conditioner",
       "category": "Everyday Life",
@@ -866,7 +866,7 @@
     },
     {
       "title": "Window Blinds",
-      "file_name": "window-blinds.png",
+      "file_name": "images/everyday_life/window-blinds.png",
       "added_on": "2025-05-15 23:50:52",
       "slug": "window-blinds",
       "category": "Everyday Life",
@@ -1190,7 +1190,7 @@
     },
     {
       "title": "Window Squeegee",
-      "file_name": "window-squeegee.png",
+      "file_name": "images/everyday_life/window-squeegee.png",
       "added_on": "2025-05-16 04:40:58",
       "slug": "window-squeegee",
       "category": "Everyday Life",
@@ -8586,7 +8586,7 @@
     },
     {
       "title": "Wine Glass",
-      "file_name": "wine-glass.png",
+      "file_name": "images/food_drink/wine-glass.png",
       "added_on": "2025-05-22 16:41:14",
       "slug": "wine-glass",
       "category": "Food & Drink",
@@ -16198,7 +16198,7 @@
     },
     {
       "title": "Windmill",
-      "file_name": "windmill.png",
+      "file_name": "images/places_structures/windmill.png",
       "added_on": "2025-05-28 04:20:53",
       "slug": "windmill",
       "category": "Places & Structures",
@@ -19595,7 +19595,7 @@
     },
     {
       "title": "Wine Bottle",
-      "file_name": "wine-bottle.png",
+      "file_name": "images/food_drink/wine-bottle.png",
       "added_on": "2025-06-02 09:17:17",
       "slug": "wine-bottle",
       "category": "Food & Drink",
@@ -23466,7 +23466,7 @@
     },
     {
       "title": "Wine Barrel",
-      "file_name": "wine-barrel.png",
+      "file_name": "images/food_drink/wine-barrel.png",
       "added_on": "2025-06-04 08:30:16",
       "slug": "wine-barrel",
       "category": "Food & Drink",
@@ -32655,7 +32655,7 @@
     },
     {
       "title": "Windsurf Board",
-      "file_name": "windsurf-board.png",
+      "file_name": "images/sports/windsurf-board.png",
       "added_on": "2025-06-11 12:24:43",
       "slug": "windsurf-board",
       "category": "Sports",
@@ -35041,7 +35041,7 @@
     },
     {
       "title": "Wine tasting",
-      "file_name": "wine-tasting.png",
+      "file_name": "images/hobbies/wine-tasting.png",
       "added_on": "2025-06-12 02:43:06",
       "slug": "wine-tasting",
       "category": "Hobbies",
@@ -37279,7 +37279,7 @@
     },
     {
       "title": "Windsor Castle",
-      "file_name": "windsor-castle.png",
+      "file_name": "images/places_structures/windsor-castle.png",
       "added_on": "2025-06-12 23:01:50",
       "slug": "windsor-castle",
       "category": "Places & Structures",
@@ -58174,7 +58174,7 @@
     },
     {
       "title": "Windsurfing",
-      "file_name": "windsurfing.png",
+      "file_name": "images/sports/windsurfing.png",
       "added_on": "2025-07-06 06:36:20",
       "slug": "windsurfing",
       "category": "Sports",
@@ -71923,7 +71923,7 @@
     },
     {
       "title": "Wind-up Music Box",
-      "file_name": "wind-up-music-box.png",
+      "file_name": "images/hobbies/wind-up-music-box.png",
       "added_on": "2025-07-16 10:21:34",
       "slug": "wind-up-music-box",
       "category": "Hobbies",
@@ -74478,7 +74478,7 @@
     },
     {
       "title": "Wing Corkscrew",
-      "file_name": "wing-corkscrew.png",
+      "file_name": "images/everyday_life/wing-corkscrew.png",
       "added_on": "2025-07-18 14:21:32",
       "slug": "wing-corkscrew",
       "category": "Everyday Life",
@@ -80846,7 +80846,7 @@
     },
     {
       "title": "Window Cleaner",
-      "file_name": "window-cleaner.png",
+      "file_name": "images/professions/window-cleaner.png",
       "added_on": "2025-07-28 17:43:30",
       "slug": "window-cleaner",
       "category": "Professions",
@@ -86881,7 +86881,7 @@
     },
     {
       "title": "Wind",
-      "file_name": "wind.png",
+      "file_name": "images/nature_outdoors/wind.png",
       "added_on": "2025-08-29 13:11:01",
       "slug": "wind",
       "category": "Nature & Outdoors",
@@ -95402,7 +95402,7 @@
     },
     {
       "title": "Windblown Seed",
-      "file_name": "windblown-seed.png",
+      "file_name": "images/nature_outdoors/windblown-seed.png",
       "added_on": "2025-09-21 10:21:17",
       "slug": "windblown-seed",
       "category": "Nature & Outdoors",
@@ -97691,7 +97691,7 @@
     },
     {
       "title": "Window Screen",
-      "file_name": "window-screen.png",
+      "file_name": "images/everyday_life/window-screen.png",
       "added_on": "2025-09-27 11:11:13",
       "slug": "window-screen",
       "category": "Everyday Life",
@@ -106711,7 +106711,7 @@
     },
     {
       "title": "Wind-Up Penguin",
-      "file_name": "wind-up-penguin.png",
+      "file_name": "images/entertainment_leisure/wind-up-penguin.png",
       "added_on": "2025-10-21 13:02:04",
       "slug": "wind-up-penguin",
       "category": "Entertainment & Leisure",
@@ -111396,7 +111396,7 @@
     },
     {
       "title": "Window Decal",
-      "file_name": "window-decal.png",
+      "file_name": "images/everyday_life/window-decal.png",
       "added_on": "2025-10-31 11:42:05",
       "slug": "window-decal",
       "category": "Everyday Life",
