@@ -15313,7 +15313,7 @@
     },
     {
       "title": "Ice Cube",
-      "file_name": "ice-cube.png",
+      "file_name": "images/food_drink/ice-cube.png",
       "added_on": "2025-05-27 12:50:50",
       "slug": "ice-cube",
       "category": "Food & Drink",
@@ -18359,7 +18359,7 @@
     },
     {
       "title": "Ice Skate",
-      "file_name": "ice-skate.png",
+      "file_name": "images/sports/ice-skate.png",
       "added_on": "2025-06-01 08:17:30",
       "slug": "ice-skate",
       "category": "Sports",
@@ -29336,7 +29336,7 @@
     },
     {
       "title": "Ice Hotel",
-      "file_name": "ice-hotel.png",
+      "file_name": "images/places_structures/ice-hotel.png",
       "added_on": "2025-06-10 10:31:38",
       "slug": "ice-hotel",
       "category": "Places & Structures",
@@ -30317,7 +30317,7 @@
     },
     {
       "title": "Iceberg",
-      "file_name": "iceberg.png",
+      "file_name": "images/nature_outdoors/iceberg.png",
       "added_on": "2025-06-10 18:28:47",
       "slug": "iceberg",
       "category": "Nature & Outdoors",
@@ -31198,7 +31198,7 @@
     },
     {
       "title": "Icebreaker Ship",
-      "file_name": "icebreaker-ship.png",
+      "file_name": "images/vehicles_transport/icebreaker-ship.png",
       "added_on": "2025-06-10 23:36:59",
       "slug": "icebreaker-ship",
       "category": "Vehicles & Transport",
@@ -37198,7 +37198,7 @@
     },
     {
       "title": "Ice sculpting",
-      "file_name": "ice-sculpting.png",
+      "file_name": "images/hobbies/ice-sculpting.png",
       "added_on": "2025-06-12 23:01:01",
       "slug": "ice-sculpting",
       "category": "Hobbies",
@@ -43779,7 +43779,7 @@
     },
     {
       "title": "Ice Hockey Goal",
-      "file_name": "ice-hockey-goal.png",
+      "file_name": "images/sports/ice-hockey-goal.png",
       "added_on": "2025-06-14 13:20:24",
       "slug": "ice-hockey-goal",
       "category": "Sports",
@@ -44942,7 +44942,7 @@
     },
     {
       "title": "Ice Rink",
-      "file_name": "ice-rink.png",
+      "file_name": "images/entertainment_leisure/ice-rink.png",
       "added_on": "2025-06-14 21:06:58",
       "slug": "ice-rink",
       "category": "Entertainment & Leisure",
@@ -48599,7 +48599,7 @@
     },
     {
       "title": "Iced Coffee",
-      "file_name": "iced-coffee.png",
+      "file_name": "images/food_drink/iced-coffee.png",
       "added_on": "2025-06-20 16:49:25",
       "slug": "iced-coffee",
       "category": "Food & Drink",
@@ -51367,7 +51367,7 @@
     },
     {
       "title": "Iced Latte",
-      "file_name": "iced-latte.png",
+      "file_name": "images/food_drink/iced-latte.png",
       "added_on": "2025-06-23 08:10:35",
       "slug": "iced-latte",
       "category": "Food & Drink",
@@ -54454,7 +54454,7 @@
     },
     {
       "title": "Ice Skating",
-      "file_name": "ice-skating.png",
+      "file_name": "images/sports/ice-skating.png",
       "added_on": "2025-06-27 19:07:17",
       "slug": "ice-skating",
       "category": "Sports",
@@ -65795,7 +65795,7 @@
     },
     {
       "title": "Ice Giant Planet",
-      "file_name": "ice-giant-planet.png",
+      "file_name": "images/space_science/ice-giant-planet.png",
       "added_on": "2025-07-10 22:21:04",
       "slug": "ice-giant-planet",
       "category": "Space & Science",
@@ -66370,7 +66370,7 @@
     },
     {
       "title": "Ice Hockey Player",
-      "file_name": "ice-hockey-player.png",
+      "file_name": "images/professions/ice-hockey-player.png",
       "added_on": "2025-07-11 15:01:30",
       "slug": "ice-hockey-player",
       "category": "Professions",
@@ -89246,7 +89246,7 @@
     },
     {
       "title": "Ice Fishing",
-      "file_name": "ice-fishing.png",
+      "file_name": "images/sports/ice-fishing.png",
       "added_on": "2025-09-07 14:21:09",
       "slug": "ice-fishing",
       "category": "Sports",
@@ -102069,7 +102069,7 @@
     },
     {
       "title": "Ice Resurfacer",
-      "file_name": "ice-resurfacer.png",
+      "file_name": "images/vehicles_transport/ice-resurfacer.png",
       "added_on": "2025-10-08 13:41:41",
       "slug": "ice-resurfacer",
       "category": "Vehicles & Transport",
@@ -104962,7 +104962,7 @@
     },
     {
       "title": "Ice Roller",
-      "file_name": "ice-roller.png",
+      "file_name": "images/health_wellness/ice-roller.png",
       "added_on": "2025-10-15 09:11:48",
       "slug": "ice-roller",
       "category": "Health & Wellness",
@@ -107519,7 +107519,7 @@
     },
     {
       "title": "Ice Maker",
-      "file_name": "ice-maker.png",
+      "file_name": "images/food_drink/ice-maker.png",
       "added_on": "2025-10-23 00:11:11",
       "slug": "ice-maker",
       "category": "Food & Drink",
@@ -118601,7 +118601,7 @@
     },
     {
       "title": "Ice Pick",
-      "file_name": "ice-pick.png",
+      "file_name": "images/everyday_life/ice-pick.png",
       "added_on": "2025-12-01 14:01:32",
       "slug": "ice-pick",
       "category": "Everyday Life",
@@ -123160,7 +123160,7 @@
     },
     {
       "title": "Ice Cube Tray",
-      "file_name": "ice-cube-tray.png",
+      "file_name": "images/everyday_life/ice-cube-tray.png",
       "added_on": "2026-01-29 23:11:07",
       "slug": "ice-cube-tray",
       "category": "Everyday Life",
@@ -124966,7 +124966,7 @@
     },
     {
       "title": "Ice Road Truck",
-      "file_name": "ice-road-truck.png",
+      "file_name": "images/vehicles_transport/ice-road-truck.png",
       "added_on": "2026-02-10 22:03:23",
       "slug": "ice-road-truck",
       "category": "Vehicles & Transport",
