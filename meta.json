@@ -2633,7 +2633,7 @@
     },
     {
       "title": "Lawyer",
-      "file_name": "lawyer.png",
+      "file_name": "images/professions/lawyer.png",
       "added_on": "2025-05-16 13:55:21",
       "slug": "lawyer",
       "category": "Professions",
@@ -16784,7 +16784,7 @@
     },
     {
       "title": "LCD Projection Panel",
-      "file_name": "lcd-projection-panel.png",
+      "file_name": "images/technology_media/lcd-projection-panel.png",
       "added_on": "2025-05-31 10:21:07",
       "slug": "lcd-projection-panel",
       "category": "Technology & Media",
@@ -54558,7 +54558,7 @@
     },
     {
       "title": "Lavender",
-      "file_name": "lavender.png",
+      "file_name": "images/nature_outdoors/lavender.png",
       "added_on": "2025-06-27 20:01:14",
       "slug": "lavender",
       "category": "Nature & Outdoors",
@@ -57056,7 +57056,7 @@
     },
     {
       "title": "Lava rock",
-      "file_name": "lava-rock.png",
+      "file_name": "images/nature_outdoors/lava-rock.png",
       "added_on": "2025-07-05 18:20:56",
       "slug": "lava-rock",
       "category": "Nature & Outdoors",
@@ -64549,7 +64549,7 @@
     },
     {
       "title": "Leaf Insect",
-      "file_name": "leaf-insect.png",
+      "file_name": "images/animals/leaf-insect.png",
       "added_on": "2025-07-10 13:01:01",
       "slug": "leaf-insect",
       "category": "Animals",
@@ -64880,7 +64880,7 @@
     },
     {
       "title": "Lava Tube",
-      "file_name": "lava-tube.png",
+      "file_name": "images/nature_outdoors/lava-tube.png",
       "added_on": "2025-07-10 15:11:07",
       "slug": "lava-tube",
       "category": "Nature & Outdoors",
@@ -65727,7 +65727,7 @@
     },
     {
       "title": "Lawn Mower",
-      "file_name": "lawn-mower.png",
+      "file_name": "images/professions/lawn-mower.png",
       "added_on": "2025-07-10 21:46:17",
       "slug": "lawn-mower",
       "category": "Professions",
@@ -69015,7 +69015,7 @@
     },
     {
       "title": "Le Mans Car",
-      "file_name": "le-mans-car.png",
+      "file_name": "images/vehicles_transport/le-mans-car.png",
       "added_on": "2025-07-13 15:11:46",
       "slug": "le-mans-car",
       "category": "Vehicles & Transport",
@@ -72339,7 +72339,7 @@
     },
     {
       "title": "Lava Flow",
-      "file_name": "lava-flow.png",
+      "file_name": "images/nature_outdoors/lava-flow.png",
       "added_on": "2025-07-16 16:11:07",
       "slug": "lava-flow",
       "category": "Nature & Outdoors",
@@ -72638,7 +72638,7 @@
     },
     {
       "title": "Lava Lamp",
-      "file_name": "lava-lamp.png",
+      "file_name": "images/everyday_life/lava-lamp.png",
       "added_on": "2025-07-16 19:41:53",
       "slug": "lava-lamp",
       "category": "Everyday Life",
@@ -96909,7 +96909,7 @@
     },
     {
       "title": "Lavender Lemonade",
-      "file_name": "lavender-lemonade.png",
+      "file_name": "images/food_drink/lavender-lemonade.png",
       "added_on": "2025-09-24 09:31:18",
       "slug": "lavender-lemonade",
       "category": "Food & Drink",
@@ -98554,7 +98554,7 @@
     },
     {
       "title": "Lava Pebble",
-      "file_name": "lava-pebble.png",
+      "file_name": "images/nature_outdoors/lava-pebble.png",
       "added_on": "2025-09-30 15:41:25",
       "slug": "lava-pebble",
       "category": "Nature & Outdoors",
@@ -101153,7 +101153,7 @@
     },
     {
       "title": "Law",
-      "file_name": "law.png",
+      "file_name": "images/everyday_life/law.png",
       "added_on": "2025-10-04 22:31:16",
       "slug": "law",
       "category": "Everyday Life",
@@ -101348,7 +101348,7 @@
     },
     {
       "title": "Leaderboard",
-      "file_name": "leaderboard.png",
+      "file_name": "images/interface_symbols/leaderboard.png",
       "added_on": "2025-10-05 12:11:42",
       "slug": "leaderboard",
       "category": "Interface & Symbols",
@@ -102095,7 +102095,7 @@
     },
     {
       "title": "Leaf Mantis",
-      "file_name": "leaf-mantis.png",
+      "file_name": "images/animals/leaf-mantis.png",
       "added_on": "2025-10-08 14:01:44",
       "slug": "leaf-mantis",
       "category": "Animals",
@@ -107613,7 +107613,7 @@
     },
     {
       "title": "Lava Proof Suit",
-      "file_name": "lava-proof-suit.png",
+      "file_name": "images/fashion_style/lava-proof-suit.png",
       "added_on": "2025-10-23 01:21:14",
       "slug": "lava-proof-suit",
       "category": "Fashion & Style",
@@ -111084,7 +111084,7 @@
     },
     {
       "title": "Lawn Sprinkler",
-      "file_name": "lawn-sprinkler.png",
+      "file_name": "images/everyday_life/lawn-sprinkler.png",
       "added_on": "2025-10-30 21:41:49",
       "slug": "lawn-sprinkler",
       "category": "Everyday Life",
@@ -121284,7 +121284,7 @@
     },
     {
       "title": "Laziness",
-      "file_name": "laziness.png",
+      "file_name": "images/everyday_life/laziness.png",
       "added_on": "2026-01-23 06:41:28",
       "slug": "laziness",
       "category": "Everyday Life",
@@ -122583,7 +122583,7 @@
     },
     {
       "title": "Laundry Ticket",
-      "file_name": "laundry-ticket.png",
+      "file_name": "images/everyday_life/laundry-ticket.png",
       "added_on": "2026-01-29 15:01:12",
       "slug": "laundry-ticket",
       "category": "Everyday Life",
@@ -125229,7 +125229,7 @@
     },
     {
       "title": "Lava Plateau",
-      "file_name": "lava-plateau.png",
+      "file_name": "images/nature_outdoors/lava-plateau.png",
       "added_on": "2026-02-11 01:21:09",
       "slug": "lava-plateau",
       "category": "Nature & Outdoors",
