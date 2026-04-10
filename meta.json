@@ -3232,7 +3232,7 @@
     },
     {
       "title": "Lion",
-      "file_name": "lion.png",
+      "file_name": "images/animals/lion.png",
       "added_on": "2025-05-16 19:15:57",
       "slug": "lion",
       "category": "Animals",
@@ -26651,7 +26651,7 @@
     },
     {
       "title": "Lintel",
-      "file_name": "lintel.png",
+      "file_name": "images/places_structures/lintel.png",
       "added_on": "2025-06-07 15:02:45",
       "slug": "lintel",
       "category": "Places & Structures",
@@ -28730,7 +28730,7 @@
     },
     {
       "title": "Lipstick",
-      "file_name": "lipstick.png",
+      "file_name": "images/fashion_style/lipstick.png",
       "added_on": "2025-06-09 14:00:43",
       "slug": "lipstick",
       "category": "Fashion & Style",
@@ -40451,7 +40451,7 @@
     },
     {
       "title": "Lithuania",
-      "file_name": "lithuania.png",
+      "file_name": "images/countries/lithuania.png",
       "added_on": "2025-06-13 20:07:36",
       "slug": "lithuania",
       "category": "Countries",
@@ -47001,7 +47001,7 @@
     },
     {
       "title": "Lion",
-      "file_name": "lion-1.png",
+      "file_name": "images/animals/lion-1.png",
       "added_on": "2025-06-18 13:28:27",
       "slug": "lion-1",
       "category": "Animals",
@@ -56715,7 +56715,7 @@
     },
     {
       "title": "Lip Balm",
-      "file_name": "lip-balm.png",
+      "file_name": "images/health_wellness/lip-balm.png",
       "added_on": "2025-07-05 13:31:09",
       "slug": "lip-balm",
       "category": "Health & Wellness",
@@ -61527,7 +61527,7 @@
     },
     {
       "title": "Lint Roller",
-      "file_name": "lint-roller.png",
+      "file_name": "images/everyday_life/lint-roller.png",
       "added_on": "2025-07-08 23:00:57",
       "slug": "lint-roller",
       "category": "Everyday Life",
@@ -62153,7 +62153,7 @@
     },
     {
       "title": "Lint trap",
-      "file_name": "lint-trap.png",
+      "file_name": "images/everyday_life/lint-trap.png",
       "added_on": "2025-07-09 03:26:00",
       "slug": "lint-trap",
       "category": "Everyday Life",
@@ -74790,7 +74790,7 @@
     },
     {
       "title": "Lip Piercing",
-      "file_name": "lip-piercing.png",
+      "file_name": "images/fashion_style/lip-piercing.png",
       "added_on": "2025-07-18 20:31:19",
       "slug": "lip-piercing",
       "category": "Fashion & Style",
@@ -80430,7 +80430,7 @@
     },
     {
       "title": "Lioness",
-      "file_name": "lioness.png",
+      "file_name": "images/animals/lioness.png",
       "added_on": "2025-07-25 21:11:32",
       "slug": "lioness",
       "category": "Animals",
@@ -82731,7 +82731,7 @@
     },
     {
       "title": "Lion Fish",
-      "file_name": "lion-fish.png",
+      "file_name": "images/animals/lion-fish.png",
       "added_on": "2025-08-08 06:53:59",
       "slug": "lion-fish",
       "category": "Animals",
@@ -85782,7 +85782,7 @@
     },
     {
       "title": "Little Penguin",
-      "file_name": "little-penguin.png",
+      "file_name": "images/animals/little-penguin.png",
       "added_on": "2025-08-24 19:21:22",
       "slug": "little-penguin",
       "category": "Animals",
@@ -102186,7 +102186,7 @@
     },
     {
       "title": "Liquid Nitrogen Ice Cream",
-      "file_name": "liquid-nitrogen-ice-cream.png",
+      "file_name": "images/food_drink/liquid-nitrogen-ice-cream.png",
       "added_on": "2025-10-08 15:21:21",
       "slug": "liquid-nitrogen-ice-cream",
       "category": "Food & Drink",
@@ -102589,7 +102589,7 @@
     },
     {
       "title": "Lion-Tailed Macaque",
-      "file_name": "lion-tailed-macaque.png",
+      "file_name": "images/animals/lion-tailed-macaque.png",
       "added_on": "2025-10-08 23:51:31",
       "slug": "lion-tailed-macaque",
       "category": "Animals",
@@ -106633,7 +106633,7 @@
     },
     {
       "title": "Liquid Soap Refill Pack",
-      "file_name": "liquid-soap-refill-pack.png",
+      "file_name": "images/everyday_life/liquid-soap-refill-pack.png",
       "added_on": "2025-10-21 11:41:23",
       "slug": "liquid-soap-refill-pack",
       "category": "Everyday Life",
@@ -111868,7 +111868,7 @@
     },
     {
       "title": "Literature Class",
-      "file_name": "literature-class.png",
+      "file_name": "images/education_learning/literature-class.png",
       "added_on": "2025-11-02 07:53:53",
       "slug": "literature-class",
       "category": "Education & Learning",
@@ -118549,7 +118549,7 @@
     },
     {
       "title": "Literacy",
-      "file_name": "literacy.png",
+      "file_name": "images/everyday_life/literacy.png",
       "added_on": "2025-12-01 13:22:59",
       "slug": "literacy",
       "category": "Everyday Life",
@@ -119332,7 +119332,7 @@
     },
     {
       "title": "Lipizzaner horse",
-      "file_name": "lipizzaner-horse.png",
+      "file_name": "images/animals/lipizzaner-horse.png",
       "added_on": "2025-12-04 21:41:45",
       "slug": "lipizzaner-horse",
       "category": "Animals",
@@ -119469,7 +119469,7 @@
     },
     {
       "title": "Lisbon Flag",
-      "file_name": "lisbon-flag.png",
+      "file_name": "images/flags/lisbon-flag.png",
       "added_on": "2025-12-09 23:31:47",
       "slug": "lisbon-flag",
       "category": "Flags",
@@ -123810,7 +123810,7 @@
     },
     {
       "title": "Liquid Nitrogen Ice Cream Bowl",
-      "file_name": "liquid-nitrogen-ice-cream-bowl.png",
+      "file_name": "images/food_drink/liquid-nitrogen-ice-cream-bowl.png",
       "added_on": "2026-02-01 20:31:10",
       "slug": "liquid-nitrogen-ice-cream-bowl",
       "category": "Food & Drink",
