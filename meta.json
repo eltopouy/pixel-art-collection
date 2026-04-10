@@ -11110,7 +11110,7 @@
     },
     {
       "title": "Sun",
-      "file_name": "sun.png",
+      "file_name": "images/nature_outdoors/sun.png",
       "added_on": "2025-05-24 01:51:17",
       "slug": "sun",
       "category": "Nature & Outdoors",
@@ -32434,7 +32434,7 @@
     },
     {
       "title": "Sumo",
-      "file_name": "sumo.png",
+      "file_name": "images/sports/sumo.png",
       "added_on": "2025-06-11 10:18:53",
       "slug": "sumo",
       "category": "Sports",
@@ -33548,7 +33548,7 @@
     },
     {
       "title": "Sun Bear",
-      "file_name": "sun-bear.png",
+      "file_name": "images/animals/sun-bear.png",
       "added_on": "2025-06-11 18:36:44",
       "slug": "sun-bear",
       "category": "Animals",
@@ -42941,7 +42941,7 @@
     },
     {
       "title": "Sun Lamp",
-      "file_name": "sun-lamp.png",
+      "file_name": "images/health_wellness/sun-lamp.png",
       "added_on": "2025-06-14 08:13:00",
       "slug": "sun-lamp",
       "category": "Health & Wellness",
@@ -61449,7 +61449,7 @@
     },
     {
       "title": "Sunda Colugo",
-      "file_name": "sunda-colugo.png",
+      "file_name": "images/animals/sunda-colugo.png",
       "added_on": "2025-07-08 22:21:09",
       "slug": "sunda-colugo",
       "category": "Animals",
@@ -61462,7 +61462,7 @@
     },
     {
       "title": "Sunbittern",
-      "file_name": "sunbittern.png",
+      "file_name": "images/animals/sunbittern.png",
       "added_on": "2025-07-08 22:30:58",
       "slug": "sunbittern",
       "category": "Animals",
@@ -61880,7 +61880,7 @@
     },
     {
       "title": "Suncatcher",
-      "file_name": "suncatcher.png",
+      "file_name": "images/hobbies/suncatcher.png",
       "added_on": "2025-07-09 01:30:55",
       "slug": "suncatcher",
       "category": "Hobbies",
@@ -64344,7 +64344,7 @@
     },
     {
       "title": "Sundew",
-      "file_name": "sundew.png",
+      "file_name": "images/nature_outdoors/sundew.png",
       "added_on": "2025-07-10 11:31:57",
       "slug": "sundew",
       "category": "Nature & Outdoors",
@@ -70581,7 +70581,7 @@
     },
     {
       "title": "Sundial Shadow",
-      "file_name": "sundial-shadow.png",
+      "file_name": "images/nature_outdoors/sundial-shadow.png",
       "added_on": "2025-07-14 16:12:19",
       "slug": "sundial-shadow",
       "category": "Nature & Outdoors",
@@ -89220,7 +89220,7 @@
     },
     {
       "title": "Sumo Mawashi",
-      "file_name": "sumo-mawashi.png",
+      "file_name": "images/sports/sumo-mawashi.png",
       "added_on": "2025-09-07 14:01:06",
       "slug": "sumo-mawashi",
       "category": "Sports",
@@ -92753,7 +92753,7 @@
     },
     {
       "title": "Sumo Inflatable Suit",
-      "file_name": "sumo-inflatable-suit.png",
+      "file_name": "images/sports/sumo-inflatable-suit.png",
       "added_on": "2025-09-15 12:51:26",
       "slug": "sumo-inflatable-suit",
       "category": "Sports",
@@ -93722,7 +93722,7 @@
     },
     {
       "title": "Sumo Ring",
-      "file_name": "sumo-ring.png",
+      "file_name": "images/sports/sumo-ring.png",
       "added_on": "2025-09-17 13:41:21",
       "slug": "sumo-ring",
       "category": "Sports",
@@ -96166,7 +96166,7 @@
     },
     {
       "title": "Sun Tzu",
-      "file_name": "sun-tzu.png",
+      "file_name": "images/historical_figures/sun-tzu.png",
       "added_on": "2025-09-22 15:21:23",
       "slug": "sun-tzu",
       "category": "Historical Figures",
@@ -100524,7 +100524,7 @@
     },
     {
       "title": "Sunbeam Snake",
-      "file_name": "sunbeam-snake.png",
+      "file_name": "images/animals/sunbeam-snake.png",
       "added_on": "2025-10-04 13:51:22",
       "slug": "sunbeam-snake",
       "category": "Animals",
@@ -102251,7 +102251,7 @@
     },
     {
       "title": "Sumo Sandals",
-      "file_name": "sumo-sandals.png",
+      "file_name": "images/sports/sumo-sandals.png",
       "added_on": "2025-10-08 16:21:40",
       "slug": "sumo-sandals",
       "category": "Sports",
@@ -105903,7 +105903,7 @@
     },
     {
       "title": "Sun Spider",
-      "file_name": "sun-spider.png",
+      "file_name": "images/nature_outdoors/sun-spider.png",
       "added_on": "2025-10-20 11:31:17",
       "slug": "sun-spider",
       "category": "Nature & Outdoors",
@@ -111657,7 +111657,7 @@
     },
     {
       "title": "Sunda Slow Loris",
-      "file_name": "sunda-slow-loris.png",
+      "file_name": "images/animals/sunda-slow-loris.png",
       "added_on": "2025-11-01 17:32:01",
       "slug": "sunda-slow-loris",
       "category": "Animals",
@@ -112180,7 +112180,7 @@
     },
     {
       "title": "Sunda Flying Lemur",
-      "file_name": "sunda-flying-lemur.png",
+      "file_name": "images/animals/sunda-flying-lemur.png",
       "added_on": "2025-11-02 15:02:02",
       "slug": "sunda-flying-lemur",
       "category": "Animals",
@@ -119215,7 +119215,7 @@
     },
     {
       "title": "Sun Moon Lake",
-      "file_name": "sun-moon-lake.png",
+      "file_name": "images/places_structures/sun-moon-lake.png",
       "added_on": "2025-12-04 20:11:22",
       "slug": "sun-moon-lake",
       "category": "Places & Structures",
@@ -126934,7 +126934,7 @@
     },
     {
       "title": "Sumo Referee Fan",
-      "file_name": "sumo-referee-fan.png",
+      "file_name": "images/sports/sumo-referee-fan.png",
       "added_on": "2026-02-23 19:31:13",
       "slug": "sumo-referee-fan",
       "category": "Sports",
