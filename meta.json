@@ -10980,7 +10980,7 @@
     },
     {
       "title": "Nail",
-      "file_name": "nail.png",
+      "file_name": "images/everyday_life/nail.png",
       "added_on": "2025-05-24 00:11:15",
       "slug": "nail",
       "category": "Everyday Life",
@@ -23558,7 +23558,7 @@
     },
     {
       "title": "Nail File",
-      "file_name": "nail-file.png",
+      "file_name": "images/everyday_life/nail-file.png",
       "added_on": "2025-06-04 08:36:13",
       "slug": "nail-file",
       "category": "Everyday Life",
@@ -31985,7 +31985,7 @@
     },
     {
       "title": "Namibia",
-      "file_name": "namibia.png",
+      "file_name": "images/countries/namibia.png",
       "added_on": "2025-06-11 06:25:05",
       "slug": "namibia",
       "category": "Countries",
@@ -33284,7 +33284,7 @@
     },
     {
       "title": "Nail Gun",
-      "file_name": "nail-gun.png",
+      "file_name": "images/work_industry/nail-gun.png",
       "added_on": "2025-06-11 16:12:45",
       "slug": "nail-gun",
       "category": "Work & Industry",
@@ -33771,7 +33771,7 @@
     },
     {
       "title": "Nail Scissors",
-      "file_name": "nail-scissors.png",
+      "file_name": "images/everyday_life/nail-scissors.png",
       "added_on": "2025-06-11 20:26:01",
       "slug": "nail-scissors",
       "category": "Everyday Life",
@@ -36831,7 +36831,7 @@
     },
     {
       "title": "Nanobot",
-      "file_name": "nanobot.png",
+      "file_name": "images/space_science/nanobot.png",
       "added_on": "2025-06-12 19:37:04",
       "slug": "nanobot",
       "category": "Space & Science",
@@ -42426,7 +42426,7 @@
     },
     {
       "title": "Mystical Compass",
-      "file_name": "mystical-compass.png",
+      "file_name": "images/fantasy_imagination/mystical-compass.png",
       "added_on": "2025-06-14 04:19:02",
       "slug": "mystical-compass",
       "category": "Fantasy & Imagination",
@@ -51721,7 +51721,7 @@
     },
     {
       "title": "Naan Bread",
-      "file_name": "naan-bread.png",
+      "file_name": "images/food_drink/naan-bread.png",
       "added_on": "2025-06-24 09:48:20",
       "slug": "naan-bread",
       "category": "Food & Drink",
@@ -52550,7 +52550,7 @@
     },
     {
       "title": "Nachos",
-      "file_name": "nachos.png",
+      "file_name": "images/food_drink/nachos.png",
       "added_on": "2025-06-25 13:58:57",
       "slug": "nachos",
       "category": "Food & Drink",
@@ -68493,7 +68493,7 @@
     },
     {
       "title": "Nano-scale Circuit",
-      "file_name": "nano-scale-circuit.png",
+      "file_name": "images/space_science/nano-scale-circuit.png",
       "added_on": "2025-07-13 05:12:02",
       "slug": "nano-scale-circuit",
       "category": "Space & Science",
@@ -68703,7 +68703,7 @@
     },
     {
       "title": "Nanchang, China",
-      "file_name": "nanchang-china.png",
+      "file_name": "images/places_structures/nanchang-china.png",
       "added_on": "2025-07-13 13:27:43",
       "slug": "nanchang-china",
       "category": "Places & Structures",
@@ -69992,7 +69992,7 @@
     },
     {
       "title": "Naga",
-      "file_name": "naga.png",
+      "file_name": "images/fantasy_imagination/naga.png",
       "added_on": "2025-07-14 09:59:21",
       "slug": "naga",
       "category": "Fantasy & Imagination",
@@ -73685,7 +73685,7 @@
     },
     {
       "title": "Naked Mole Rat",
-      "file_name": "naked-mole-rat.png",
+      "file_name": "images/animals/naked-mole-rat.png",
       "added_on": "2025-07-17 20:11:38",
       "slug": "naked-mole-rat",
       "category": "Animals",
@@ -79880,7 +79880,7 @@
     },
     {
       "title": "Nail Care Kit",
-      "file_name": "nail-care-kit.png",
+      "file_name": "images/health_wellness/nail-care-kit.png",
       "added_on": "2025-07-25 14:01:45",
       "slug": "nail-care-kit",
       "category": "Health & Wellness",
@@ -82173,7 +82173,7 @@
     },
     {
       "title": "Nap",
-      "file_name": "nap.png",
+      "file_name": "images/everyday_life/nap.png",
       "added_on": "2025-08-04 06:01:19",
       "slug": "nap",
       "category": "Everyday Life",
@@ -103736,7 +103736,7 @@
     },
     {
       "title": "Nagoya Castle",
-      "file_name": "nagoya-castle.png",
+      "file_name": "images/places_structures/nagoya-castle.png",
       "added_on": "2025-10-10 15:31:41",
       "slug": "nagoya-castle",
       "category": "Places & Structures",
@@ -106293,7 +106293,7 @@
     },
     {
       "title": "Name Plate",
-      "file_name": "name-plate.png",
+      "file_name": "images/work_industry/name-plate.png",
       "added_on": "2025-10-20 17:01:12",
       "slug": "name-plate",
       "category": "Work & Industry",
@@ -111357,7 +111357,7 @@
     },
     {
       "title": "Naked Bat",
-      "file_name": "naked-bat.png",
+      "file_name": "images/animals/naked-bat.png",
       "added_on": "2025-10-31 11:11:59",
       "slug": "naked-bat",
       "category": "Animals",
@@ -112925,7 +112925,7 @@
     },
     {
       "title": "Naira Symbol",
-      "file_name": "naira-symbol.png",
+      "file_name": "images/interface_symbols/naira-symbol.png",
       "added_on": "2025-11-04 11:31:55",
       "slug": "naira-symbol",
       "category": "Interface & Symbols",
@@ -124248,7 +124248,7 @@
     },
     {
       "title": "Naked Cat",
-      "file_name": "naked-cat.png",
+      "file_name": "images/animals/naked-cat.png",
       "added_on": "2026-02-04 12:11:18",
       "slug": "naked-cat",
       "category": "Animals",
