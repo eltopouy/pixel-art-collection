@@ -697,7 +697,7 @@
     },
     {
       "title": "Water Bottle",
-      "file_name": "water-bottle.png",
+      "file_name": "images/everyday_life/water-bottle.png",
       "added_on": "2025-05-15 21:30:47",
       "slug": "water-bottle",
       "category": "Everyday Life",
@@ -12995,7 +12995,7 @@
     },
     {
       "title": "Water Tower",
-      "file_name": "water-tower.png",
+      "file_name": "images/places_structures/water-tower.png",
       "added_on": "2025-05-26 01:31:25",
       "slug": "water-tower",
       "category": "Places & Structures",
@@ -22576,7 +22576,7 @@
     },
     {
       "title": "Water Pump",
-      "file_name": "water-pump.png",
+      "file_name": "images/work_industry/water-pump.png",
       "added_on": "2025-06-03 19:11:01",
       "slug": "water-pump",
       "category": "Work & Industry",
@@ -29570,7 +29570,7 @@
     },
     {
       "title": "Water Taxi",
-      "file_name": "water-taxi.png",
+      "file_name": "images/vehicles_transport/water-taxi.png",
       "added_on": "2025-06-10 12:31:29",
       "slug": "water-taxi",
       "category": "Vehicles & Transport",
@@ -29635,7 +29635,7 @@
     },
     {
       "title": "Water cooler",
-      "file_name": "water-cooler.png",
+      "file_name": "images/work_industry/water-cooler.png",
       "added_on": "2025-06-10 13:07:27",
       "slug": "water-cooler",
       "category": "Work & Industry",
@@ -46076,7 +46076,7 @@
     },
     {
       "title": "Water Bottle",
-      "file_name": "water-bottle-1.png",
+      "file_name": "images/everyday_life/water-bottle-1.png",
       "added_on": "2025-06-15 23:14:03",
       "slug": "water-bottle-1",
       "category": "Everyday Life",
@@ -48703,7 +48703,7 @@
     },
     {
       "title": "Water Meter",
-      "file_name": "water-meter.png",
+      "file_name": "images/everyday_life/water-meter.png",
       "added_on": "2025-06-22 17:30:25",
       "slug": "water-meter",
       "category": "Everyday Life",
@@ -63693,7 +63693,7 @@
     },
     {
       "title": "Water Glass",
-      "file_name": "water-glass.png",
+      "file_name": "images/food_drink/water-glass.png",
       "added_on": "2025-07-09 14:43:50",
       "slug": "water-glass",
       "category": "Food & Drink",
@@ -67981,7 +67981,7 @@
     },
     {
       "title": "Water Heater Tank",
-      "file_name": "water-heater-tank.png",
+      "file_name": "images/everyday_life/water-heater-tank.png",
       "added_on": "2025-07-12 15:32:09",
       "slug": "water-heater-tank",
       "category": "Everyday Life",
@@ -71195,7 +71195,7 @@
     },
     {
       "title": "Water Purification Treatment System",
-      "file_name": "water-purification-treatment-system.png",
+      "file_name": "images/space_science/water-purification-treatment-system.png",
       "added_on": "2025-07-15 08:37:30",
       "slug": "water-purification-treatment-system",
       "category": "Space & Science",
@@ -73501,7 +73501,7 @@
     },
     {
       "title": "Water Slide",
-      "file_name": "water-slide.png",
+      "file_name": "images/places_structures/water-slide.png",
       "added_on": "2025-07-17 15:41:50",
       "slug": "water-slide",
       "category": "Places & Structures",
@@ -75652,7 +75652,7 @@
     },
     {
       "title": "Water Polo",
-      "file_name": "water-polo.png",
+      "file_name": "images/sports/water-polo.png",
       "added_on": "2025-07-19 20:51:13",
       "slug": "water-polo",
       "category": "Sports",
@@ -77636,7 +77636,7 @@
     },
     {
       "title": "Water Tank",
-      "file_name": "water-tank.png",
+      "file_name": "images/places_structures/water-tank.png",
       "added_on": "2025-07-24 09:04:00",
       "slug": "water-tank",
       "category": "Places & Structures",
@@ -85478,7 +85478,7 @@
     },
     {
       "title": "Water Table",
-      "file_name": "water-table.png",
+      "file_name": "images/everyday_life/water-table.png",
       "added_on": "2025-08-24 15:40:53",
       "slug": "water-table",
       "category": "Everyday Life",
@@ -91709,7 +91709,7 @@
     },
     {
       "title": "Water Polo Cap",
-      "file_name": "water-polo-cap.png",
+      "file_name": "images/sports/water-polo-cap.png",
       "added_on": "2025-09-12 02:41:21",
       "slug": "water-polo-cap",
       "category": "Sports",
@@ -104758,7 +104758,7 @@
     },
     {
       "title": "Water Strider",
-      "file_name": "water-strider.png",
+      "file_name": "images/nature_outdoors/water-strider.png",
       "added_on": "2025-10-13 10:21:37",
       "slug": "water-strider",
       "category": "Nature & Outdoors",
@@ -114821,7 +114821,7 @@
     },
     {
       "title": "Water Chestnut",
-      "file_name": "water-chestnut.png",
+      "file_name": "images/food_drink/water-chestnut.png",
       "added_on": "2025-11-11 20:51:56",
       "slug": "water-chestnut",
       "category": "Food & Drink",
@@ -127471,7 +127471,7 @@
     },
     {
       "title": "Water Filter Pitcher",
-      "file_name": "water-filter-pitcher.png",
+      "file_name": "images/everyday_life/water-filter-pitcher.png",
       "added_on": "2026-03-02 17:41:14",
       "slug": "water-filter-pitcher",
       "category": "Everyday Life",
@@ -128742,7 +128742,7 @@
     },
     {
       "title": "Water Damage",
-      "file_name": "water-damage.png",
+      "file_name": "images/everyday_life/water-damage.png",
       "added_on": "2026-03-09 07:30:54",
       "slug": "water-damage",
       "category": "Everyday Life",
@@ -130848,7 +130848,7 @@
     },
     {
       "title": "Water Leak",
-      "file_name": "water-leak.png",
+      "file_name": "images/everyday_life/water-leak.png",
       "added_on": "2026-03-18 16:31:14",
       "slug": "water-leak",
       "category": "Everyday Life",
