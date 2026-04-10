@@ -416,7 +416,7 @@
     },
     {
       "title": "Pillow",
-      "file_name": "pillow.png",
+      "file_name": "images/everyday_life/pillow.png",
       "added_on": "2025-05-15 18:37:10",
       "slug": "pillow",
       "category": "Everyday Life",
@@ -2230,7 +2230,7 @@
     },
     {
       "title": "Pilot",
-      "file_name": "pilot.png",
+      "file_name": "images/professions/pilot.png",
       "added_on": "2025-05-16 12:16:23",
       "slug": "pilot",
       "category": "Professions",
@@ -5064,7 +5064,7 @@
     },
     {
       "title": "Pine Cone",
-      "file_name": "pine-cone.png",
+      "file_name": "images/nature_outdoors/pine-cone.png",
       "added_on": "2025-05-17 17:35:42",
       "slug": "pine-cone",
       "category": "Nature & Outdoors",
@@ -5896,7 +5896,7 @@
     },
     {
       "title": "Pine Forest",
-      "file_name": "pine-forest.png",
+      "file_name": "images/nature_outdoors/pine-forest.png",
       "added_on": "2025-05-18 07:56:09",
       "slug": "pine-forest",
       "category": "Nature & Outdoors",
@@ -15769,7 +15769,7 @@
     },
     {
       "title": "Pine Needle Cluster",
-      "file_name": "pine-needle-cluster.png",
+      "file_name": "images/nature_outdoors/pine-needle-cluster.png",
       "added_on": "2025-05-27 20:50:57",
       "slug": "pine-needle-cluster",
       "category": "Nature & Outdoors",
@@ -26729,7 +26729,7 @@
     },
     {
       "title": "Pin Cushion",
-      "file_name": "pin-cushion.png",
+      "file_name": "images/everyday_life/pin-cushion.png",
       "added_on": "2025-06-07 15:03:23",
       "slug": "pin-cushion",
       "category": "Everyday Life",
@@ -28428,7 +28428,7 @@
     },
     {
       "title": "Pill Bottle",
-      "file_name": "pill-bottle.png",
+      "file_name": "images/health_wellness/pill-bottle.png",
       "added_on": "2025-06-09 07:53:27",
       "slug": "pill-bottle",
       "category": "Health & Wellness",
@@ -39139,7 +39139,7 @@
     },
     {
       "title": "Pinball machine",
-      "file_name": "pinball-machine.png",
+      "file_name": "images/entertainment_leisure/pinball-machine.png",
       "added_on": "2025-06-13 08:19:21",
       "slug": "pinball-machine",
       "category": "Entertainment & Leisure",
@@ -54985,7 +54985,7 @@
     },
     {
       "title": "Pill Bug",
-      "file_name": "pill-bug.png",
+      "file_name": "images/animals/pill-bug.png",
       "added_on": "2025-06-28 12:50:21",
       "slug": "pill-bug",
       "category": "Animals",
@@ -70267,7 +70267,7 @@
     },
     {
       "title": "Pile of Treasure",
-      "file_name": "pile-of-treasure.png",
+      "file_name": "images/fantasy_imagination/pile-of-treasure.png",
       "added_on": "2025-07-14 10:07:35",
       "slug": "pile-of-treasure",
       "category": "Fantasy & Imagination",
@@ -71910,7 +71910,7 @@
     },
     {
       "title": "Pin Collection Board",
-      "file_name": "pin-collection-board.png",
+      "file_name": "images/hobbies/pin-collection-board.png",
       "added_on": "2025-07-16 10:11:35",
       "slug": "pin-collection-board",
       "category": "Hobbies",
@@ -74686,7 +74686,7 @@
     },
     {
       "title": "Jet Pilot",
-      "file_name": "pilot-jet.png",
+      "file_name": "images/professions/pilot-jet.png",
       "added_on": "2025-07-18 16:34:03",
       "slug": "pilot-jet",
       "category": "Professions",
@@ -81715,7 +81715,7 @@
     },
     {
       "title": "Pinching Fingers",
-      "file_name": "pinching-fingers.png",
+      "file_name": "images/everyday_life/pinching-fingers.png",
       "added_on": "2025-08-02 16:22:01",
       "slug": "pinching-fingers",
       "category": "Everyday Life",
@@ -87804,7 +87804,7 @@
     },
     {
       "title": "Pin",
-      "file_name": "pin.png",
+      "file_name": "images/interface_symbols/pin.png",
       "added_on": "2025-09-04 11:43:30",
       "slug": "pin",
       "category": "Interface & Symbols",
@@ -95642,7 +95642,7 @@
     },
     {
       "title": "Pin Art Toy",
-      "file_name": "pin-art-toy.png",
+      "file_name": "images/entertainment_leisure/pin-art-toy.png",
       "added_on": "2025-09-21 13:51:17",
       "slug": "pin-art-toy",
       "category": "Entertainment & Leisure",
@@ -99121,7 +99121,7 @@
     },
     {
       "title": "Pin-the-Tail On The Donkey",
-      "file_name": "pin-the-tail-on-the-donkey.png",
+      "file_name": "images/entertainment_leisure/pin-the-tail-on-the-donkey.png",
       "added_on": "2025-09-30 23:21:16",
       "slug": "pin-the-tail-on-the-donkey",
       "category": "Entertainment & Leisure",
@@ -119430,7 +119430,7 @@
     },
     {
       "title": "Piling machine",
-      "file_name": "piling-machine.png",
+      "file_name": "images/work_industry/piling-machine.png",
       "added_on": "2025-12-09 23:01:45",
       "slug": "piling-machine",
       "category": "Work & Industry",
@@ -129201,7 +129201,7 @@
     },
     {
       "title": "Pill Organizer",
-      "file_name": "pill-organizer.png",
+      "file_name": "images/everyday_life/pill-organizer.png",
       "added_on": "2026-03-09 13:50:55",
       "slug": "pill-organizer",
       "category": "Everyday Life",
@@ -129827,7 +129827,7 @@
     },
     {
       "title": "Pinafore Dress",
-      "file_name": "pinafore-dress.png",
+      "file_name": "images/fashion_style/pinafore-dress.png",
       "added_on": "2026-03-17 19:20:51",
       "slug": "pinafore-dress",
       "category": "Fashion & Style",
@@ -131319,7 +131319,7 @@
     },
     {
       "title": "Pillowcase",
-      "file_name": "pillowcase.png",
+      "file_name": "images/everyday_life/pillowcase.png",
       "added_on": "2026-03-20 17:21:14",
       "slug": "pillowcase",
       "category": "Everyday Life",
