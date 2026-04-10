@@ -5376,7 +5376,7 @@
     },
     {
       "title": "Hammer Drill",
-      "file_name": "hammer-drill.png",
+      "file_name": "images/work_industry/hammer-drill.png",
       "added_on": "2025-05-17 21:30:38",
       "slug": "hammer-drill",
       "category": "Work & Industry",
@@ -5688,7 +5688,7 @@
     },
     {
       "title": "Hammer",
-      "file_name": "hammer-basic.png",
+      "file_name": "images/work_industry/hammer-basic.png",
       "added_on": "2025-05-18 02:11:06",
       "slug": "hammer-basic",
       "category": "Work & Industry",
@@ -16992,7 +16992,7 @@
     },
     {
       "title": "HAL 9000",
-      "file_name": "hal-9000.png",
+      "file_name": "images/technology_media/hal-9000.png",
       "added_on": "2025-05-31 10:50:20",
       "slug": "hal-9000",
       "category": "Technology & Media",
@@ -17213,7 +17213,7 @@
     },
     {
       "title": "Half Dome",
-      "file_name": "half-dome.png",
+      "file_name": "images/nature_outdoors/half-dome.png",
       "added_on": "2025-05-31 11:01:18",
       "slug": "half-dome",
       "category": "Nature & Outdoors",
@@ -22249,7 +22249,7 @@
     },
     {
       "title": "Ham",
-      "file_name": "ham.png",
+      "file_name": "images/food_drink/ham.png",
       "added_on": "2025-06-03 16:36:00",
       "slug": "ham",
       "category": "Food & Drink",
@@ -27629,7 +27629,7 @@
     },
     {
       "title": "Hamburg",
-      "file_name": "hamburg.png",
+      "file_name": "images/places_structures/hamburg.png",
       "added_on": "2025-06-08 08:11:59",
       "slug": "hamburg",
       "category": "Places & Structures",
@@ -31474,7 +31474,7 @@
     },
     {
       "title": "Halloumi",
-      "file_name": "halloumi.png",
+      "file_name": "images/food_drink/halloumi.png",
       "added_on": "2025-06-11 01:54:52",
       "slug": "halloumi",
       "category": "Food & Drink",
@@ -40347,7 +40347,7 @@
     },
     {
       "title": "Ham radio",
-      "file_name": "ham-radio.png",
+      "file_name": "images/hobbies/ham-radio.png",
       "added_on": "2025-06-13 18:49:18",
       "slug": "ham-radio",
       "category": "Hobbies",
@@ -42623,7 +42623,7 @@
     },
     {
       "title": "Hairbrush",
-      "file_name": "hairbrush.png",
+      "file_name": "images/everyday_life/hairbrush.png",
       "added_on": "2025-06-14 05:49:04",
       "slug": "hairbrush",
       "category": "Everyday Life",
@@ -65055,7 +65055,7 @@
     },
     {
       "title": "Hairy Frogfish",
-      "file_name": "hairy-frogfish.png",
+      "file_name": "images/animals/hairy-frogfish.png",
       "added_on": "2025-07-10 16:26:49",
       "slug": "hairy-frogfish",
       "category": "Animals",
@@ -74078,7 +74078,7 @@
     },
     {
       "title": "Hamburger",
-      "file_name": "hamburger.png",
+      "file_name": "images/food_drink/hamburger.png",
       "added_on": "2025-07-18 09:32:04",
       "slug": "hamburger",
       "category": "Food & Drink",
@@ -82942,7 +82942,7 @@
     },
     {
       "title": "Halloween Cake",
-      "file_name": "halloween-cake.png",
+      "file_name": "images/food_drink/halloween-cake.png",
       "added_on": "2025-08-08 06:55:10",
       "slug": "halloween-cake",
       "category": "Food & Drink",
@@ -87101,7 +87101,7 @@
     },
     {
       "title": "Hamadryas Baboon",
-      "file_name": "hamadryas-baboon.png",
+      "file_name": "images/animals/hamadryas-baboon.png",
       "added_on": "2025-08-30 16:31:31",
       "slug": "hamadryas-baboon",
       "category": "Animals",
@@ -104157,7 +104157,7 @@
     },
     {
       "title": "Half-Eaten Sandwich",
-      "file_name": "half-eaten-sandwich.png",
+      "file_name": "images/everyday_life/half-eaten-sandwich.png",
       "added_on": "2025-10-11 15:31:44",
       "slug": "half-eaten-sandwich",
       "category": "Everyday Life",
@@ -112115,7 +112115,7 @@
     },
     {
       "title": "Halloween Duck",
-      "file_name": "halloween-duck.png",
+      "file_name": "images/entertainment_leisure/halloween-duck.png",
       "added_on": "2025-11-02 10:02:08",
       "slug": "halloween-duck",
       "category": "Entertainment & Leisure",
@@ -115359,7 +115359,7 @@
     },
     {
       "title": "Half-Eaten Apple",
-      "file_name": "half-eaten-apple.png",
+      "file_name": "images/everyday_life/half-eaten-apple.png",
       "added_on": "2025-11-14 12:42:00",
       "slug": "half-eaten-apple",
       "category": "Everyday Life",
@@ -122198,7 +122198,7 @@
     },
     {
       "title": "Hairy Armadillo",
-      "file_name": "hairy-armadillo.png",
+      "file_name": "images/animals/hairy-armadillo.png",
       "added_on": "2026-01-26 21:21:09",
       "slug": "hairy-armadillo",
       "category": "Animals",
@@ -127116,7 +127116,7 @@
     },
     {
       "title": "Half-Burnt Candle",
-      "file_name": "half-burnt-candle.png",
+      "file_name": "images/everyday_life/half-burnt-candle.png",
       "added_on": "2026-02-25 10:31:15",
       "slug": "half-burnt-candle",
       "category": "Everyday Life",
@@ -127837,7 +127837,7 @@
     },
     {
       "title": "Half-Finished Puzzle",
-      "file_name": "half-finished-puzzle.png",
+      "file_name": "images/everyday_life/half-finished-puzzle.png",
       "added_on": "2026-03-08 18:50:53",
       "slug": "half-finished-puzzle",
       "category": "Everyday Life",
@@ -129736,7 +129736,7 @@
     },
     {
       "title": "Halloumi Fries",
-      "file_name": "halloumi-fries.png",
+      "file_name": "images/food_drink/halloumi-fries.png",
       "added_on": "2026-03-17 18:10:54",
       "slug": "halloumi-fries",
       "category": "Food & Drink",
