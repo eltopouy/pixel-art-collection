@@ -1216,7 +1216,7 @@
     },
     {
       "title": "Shopping Cart",
-      "file_name": "shopping-cart.png",
+      "file_name": "images/everyday_life/shopping-cart.png",
       "added_on": "2025-05-16 05:01:01",
       "slug": "shopping-cart",
       "category": "Everyday Life",
@@ -4765,7 +4765,7 @@
     },
     {
       "title": "Shop",
-      "file_name": "shop.png",
+      "file_name": "images/places_structures/shop.png",
       "added_on": "2025-05-17 14:26:14",
       "slug": "shop",
       "category": "Places & Structures",
@@ -10265,7 +10265,7 @@
     },
     {
       "title": "Shoes",
-      "file_name": "shoes.png",
+      "file_name": "images/everyday_life/shoes.png",
       "added_on": "2025-05-23 14:30:57",
       "slug": "shoes",
       "category": "Everyday Life",
@@ -16602,7 +16602,7 @@
     },
     {
       "title": "Shorts",
-      "file_name": "shorts.png",
+      "file_name": "images/fashion_style/shorts.png",
       "added_on": "2025-05-30 19:51:00",
       "slug": "shorts",
       "category": "Fashion & Style",
@@ -27616,7 +27616,7 @@
     },
     {
       "title": "Shot Glass",
-      "file_name": "shot-glass.png",
+      "file_name": "images/food_drink/shot-glass.png",
       "added_on": "2025-06-08 08:11:53",
       "slug": "shot-glass",
       "category": "Food & Drink",
@@ -38588,7 +38588,7 @@
     },
     {
       "title": "Shopping bag",
-      "file_name": "shopping-bag.png",
+      "file_name": "images/everyday_life/shopping-bag.png",
       "added_on": "2025-06-13 03:32:04",
       "slug": "shopping-bag",
       "category": "Everyday Life",
@@ -39230,7 +39230,7 @@
     },
     {
       "title": "Shovel",
-      "file_name": "shovel.png",
+      "file_name": "images/everyday_life/shovel.png",
       "added_on": "2025-06-13 09:01:13",
       "slug": "shovel",
       "category": "Everyday Life",
@@ -40145,7 +40145,7 @@
     },
     {
       "title": "Shot Put",
-      "file_name": "shot-put.png",
+      "file_name": "images/sports/shot-put.png",
       "added_on": "2025-06-13 16:49:17",
       "slug": "shot-put",
       "category": "Sports",
@@ -44595,7 +44595,7 @@
     },
     {
       "title": "Shoelace",
-      "file_name": "shoelace.png",
+      "file_name": "images/everyday_life/shoelace.png",
       "added_on": "2025-06-14 17:36:52",
       "slug": "shoelace",
       "category": "Everyday Life",
@@ -55958,7 +55958,7 @@
     },
     {
       "title": "Shopping mall",
-      "file_name": "shopping-mall.png",
+      "file_name": "images/places_structures/shopping-mall.png",
       "added_on": "2025-06-30 11:37:38",
       "slug": "shopping-mall",
       "category": "Places & Structures",
@@ -57519,7 +57519,7 @@
     },
     {
       "title": "Shot Put Ball",
-      "file_name": "shot-put-ball.png",
+      "file_name": "images/sports/shot-put-ball.png",
       "added_on": "2025-07-05 21:51:17",
       "slug": "shot-put-ball",
       "category": "Sports",
@@ -62754,7 +62754,7 @@
     },
     {
       "title": "Shoelace Worm",
-      "file_name": "shoelace-worm.png",
+      "file_name": "images/animals/shoelace-worm.png",
       "added_on": "2025-07-09 08:26:01",
       "slug": "shoelace-worm",
       "category": "Animals",
@@ -66188,7 +66188,7 @@
     },
     {
       "title": "Shopping Basket",
-      "file_name": "shopping-basket.png",
+      "file_name": "images/everyday_life/shopping-basket.png",
       "added_on": "2025-07-11 10:12:39",
       "slug": "shopping-basket",
       "category": "Everyday Life",
@@ -72001,7 +72001,7 @@
     },
     {
       "title": "Shot Clock",
-      "file_name": "shot-clock.png",
+      "file_name": "images/sports/shot-clock.png",
       "added_on": "2025-07-16 11:21:26",
       "slug": "shot-clock",
       "category": "Sports",
@@ -75574,7 +75574,7 @@
     },
     {
       "title": "Shogi Board",
-      "file_name": "shogi-board.png",
+      "file_name": "images/hobbies/shogi-board.png",
       "added_on": "2025-07-19 19:51:16",
       "slug": "shogi-board",
       "category": "Hobbies",
@@ -80116,7 +80116,7 @@
     },
     {
       "title": "Shower Cap",
-      "file_name": "shower-cap.png",
+      "file_name": "images/everyday_life/shower-cap.png",
       "added_on": "2025-07-25 17:01:32",
       "slug": "shower-cap",
       "category": "Everyday Life",
@@ -108265,7 +108265,7 @@
     },
     {
       "title": "Shops",
-      "file_name": "shops.png",
+      "file_name": "images/everyday_life/shops.png",
       "added_on": "2025-10-24 12:50:57",
       "slug": "shops",
       "category": "Everyday Life",
@@ -111279,7 +111279,7 @@
     },
     {
       "title": "Shopping Center",
-      "file_name": "shopping-center.png",
+      "file_name": "images/places_structures/shopping-center.png",
       "added_on": "2025-10-31 09:03:09",
       "slug": "shopping-center",
       "category": "Places & Structures",
@@ -124476,7 +124476,7 @@
     },
     {
       "title": "Shower Caddy",
-      "file_name": "shower-caddy.png",
+      "file_name": "images/everyday_life/shower-caddy.png",
       "added_on": "2026-02-04 15:31:29",
       "slug": "shower-caddy",
       "category": "Everyday Life",
@@ -127707,7 +127707,7 @@
     },
     {
       "title": "Shop Vacuum",
-      "file_name": "shop-vacuum.png",
+      "file_name": "images/work_industry/shop-vacuum.png",
       "added_on": "2026-03-02 20:51:15",
       "slug": "shop-vacuum",
       "category": "Work & Industry",
