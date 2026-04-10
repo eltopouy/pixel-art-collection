@@ -3882,7 +3882,7 @@
     },
     {
       "title": "Retail Store Manager",
-      "file_name": "retail-store-manager.png",
+      "file_name": "images/professions/retail-store-manager.png",
       "added_on": "2025-05-17 00:26:08",
       "slug": "retail-store-manager",
       "category": "Professions",
@@ -4413,7 +4413,7 @@
     },
     {
       "title": "Restaurant",
-      "file_name": "restaurant.png",
+      "file_name": "images/places_structures/restaurant.png",
       "added_on": "2025-05-17 08:16:08",
       "slug": "restaurant",
       "category": "Places & Structures",
@@ -4856,7 +4856,7 @@
     },
     {
       "title": "Retail Worker",
-      "file_name": "retail-worker.png",
+      "file_name": "images/professions/retail-worker.png",
       "added_on": "2025-05-17 15:40:45",
       "slug": "retail-worker",
       "category": "Professions",
@@ -5571,7 +5571,7 @@
     },
     {
       "title": "Retail Clerk",
-      "file_name": "retail-clerk.png",
+      "file_name": "images/professions/retail-clerk.png",
       "added_on": "2025-05-17 23:46:12",
       "slug": "retail-clerk",
       "category": "Professions",
@@ -14351,7 +14351,7 @@
     },
     {
       "title": "Retirement",
-      "file_name": "retirement.png",
+      "file_name": "images/events/retirement.png",
       "added_on": "2025-05-26 21:20:46",
       "slug": "retirement",
       "category": "Events",
@@ -33180,7 +33180,7 @@
     },
     {
       "title": "Retreat",
-      "file_name": "retreat.png",
+      "file_name": "images/events/retreat.png",
       "added_on": "2025-06-11 15:18:43",
       "slug": "retreat",
       "category": "Events",
@@ -34447,7 +34447,7 @@
     },
     {
       "title": "Restaurant Deep Fryer",
-      "file_name": "restaurant-deep-fryer.png",
+      "file_name": "images/food_drink/restaurant-deep-fryer.png",
       "added_on": "2025-06-11 22:48:17",
       "slug": "restaurant-deep-fryer",
       "category": "Food & Drink",
@@ -56257,7 +56257,7 @@
     },
     {
       "title": "Restaurant Receipt",
-      "file_name": "restaurant-receipt.png",
+      "file_name": "images/everyday_life/restaurant-receipt.png",
       "added_on": "2025-07-01 13:04:06",
       "slug": "restaurant-receipt",
       "category": "Everyday Life",
@@ -61070,7 +61070,7 @@
     },
     {
       "title": "Retro Flip Clock",
-      "file_name": "retro-flip-clock.png",
+      "file_name": "images/technology_media/retro-flip-clock.png",
       "added_on": "2025-07-08 19:25:56",
       "slug": "retro-flip-clock",
       "category": "Technology & Media",
@@ -62809,7 +62809,7 @@
     },
     {
       "title": "Retro Diner",
-      "file_name": "retro-diner.png",
+      "file_name": "images/places_structures/retro-diner.png",
       "added_on": "2025-07-09 08:46:06",
       "slug": "retro-diner",
       "category": "Places & Structures",
@@ -76399,7 +76399,7 @@
     },
     {
       "title": "Retro Cassette Recorder",
-      "file_name": "retro-cassette-recorder.png",
+      "file_name": "images/technology_media/retro-cassette-recorder.png",
       "added_on": "2025-07-20 17:31:33",
       "slug": "retro-cassette-recorder",
       "category": "Technology & Media",
@@ -82424,7 +82424,7 @@
     },
     {
       "title": "Resume",
-      "file_name": "resume.png",
+      "file_name": "images/work_industry/resume.png",
       "added_on": "2025-08-05 06:11:12",
       "slug": "resume",
       "category": "Work & Industry",
@@ -91036,7 +91036,7 @@
     },
     {
       "title": "Reticulated Giraffe",
-      "file_name": "reticulated-giraffe.png",
+      "file_name": "images/animals/reticulated-giraffe.png",
       "added_on": "2025-09-10 15:11:04",
       "slug": "reticulated-giraffe",
       "category": "Animals",
@@ -94197,7 +94197,7 @@
     },
     {
       "title": "Retro Calculator Watch",
-      "file_name": "retro-calculator-watch.png",
+      "file_name": "images/technology_media/retro-calculator-watch.png",
       "added_on": "2025-09-18 12:01:27",
       "slug": "retro-calculator-watch",
       "category": "Technology & Media",
@@ -95027,7 +95027,7 @@
     },
     {
       "title": "Retro Flip Phone",
-      "file_name": "retro-flip-phone.png",
+      "file_name": "images/technology_media/retro-flip-phone.png",
       "added_on": "2025-09-19 23:51:30",
       "slug": "retro-flip-phone",
       "category": "Technology & Media",
@@ -95324,7 +95324,7 @@
     },
     {
       "title": "Retro Cassette Player",
-      "file_name": "retro-cassette-player.png",
+      "file_name": "images/technology_media/retro-cassette-player.png",
       "added_on": "2025-09-20 15:21:11",
       "slug": "retro-cassette-player",
       "category": "Technology & Media",
@@ -99173,7 +99173,7 @@
     },
     {
       "title": "Retro Computer Mouse",
-      "file_name": "retro-computer-mouse.png",
+      "file_name": "images/technology_media/retro-computer-mouse.png",
       "added_on": "2025-10-01 00:01:18",
       "slug": "retro-computer-mouse",
       "category": "Technology & Media",
@@ -116101,7 +116101,7 @@
     },
     {
       "title": "Retractable Keychain",
-      "file_name": "retractable-keychain.png",
+      "file_name": "images/work_industry/retractable-keychain.png",
       "added_on": "2025-11-16 10:31:57",
       "slug": "retractable-keychain",
       "category": "Work & Industry",
@@ -117322,7 +117322,7 @@
     },
     {
       "title": "Retro Film Projector",
-      "file_name": "retro-film-projector.png",
+      "file_name": "images/technology_media/retro-film-projector.png",
       "added_on": "2025-11-24 13:21:39",
       "slug": "retro-film-projector",
       "category": "Technology & Media",
@@ -128305,7 +128305,7 @@
     },
     {
       "title": "Retro Arcade Joystick",
-      "file_name": "retro-arcade-joystick.png",
+      "file_name": "images/entertainment_leisure/retro-arcade-joystick.png",
       "added_on": "2026-03-09 01:50:46",
       "slug": "retro-arcade-joystick",
       "category": "Entertainment & Leisure",
