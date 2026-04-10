@@ -8196,7 +8196,7 @@
     },
     {
       "title": "Mongolia",
-      "file_name": "mongolia.png",
+      "file_name": "images/countries/mongolia.png",
       "added_on": "2025-05-20 07:21:10",
       "slug": "mongolia",
       "category": "Countries",
@@ -8482,7 +8482,7 @@
     },
     {
       "title": "Money",
-      "file_name": "money.png",
+      "file_name": "images/everyday_life/money.png",
       "added_on": "2025-05-22 15:56:16",
       "slug": "money",
       "category": "Everyday Life",
@@ -11435,7 +11435,7 @@
     },
     {
       "title": "Money Bag",
-      "file_name": "money-bag.png",
+      "file_name": "images/everyday_life/money-bag.png",
       "added_on": "2025-05-24 06:11:24",
       "slug": "money-bag",
       "category": "Everyday Life",
@@ -12501,7 +12501,7 @@
     },
     {
       "title": "Mongoose",
-      "file_name": "mongoose.png",
+      "file_name": "images/animals/mongoose.png",
       "added_on": "2025-05-25 18:11:26",
       "slug": "mongoose",
       "category": "Animals",
@@ -15795,7 +15795,7 @@
     },
     {
       "title": "Mole",
-      "file_name": "mole.png",
+      "file_name": "images/animals/mole.png",
       "added_on": "2025-05-27 21:20:55",
       "slug": "mole",
       "category": "Animals",
@@ -23323,7 +23323,7 @@
     },
     {
       "title": "Molecule",
-      "file_name": "molecule.png",
+      "file_name": "images/space_science/molecule.png",
       "added_on": "2025-06-04 08:29:15",
       "slug": "molecule",
       "category": "Space & Science",
@@ -27317,7 +27317,7 @@
     },
     {
       "title": "Molten Lava Chocolate Cake",
-      "file_name": "molten-lava-chocolate-cake.png",
+      "file_name": "images/food_drink/molten-lava-chocolate-cake.png",
       "added_on": "2025-06-08 00:59:57",
       "slug": "molten-lava-chocolate-cake",
       "category": "Food & Drink",
@@ -32128,7 +32128,7 @@
     },
     {
       "title": "Monastery",
-      "file_name": "monastery.png",
+      "file_name": "images/places_structures/monastery.png",
       "added_on": "2025-06-11 07:37:06",
       "slug": "monastery",
       "category": "Places & Structures",
@@ -40965,7 +40965,7 @@
     },
     {
       "title": "Mollies",
-      "file_name": "mollies.png",
+      "file_name": "images/animals/mollies.png",
       "added_on": "2025-06-13 22:28:03",
       "slug": "mollies",
       "category": "Animals",
@@ -41114,7 +41114,7 @@
     },
     {
       "title": "Mongolian Food",
-      "file_name": "mongolian-food.png",
+      "file_name": "images/food_drink/mongolian-food.png",
       "added_on": "2025-06-13 22:29:10",
       "slug": "mongolian-food",
       "category": "Food & Drink",
@@ -52511,7 +52511,7 @@
     },
     {
       "title": "Mongolian Beef Sizzling Plate",
-      "file_name": "mongolian-beef-sizzling-plate.png",
+      "file_name": "images/food_drink/mongolian-beef-sizzling-plate.png",
       "added_on": "2025-06-25 13:58:48",
       "slug": "mongolian-beef-sizzling-plate",
       "category": "Food & Drink",
@@ -52563,7 +52563,7 @@
     },
     {
       "title": "Mongolian Horse Head Fiddle",
-      "file_name": "mongolian-horse-head-fiddle.png",
+      "file_name": "images/history_culture/mongolian-horse-head-fiddle.png",
       "added_on": "2025-06-25 13:58:59",
       "slug": "mongolian-horse-head-fiddle",
       "category": "History & Culture",
@@ -58649,7 +58649,7 @@
     },
     {
       "title": "Monarch Butterfly",
-      "file_name": "monarch-butterfly.png",
+      "file_name": "images/nature_outdoors/monarch-butterfly.png",
       "added_on": "2025-07-06 14:06:07",
       "slug": "monarch-butterfly",
       "category": "Nature & Outdoors",
@@ -61343,7 +61343,7 @@
     },
     {
       "title": "Money Counter",
-      "file_name": "money-counter.png",
+      "file_name": "images/work_industry/money-counter.png",
       "added_on": "2025-07-08 21:35:57",
       "slug": "money-counter",
       "category": "Work & Industry",
@@ -66409,7 +66409,7 @@
     },
     {
       "title": "Mona Lisa",
-      "file_name": "mona-lisa.png",
+      "file_name": "images/history_culture/mona-lisa.png",
       "added_on": "2025-07-11 16:01:39",
       "slug": "mona-lisa",
       "category": "History & Culture",
@@ -68506,7 +68506,7 @@
     },
     {
       "title": "Molecular Model Kit",
-      "file_name": "molecular-model-kit.png",
+      "file_name": "images/space_science/molecular-model-kit.png",
       "added_on": "2025-07-13 05:21:40",
       "slug": "molecular-model-kit",
       "category": "Space & Science",
@@ -76729,7 +76729,7 @@
     },
     {
       "title": "Mom and Baby",
-      "file_name": "mom-and-baby.png",
+      "file_name": "images/everyday_life/mom-and-baby.png",
       "added_on": "2025-07-21 10:03:36",
       "slug": "mom-and-baby",
       "category": "Everyday Life",
@@ -84512,7 +84512,7 @@
     },
     {
       "title": "Money with Wings",
-      "file_name": "money-with-wings.png",
+      "file_name": "images/interface_symbols/money-with-wings.png",
       "added_on": "2025-08-18 14:41:25",
       "slug": "money-with-wings",
       "category": "Interface & Symbols",
@@ -109139,7 +109139,7 @@
     },
     {
       "title": "Mongolian Deel",
-      "file_name": "mongolian-deel.png",
+      "file_name": "images/history_culture/mongolian-deel.png",
       "added_on": "2025-10-27 13:00:47",
       "slug": "mongolian-deel",
       "category": "History & Culture",
@@ -129227,7 +129227,7 @@
     },
     {
       "title": "Monarch Chrysalis",
-      "file_name": "monarch-chrysalis.png",
+      "file_name": "images/nature_outdoors/monarch-chrysalis.png",
       "added_on": "2026-03-09 14:20:55",
       "slug": "monarch-chrysalis",
       "category": "Nature & Outdoors",
