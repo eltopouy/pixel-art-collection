@@ -15469,7 +15469,7 @@
     },
     {
       "title": "Hazelnut",
-      "file_name": "hazelnut.png",
+      "file_name": "images/food_drink/hazelnut.png",
       "added_on": "2025-05-27 15:01:07",
       "slug": "hazelnut",
       "category": "Food & Drink",
@@ -20457,7 +20457,7 @@
     },
     {
       "title": "Hay Bale",
-      "file_name": "hay-bale.png",
+      "file_name": "images/everyday_life/hay-bale.png",
       "added_on": "2025-06-02 09:48:31",
       "slug": "hay-bale",
       "category": "Everyday Life",
@@ -24442,7 +24442,7 @@
     },
     {
       "title": "Hauberk",
-      "file_name": "hauberk.png",
+      "file_name": "images/history_culture/hauberk.png",
       "added_on": "2025-06-04 21:36:38",
       "slug": "hauberk",
       "category": "History & Culture",
@@ -24910,7 +24910,7 @@
     },
     {
       "title": "Haubergeon",
-      "file_name": "haubergeon.png",
+      "file_name": "images/history_culture/haubergeon.png",
       "added_on": "2025-06-04 21:39:48",
       "slug": "haubergeon",
       "category": "History & Culture",
@@ -27213,7 +27213,7 @@
     },
     {
       "title": "Headband",
-      "file_name": "headband.png",
+      "file_name": "images/fashion_style/headband.png",
       "added_on": "2025-06-07 17:31:33",
       "slug": "headband",
       "category": "Fashion & Style",
@@ -27421,7 +27421,7 @@
     },
     {
       "title": "HDMI Switch",
-      "file_name": "hdmi-switch.png",
+      "file_name": "images/technology_media/hdmi-switch.png",
       "added_on": "2025-06-08 01:31:26",
       "slug": "hdmi-switch",
       "category": "Technology & Media",
@@ -38835,7 +38835,7 @@
     },
     {
       "title": "Haunted Doll",
-      "file_name": "haunted-doll.png",
+      "file_name": "images/fantasy_imagination/haunted-doll.png",
       "added_on": "2025-06-13 05:19:24",
       "slug": "haunted-doll",
       "category": "Fantasy & Imagination",
@@ -41192,7 +41192,7 @@
     },
     {
       "title": "Hawkfish",
-      "file_name": "hawkfish.png",
+      "file_name": "images/animals/hawkfish.png",
       "added_on": "2025-06-13 22:30:10",
       "slug": "hawkfish",
       "category": "Animals",
@@ -42967,7 +42967,7 @@
     },
     {
       "title": "Haunted Locket",
-      "file_name": "haunted-locket.png",
+      "file_name": "images/fantasy_imagination/haunted-locket.png",
       "added_on": "2025-06-14 08:25:00",
       "slug": "haunted-locket",
       "category": "Fantasy & Imagination",
@@ -49361,7 +49361,7 @@
     },
     {
       "title": "Havanese",
-      "file_name": "havanese.png",
+      "file_name": "images/animals/havanese.png",
       "added_on": "2025-06-22 17:33:28",
       "slug": "havanese",
       "category": "Animals",
@@ -51682,7 +51682,7 @@
     },
     {
       "title": "Haworthia",
-      "file_name": "haworthia.png",
+      "file_name": "images/nature_outdoors/haworthia.png",
       "added_on": "2025-06-23 21:27:17",
       "slug": "haworthia",
       "category": "Nature & Outdoors",
@@ -70018,7 +70018,7 @@
     },
     {
       "title": "Haunted Forest",
-      "file_name": "haunted-forest.png",
+      "file_name": "images/fantasy_imagination/haunted-forest.png",
       "added_on": "2025-07-14 09:59:30",
       "slug": "haunted-forest",
       "category": "Fantasy & Imagination",
@@ -71429,7 +71429,7 @@
     },
     {
       "title": "Hawfinch",
-      "file_name": "hawfinch.png",
+      "file_name": "images/animals/hawfinch.png",
       "added_on": "2025-07-16 08:39:03",
       "slug": "hawfinch",
       "category": "Animals",
@@ -93212,7 +93212,7 @@
     },
     {
       "title": "Hazmat Suit",
-      "file_name": "hazmat-suit.png",
+      "file_name": "images/work_industry/hazmat-suit.png",
       "added_on": "2025-09-16 12:01:29",
       "slug": "hazmat-suit",
       "category": "Work & Industry",
@@ -94660,7 +94660,7 @@
     },
     {
       "title": "Hazard Tape",
-      "file_name": "hazard-tape.png",
+      "file_name": "images/work_industry/hazard-tape.png",
       "added_on": "2025-09-19 10:41:26",
       "slug": "hazard-tape",
       "category": "Work & Industry",
@@ -99333,7 +99333,7 @@
     },
     {
       "title": "Headache",
-      "file_name": "headache.png",
+      "file_name": "images/health_wellness/headache.png",
       "added_on": "2025-10-01 02:01:24",
       "slug": "headache",
       "category": "Health & Wellness",
@@ -100602,7 +100602,7 @@
     },
     {
       "title": "Hazardous Waste Drum",
-      "file_name": "hazardous-waste-drum.png",
+      "file_name": "images/work_industry/hazardous-waste-drum.png",
       "added_on": "2025-10-04 14:51:25",
       "slug": "hazardous-waste-drum",
       "category": "Work & Industry",
@@ -106176,7 +106176,7 @@
     },
     {
       "title": "Hazardous Waste Barrel",
-      "file_name": "hazardous-waste-barrel.png",
+      "file_name": "images/work_industry/hazardous-waste-barrel.png",
       "added_on": "2025-10-20 16:53:17",
       "slug": "hazardous-waste-barrel",
       "category": "Work & Industry",
@@ -108434,7 +108434,7 @@
     },
     {
       "title": "Hat Stand",
-      "file_name": "hat-stand.png",
+      "file_name": "images/everyday_life/hat-stand.png",
       "added_on": "2025-10-26 13:31:18",
       "slug": "hat-stand",
       "category": "Everyday Life",
@@ -114795,7 +114795,7 @@
     },
     {
       "title": "Hazard Light Baton",
-      "file_name": "hazard-light-baton.png",
+      "file_name": "images/work_industry/hazard-light-baton.png",
       "added_on": "2025-11-11 20:31:59",
       "slug": "hazard-light-baton",
       "category": "Work & Industry",
@@ -126692,7 +126692,7 @@
     },
     {
       "title": "Hawaiian Feather Cloak",
-      "file_name": "hawaiian-feather-cloak.png",
+      "file_name": "images/history_culture/hawaiian-feather-cloak.png",
       "added_on": "2026-02-12 17:41:08",
       "slug": "hawaiian-feather-cloak",
       "category": "History & Culture",
