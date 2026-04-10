@@ -72,14 +72,13 @@
 
     <script>
         async function updateStatus() {
+            const log = document.getElementById('log');
             try {
                 const res = await fetch('meta.json');
+                if (!res.ok) throw new Error(`HTTP Error: ${res.status}`);
                 const data = await res.json();
                 
                 const total = data.object_count || 10000;
-                // Since we don't have a backend to count files, we estimate from meta items that have actual paths
-                // In a real environment, we'd check against a count from the server or file list
-                // But for now, we'll use the items in meta.json that are organized
                 const ready = data.items.filter(i => i.file_name.startsWith('images/')).length;
                 
                 document.getElementById('totalCount').innerText = total.toLocaleString();
@@ -91,7 +90,6 @@
                 
                 document.getElementById('lastUpdate').innerText = new Date().toLocaleTimeString();
                 
-                const log = document.getElementById('log');
                 const entry = document.createElement('div');
                 entry.className = 'log-entry success';
                 entry.innerText = `[${new Date().toLocaleTimeString()}] Status Check: ${ready} files synced.`;
@@ -99,11 +97,19 @@
                 
             } catch (err) {
                 console.error(err);
+                const entry = document.createElement('div');
+                entry.className = 'log-entry';
+                entry.style.color = '#f38ba8';
+                entry.innerText = `[${new Date().toLocaleTimeString()}] ❌ ERROR: ${err.message}`;
+                log.prepend(entry);
+                
+                document.getElementById('totalCount').innerText = "ERR";
+                document.getElementById('readyCount').innerText = "ERR";
             }
         }
 
         updateStatus();
-        setInterval(updateStatus, 30000); // Auto refresh every 30s
+        setInterval(updateStatus, 30000); 
     </script>
 </body>
 </html>
