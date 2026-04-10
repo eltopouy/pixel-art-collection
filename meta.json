@@ -995,7 +995,7 @@
     },
     {
       "title": "Sunscreen",
-      "file_name": "sunscreen.png",
+      "file_name": "images/everyday_life/sunscreen.png",
       "added_on": "2025-05-16 01:50:50",
       "slug": "sunscreen",
       "category": "Everyday Life",
@@ -13438,7 +13438,7 @@
     },
     {
       "title": "Sunglasses",
-      "file_name": "sunglasses.png",
+      "file_name": "images/everyday_life/sunglasses.png",
       "added_on": "2025-05-26 08:30:51",
       "slug": "sunglasses",
       "category": "Everyday Life",
@@ -15157,7 +15157,7 @@
     },
     {
       "title": "Sunflower Seed",
-      "file_name": "sunflower-seed.png",
+      "file_name": "images/food_drink/sunflower-seed.png",
       "added_on": "2025-05-27 10:01:14",
       "slug": "sunflower-seed",
       "category": "Food & Drink",
@@ -15235,7 +15235,7 @@
     },
     {
       "title": "Sunflower Oil",
-      "file_name": "sunflower-oil.png",
+      "file_name": "images/food_drink/sunflower-oil.png",
       "added_on": "2025-05-27 11:41:01",
       "slug": "sunflower-oil",
       "category": "Food & Drink",
@@ -16641,7 +16641,7 @@
     },
     {
       "title": "Sundress",
-      "file_name": "sundress.png",
+      "file_name": "images/fashion_style/sundress.png",
       "added_on": "2025-05-31 10:10:22",
       "slug": "sundress",
       "category": "Fashion & Style",
@@ -19491,7 +19491,7 @@
     },
     {
       "title": "Sunflower",
-      "file_name": "sunflower.png",
+      "file_name": "images/nature_outdoors/sunflower.png",
       "added_on": "2025-06-02 09:17:03",
       "slug": "sunflower",
       "category": "Nature & Outdoors",
@@ -21435,7 +21435,7 @@
     },
     {
       "title": "Sunflower",
-      "file_name": "sunflower-dqrfdu.png",
+      "file_name": "images/nature_outdoors/sunflower-dqrfdu.png",
       "added_on": "2025-06-02 21:48:12",
       "slug": "sunflower-dqrfdu",
       "category": "Nature & Outdoors",
@@ -30421,7 +30421,7 @@
     },
     {
       "title": "Superbike",
-      "file_name": "superbike.png",
+      "file_name": "images/vehicles_transport/superbike.png",
       "added_on": "2025-06-10 18:29:10",
       "slug": "superbike",
       "category": "Vehicles & Transport",
@@ -41205,7 +41205,7 @@
     },
     {
       "title": "Sunglasses",
-      "file_name": "sunglasses-1.png",
+      "file_name": "images/fashion_style/sunglasses-1.png",
       "added_on": "2025-06-13 22:30:13",
       "slug": "sunglasses-1",
       "category": "Fashion & Style",
@@ -50153,7 +50153,7 @@
     },
     {
       "title": "Sunfish",
-      "file_name": "sunfish.png",
+      "file_name": "images/animals/sunfish.png",
       "added_on": "2025-06-22 21:40:05",
       "slug": "sunfish",
       "category": "Animals",
@@ -50221,7 +50221,7 @@
     },
     {
       "title": "Sunfish",
-      "file_name": "sunfish-1.png",
+      "file_name": "images/animals/sunfish-1.png",
       "added_on": "2025-06-22 21:40:16",
       "slug": "sunfish-1",
       "category": "Animals",
@@ -60006,7 +60006,7 @@
     },
     {
       "title": "Sunrise",
-      "file_name": "sunrise.png",
+      "file_name": "images/nature_outdoors/sunrise.png",
       "added_on": "2025-07-08 10:20:30",
       "slug": "sunrise",
       "category": "Nature & Outdoors",
@@ -60019,7 +60019,7 @@
     },
     {
       "title": "Sunset",
-      "file_name": "sunset.png",
+      "file_name": "images/nature_outdoors/sunset.png",
       "added_on": "2025-07-08 10:20:31",
       "slug": "sunset",
       "category": "Nature & Outdoors",
@@ -60032,7 +60032,7 @@
     },
     {
       "title": "Sunny Day",
-      "file_name": "sunny-day.png",
+      "file_name": "images/nature_outdoors/sunny-day.png",
       "added_on": "2025-07-08 10:20:34",
       "slug": "sunny-day",
       "category": "Nature & Outdoors",
@@ -60978,7 +60978,7 @@
     },
     {
       "title": "Sunken Garden",
-      "file_name": "sunken-garden.png",
+      "file_name": "images/places_structures/sunken-garden.png",
       "added_on": "2025-07-08 18:40:59",
       "slug": "sunken-garden",
       "category": "Places & Structures",
@@ -68428,7 +68428,7 @@
     },
     {
       "title": "Sunken Shipwreck",
-      "file_name": "sunken-shipwreck.png",
+      "file_name": "images/places_structures/sunken-shipwreck.png",
       "added_on": "2025-07-13 03:11:39",
       "slug": "sunken-shipwreck",
       "category": "Places & Structures",
@@ -82677,7 +82677,7 @@
     },
     {
       "title": "Superman",
-      "file_name": "superman.png",
+      "file_name": "images/fantasy_imagination/superman.png",
       "added_on": "2025-08-05 10:01:09",
       "slug": "superman",
       "category": "Fantasy & Imagination",
@@ -90175,7 +90175,7 @@
     },
     {
       "title": "Super Glue",
-      "file_name": "super-glue.png",
+      "file_name": "images/everyday_life/super-glue.png",
       "added_on": "2025-09-09 15:41:46",
       "slug": "super-glue",
       "category": "Everyday Life",
@@ -104355,7 +104355,7 @@
     },
     {
       "title": "Sunflower Seed Butter",
-      "file_name": "sunflower-seed-butter.png",
+      "file_name": "images/food_drink/sunflower-seed-butter.png",
       "added_on": "2025-10-12 10:31:52",
       "slug": "sunflower-seed-butter",
       "category": "Food & Drink",
@@ -113081,7 +113081,7 @@
     },
     {
       "title": "Sunken Amphitheater",
-      "file_name": "sunken-amphitheater.png",
+      "file_name": "images/places_structures/sunken-amphitheater.png",
       "added_on": "2025-11-05 21:01:56",
       "slug": "sunken-amphitheater",
       "category": "Places & Structures",
@@ -129121,7 +129121,7 @@
     },
     {
       "title": "Sunscreen Bottle",
-      "file_name": "sunscreen-bottle.png",
+      "file_name": "images/everyday_life/sunscreen-bottle.png",
       "added_on": "2026-03-09 12:40:48",
       "slug": "sunscreen-bottle",
       "category": "Everyday Life",
