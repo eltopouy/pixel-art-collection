@@ -8937,7 +8937,7 @@
     },
     {
       "title": "Peach",
-      "file_name": "peach.png",
+      "file_name": "images/food_drink/peach.png",
       "added_on": "2025-05-22 19:01:12",
       "slug": "peach",
       "category": "Food & Drink",
@@ -9340,7 +9340,7 @@
     },
     {
       "title": "Patient",
-      "file_name": "patient.png",
+      "file_name": "images/professions/patient.png",
       "added_on": "2025-05-23 02:20:48",
       "slug": "patient",
       "category": "Professions",
@@ -10473,7 +10473,7 @@
     },
     {
       "title": "Pay",
-      "file_name": "pay.png",
+      "file_name": "images/work_industry/pay.png",
       "added_on": "2025-05-23 17:31:16",
       "slug": "pay",
       "category": "Work & Industry",
@@ -23388,7 +23388,7 @@
     },
     {
       "title": "PC Motherboard",
-      "file_name": "pc-motherboard.png",
+      "file_name": "images/technology_media/pc-motherboard.png",
       "added_on": "2025-06-04 08:29:40",
       "slug": "pc-motherboard",
       "category": "Technology & Media",
@@ -33390,7 +33390,7 @@
     },
     {
       "title": "Pavilion",
-      "file_name": "pavilion.png",
+      "file_name": "images/places_structures/pavilion.png",
       "added_on": "2025-06-11 17:00:47",
       "slug": "pavilion",
       "category": "Places & Structures",
@@ -36701,7 +36701,7 @@
     },
     {
       "title": "Pawnshop",
-      "file_name": "pawnshop.png",
+      "file_name": "images/everyday_life/pawnshop.png",
       "added_on": "2025-06-12 17:52:04",
       "slug": "pawnshop",
       "category": "Everyday Life",
@@ -42177,7 +42177,7 @@
     },
     {
       "title": "Pavlova",
-      "file_name": "pavlova.png",
+      "file_name": "images/food_drink/pavlova.png",
       "added_on": "2025-06-14 01:55:09",
       "slug": "pavlova",
       "category": "Food & Drink",
@@ -43514,7 +43514,7 @@
     },
     {
       "title": "Patent Examiner",
-      "file_name": "patent-examiner.png",
+      "file_name": "images/professions/patent-examiner.png",
       "added_on": "2025-06-14 12:43:07",
       "slug": "patent-examiner",
       "category": "Professions",
@@ -43870,7 +43870,7 @@
     },
     {
       "title": "PDF Icon",
-      "file_name": "pdf-icon.png",
+      "file_name": "images/interface_symbols/pdf-icon.png",
       "added_on": "2025-06-14 13:21:03",
       "slug": "pdf-icon",
       "category": "Interface & Symbols",
@@ -45639,7 +45639,7 @@
     },
     {
       "title": "Peach Rings",
-      "file_name": "peach-rings.png",
+      "file_name": "images/food_drink/peach-rings.png",
       "added_on": "2025-06-15 19:24:59",
       "slug": "peach-rings",
       "category": "Food & Drink",
@@ -51237,7 +51237,7 @@
     },
     {
       "title": "Peace Sign",
-      "file_name": "peace-sign.png",
+      "file_name": "images/interface_symbols/peace-sign.png",
       "added_on": "2025-06-23 08:09:54",
       "slug": "peace-sign",
       "category": "Interface & Symbols",
@@ -54825,7 +54825,7 @@
     },
     {
       "title": "Patient in Pre-Operative Gown",
-      "file_name": "patient-in-pre-operative-gown.png",
+      "file_name": "images/health_wellness/patient-in-pre-operative-gown.png",
       "added_on": "2025-06-28 09:07:34",
       "slug": "patient-in-pre-operative-gown",
       "category": "Health & Wellness",
@@ -73631,7 +73631,7 @@
     },
     {
       "title": "Patchwork Jeans",
-      "file_name": "patchwork-jeans.png",
+      "file_name": "images/fashion_style/patchwork-jeans.png",
       "added_on": "2025-07-17 19:31:40",
       "slug": "patchwork-jeans",
       "category": "Fashion & Style",
@@ -78709,7 +78709,7 @@
     },
     {
       "title": "Patagotitan",
-      "file_name": "patagotitan.png",
+      "file_name": "images/animals/patagotitan.png",
       "added_on": "2025-07-24 20:21:33",
       "slug": "patagotitan",
       "category": "Animals",
@@ -78724,7 +78724,7 @@
     },
     {
       "title": "Peach Melba",
-      "file_name": "peach-melba.png",
+      "file_name": "images/food_drink/peach-melba.png",
       "added_on": "2025-07-24 20:31:37",
       "slug": "peach-melba",
       "category": "Food & Drink",
@@ -82837,7 +82837,7 @@
     },
     {
       "title": "P.E. Equipment",
-      "file_name": "pe-equipment.png",
+      "file_name": "images/sports/pe-equipment.png",
       "added_on": "2025-08-08 06:54:44",
       "slug": "pe-equipment",
       "category": "Sports",
@@ -90468,7 +90468,7 @@
     },
     {
       "title": "Payroll Check",
-      "file_name": "payroll-check.png",
+      "file_name": "images/work_industry/payroll-check.png",
       "added_on": "2025-09-09 23:31:36",
       "slug": "payroll-check",
       "category": "Work & Industry",
@@ -113003,7 +113003,7 @@
     },
     {
       "title": "Pause Icon",
-      "file_name": "pause-icon.png",
+      "file_name": "images/interface_symbols/pause-icon.png",
       "added_on": "2025-11-04 12:41:55",
       "slug": "pause-icon",
       "category": "Interface & Symbols",
@@ -113725,7 +113725,7 @@
     },
     {
       "title": "Patchouli Plant",
-      "file_name": "patchouli-plant.png",
+      "file_name": "images/health_wellness/patchouli-plant.png",
       "added_on": "2025-11-08 15:11:57",
       "slug": "patchouli-plant",
       "category": "Health & Wellness",
@@ -128807,7 +128807,7 @@
     },
     {
       "title": "Paver",
-      "file_name": "paver.png",
+      "file_name": "images/places_structures/paver.png",
       "added_on": "2026-03-09 08:20:55",
       "slug": "paver",
       "category": "Places & Structures",
