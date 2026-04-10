@@ -5090,7 +5090,7 @@
     },
     {
       "title": "Pine Tree",
-      "file_name": "pine-tree.png",
+      "file_name": "images/nature_outdoors/pine-tree.png",
       "added_on": "2025-05-17 18:05:33",
       "slug": "pine-tree",
       "category": "Nature & Outdoors",
@@ -5857,7 +5857,7 @@
     },
     {
       "title": "Pinecone",
-      "file_name": "pinecone.png",
+      "file_name": "images/nature_outdoors/pinecone.png",
       "added_on": "2025-05-18 06:46:08",
       "slug": "pinecone",
       "category": "Nature & Outdoors",
@@ -6363,7 +6363,7 @@
     },
     {
       "title": "Pine Needle",
-      "file_name": "pine-needle.png",
+      "file_name": "images/nature_outdoors/pine-needle.png",
       "added_on": "2025-05-18 18:16:25",
       "slug": "pine-needle",
       "category": "Nature & Outdoors",
@@ -13347,7 +13347,7 @@
     },
     {
       "title": "Pineapple",
-      "file_name": "pineapple.png",
+      "file_name": "images/food_drink/pineapple.png",
       "added_on": "2025-05-26 06:41:24",
       "slug": "pineapple",
       "category": "Food & Drink",
@@ -16120,7 +16120,7 @@
     },
     {
       "title": "Pine Nut",
-      "file_name": "pine-nut.png",
+      "file_name": "images/food_drink/pine-nut.png",
       "added_on": "2025-05-28 02:40:58",
       "slug": "pine-nut",
       "category": "Food & Drink",
@@ -16329,7 +16329,7 @@
     },
     {
       "title": "Pine Sap",
-      "file_name": "pine-sap.png",
+      "file_name": "images/nature_outdoors/pine-sap.png",
       "added_on": "2025-05-28 06:21:02",
       "slug": "pine-sap",
       "category": "Nature & Outdoors",
@@ -18619,7 +18619,7 @@
     },
     {
       "title": "\"Pineapple\" Hand Grenade",
-      "file_name": "pineapple-hand-grenade.png",
+      "file_name": "images/history_culture/pineapple-hand-grenade.png",
       "added_on": "2025-06-01 08:27:13",
       "slug": "pineapple-hand-grenade",
       "category": "History & Culture",
@@ -35067,7 +35067,7 @@
     },
     {
       "title": "Pineapple Soda",
-      "file_name": "pineapple-soda.png",
+      "file_name": "images/food_drink/pineapple-soda.png",
       "added_on": "2025-06-12 02:55:13",
       "slug": "pineapple-soda",
       "category": "Food & Drink",
@@ -40262,7 +40262,7 @@
     },
     {
       "title": "Pink Dolphin",
-      "file_name": "pink-dolphin.png",
+      "file_name": "images/animals/pink-dolphin.png",
       "added_on": "2025-06-13 18:13:21",
       "slug": "pink-dolphin",
       "category": "Animals",
@@ -42270,7 +42270,7 @@
     },
     {
       "title": "Pineapple Pizza",
-      "file_name": "pineapple-pizza.png",
+      "file_name": "images/food_drink/pineapple-pizza.png",
       "added_on": "2025-06-14 03:07:11",
       "slug": "pineapple-pizza",
       "category": "Food & Drink",
@@ -57990,7 +57990,7 @@
     },
     {
       "title": "Ping Pong Table",
-      "file_name": "ping-pong-table.png",
+      "file_name": "images/sports/ping-pong-table.png",
       "added_on": "2025-07-06 02:41:13",
       "slug": "ping-pong-table",
       "category": "Sports",
@@ -75717,7 +75717,7 @@
     },
     {
       "title": "Pineapple Upside Down Cake",
-      "file_name": "pineapple-upside-down-cake.png",
+      "file_name": "images/food_drink/pineapple-upside-down-cake.png",
       "added_on": "2025-07-20 08:41:26",
       "slug": "pineapple-upside-down-cake",
       "category": "Food & Drink",
@@ -76096,7 +76096,7 @@
     },
     {
       "title": "Pinecone Fish",
-      "file_name": "pinecone-fish.png",
+      "file_name": "images/animals/pinecone-fish.png",
       "added_on": "2025-07-20 13:31:28",
       "slug": "pinecone-fish",
       "category": "Animals",
@@ -77987,7 +77987,7 @@
     },
     {
       "title": "Pineapple Strawberry Bubble Tea",
-      "file_name": "pineapple-strawberry-bubble-tea.png",
+      "file_name": "images/food_drink/pineapple-strawberry-bubble-tea.png",
       "added_on": "2025-07-24 11:01:48",
       "slug": "pineapple-strawberry-bubble-tea",
       "category": "Food & Drink",
@@ -85543,7 +85543,7 @@
     },
     {
       "title": "Pink Bow",
-      "file_name": "pink-bow.png",
+      "file_name": "images/fashion_style/pink-bow.png",
       "added_on": "2025-08-24 16:11:24",
       "slug": "pink-bow",
       "category": "Fashion & Style",
@@ -88679,7 +88679,7 @@
     },
     {
       "title": "Pinhole Camera",
-      "file_name": "pinhole-camera.png",
+      "file_name": "images/hobbies/pinhole-camera.png",
       "added_on": "2025-09-05 17:31:08",
       "slug": "pinhole-camera",
       "category": "Hobbies",
@@ -92644,7 +92644,7 @@
     },
     {
       "title": "Pineapple Print Shirt",
-      "file_name": "pineapple-print-shirt.png",
+      "file_name": "images/fashion_style/pineapple-print-shirt.png",
       "added_on": "2025-09-15 11:31:34",
       "slug": "pineapple-print-shirt",
       "category": "Fashion & Style",
@@ -96684,7 +96684,7 @@
     },
     {
       "title": "Pink Armadillo",
-      "file_name": "pink-armadillo.png",
+      "file_name": "images/animals/pink-armadillo.png",
       "added_on": "2025-09-23 12:51:46",
       "slug": "pink-armadillo",
       "category": "Animals",
@@ -101400,7 +101400,7 @@
     },
     {
       "title": "Pineapple Purse",
-      "file_name": "pineapple-purse.png",
+      "file_name": "images/fashion_style/pineapple-purse.png",
       "added_on": "2025-10-05 14:11:40",
       "slug": "pineapple-purse",
       "category": "Fashion & Style",
@@ -110117,7 +110117,7 @@
     },
     {
       "title": "Pink-Bellied Moth",
-      "file_name": "pink-bellied-moth.png",
+      "file_name": "images/animals/pink-bellied-moth.png",
       "added_on": "2025-10-28 20:31:57",
       "slug": "pink-bellied-moth",
       "category": "Animals",
@@ -116218,7 +116218,7 @@
     },
     {
       "title": "Pineapple Sage",
-      "file_name": "pineapple-sage.png",
+      "file_name": "images/nature_outdoors/pineapple-sage.png",
       "added_on": "2025-11-17 14:12:08",
       "slug": "pineapple-sage",
       "category": "Nature & Outdoors",
