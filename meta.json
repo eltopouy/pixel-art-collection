@@ -2855,7 +2855,7 @@
     },
     {
       "title": "Maglev Train",
-      "file_name": "maglev-train.png",
+      "file_name": "images/vehicles_transport/maglev-train.png",
       "added_on": "2025-05-16 15:51:01",
       "slug": "maglev-train",
       "category": "Vehicles & Transport",
@@ -3128,7 +3128,7 @@
     },
     {
       "title": "Magic Tricks Set",
-      "file_name": "magic-tricks-starter-set.png",
+      "file_name": "images/hobbies/magic-tricks-starter-set.png",
       "added_on": "2025-05-16 18:21:05",
       "slug": "magic-tricks-starter-set",
       "category": "Hobbies",
@@ -19191,7 +19191,7 @@
     },
     {
       "title": "Magic Wand",
-      "file_name": "magic-wand.png",
+      "file_name": "images/fantasy_imagination/magic-wand.png",
       "added_on": "2025-06-01 08:32:01",
       "slug": "magic-wand",
       "category": "Fantasy & Imagination",
@@ -29739,7 +29739,7 @@
     },
     {
       "title": "Magic Portal",
-      "file_name": "magic-portal.png",
+      "file_name": "images/fantasy_imagination/magic-portal.png",
       "added_on": "2025-06-10 14:19:25",
       "slug": "magic-portal",
       "category": "Fantasy & Imagination",
@@ -29870,7 +29870,7 @@
     },
     {
       "title": "Magic Set",
-      "file_name": "magic-set.png",
+      "file_name": "images/entertainment_leisure/magic-set.png",
       "added_on": "2025-06-10 15:19:15",
       "slug": "magic-set",
       "category": "Entertainment & Leisure",
@@ -35381,7 +35381,7 @@
     },
     {
       "title": "Magic trick",
-      "file_name": "magic-trick.png",
+      "file_name": "images/entertainment_leisure/magic-trick.png",
       "added_on": "2025-06-12 05:31:00",
       "slug": "magic-trick",
       "category": "Entertainment & Leisure",
@@ -43540,7 +43540,7 @@
     },
     {
       "title": "Magic trick kit",
-      "file_name": "magic-trick-kit.png",
+      "file_name": "images/entertainment_leisure/magic-trick-kit.png",
       "added_on": "2025-06-14 12:55:19",
       "slug": "magic-trick-kit",
       "category": "Entertainment & Leisure",
@@ -56767,7 +56767,7 @@
     },
     {
       "title": "Magician",
-      "file_name": "magician.png",
+      "file_name": "images/professions/magician.png",
       "added_on": "2025-07-05 14:21:01",
       "slug": "magician",
       "category": "Professions",
@@ -57493,7 +57493,7 @@
     },
     {
       "title": "Magic Quill",
-      "file_name": "magic-quill.png",
+      "file_name": "images/fantasy_imagination/magic-quill.png",
       "added_on": "2025-07-05 21:36:18",
       "slug": "magic-quill",
       "category": "Fantasy & Imagination",
@@ -59874,7 +59874,7 @@
     },
     {
       "title": "Magnet Crane",
-      "file_name": "magnet-crane.png",
+      "file_name": "images/work_industry/magnet-crane.png",
       "added_on": "2025-07-07 14:11:29",
       "slug": "magnet-crane",
       "category": "Work & Industry",
@@ -68729,7 +68729,7 @@
     },
     {
       "title": "Magical Sword",
-      "file_name": "magical-sword.png",
+      "file_name": "images/fantasy_imagination/magical-sword.png",
       "added_on": "2025-07-13 13:28:19",
       "slug": "magical-sword",
       "category": "Fantasy & Imagination",
@@ -68833,7 +68833,7 @@
     },
     {
       "title": "Magic Shield",
-      "file_name": "magic-shield.png",
+      "file_name": "images/fantasy_imagination/magic-shield.png",
       "added_on": "2025-07-13 14:14:22",
       "slug": "magic-shield",
       "category": "Fantasy & Imagination",
@@ -69470,7 +69470,7 @@
     },
     {
       "title": "Magnetic Bookmark",
-      "file_name": "magnetic-bookmark.png",
+      "file_name": "images/everyday_life/magnetic-bookmark.png",
       "added_on": "2025-07-14 01:11:24",
       "slug": "magnetic-bookmark",
       "category": "Everyday Life",
@@ -69784,7 +69784,7 @@
     },
     {
       "title": "Magic Ring",
-      "file_name": "magic-ring.png",
+      "file_name": "images/fantasy_imagination/magic-ring.png",
       "added_on": "2025-07-14 09:58:29",
       "slug": "magic-ring",
       "category": "Fantasy & Imagination",
@@ -69810,7 +69810,7 @@
     },
     {
       "title": "Magic Scroll",
-      "file_name": "magic-scroll.png",
+      "file_name": "images/fantasy_imagination/magic-scroll.png",
       "added_on": "2025-07-14 09:58:31",
       "slug": "magic-scroll",
       "category": "Fantasy & Imagination",
@@ -69901,7 +69901,7 @@
     },
     {
       "title": "Magical Shop",
-      "file_name": "magical-shop.png",
+      "file_name": "images/fantasy_imagination/magical-shop.png",
       "added_on": "2025-07-14 09:58:58",
       "slug": "magical-shop",
       "category": "Fantasy & Imagination",
@@ -70083,7 +70083,7 @@
     },
     {
       "title": "Magical Tome",
-      "file_name": "magical-tome.png",
+      "file_name": "images/fantasy_imagination/magical-tome.png",
       "added_on": "2025-07-14 10:06:30",
       "slug": "magical-tome",
       "category": "Fantasy & Imagination",
@@ -70737,7 +70737,7 @@
     },
     {
       "title": "Magic Staff",
-      "file_name": "magic-staff.png",
+      "file_name": "images/fantasy_imagination/magic-staff.png",
       "added_on": "2025-07-14 18:10:08",
       "slug": "magic-staff",
       "category": "Fantasy & Imagination",
@@ -77805,7 +77805,7 @@
     },
     {
       "title": "Magic Table",
-      "file_name": "magic-table.png",
+      "file_name": "images/fantasy_imagination/magic-table.png",
       "added_on": "2025-07-24 09:05:13",
       "slug": "magic-table",
       "category": "Fantasy & Imagination",
@@ -92353,7 +92353,7 @@
     },
     {
       "title": "Magic Wiggly Worm",
-      "file_name": "magic-wiggly-worm.png",
+      "file_name": "images/entertainment_leisure/magic-wiggly-worm.png",
       "added_on": "2025-09-13 21:31:18",
       "slug": "magic-wiggly-worm",
       "category": "Entertainment & Leisure",
