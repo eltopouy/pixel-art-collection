@@ -11461,7 +11461,7 @@
     },
     {
       "title": "Robot",
-      "file_name": "robot.png",
+      "file_name": "images/technology_media/robot.png",
       "added_on": "2025-05-24 06:31:24",
       "slug": "robot",
       "category": "Technology & Media",
@@ -29987,7 +29987,7 @@
     },
     {
       "title": "Robot Vacuum",
-      "file_name": "robot-vacuum.png",
+      "file_name": "images/technology_media/robot-vacuum.png",
       "added_on": "2025-06-10 16:13:10",
       "slug": "robot-vacuum",
       "category": "Technology & Media",
@@ -30434,7 +30434,7 @@
     },
     {
       "title": "Robotics Hackathon",
-      "file_name": "robotics-hackathon.png",
+      "file_name": "images/events/robotics-hackathon.png",
       "added_on": "2025-06-10 18:29:12",
       "slug": "robotics-hackathon",
       "category": "Events",
@@ -30949,7 +30949,7 @@
     },
     {
       "title": "Robotics Kit",
-      "file_name": "robotics-kit.png",
+      "file_name": "images/technology_media/robotics-kit.png",
       "added_on": "2025-06-10 21:24:51",
       "slug": "robotics-kit",
       "category": "Technology & Media",
@@ -31998,7 +31998,7 @@
     },
     {
       "title": "Rock Arch",
-      "file_name": "rock-arch.png",
+      "file_name": "images/nature_outdoors/rock-arch.png",
       "added_on": "2025-06-11 06:30:58",
       "slug": "rock-arch",
       "category": "Nature & Outdoors",
@@ -32258,7 +32258,7 @@
     },
     {
       "title": "Rock balancing",
-      "file_name": "rock-balancing.png",
+      "file_name": "images/hobbies/rock-balancing.png",
       "added_on": "2025-06-11 08:42:53",
       "slug": "rock-balancing",
       "category": "Hobbies",
@@ -33628,7 +33628,7 @@
     },
     {
       "title": "Robotic Arm",
-      "file_name": "robotic-arm.png",
+      "file_name": "images/work_industry/robotic-arm.png",
       "added_on": "2025-06-11 19:12:39",
       "slug": "robotic-arm",
       "category": "Work & Industry",
@@ -48846,7 +48846,7 @@
     },
     {
       "title": "Robotic Hand",
-      "file_name": "robotic-hand.png",
+      "file_name": "images/technology_media/robotic-hand.png",
       "added_on": "2025-06-22 17:31:15",
       "slug": "robotic-hand",
       "category": "Technology & Media",
@@ -48859,7 +48859,7 @@
     },
     {
       "title": "Robot Gripper",
-      "file_name": "robot-gripper.png",
+      "file_name": "images/technology_media/robot-gripper.png",
       "added_on": "2025-06-22 17:31:17",
       "slug": "robot-gripper",
       "category": "Technology & Media",
@@ -94184,7 +94184,7 @@
     },
     {
       "title": "Robotic Cat Toy",
-      "file_name": "robotic-cat-toy.png",
+      "file_name": "images/technology_media/robotic-cat-toy.png",
       "added_on": "2025-09-18 11:51:28",
       "slug": "robotic-cat-toy",
       "category": "Technology & Media",
@@ -102946,7 +102946,7 @@
     },
     {
       "title": "Robotic Sample Arm",
-      "file_name": "robotic-sample-arm.png",
+      "file_name": "images/space_science/robotic-sample-arm.png",
       "added_on": "2025-10-09 12:51:49",
       "slug": "robotic-sample-arm",
       "category": "Space & Science",
@@ -108343,7 +108343,7 @@
     },
     {
       "title": "Rock Candy Crystal",
-      "file_name": "rock-candy-crystal.png",
+      "file_name": "images/hobbies/rock-candy-crystal.png",
       "added_on": "2025-10-24 15:10:52",
       "slug": "rock-candy-crystal",
       "category": "Hobbies",
@@ -111696,7 +111696,7 @@
     },
     {
       "title": "Rock Balancing Installation",
-      "file_name": "rock-balancing-installation.png",
+      "file_name": "images/places_structures/rock-balancing-installation.png",
       "added_on": "2025-11-01 18:02:01",
       "slug": "rock-balancing-installation",
       "category": "Places & Structures",
@@ -114559,7 +114559,7 @@
     },
     {
       "title": "Robotic Fish",
-      "file_name": "robotic-fish.png",
+      "file_name": "images/technology_media/robotic-fish.png",
       "added_on": "2025-11-10 14:42:09",
       "slug": "robotic-fish",
       "category": "Technology & Media",
@@ -121908,7 +121908,7 @@
     },
     {
       "title": "Rock Cairn Path",
-      "file_name": "rock-cairn-path.png",
+      "file_name": "images/nature_outdoors/rock-cairn-path.png",
       "added_on": "2026-01-26 17:31:15",
       "slug": "rock-cairn-path",
       "category": "Nature & Outdoors",
@@ -124816,7 +124816,7 @@
     },
     {
       "title": "Robotic Camera Tripod",
-      "file_name": "robotic-camera-tripod.png",
+      "file_name": "images/technology_media/robotic-camera-tripod.png",
       "added_on": "2026-02-10 20:11:10",
       "slug": "robotic-camera-tripod",
       "category": "Technology & Media",
@@ -125283,7 +125283,7 @@
     },
     {
       "title": "Rock Bridge",
-      "file_name": "rock-bridge.png",
+      "file_name": "images/nature_outdoors/rock-bridge.png",
       "added_on": "2026-02-11 02:01:12",
       "slug": "rock-bridge",
       "category": "Nature & Outdoors",
@@ -127393,7 +127393,7 @@
     },
     {
       "title": "Robot Referee",
-      "file_name": "robot-referee.png",
+      "file_name": "images/sports/robot-referee.png",
       "added_on": "2026-03-02 16:21:12",
       "slug": "robot-referee",
       "category": "Sports",
@@ -129043,7 +129043,7 @@
     },
     {
       "title": "Robotic Lunar Drill",
-      "file_name": "robotic-lunar-drill.png",
+      "file_name": "images/space_science/robotic-lunar-drill.png",
       "added_on": "2026-03-09 11:40:56",
       "slug": "robotic-lunar-drill",
       "category": "Space & Science",
@@ -131056,7 +131056,7 @@
     },
     {
       "title": "Robot Lawn Mower",
-      "file_name": "robot-lawn-mower.png",
+      "file_name": "images/technology_media/robot-lawn-mower.png",
       "added_on": "2026-03-19 02:11:18",
       "slug": "robot-lawn-mower",
       "category": "Technology & Media",
@@ -131410,7 +131410,7 @@
     },
     {
       "title": "Robotic Exoskeleton",
-      "file_name": "robotic-exoskeleton.png",
+      "file_name": "images/space_science/robotic-exoskeleton.png",
       "added_on": "2026-03-20 18:51:15",
       "slug": "robotic-exoskeleton",
       "category": "Space & Science",
