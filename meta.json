@@ -2074,7 +2074,7 @@
     },
     {
       "title": "Journalist",
-      "file_name": "journalist.png",
+      "file_name": "images/professions/journalist.png",
       "added_on": "2025-05-16 11:40:24",
       "slug": "journalist",
       "category": "Professions",
@@ -4544,7 +4544,7 @@
     },
     {
       "title": "Jigsaw Puzzle",
-      "file_name": "jigsaw-puzzle.png",
+      "file_name": "images/entertainment_leisure/jigsaw-puzzle.png",
       "added_on": "2025-05-17 10:51:33",
       "slug": "jigsaw-puzzle",
       "category": "Entertainment & Leisure",
@@ -8469,7 +8469,7 @@
     },
     {
       "title": "Joystick",
-      "file_name": "joystick.png",
+      "file_name": "images/technology_media/joystick.png",
       "added_on": "2025-05-22 15:46:09",
       "slug": "joystick",
       "category": "Technology & Media",
@@ -12904,7 +12904,7 @@
     },
     {
       "title": "Judge",
-      "file_name": "judge.png",
+      "file_name": "images/professions/judge.png",
       "added_on": "2025-05-26 00:01:28",
       "slug": "judge",
       "category": "Professions",
@@ -14559,7 +14559,7 @@
     },
     {
       "title": "Job Fair",
-      "file_name": "job-fair.png",
+      "file_name": "images/events/job-fair.png",
       "added_on": "2025-05-27 00:40:40",
       "slug": "job-fair",
       "category": "Events",
@@ -14754,7 +14754,7 @@
     },
     {
       "title": "Job Interview",
-      "file_name": "job-interview.png",
+      "file_name": "images/events/job-interview.png",
       "added_on": "2025-05-27 03:10:53",
       "slug": "job-interview",
       "category": "Events",
@@ -30096,7 +30096,7 @@
     },
     {
       "title": "Jogging Track",
-      "file_name": "jogging-track.png",
+      "file_name": "images/sports/jogging-track.png",
       "added_on": "2025-06-10 17:01:16",
       "slug": "jogging-track",
       "category": "Sports",
@@ -48677,7 +48677,7 @@
     },
     {
       "title": "Jigsaw Puzzle",
-      "file_name": "jigsaw-puzzle-1.png",
+      "file_name": "images/entertainment_leisure/jigsaw-puzzle-1.png",
       "added_on": "2025-06-22 17:30:14",
       "slug": "jigsaw-puzzle-1",
       "category": "Entertainment & Leisure",
@@ -51224,7 +51224,7 @@
     },
     {
       "title": "Jorts",
-      "file_name": "jorts.png",
+      "file_name": "images/fashion_style/jorts.png",
       "added_on": "2025-06-23 08:09:42",
       "slug": "jorts",
       "category": "Fashion & Style",
@@ -66071,7 +66071,7 @@
     },
     {
       "title": "Joystick Hat Switch",
-      "file_name": "joystick-hat-switch.png",
+      "file_name": "images/technology_media/joystick-hat-switch.png",
       "added_on": "2025-07-11 08:21:21",
       "slug": "joystick-hat-switch",
       "category": "Technology & Media",
@@ -79067,7 +79067,7 @@
     },
     {
       "title": "Jiu Jitsu",
-      "file_name": "jiu-jitsu.png",
+      "file_name": "images/sports/jiu-jitsu.png",
       "added_on": "2025-07-24 22:31:34",
       "slug": "jiu-jitsu",
       "category": "Sports",
@@ -89233,7 +89233,7 @@
     },
     {
       "title": "Joust Pole",
-      "file_name": "joust-pole.png",
+      "file_name": "images/sports/joust-pole.png",
       "added_on": "2025-09-07 14:10:37",
       "slug": "joust-pole",
       "category": "Sports",
@@ -91566,7 +91566,7 @@
     },
     {
       "title": "Joan of Arc",
-      "file_name": "joan-of-arc.png",
+      "file_name": "images/historical_figures/joan-of-arc.png",
       "added_on": "2025-09-12 00:31:29",
       "slug": "joan-of-arc",
       "category": "Historical Figures",
@@ -94091,7 +94091,7 @@
     },
     {
       "title": "Job Application Form",
-      "file_name": "job-application-form.png",
+      "file_name": "images/work_industry/job-application-form.png",
       "added_on": "2025-09-18 10:41:27",
       "slug": "job-application-form",
       "category": "Work & Industry",
@@ -96070,7 +96070,7 @@
     },
     {
       "title": "Johann Sebastian Bach",
-      "file_name": "johann-sebastian-bach.png",
+      "file_name": "images/historical_figures/johann-sebastian-bach.png",
       "added_on": "2025-09-22 13:31:25",
       "slug": "johann-sebastian-bach",
       "category": "Historical Figures",
@@ -96404,7 +96404,7 @@
     },
     {
       "title": "Jomon Dogu Statue",
-      "file_name": "jomon-dogu-statue.png",
+      "file_name": "images/history_culture/jomon-dogu-statue.png",
       "added_on": "2025-09-23 09:01:24",
       "slug": "jomon-dogu-statue",
       "category": "History & Culture",
@@ -98884,7 +98884,7 @@
     },
     {
       "title": "John F. Kennedy",
-      "file_name": "john-f-kennedy.png",
+      "file_name": "images/historical_figures/john-f-kennedy.png",
       "added_on": "2025-09-30 20:11:25",
       "slug": "john-f-kennedy",
       "category": "Historical Figures",
@@ -99816,7 +99816,7 @@
     },
     {
       "title": "Jimi Hendrix",
-      "file_name": "jimi-hendrix.png",
+      "file_name": "images/historical_figures/jimi-hendrix.png",
       "added_on": "2025-10-02 10:41:29",
       "slug": "jimi-hendrix",
       "category": "Historical Figures",
@@ -109636,7 +109636,7 @@
     },
     {
       "title": "Jolly Roger",
-      "file_name": "jolly-roger.png",
+      "file_name": "images/flags/jolly-roger.png",
       "added_on": "2025-10-28 14:21:50",
       "slug": "jolly-roger",
       "category": "Flags",
@@ -130066,7 +130066,7 @@
     },
     {
       "title": "Joshua Tree",
-      "file_name": "joshua-tree.png",
+      "file_name": "images/nature_outdoors/joshua-tree.png",
       "added_on": "2026-03-17 22:20:56",
       "slug": "joshua-tree",
       "category": "Nature & Outdoors",
