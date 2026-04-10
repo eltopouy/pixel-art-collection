@@ -3557,7 +3557,7 @@
     },
     {
       "title": "Hospital",
-      "file_name": "hospital.png",
+      "file_name": "images/places_structures/hospital.png",
       "added_on": "2025-05-16 21:45:58",
       "slug": "hospital",
       "category": "Places & Structures",
@@ -4648,7 +4648,7 @@
     },
     {
       "title": "Horse-Drawn Carriage",
-      "file_name": "horse-drawn-carriage.png",
+      "file_name": "images/vehicles_transport/horse-drawn-carriage.png",
       "added_on": "2025-05-17 12:21:36",
       "slug": "horse-drawn-carriage",
       "category": "Vehicles & Transport",
@@ -5363,7 +5363,7 @@
     },
     {
       "title": "Horsefly",
-      "file_name": "horsefly.png",
+      "file_name": "images/animals/horsefly.png",
       "added_on": "2025-05-17 21:10:41",
       "slug": "horsefly",
       "category": "Animals",
@@ -5883,7 +5883,7 @@
     },
     {
       "title": "Horse",
-      "file_name": "horse-domestic.png",
+      "file_name": "images/animals/horse-domestic.png",
       "added_on": "2025-05-18 07:15:57",
       "slug": "horse-domestic",
       "category": "Animals",
@@ -9158,7 +9158,7 @@
     },
     {
       "title": "Hot Air Balloon",
-      "file_name": "hot-air-balloon.png",
+      "file_name": "images/vehicles_transport/hot-air-balloon.png",
       "added_on": "2025-05-23 00:00:43",
       "slug": "hot-air-balloon",
       "category": "Vehicles & Transport",
@@ -15690,7 +15690,7 @@
     },
     {
       "title": "Horse Saddle",
-      "file_name": "horse-saddle.png",
+      "file_name": "images/vehicles_transport/horse-saddle.png",
       "added_on": "2025-05-27 19:10:57",
       "slug": "horse-saddle",
       "category": "Vehicles & Transport",
@@ -17902,7 +17902,7 @@
     },
     {
       "title": "Hot Air Balloon",
-      "file_name": "hot-air-balloon-bzep1l.png",
+      "file_name": "images/vehicles_transport/hot-air-balloon-bzep1l.png",
       "added_on": "2025-06-01 08:11:19",
       "slug": "hot-air-balloon-bzep1l",
       "category": "Vehicles & Transport",
@@ -38484,7 +38484,7 @@
     },
     {
       "title": "Horse Race",
-      "file_name": "horse-race.png",
+      "file_name": "images/events/horse-race.png",
       "added_on": "2025-06-13 02:43:29",
       "slug": "horse-race",
       "category": "Events",
@@ -48261,7 +48261,7 @@
     },
     {
       "title": "Hostel with Terrace",
-      "file_name": "hostel-with-terrace.png",
+      "file_name": "images/places_structures/hostel-with-terrace.png",
       "added_on": "2025-06-20 14:01:46",
       "slug": "hostel-with-terrace",
       "category": "Places & Structures",
@@ -54838,7 +54838,7 @@
     },
     {
       "title": "Horseshoe Crab",
-      "file_name": "horseshoe-crab.png",
+      "file_name": "images/animals/horseshoe-crab.png",
       "added_on": "2025-06-28 09:13:20",
       "slug": "horseshoe-crab",
       "category": "Animals",
@@ -56533,7 +56533,7 @@
     },
     {
       "title": "Hosta Plant",
-      "file_name": "hosta-plant.png",
+      "file_name": "images/nature_outdoors/hosta-plant.png",
       "added_on": "2025-07-03 08:01:31",
       "slug": "hosta-plant",
       "category": "Nature & Outdoors",
@@ -66461,7 +66461,7 @@
     },
     {
       "title": "Hospital",
-      "file_name": "hospital-1.png",
+      "file_name": "images/places_structures/hospital-1.png",
       "added_on": "2025-07-11 16:46:48",
       "slug": "hospital-1",
       "category": "Places & Structures",
@@ -72365,7 +72365,7 @@
     },
     {
       "title": "Horse Tail Fern",
-      "file_name": "horse-tail-fern.png",
+      "file_name": "images/nature_outdoors/horse-tail-fern.png",
       "added_on": "2025-07-16 16:31:25",
       "slug": "horse-tail-fern",
       "category": "Nature & Outdoors",
@@ -96309,7 +96309,7 @@
     },
     {
       "title": "Hot Chicken Biscuit",
-      "file_name": "hot-chicken-biscuit.png",
+      "file_name": "images/food_drink/hot-chicken-biscuit.png",
       "added_on": "2025-09-22 17:21:20",
       "slug": "hot-chicken-biscuit",
       "category": "Food & Drink",
@@ -97639,7 +97639,7 @@
     },
     {
       "title": "Hot Chocolate",
-      "file_name": "hot-chocolate.png",
+      "file_name": "images/food_drink/hot-chocolate.png",
       "added_on": "2025-09-25 19:21:16",
       "slug": "hot-chocolate",
       "category": "Food & Drink",
@@ -103260,7 +103260,7 @@
     },
     {
       "title": "Horse Bus",
-      "file_name": "horse-bus.png",
+      "file_name": "images/vehicles_transport/horse-bus.png",
       "added_on": "2025-10-09 21:11:43",
       "slug": "horse-bus",
       "category": "Vehicles & Transport",
@@ -114351,7 +114351,7 @@
     },
     {
       "title": "Horned Melon",
-      "file_name": "horned-melon.png",
+      "file_name": "images/food_drink/horned-melon.png",
       "added_on": "2025-11-10 09:22:09",
       "slug": "horned-melon",
       "category": "Food & Drink",
@@ -114717,7 +114717,7 @@
     },
     {
       "title": "Horse-Drawn Sleigh",
-      "file_name": "horse-drawn-sleigh.png",
+      "file_name": "images/vehicles_transport/horse-drawn-sleigh.png",
       "added_on": "2025-11-11 19:22:05",
       "slug": "horse-drawn-sleigh",
       "category": "Vehicles & Transport",
@@ -117845,7 +117845,7 @@
     },
     {
       "title": "Horse-Drawn Hearse",
-      "file_name": "horse-drawn-hearse.png",
+      "file_name": "images/vehicles_transport/horse-drawn-hearse.png",
       "added_on": "2025-11-26 10:31:33",
       "slug": "horse-drawn-hearse",
       "category": "Vehicles & Transport",
@@ -129619,7 +129619,7 @@
     },
     {
       "title": "Horse Jump",
-      "file_name": "horse-jump.png",
+      "file_name": "images/sports/horse-jump.png",
       "added_on": "2026-03-17 16:40:55",
       "slug": "horse-jump",
       "category": "Sports",
