@@ -6207,7 +6207,7 @@
     },
     {
       "title": "Sleeping Pad",
-      "file_name": "sleeping-pad.png",
+      "file_name": "images/nature_outdoors/sleeping-pad.png",
       "added_on": "2025-05-18 15:31:24",
       "slug": "sleeping-pad",
       "category": "Nature & Outdoors",
@@ -16719,7 +16719,7 @@
     },
     {
       "title": "Slide Projector",
-      "file_name": "slide-projector.png",
+      "file_name": "images/technology_media/slide-projector.png",
       "added_on": "2025-05-31 10:18:10",
       "slug": "slide-projector",
       "category": "Technology & Media",
@@ -18762,7 +18762,7 @@
     },
     {
       "title": "Slide Rule",
-      "file_name": "slide-rule.png",
+      "file_name": "images/space_science/slide-rule.png",
       "added_on": "2025-06-01 08:28:46",
       "slug": "slide-rule",
       "category": "Space & Science",
@@ -19022,7 +19022,7 @@
     },
     {
       "title": "Slinky",
-      "file_name": "slinky.png",
+      "file_name": "images/entertainment_leisure/slinky.png",
       "added_on": "2025-06-01 08:31:11",
       "slug": "slinky",
       "category": "Entertainment & Leisure",
@@ -23297,7 +23297,7 @@
     },
     {
       "title": "Slingshot",
-      "file_name": "slingshot.png",
+      "file_name": "images/everyday_life/slingshot.png",
       "added_on": "2025-06-04 08:29:05",
       "slug": "slingshot",
       "category": "Everyday Life",
@@ -39885,7 +39885,7 @@
     },
     {
       "title": "Slippers",
-      "file_name": "slippers.png",
+      "file_name": "images/everyday_life/slippers.png",
       "added_on": "2025-06-13 14:37:20",
       "slug": "slippers",
       "category": "Everyday Life",
@@ -41719,7 +41719,7 @@
     },
     {
       "title": "Slipper",
-      "file_name": "slipper.png",
+      "file_name": "images/everyday_life/slipper.png",
       "added_on": "2025-06-13 22:35:10",
       "slug": "slipper",
       "category": "Everyday Life",
@@ -54267,7 +54267,7 @@
     },
     {
       "title": "Slime",
-      "file_name": "slime.png",
+      "file_name": "images/fantasy_imagination/slime.png",
       "added_on": "2025-06-27 15:54:46",
       "slug": "slime",
       "category": "Fantasy & Imagination",
@@ -70672,7 +70672,7 @@
     },
     {
       "title": "Slime",
-      "file_name": "slime-1.png",
+      "file_name": "images/fantasy_imagination/slime-1.png",
       "added_on": "2025-07-14 18:09:48",
       "slug": "slime-1",
       "category": "Fantasy & Imagination",
@@ -74582,7 +74582,7 @@
     },
     {
       "title": "Sleepy Owl",
-      "file_name": "sleepy-owl.png",
+      "file_name": "images/animals/sleepy-owl.png",
       "added_on": "2025-07-18 15:24:36",
       "slug": "sleepy-owl",
       "category": "Animals",
@@ -77649,7 +77649,7 @@
     },
     {
       "title": "Sliding Door",
-      "file_name": "sliding-door.png",
+      "file_name": "images/everyday_life/sliding-door.png",
       "added_on": "2025-07-24 09:04:03",
       "slug": "sliding-door",
       "category": "Everyday Life",
@@ -77974,7 +77974,7 @@
     },
     {
       "title": "Sliotar",
-      "file_name": "sliotar.png",
+      "file_name": "images/sports/sliotar.png",
       "added_on": "2025-07-24 10:51:35",
       "slug": "sliotar",
       "category": "Sports",
@@ -88233,7 +88233,7 @@
     },
     {
       "title": "Sleepwalker",
-      "file_name": "sleepwalker.png",
+      "file_name": "images/health_wellness/sleepwalker.png",
       "added_on": "2025-09-04 21:22:21",
       "slug": "sleepwalker",
       "category": "Health & Wellness",
@@ -89928,7 +89928,7 @@
     },
     {
       "title": "Water Slide Toy",
-      "file_name": "slip-n-slide.png",
+      "file_name": "images/entertainment_leisure/slip-n-slide.png",
       "added_on": "2025-09-09 11:51:44",
       "slug": "slip-n-slide",
       "category": "Entertainment & Leisure",
@@ -93826,7 +93826,7 @@
     },
     {
       "title": "Sliced Onion",
-      "file_name": "sliced-onion.png",
+      "file_name": "images/food_drink/sliced-onion.png",
       "added_on": "2025-09-17 15:21:25",
       "slug": "sliced-onion",
       "category": "Food & Drink",
@@ -105890,7 +105890,7 @@
     },
     {
       "title": "Sleeping Fox",
-      "file_name": "sleeping-fox.png",
+      "file_name": "images/nature_outdoors/sleeping-fox.png",
       "added_on": "2025-10-20 11:21:25",
       "slug": "sleeping-fox",
       "category": "Nature & Outdoors",
@@ -119840,7 +119840,7 @@
     },
     {
       "title": "Sleeping Hedgehog",
-      "file_name": "sleeping-hedgehog.png",
+      "file_name": "images/animals/sleeping-hedgehog.png",
       "added_on": "2025-12-10 04:21:45",
       "slug": "sleeping-hedgehog",
       "category": "Animals",
@@ -119853,7 +119853,7 @@
     },
     {
       "title": "Sleeping Panda",
-      "file_name": "sleeping-panda.png",
+      "file_name": "images/animals/sleeping-panda.png",
       "added_on": "2025-12-10 04:31:49",
       "slug": "sleeping-panda",
       "category": "Animals",
@@ -119868,7 +119868,7 @@
     },
     {
       "title": "Sleeping koala",
-      "file_name": "sleeping-koala.png",
+      "file_name": "images/animals/sleeping-koala.png",
       "added_on": "2025-12-10 04:41:37",
       "slug": "sleeping-koala",
       "category": "Animals",
@@ -119881,7 +119881,7 @@
     },
     {
       "title": "Sleeping Cow",
-      "file_name": "sleeping-cow.png",
+      "file_name": "images/animals/sleeping-cow.png",
       "added_on": "2025-12-10 04:51:32",
       "slug": "sleeping-cow",
       "category": "Animals",
