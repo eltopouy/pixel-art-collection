@@ -9470,7 +9470,7 @@
     },
     {
       "title": "Taiwan",
-      "file_name": "taiwan.png",
+      "file_name": "images/countries/taiwan.png",
       "added_on": "2025-05-23 04:01:01",
       "slug": "taiwan",
       "category": "Countries",
@@ -19806,7 +19806,7 @@
     },
     {
       "title": "Taj Mahal",
-      "file_name": "taj-mahal.png",
+      "file_name": "images/places_structures/taj-mahal.png",
       "added_on": "2025-06-02 09:36:59",
       "slug": "taj-mahal",
       "category": "Places & Structures",
@@ -23922,7 +23922,7 @@
     },
     {
       "title": "Talaria",
-      "file_name": "talaria.png",
+      "file_name": "images/fantasy_imagination/talaria.png",
       "added_on": "2025-06-04 08:49:59",
       "slug": "talaria",
       "category": "Fantasy & Imagination",
@@ -26833,7 +26833,7 @@
     },
     {
       "title": "Tailor's Thimble",
-      "file_name": "tailors-thimble.png",
+      "file_name": "images/everyday_life/tailors-thimble.png",
       "added_on": "2025-06-07 15:04:26",
       "slug": "tailors-thimble",
       "category": "Everyday Life",
@@ -26846,7 +26846,7 @@
     },
     {
       "title": "Tailor's Tracing Wheel",
-      "file_name": "tailors-tracing-wheel.png",
+      "file_name": "images/fashion_style/tailors-tracing-wheel.png",
       "added_on": "2025-06-07 15:04:28",
       "slug": "tailors-tracing-wheel",
       "category": "Fashion & Style",
@@ -32759,7 +32759,7 @@
     },
     {
       "title": "Taipei 101",
-      "file_name": "taipei-101.png",
+      "file_name": "images/places_structures/taipei-101.png",
       "added_on": "2025-06-11 12:57:09",
       "slug": "taipei-101",
       "category": "Places & Structures",
@@ -33533,7 +33533,7 @@
     },
     {
       "title": "Takin",
-      "file_name": "takin.png",
+      "file_name": "images/animals/takin.png",
       "added_on": "2025-06-11 18:30:44",
       "slug": "takin",
       "category": "Animals",
@@ -34057,7 +34057,7 @@
     },
     {
       "title": "Talking Skull",
-      "file_name": "talking-skull.png",
+      "file_name": "images/fantasy_imagination/talking-skull.png",
       "added_on": "2025-06-11 22:24:44",
       "slug": "talking-skull",
       "category": "Fantasy & Imagination",
@@ -58413,7 +58413,7 @@
     },
     {
       "title": "Talking Cat",
-      "file_name": "talking-cat.png",
+      "file_name": "images/fantasy_imagination/talking-cat.png",
       "added_on": "2025-07-06 10:36:22",
       "slug": "talking-cat",
       "category": "Fantasy & Imagination",
@@ -64092,7 +64092,7 @@
     },
     {
       "title": "Talking",
-      "file_name": "talking.png",
+      "file_name": "images/everyday_life/talking.png",
       "added_on": "2025-07-09 17:45:52",
       "slug": "talking",
       "category": "Everyday Life",
@@ -85214,7 +85214,7 @@
     },
     {
       "title": "Taiwan Flag",
-      "file_name": "taiwan-flag.png",
+      "file_name": "images/flags/taiwan-flag.png",
       "added_on": "2025-08-20 14:31:38",
       "slug": "taiwan-flag",
       "category": "Flags",
@@ -88181,7 +88181,7 @@
     },
     {
       "title": "Taiwanese Macaque",
-      "file_name": "taiwanese-macaque.png",
+      "file_name": "images/animals/taiwanese-macaque.png",
       "added_on": "2025-09-04 20:42:28",
       "slug": "taiwanese-macaque",
       "category": "Animals",
@@ -88994,7 +88994,7 @@
     },
     {
       "title": "Taino Zemi Statue",
-      "file_name": "taino-zemi-statue.png",
+      "file_name": "images/history_culture/taino-zemi-statue.png",
       "added_on": "2025-09-06 17:11:05",
       "slug": "taino-zemi-statue",
       "category": "History & Culture",
@@ -104420,7 +104420,7 @@
     },
     {
       "title": "Tajin Mango Slice",
-      "file_name": "tajin-mango-slice.png",
+      "file_name": "images/food_drink/tajin-mango-slice.png",
       "added_on": "2025-10-12 11:21:39",
       "slug": "tajin-mango-slice",
       "category": "Food & Drink",
@@ -116678,7 +116678,7 @@
     },
     {
       "title": "Taiwan Blue Magpie",
-      "file_name": "taiwan-blue-magpie.png",
+      "file_name": "images/animals/taiwan-blue-magpie.png",
       "added_on": "2025-11-19 20:31:45",
       "slug": "taiwan-blue-magpie",
       "category": "Animals",
@@ -119189,7 +119189,7 @@
     },
     {
       "title": "Taiwan coral snake",
-      "file_name": "taiwan-coral-snake.png",
+      "file_name": "images/animals/taiwan-coral-snake.png",
       "added_on": "2025-12-04 19:51:41",
       "slug": "taiwan-coral-snake",
       "category": "Animals",
@@ -119254,7 +119254,7 @@
     },
     {
       "title": "Taiwan beef noodle soup",
-      "file_name": "taiwan-beef-noodle-soup.png",
+      "file_name": "images/food_drink/taiwan-beef-noodle-soup.png",
       "added_on": "2025-12-04 20:41:41",
       "slug": "taiwan-beef-noodle-soup",
       "category": "Food & Drink",
@@ -123852,7 +123852,7 @@
     },
     {
       "title": "Taiyaki",
-      "file_name": "taiyaki.png",
+      "file_name": "images/food_drink/taiyaki.png",
       "added_on": "2026-02-01 21:01:07",
       "slug": "taiyaki",
       "category": "Food & Drink",
@@ -124222,7 +124222,7 @@
     },
     {
       "title": "Takeout Menu",
-      "file_name": "takeout-menu.png",
+      "file_name": "images/everyday_life/takeout-menu.png",
       "added_on": "2026-02-04 11:51:27",
       "slug": "takeout-menu",
       "category": "Everyday Life",
@@ -124979,7 +124979,7 @@
     },
     {
       "title": "Takeout Container",
-      "file_name": "takeout-container.png",
+      "file_name": "images/everyday_life/takeout-container.png",
       "added_on": "2026-02-10 22:11:06",
       "slug": "takeout-container",
       "category": "Everyday Life",
@@ -129463,7 +129463,7 @@
     },
     {
       "title": "Takoyaki",
-      "file_name": "takoyaki.png",
+      "file_name": "images/food_drink/takoyaki.png",
       "added_on": "2026-03-17 14:40:50",
       "slug": "takoyaki",
       "category": "Food & Drink",
