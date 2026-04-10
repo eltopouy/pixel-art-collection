@@ -2802,7 +2802,7 @@
     },
     {
       "title": "Tabletop Arcade Machine",
-      "file_name": "tabletop-arcade-machine.png",
+      "file_name": "images/entertainment_leisure/tabletop-arcade-machine.png",
       "added_on": "2025-05-16 15:30:50",
       "slug": "tabletop-arcade-machine",
       "category": "Entertainment & Leisure",
@@ -6545,7 +6545,7 @@
     },
     {
       "title": "Tabletop Miniature Painting Kit",
-      "file_name": "tabletop-miniature-painting-kit.png",
+      "file_name": "images/entertainment_leisure/tabletop-miniature-painting-kit.png",
       "added_on": "2025-05-18 22:36:39",
       "slug": "tabletop-miniature-painting-kit",
       "category": "Entertainment & Leisure",
@@ -9626,7 +9626,7 @@
     },
     {
       "title": "Taco",
-      "file_name": "taco.png",
+      "file_name": "images/food_drink/taco.png",
       "added_on": "2025-05-23 06:10:45",
       "slug": "taco",
       "category": "Food & Drink",
@@ -13022,7 +13022,7 @@
     },
     {
       "title": "Tadpole",
-      "file_name": "tadpole.png",
+      "file_name": "images/animals/tadpole.png",
       "added_on": "2025-05-26 01:51:19",
       "slug": "tadpole",
       "category": "Animals",
@@ -24104,7 +24104,7 @@
     },
     {
       "title": "Taboret",
-      "file_name": "taboret.png",
+      "file_name": "images/everyday_life/taboret.png",
       "added_on": "2025-06-04 08:53:33",
       "slug": "taboret",
       "category": "Everyday Life",
@@ -26716,7 +26716,7 @@
     },
     {
       "title": "Tailor's Scissors",
-      "file_name": "tailors-scissors.png",
+      "file_name": "images/everyday_life/tailors-scissors.png",
       "added_on": "2025-06-07 15:02:59",
       "slug": "tailors-scissors",
       "category": "Everyday Life",
@@ -26755,7 +26755,7 @@
     },
     {
       "title": "Tailor's Seam Ripper",
-      "file_name": "tailors-seam-ripper.png",
+      "file_name": "images/everyday_life/tailors-seam-ripper.png",
       "added_on": "2025-06-07 15:03:34",
       "slug": "tailors-seam-ripper",
       "category": "Everyday Life",
@@ -26781,7 +26781,7 @@
     },
     {
       "title": "Tailor's Paper Pattern",
-      "file_name": "tailors-paper-pattern.png",
+      "file_name": "images/fashion_style/tailors-paper-pattern.png",
       "added_on": "2025-06-07 15:04:00",
       "slug": "tailors-paper-pattern",
       "category": "Fashion & Style",
@@ -26807,7 +26807,7 @@
     },
     {
       "title": "Tailor\u2019s Ham",
-      "file_name": "tailors-ham.png",
+      "file_name": "images/work_industry/tailors-ham.png",
       "added_on": "2025-06-07 15:04:18",
       "slug": "tailors-ham",
       "category": "Work & Industry",
@@ -28892,7 +28892,7 @@
     },
     {
       "title": "Tailor's Measuring Tape",
-      "file_name": "tailors-measuring-tape.png",
+      "file_name": "images/fashion_style/tailors-measuring-tape.png",
       "added_on": "2025-06-10 08:08:04",
       "slug": "tailors-measuring-tape",
       "category": "Fashion & Style",
@@ -36255,7 +36255,7 @@
     },
     {
       "title": "Tagine",
-      "file_name": "tagine.png",
+      "file_name": "images/food_drink/tagine.png",
       "added_on": "2025-06-12 08:40:51",
       "slug": "tagine",
       "category": "Food & Drink",
@@ -44753,7 +44753,7 @@
     },
     {
       "title": "Tabletop Fountain",
-      "file_name": "tabletop-fountain.png",
+      "file_name": "images/entertainment_leisure/tabletop-fountain.png",
       "added_on": "2025-06-14 19:12:58",
       "slug": "tabletop-fountain",
       "category": "Entertainment & Leisure",
@@ -53665,7 +53665,7 @@
     },
     {
       "title": "Tagliatelle al Tartufo",
-      "file_name": "tagliatelle-al-tartufo.png",
+      "file_name": "images/food_drink/tagliatelle-al-tartufo.png",
       "added_on": "2025-06-27 08:38:07",
       "slug": "tagliatelle-al-tartufo",
       "category": "Food & Drink",
@@ -59848,7 +59848,7 @@
     },
     {
       "title": "Tailored Blazer",
-      "file_name": "tailored-blazer.png",
+      "file_name": "images/fashion_style/tailored-blazer.png",
       "added_on": "2025-07-07 14:01:03",
       "slug": "tailored-blazer",
       "category": "Fashion & Style",
@@ -78579,7 +78579,7 @@
     },
     {
       "title": "Taekwondo",
-      "file_name": "taekwondo.png",
+      "file_name": "images/sports/taekwondo.png",
       "added_on": "2025-07-24 18:31:34",
       "slug": "taekwondo",
       "category": "Sports",
@@ -82599,7 +82599,7 @@
     },
     {
       "title": "Tacos de pastor",
-      "file_name": "tacos-de-pastor.png",
+      "file_name": "images/food_drink/tacos-de-pastor.png",
       "added_on": "2025-08-05 08:21:17",
       "slug": "tacos-de-pastor",
       "category": "Food & Drink",
@@ -83350,7 +83350,7 @@
     },
     {
       "title": "Tabriz",
-      "file_name": "tabriz.png",
+      "file_name": "images/places_structures/tabriz.png",
       "added_on": "2025-08-12 15:59:23",
       "slug": "tabriz",
       "category": "Places & Structures",
@@ -99842,7 +99842,7 @@
     },
     {
       "title": "Tack Gun",
-      "file_name": "tack-gun.png",
+      "file_name": "images/work_industry/tack-gun.png",
       "added_on": "2025-10-02 11:11:33",
       "slug": "tack-gun",
       "category": "Work & Industry",
@@ -103403,7 +103403,7 @@
     },
     {
       "title": "Tactile Sensory Ball",
-      "file_name": "tactile-sensory-ball.png",
+      "file_name": "images/health_wellness/tactile-sensory-ball.png",
       "added_on": "2025-10-10 10:51:49",
       "slug": "tactile-sensory-ball",
       "category": "Health & Wellness",
@@ -119056,7 +119056,7 @@
     },
     {
       "title": "Tai Chi",
-      "file_name": "tai-chi.png",
+      "file_name": "images/health_wellness/tai-chi.png",
       "added_on": "2025-12-04 17:41:51",
       "slug": "tai-chi",
       "category": "Health & Wellness",
