@@ -4374,7 +4374,7 @@
     },
     {
       "title": "Tower",
-      "file_name": "tower.png",
+      "file_name": "images/places_structures/tower.png",
       "added_on": "2025-05-17 07:31:05",
       "slug": "tower",
       "category": "Places & Structures",
@@ -10733,7 +10733,7 @@
     },
     {
       "title": "Toy Gun",
-      "file_name": "toy-gun.png",
+      "file_name": "images/hobbies/toy-gun.png",
       "added_on": "2025-05-23 21:01:24",
       "slug": "toy-gun",
       "category": "Hobbies",
@@ -13857,7 +13857,7 @@
     },
     {
       "title": "Tournament",
-      "file_name": "tournament.png",
+      "file_name": "images/events/tournament.png",
       "added_on": "2025-05-26 14:30:45",
       "slug": "tournament",
       "category": "Events",
@@ -22862,7 +22862,7 @@
     },
     {
       "title": "Totem Pole",
-      "file_name": "totem-pole.png",
+      "file_name": "images/history_culture/totem-pole.png",
       "added_on": "2025-06-03 20:41:11",
       "slug": "totem-pole",
       "category": "History & Culture",
@@ -27603,7 +27603,7 @@
     },
     {
       "title": "Toy Poodle",
-      "file_name": "toy-poodle.png",
+      "file_name": "images/animals/toy-poodle.png",
       "added_on": "2025-06-08 08:11:51",
       "slug": "toy-poodle",
       "category": "Animals",
@@ -31029,7 +31029,7 @@
     },
     {
       "title": "Towel",
-      "file_name": "towel.png",
+      "file_name": "images/everyday_life/towel.png",
       "added_on": "2025-06-10 22:00:41",
       "slug": "towel",
       "category": "Everyday Life",
@@ -38809,7 +38809,7 @@
     },
     {
       "title": "Town Square",
-      "file_name": "town-square.png",
+      "file_name": "images/places_structures/town-square.png",
       "added_on": "2025-06-13 05:07:33",
       "slug": "town-square",
       "category": "Places & Structures",
@@ -43527,7 +43527,7 @@
     },
     {
       "title": "Toxicologist",
-      "file_name": "toxicologist.png",
+      "file_name": "images/professions/toxicologist.png",
       "added_on": "2025-06-14 12:49:17",
       "slug": "toxicologist",
       "category": "Professions",
@@ -46317,7 +46317,7 @@
     },
     {
       "title": "Toucan",
-      "file_name": "toucan.png",
+      "file_name": "images/animals/toucan.png",
       "added_on": "2025-06-16 13:11:53",
       "slug": "toucan",
       "category": "Animals",
@@ -48339,7 +48339,7 @@
     },
     {
       "title": "Toy Doll",
-      "file_name": "toy-doll.png",
+      "file_name": "images/entertainment_leisure/toy-doll.png",
       "added_on": "2025-06-20 14:37:22",
       "slug": "toy-doll",
       "category": "Entertainment & Leisure",
@@ -76796,7 +76796,7 @@
     },
     {
       "title": "Tracksuit",
-      "file_name": "tracksuit.png",
+      "file_name": "images/fashion_style/tracksuit.png",
       "added_on": "2025-07-21 10:03:58",
       "slug": "tracksuit",
       "category": "Fashion & Style",
@@ -80911,7 +80911,7 @@
     },
     {
       "title": "Tour Guide",
-      "file_name": "tour-guide.png",
+      "file_name": "images/professions/tour-guide.png",
       "added_on": "2025-07-28 17:44:28",
       "slug": "tour-guide",
       "category": "Professions",
@@ -88324,7 +88324,7 @@
     },
     {
       "title": "Toy Maker",
-      "file_name": "toy-maker.png",
+      "file_name": "images/professions/toy-maker.png",
       "added_on": "2025-09-04 23:22:23",
       "slug": "toy-maker",
       "category": "Professions",
@@ -89889,7 +89889,7 @@
     },
     {
       "title": "Toy Car",
-      "file_name": "toy-car.png",
+      "file_name": "images/everyday_life/toy-car.png",
       "added_on": "2025-09-09 11:21:32",
       "slug": "toy-car",
       "category": "Everyday Life",
@@ -107951,7 +107951,7 @@
     },
     {
       "title": "Touch",
-      "file_name": "touch.png",
+      "file_name": "images/everyday_life/touch.png",
       "added_on": "2025-10-23 19:01:11",
       "slug": "touch",
       "category": "Everyday Life",
@@ -108122,7 +108122,7 @@
     },
     {
       "title": "Tourist Transport",
-      "file_name": "tourist-transport.png",
+      "file_name": "images/vehicles_transport/tourist-transport.png",
       "added_on": "2025-10-24 11:09:38",
       "slug": "tourist-transport",
       "category": "Vehicles & Transport",
@@ -111842,7 +111842,7 @@
     },
     {
       "title": "Tractor",
-      "file_name": "tractor-1.png",
+      "file_name": "images/vehicles_transport/tractor-1.png",
       "added_on": "2025-11-02 07:53:50",
       "slug": "tractor-1",
       "category": "Vehicles & Transport",
@@ -118393,7 +118393,7 @@
     },
     {
       "title": "Tourist Duck Boat",
-      "file_name": "tourist-duck-boat.png",
+      "file_name": "images/vehicles_transport/tourist-duck-boat.png",
       "added_on": "2025-12-01 11:11:32",
       "slug": "tourist-duck-boat",
       "category": "Vehicles & Transport",
@@ -120281,7 +120281,7 @@
     },
     {
       "title": "Tow Truck",
-      "file_name": "tow-truck.png",
+      "file_name": "images/vehicles_transport/tow-truck.png",
       "added_on": "2026-01-22 16:51:23",
       "slug": "tow-truck",
       "category": "Vehicles & Transport",
@@ -130495,7 +130495,7 @@
     },
     {
       "title": "Towable Camper",
-      "file_name": "towable-camper.png",
+      "file_name": "images/vehicles_transport/towable-camper.png",
       "added_on": "2026-03-18 11:41:19",
       "slug": "towable-camper",
       "category": "Vehicles & Transport",
