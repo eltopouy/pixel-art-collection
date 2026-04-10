@@ -8495,7 +8495,7 @@
     },
     {
       "title": "Lobster",
-      "file_name": "lobster.png",
+      "file_name": "images/animals/lobster.png",
       "added_on": "2025-05-22 16:06:27",
       "slug": "lobster",
       "category": "Animals",
@@ -9444,7 +9444,7 @@
     },
     {
       "title": "Llama",
-      "file_name": "llama.png",
+      "file_name": "images/animals/llama.png",
       "added_on": "2025-05-23 03:40:51",
       "slug": "llama",
       "category": "Animals",
@@ -27200,7 +27200,7 @@
     },
     {
       "title": "Little Red Wagon",
-      "file_name": "little-red-wagon.png",
+      "file_name": "images/vehicles_transport/little-red-wagon.png",
       "added_on": "2025-06-07 17:01:26",
       "slug": "little-red-wagon",
       "category": "Vehicles & Transport",
@@ -38250,7 +38250,7 @@
     },
     {
       "title": "Loafers",
-      "file_name": "loafers.png",
+      "file_name": "images/fashion_style/loafers.png",
       "added_on": "2025-06-13 00:55:21",
       "slug": "loafers",
       "category": "Fashion & Style",
@@ -38549,7 +38549,7 @@
     },
     {
       "title": "Loading dock",
-      "file_name": "loading-dock.png",
+      "file_name": "images/work_industry/loading-dock.png",
       "added_on": "2025-06-13 03:13:24",
       "slug": "loading-dock",
       "category": "Work & Industry",
@@ -52955,7 +52955,7 @@
     },
     {
       "title": "Loaded Baked Potato",
-      "file_name": "loaded-baked-potato.png",
+      "file_name": "images/food_drink/loaded-baked-potato.png",
       "added_on": "2025-06-26 15:33:08",
       "slug": "loaded-baked-potato",
       "category": "Food & Drink",
@@ -52968,7 +52968,7 @@
     },
     {
       "title": "Loaded French Fries",
-      "file_name": "loaded-french-fries.png",
+      "file_name": "images/food_drink/loaded-french-fries.png",
       "added_on": "2025-06-26 15:33:13",
       "slug": "loaded-french-fries",
       "category": "Food & Drink",
@@ -70724,7 +70724,7 @@
     },
     {
       "title": "Lizard Man",
-      "file_name": "lizard-man.png",
+      "file_name": "images/fantasy_imagination/lizard-man.png",
       "added_on": "2025-07-14 18:09:57",
       "slug": "lizard-man",
       "category": "Fantasy & Imagination",
@@ -72586,7 +72586,7 @@
     },
     {
       "title": "Loan",
-      "file_name": "loan.png",
+      "file_name": "images/work_industry/loan.png",
       "added_on": "2025-07-16 18:55:37",
       "slug": "loan",
       "category": "Work & Industry",
@@ -76229,7 +76229,7 @@
     },
     {
       "title": "Lizard",
-      "file_name": "lizard.png",
+      "file_name": "images/animals/lizard.png",
       "added_on": "2025-07-20 15:21:42",
       "slug": "lizard",
       "category": "Animals",
@@ -77306,7 +77306,7 @@
     },
     {
       "title": "Lobby",
-      "file_name": "lobby.png",
+      "file_name": "images/places_structures/lobby.png",
       "added_on": "2025-07-24 09:01:53",
       "slug": "lobby",
       "category": "Places & Structures",
@@ -77384,7 +77384,7 @@
     },
     {
       "title": "Living Room",
-      "file_name": "living-room.png",
+      "file_name": "images/everyday_life/living-room.png",
       "added_on": "2025-07-24 09:02:16",
       "slug": "living-room",
       "category": "Everyday Life",
@@ -77870,7 +77870,7 @@
     },
     {
       "title": "Liver",
-      "file_name": "liver.png",
+      "file_name": "images/health_wellness/liver.png",
       "added_on": "2025-07-24 09:31:43",
       "slug": "liver",
       "category": "Health & Wellness",
@@ -79958,7 +79958,7 @@
     },
     {
       "title": "Loaf Pan Set",
-      "file_name": "loaf-pan-set.png",
+      "file_name": "images/food_drink/loaf-pan-set.png",
       "added_on": "2025-07-25 15:01:23",
       "slug": "loaf-pan-set",
       "category": "Food & Drink",
@@ -87343,7 +87343,7 @@
     },
     {
       "title": "lobster roll",
-      "file_name": "lobster-roll.png",
+      "file_name": "images/food_drink/lobster-roll.png",
       "added_on": "2025-09-02 00:01:27",
       "slug": "lobster-roll",
       "category": "Food & Drink",
@@ -99201,7 +99201,7 @@
     },
     {
       "title": "Lobster Mac and Cheese",
-      "file_name": "lobster-mac-and-cheese.png",
+      "file_name": "images/food_drink/lobster-mac-and-cheese.png",
       "added_on": "2025-10-01 00:21:14",
       "slug": "lobster-mac-and-cheese",
       "category": "Food & Drink",
@@ -107272,7 +107272,7 @@
     },
     {
       "title": "Load Binder",
-      "file_name": "load-binder.png",
+      "file_name": "images/work_industry/load-binder.png",
       "added_on": "2025-10-22 20:51:11",
       "slug": "load-binder",
       "category": "Work & Industry",
@@ -107350,7 +107350,7 @@
     },
     {
       "title": "Loader",
-      "file_name": "loader.png",
+      "file_name": "images/work_industry/loader.png",
       "added_on": "2025-10-22 21:51:14",
       "slug": "loader",
       "category": "Work & Industry",
@@ -109571,7 +109571,7 @@
     },
     {
       "title": "Black Wolf",
-      "file_name": "lobo.png",
+      "file_name": "images/animals/lobo.png",
       "added_on": "2025-10-28 11:21:24",
       "slug": "lobo",
       "category": "Animals",
@@ -114416,7 +114416,7 @@
     },
     {
       "title": "Living Wall",
-      "file_name": "living-wall.png",
+      "file_name": "images/places_structures/living-wall.png",
       "added_on": "2025-11-10 10:22:06",
       "slug": "living-wall",
       "category": "Places & Structures",
@@ -129424,7 +129424,7 @@
     },
     {
       "title": "Lobster Bisque",
-      "file_name": "lobster-bisque.png",
+      "file_name": "images/food_drink/lobster-bisque.png",
       "added_on": "2026-03-17 14:11:02",
       "slug": "lobster-bisque",
       "category": "Food & Drink",
