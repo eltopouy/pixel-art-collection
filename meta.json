@@ -2490,7 +2490,7 @@
     },
     {
       "title": "Tasmanian Devil",
-      "file_name": "tasmanian-devil.png",
+      "file_name": "images/animals/tasmanian-devil.png",
       "added_on": "2025-05-16 13:16:14",
       "slug": "tasmanian-devil",
       "category": "Animals",
@@ -3622,7 +3622,7 @@
     },
     {
       "title": "Taxi",
-      "file_name": "taxi.png",
+      "file_name": "images/vehicles_transport/taxi.png",
       "added_on": "2025-05-16 22:10:54",
       "slug": "taxi",
       "category": "Vehicles & Transport",
@@ -12332,7 +12332,7 @@
     },
     {
       "title": "Taxi Driver",
-      "file_name": "taxi-driver.png",
+      "file_name": "images/professions/taxi-driver.png",
       "added_on": "2025-05-25 15:31:28",
       "slug": "taxi-driver",
       "category": "Professions",
@@ -52695,7 +52695,7 @@
     },
     {
       "title": "Taxi (Matatu)",
-      "file_name": "taxi-matatu.png",
+      "file_name": "images/vehicles_transport/taxi-matatu.png",
       "added_on": "2025-06-25 15:22:27",
       "slug": "taxi-matatu",
       "category": "Vehicles & Transport",
@@ -56676,7 +56676,7 @@
     },
     {
       "title": "Tattoo machine",
-      "file_name": "tattoo-machine.png",
+      "file_name": "images/work_industry/tattoo-machine.png",
       "added_on": "2025-07-05 11:01:22",
       "slug": "tattoo-machine",
       "category": "Work & Industry",
@@ -57663,7 +57663,7 @@
     },
     {
       "title": "Tattoo Design",
-      "file_name": "tattoo-design.png",
+      "file_name": "images/hobbies/tattoo-design.png",
       "added_on": "2025-07-05 22:46:20",
       "slug": "tattoo-design",
       "category": "Hobbies",
@@ -59941,7 +59941,7 @@
     },
     {
       "title": "Taurus Zodiac Sign",
-      "file_name": "taurus-zodiac-sign.png",
+      "file_name": "images/history_culture/taurus-zodiac-sign.png",
       "added_on": "2025-07-08 10:20:17",
       "slug": "taurus-zodiac-sign",
       "category": "History & Culture",
@@ -66227,7 +66227,7 @@
     },
     {
       "title": "Taxi",
-      "file_name": "taxi-1.png",
+      "file_name": "images/vehicles_transport/taxi-1.png",
       "added_on": "2025-07-11 10:13:32",
       "slug": "taxi-1",
       "category": "Vehicles & Transport",
@@ -69888,7 +69888,7 @@
     },
     {
       "title": "Tavern",
-      "file_name": "tavern.png",
+      "file_name": "images/places_structures/tavern.png",
       "added_on": "2025-07-14 09:58:50",
       "slug": "tavern",
       "category": "Places & Structures",
@@ -70646,7 +70646,7 @@
     },
     {
       "title": "Tavern Mug",
-      "file_name": "tavern-mug.png",
+      "file_name": "images/food_drink/tavern-mug.png",
       "added_on": "2025-07-14 18:09:45",
       "slug": "tavern-mug",
       "category": "Food & Drink",
@@ -71403,7 +71403,7 @@
     },
     {
       "title": "Taxes",
-      "file_name": "taxes.png",
+      "file_name": "images/everyday_life/taxes.png",
       "added_on": "2025-07-16 08:38:50",
       "slug": "taxes",
       "category": "Everyday Life",
@@ -74359,7 +74359,7 @@
     },
     {
       "title": "Tattoo Sleeve",
-      "file_name": "tattoo-sleeve.png",
+      "file_name": "images/fashion_style/tattoo-sleeve.png",
       "added_on": "2025-07-18 12:51:16",
       "slug": "tattoo-sleeve",
       "category": "Fashion & Style",
@@ -76334,7 +76334,7 @@
     },
     {
       "title": "Tauren",
-      "file_name": "tauren.png",
+      "file_name": "images/fantasy_imagination/tauren.png",
       "added_on": "2025-07-20 16:31:33",
       "slug": "tauren",
       "category": "Fantasy & Imagination",
@@ -81585,7 +81585,7 @@
     },
     {
       "title": "Taser",
-      "file_name": "taser.png",
+      "file_name": "images/work_industry/taser.png",
       "added_on": "2025-07-30 17:24:28",
       "slug": "taser",
       "category": "Work & Industry",
@@ -82664,7 +82664,7 @@
     },
     {
       "title": "TATUNG Rice Cooker",
-      "file_name": "tatung-rice-cooker.png",
+      "file_name": "images/everyday_life/tatung-rice-cooker.png",
       "added_on": "2025-08-05 09:51:14",
       "slug": "tatung-rice-cooker",
       "category": "Everyday Life",
@@ -92392,7 +92392,7 @@
     },
     {
       "title": "Tasmanian Tiger",
-      "file_name": "tasmanian-tiger.png",
+      "file_name": "images/animals/tasmanian-tiger.png",
       "added_on": "2025-09-13 22:01:23",
       "slug": "tasmanian-tiger",
       "category": "Animals",
@@ -105407,7 +105407,7 @@
     },
     {
       "title": "Tatami Mat",
-      "file_name": "tatami-mat.png",
+      "file_name": "images/hobbies/tatami-mat.png",
       "added_on": "2025-10-16 14:11:34",
       "slug": "tatami-mat",
       "category": "Hobbies",
@@ -111709,7 +111709,7 @@
     },
     {
       "title": "Tattoo Flash Folder",
-      "file_name": "tattoo-flash-folder.png",
+      "file_name": "images/work_industry/tattoo-flash-folder.png",
       "added_on": "2025-11-01 18:11:42",
       "slug": "tattoo-flash-folder",
       "category": "Work & Industry",
@@ -130638,7 +130638,7 @@
     },
     {
       "title": "Tassel earrings",
-      "file_name": "tassel-earrings.png",
+      "file_name": "images/fashion_style/tassel-earrings.png",
       "added_on": "2026-03-18 13:31:13",
       "slug": "tassel-earrings",
       "category": "Fashion & Style",
@@ -130861,7 +130861,7 @@
     },
     {
       "title": "Taxidermy Beetle",
-      "file_name": "taxidermy-beetle.png",
+      "file_name": "images/hobbies/taxidermy-beetle.png",
       "added_on": "2026-03-18 23:21:15",
       "slug": "taxidermy-beetle",
       "category": "Hobbies",
