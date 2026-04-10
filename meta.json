@@ -4206,7 +4206,7 @@
     },
     {
       "title": "Monument",
-      "file_name": "monument.png",
+      "file_name": "images/places_structures/monument.png",
       "added_on": "2025-05-17 05:11:04",
       "slug": "monument",
       "category": "Places & Structures",
@@ -8820,7 +8820,7 @@
     },
     {
       "title": "Monkey",
-      "file_name": "monkey.png",
+      "file_name": "images/animals/monkey.png",
       "added_on": "2025-05-22 18:16:15",
       "slug": "monkey",
       "category": "Animals",
@@ -12345,7 +12345,7 @@
     },
     {
       "title": "Monorail",
-      "file_name": "monorail.png",
+      "file_name": "images/vehicles_transport/monorail.png",
       "added_on": "2025-05-25 15:51:34",
       "slug": "monorail",
       "category": "Vehicles & Transport",
@@ -17356,7 +17356,7 @@
     },
     {
       "title": "Mont Blanc Rollerball",
-      "file_name": "mont-blanc-rollerball.png",
+      "file_name": "images/everyday_life/mont-blanc-rollerball.png",
       "added_on": "2025-05-31 11:01:49",
       "slug": "mont-blanc-rollerball",
       "category": "Everyday Life",
@@ -17460,7 +17460,7 @@
     },
     {
       "title": "Monolith",
-      "file_name": "monolith.png",
+      "file_name": "images/space_science/monolith.png",
       "added_on": "2025-05-31 11:02:40",
       "slug": "monolith",
       "category": "Space & Science",
@@ -19348,7 +19348,7 @@
     },
     {
       "title": "Monstera",
-      "file_name": "monstera.png",
+      "file_name": "images/nature_outdoors/monstera.png",
       "added_on": "2025-06-01 12:49:11",
       "slug": "monstera",
       "category": "Nature & Outdoors",
@@ -29531,7 +29531,7 @@
     },
     {
       "title": "Monorail Station",
-      "file_name": "monorail-station.png",
+      "file_name": "images/places_structures/monorail-station.png",
       "added_on": "2025-06-10 12:13:37",
       "slug": "monorail-station",
       "category": "Places & Structures",
@@ -44727,7 +44727,7 @@
     },
     {
       "title": "Monorail Train",
-      "file_name": "monorail-train.png",
+      "file_name": "images/vehicles_transport/monorail-train.png",
       "added_on": "2025-06-14 19:00:57",
       "slug": "monorail-train",
       "category": "Vehicles & Transport",
@@ -48040,7 +48040,7 @@
     },
     {
       "title": "Monkey Bar Rack",
-      "file_name": "monkey-bar-rack.png",
+      "file_name": "images/everyday_life/monkey-bar-rack.png",
       "added_on": "2025-06-20 13:30:42",
       "slug": "monkey-bar-rack",
       "category": "Everyday Life",
@@ -51211,7 +51211,7 @@
     },
     {
       "title": "Monocle",
-      "file_name": "monocle-1.png",
+      "file_name": "images/fashion_style/monocle-1.png",
       "added_on": "2025-06-23 08:09:34",
       "slug": "monocle-1",
       "category": "Fashion & Style",
@@ -56309,7 +56309,7 @@
     },
     {
       "title": "Moo Deng",
-      "file_name": "moo-deng.png",
+      "file_name": "images/animals/moo-deng.png",
       "added_on": "2025-07-01 18:05:20",
       "slug": "moo-deng",
       "category": "Animals",
@@ -60084,7 +60084,7 @@
     },
     {
       "title": "Monowheel",
-      "file_name": "monowheel.png",
+      "file_name": "images/vehicles_transport/monowheel.png",
       "added_on": "2025-07-08 11:55:51",
       "slug": "monowheel",
       "category": "Vehicles & Transport",
@@ -68768,7 +68768,7 @@
     },
     {
       "title": "Monster Truck",
-      "file_name": "monster-truck.png",
+      "file_name": "images/vehicles_transport/monster-truck.png",
       "added_on": "2025-07-13 13:31:46",
       "slug": "monster-truck",
       "category": "Vehicles & Transport",
@@ -74133,7 +74133,7 @@
     },
     {
       "title": "Monofin",
-      "file_name": "monofin.png",
+      "file_name": "images/sports/monofin.png",
       "added_on": "2025-07-18 09:51:24",
       "slug": "monofin",
       "category": "Sports",
@@ -76690,7 +76690,7 @@
     },
     {
       "title": "Happy Monkey",
-      "file_name": "monkey-1.png",
+      "file_name": "images/animals/monkey-1.png",
       "added_on": "2025-07-21 10:03:25",
       "slug": "monkey-1",
       "category": "Animals",
@@ -82212,7 +82212,7 @@
     },
     {
       "title": "Monster Portal",
-      "file_name": "monster-portal.png",
+      "file_name": "images/fantasy_imagination/monster-portal.png",
       "added_on": "2025-08-05 05:16:10",
       "slug": "monster-portal",
       "category": "Fantasy & Imagination",
@@ -83137,7 +83137,7 @@
     },
     {
       "title": "Monster Mask",
-      "file_name": "monster-mask.png",
+      "file_name": "images/fantasy_imagination/monster-mask.png",
       "added_on": "2025-08-08 06:56:24",
       "slug": "monster-mask",
       "category": "Fantasy & Imagination",
@@ -109675,7 +109675,7 @@
     },
     {
       "title": "Montenegro",
-      "file_name": "montenegro.png",
+      "file_name": "images/countries/montenegro.png",
       "added_on": "2025-10-28 14:52:02",
       "slug": "montenegro",
       "category": "Countries",
@@ -118679,7 +118679,7 @@
     },
     {
       "title": "Montreal Flag",
-      "file_name": "montreal-flag.png",
+      "file_name": "images/flags/montreal-flag.png",
       "added_on": "2025-12-01 15:01:07",
       "slug": "montreal-flag",
       "category": "Flags",
@@ -131238,7 +131238,7 @@
     },
     {
       "title": "Monument arch",
-      "file_name": "monument-arch.png",
+      "file_name": "images/places_structures/monument-arch.png",
       "added_on": "2026-03-20 16:21:16",
       "slug": "monument-arch",
       "category": "Places & Structures",
