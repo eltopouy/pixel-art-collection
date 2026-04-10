@@ -6740,7 +6740,7 @@
     },
     {
       "title": "Giant Tortoise",
-      "file_name": "giant-tortoise.png",
+      "file_name": "images/animals/giant-tortoise.png",
       "added_on": "2025-05-19 00:10:49",
       "slug": "giant-tortoise",
       "category": "Animals",
@@ -9886,7 +9886,7 @@
     },
     {
       "title": "Gift",
-      "file_name": "gift.png",
+      "file_name": "images/everyday_life/gift.png",
       "added_on": "2025-05-23 09:30:49",
       "slug": "gift",
       "category": "Everyday Life",
@@ -10824,7 +10824,7 @@
     },
     {
       "title": "Gift Box",
-      "file_name": "gift-box.png",
+      "file_name": "images/everyday_life/gift-box.png",
       "added_on": "2025-05-23 22:11:22",
       "slug": "gift-box",
       "category": "Everyday Life",
@@ -15131,7 +15131,7 @@
     },
     {
       "title": "Gibbon",
-      "file_name": "gibbon.png",
+      "file_name": "images/animals/gibbon.png",
       "added_on": "2025-05-27 09:40:58",
       "slug": "gibbon",
       "category": "Animals",
@@ -15586,7 +15586,7 @@
     },
     {
       "title": "Gila Monster",
-      "file_name": "gila-monster.png",
+      "file_name": "images/animals/gila-monster.png",
       "added_on": "2025-05-27 17:31:00",
       "slug": "gila-monster",
       "category": "Animals",
@@ -18645,7 +18645,7 @@
     },
     {
       "title": "Ginkgo Tree",
-      "file_name": "ginkgo-tree.png",
+      "file_name": "images/nature_outdoors/ginkgo-tree.png",
       "added_on": "2025-06-01 08:27:30",
       "slug": "ginkgo-tree",
       "category": "Nature & Outdoors",
@@ -24546,7 +24546,7 @@
     },
     {
       "title": "Gimbaled Compass",
-      "file_name": "gimbaled-compass.png",
+      "file_name": "images/space_science/gimbaled-compass.png",
       "added_on": "2025-06-04 21:37:04",
       "slug": "gimbaled-compass",
       "category": "Space & Science",
@@ -35999,7 +35999,7 @@
     },
     {
       "title": "Giganotosaurus",
-      "file_name": "giganotosaurus.png",
+      "file_name": "images/animals/giganotosaurus.png",
       "added_on": "2025-06-12 08:38:28",
       "slug": "giganotosaurus",
       "category": "Animals",
@@ -36081,7 +36081,7 @@
     },
     {
       "title": "Gigan",
-      "file_name": "gigan.png",
+      "file_name": "images/fantasy_imagination/gigan.png",
       "added_on": "2025-06-12 08:39:35",
       "slug": "gigan",
       "category": "Fantasy & Imagination",
@@ -41336,7 +41336,7 @@
     },
     {
       "title": "G\u00fcira",
-      "file_name": "gira.png",
+      "file_name": "images/history_culture/gira.png",
       "added_on": "2025-06-13 22:32:20",
       "slug": "gira",
       "category": "History & Culture",
@@ -41388,7 +41388,7 @@
     },
     {
       "title": "G\u00fcira",
-      "file_name": "gira-1.png",
+      "file_name": "images/entertainment_leisure/gira-1.png",
       "added_on": "2025-06-13 22:32:40",
       "slug": "gira-1",
       "category": "Entertainment & Leisure",
@@ -60843,7 +60843,7 @@
     },
     {
       "title": "Ginger Root",
-      "file_name": "ginger-root.png",
+      "file_name": "images/food_drink/ginger-root.png",
       "added_on": "2025-07-08 17:51:05",
       "slug": "ginger-root",
       "category": "Food & Drink",
@@ -65358,7 +65358,7 @@
     },
     {
       "title": "Giant Weta",
-      "file_name": "giant-weta.png",
+      "file_name": "images/animals/giant-weta.png",
       "added_on": "2025-07-10 18:46:01",
       "slug": "giant-weta",
       "category": "Animals",
@@ -76571,7 +76571,7 @@
     },
     {
       "title": "Gift card",
-      "file_name": "gift-card.png",
+      "file_name": "images/everyday_life/gift-card.png",
       "added_on": "2025-07-20 19:41:27",
       "slug": "gift-card",
       "category": "Everyday Life",
@@ -78499,7 +78499,7 @@
     },
     {
       "title": "Gingerbread Man",
-      "file_name": "gingerbread-man.png",
+      "file_name": "images/food_drink/gingerbread-man.png",
       "added_on": "2025-07-24 17:31:39",
       "slug": "gingerbread-man",
       "category": "Food & Drink",
@@ -83152,7 +83152,7 @@
     },
     {
       "title": "Gingerbread House",
-      "file_name": "gingerbread-house.png",
+      "file_name": "images/food_drink/gingerbread-house.png",
       "added_on": "2025-08-08 06:56:28",
       "slug": "gingerbread-house",
       "category": "Food & Drink",
@@ -86725,7 +86725,7 @@
     },
     {
       "title": "Gingerbread Man",
-      "file_name": "gingerbread-man-1.png",
+      "file_name": "images/food_drink/gingerbread-man-1.png",
       "added_on": "2025-08-29 13:10:34",
       "slug": "gingerbread-man-1",
       "category": "Food & Drink",
@@ -90006,7 +90006,7 @@
     },
     {
       "title": "Gingham Jumpsuit",
-      "file_name": "gingham-jumpsuit.png",
+      "file_name": "images/fashion_style/gingham-jumpsuit.png",
       "added_on": "2025-09-09 13:11:48",
       "slug": "gingham-jumpsuit",
       "category": "Fashion & Style",
@@ -94871,7 +94871,7 @@
     },
     {
       "title": "Ginjinha",
-      "file_name": "ginjinha.png",
+      "file_name": "images/food_drink/ginjinha.png",
       "added_on": "2025-09-19 13:31:25",
       "slug": "ginjinha",
       "category": "Food & Drink",
@@ -107626,7 +107626,7 @@
     },
     {
       "title": "Giraffe Statue",
-      "file_name": "giraffe-statue.png",
+      "file_name": "images/places_structures/giraffe-statue.png",
       "added_on": "2025-10-23 01:31:19",
       "slug": "giraffe-statue",
       "category": "Places & Structures",
@@ -124001,7 +124001,7 @@
     },
     {
       "title": "Giraffe playing tennis",
-      "file_name": "giraffe-playing-tennis.png",
+      "file_name": "images/animals/giraffe-playing-tennis.png",
       "added_on": "2026-02-02 12:51:23",
       "slug": "giraffe-playing-tennis",
       "category": "Animals",
