@@ -9262,7 +9262,7 @@
     },
     {
       "title": "Graph",
-      "file_name": "graph.png",
+      "file_name": "images/interface_symbols/graph.png",
       "added_on": "2025-05-23 01:20:47",
       "slug": "graph",
       "category": "Interface & Symbols",
@@ -15014,7 +15014,7 @@
     },
     {
       "title": "Grapefruit",
-      "file_name": "grapefruit.png",
+      "file_name": "images/food_drink/grapefruit.png",
       "added_on": "2025-05-27 08:10:46",
       "slug": "grapefruit",
       "category": "Food & Drink",
@@ -20912,7 +20912,7 @@
     },
     {
       "title": "Grave Headstone",
-      "file_name": "grave-headstone.png",
+      "file_name": "images/places_structures/grave-headstone.png",
       "added_on": "2025-06-02 12:10:38",
       "slug": "grave-headstone",
       "category": "Places & Structures",
@@ -27785,7 +27785,7 @@
     },
     {
       "title": "Gravity Well Demonstrator",
-      "file_name": "gravity-well-demonstrator.png",
+      "file_name": "images/space_science/gravity-well-demonstrator.png",
       "added_on": "2025-06-08 13:31:34",
       "slug": "gravity-well-demonstrator",
       "category": "Space & Science",
@@ -33914,7 +33914,7 @@
     },
     {
       "title": "Graphic tee",
-      "file_name": "graphic-tee.png",
+      "file_name": "images/fashion_style/graphic-tee.png",
       "added_on": "2025-06-11 21:06:36",
       "slug": "graphic-tee",
       "category": "Fashion & Style",
@@ -42558,7 +42558,7 @@
     },
     {
       "title": "Gravity",
-      "file_name": "gravity.png",
+      "file_name": "images/space_science/gravity.png",
       "added_on": "2025-06-14 05:19:00",
       "slug": "gravity",
       "category": "Space & Science",
@@ -43046,7 +43046,7 @@
     },
     {
       "title": "Graphic Designer",
-      "file_name": "graphic-designer.png",
+      "file_name": "images/professions/graphic-designer.png",
       "added_on": "2025-06-14 09:01:10",
       "slug": "graphic-designer",
       "category": "Professions",
@@ -44326,7 +44326,7 @@
     },
     {
       "title": "Grasshopper",
-      "file_name": "grasshopper.png",
+      "file_name": "images/animals/grasshopper.png",
       "added_on": "2025-06-14 15:12:58",
       "slug": "grasshopper",
       "category": "Animals",
@@ -59117,7 +59117,7 @@
     },
     {
       "title": "Gravitational Wave Observatory",
-      "file_name": "gravitational-wave-observatory.png",
+      "file_name": "images/space_science/gravitational-wave-observatory.png",
       "added_on": "2025-07-06 23:36:02",
       "slug": "gravitational-wave-observatory",
       "category": "Space & Science",
@@ -61906,7 +61906,7 @@
     },
     {
       "title": "Gravity Racer",
-      "file_name": "gravity-racer.png",
+      "file_name": "images/vehicles_transport/gravity-racer.png",
       "added_on": "2025-07-09 01:40:57",
       "slug": "gravity-racer",
       "category": "Vehicles & Transport",
@@ -64040,7 +64040,7 @@
     },
     {
       "title": "Grass",
-      "file_name": "grass.png",
+      "file_name": "images/nature_outdoors/grass.png",
       "added_on": "2025-07-09 17:25:59",
       "slug": "grass",
       "category": "Nature & Outdoors",
@@ -64424,7 +64424,7 @@
     },
     {
       "title": "Graphic card (GPU)",
-      "file_name": "graphic-card-gpu.png",
+      "file_name": "images/technology_media/graphic-card-gpu.png",
       "added_on": "2025-07-10 12:16:24",
       "slug": "graphic-card-gpu",
       "category": "Technology & Media",
@@ -64450,7 +64450,7 @@
     },
     {
       "title": "Grappling Dummy",
-      "file_name": "grappling-dummy.png",
+      "file_name": "images/sports/grappling-dummy.png",
       "added_on": "2025-07-10 12:26:00",
       "slug": "grappling-dummy",
       "category": "Sports",
@@ -74857,7 +74857,7 @@
     },
     {
       "title": "Grease Gun",
-      "file_name": "grease-gun.png",
+      "file_name": "images/work_industry/grease-gun.png",
       "added_on": "2025-07-18 21:22:09",
       "slug": "grease-gun",
       "category": "Work & Industry",
@@ -84107,7 +84107,7 @@
     },
     {
       "title": "Gray Slender Opossum",
-      "file_name": "gray-slender-opossum.png",
+      "file_name": "images/animals/gray-slender-opossum.png",
       "added_on": "2025-08-17 04:21:02",
       "slug": "gray-slender-opossum",
       "category": "Animals",
@@ -84133,7 +84133,7 @@
     },
     {
       "title": "Gray Langur",
-      "file_name": "gray-langur.png",
+      "file_name": "images/animals/gray-langur.png",
       "added_on": "2025-08-17 04:41:16",
       "slug": "gray-langur",
       "category": "Animals",
@@ -106425,7 +106425,7 @@
     },
     {
       "title": "Gravy",
-      "file_name": "gravy.png",
+      "file_name": "images/food_drink/gravy.png",
       "added_on": "2025-10-20 19:00:56",
       "slug": "gravy",
       "category": "Food & Drink",
@@ -111175,7 +111175,7 @@
     },
     {
       "title": "Grass Court Roller",
-      "file_name": "grass-court-roller.png",
+      "file_name": "images/sports/grass-court-roller.png",
       "added_on": "2025-10-30 22:51:52",
       "slug": "grass-court-roller",
       "category": "Sports",
@@ -120465,7 +120465,7 @@
     },
     {
       "title": "Gray Moon",
-      "file_name": "gray-moon.png",
+      "file_name": "images/space_science/gray-moon.png",
       "added_on": "2026-01-22 19:11:21",
       "slug": "gray-moon",
       "category": "Space & Science",
@@ -128227,7 +128227,7 @@
     },
     {
       "title": "Graviton Detector",
-      "file_name": "graviton-detector.png",
+      "file_name": "images/space_science/graviton-detector.png",
       "added_on": "2026-03-09 00:20:48",
       "slug": "graviton-detector",
       "category": "Space & Science",
