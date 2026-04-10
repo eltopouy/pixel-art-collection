@@ -1723,7 +1723,7 @@
     },
     {
       "title": "Welding Machine",
-      "file_name": "welding-machine.png",
+      "file_name": "images/work_industry/welding-machine.png",
       "added_on": "2025-05-16 10:10:30",
       "slug": "welding-machine",
       "category": "Work & Industry",
@@ -4752,7 +4752,7 @@
     },
     {
       "title": "Well",
-      "file_name": "well.png",
+      "file_name": "images/places_structures/well.png",
       "added_on": "2025-05-17 13:56:33",
       "slug": "well",
       "category": "Places & Structures",
@@ -5220,7 +5220,7 @@
     },
     {
       "title": "Wheelbarrow",
-      "file_name": "wheelbarrow.png",
+      "file_name": "images/vehicles_transport/wheelbarrow.png",
       "added_on": "2025-05-17 19:30:41",
       "slug": "wheelbarrow",
       "category": "Vehicles & Transport",
@@ -7052,7 +7052,7 @@
     },
     {
       "title": "Wheel Chock",
-      "file_name": "wheel-chock.png",
+      "file_name": "images/vehicles_transport/wheel-chock.png",
       "added_on": "2025-05-19 02:30:48",
       "slug": "wheel-chock",
       "category": "Vehicles & Transport",
@@ -16081,7 +16081,7 @@
     },
     {
       "title": "Weta",
-      "file_name": "weta.png",
+      "file_name": "images/animals/weta.png",
       "added_on": "2025-05-28 01:40:59",
       "slug": "weta",
       "category": "Animals",
@@ -16862,7 +16862,7 @@
     },
     {
       "title": "West Highland White Terrier",
-      "file_name": "west-highland-white-terrier.png",
+      "file_name": "images/animals/west-highland-white-terrier.png",
       "added_on": "2025-05-31 10:38:30",
       "slug": "west-highland-white-terrier",
       "category": "Animals",
@@ -20196,7 +20196,7 @@
     },
     {
       "title": "Westminster Abbey",
-      "file_name": "westminster-abbey.png",
+      "file_name": "images/places_structures/westminster-abbey.png",
       "added_on": "2025-06-02 09:42:26",
       "slug": "westminster-abbey",
       "category": "Places & Structures",
@@ -22615,7 +22615,7 @@
     },
     {
       "title": "Wheat",
-      "file_name": "wheat.png",
+      "file_name": "images/food_drink/wheat.png",
       "added_on": "2025-06-03 19:30:57",
       "slug": "wheat",
       "category": "Food & Drink",
@@ -26336,7 +26336,7 @@
     },
     {
       "title": "Wembley Stadium",
-      "file_name": "wembley-stadium.png",
+      "file_name": "images/places_structures/wembley-stadium.png",
       "added_on": "2025-06-07 12:50:29",
       "slug": "wembley-stadium",
       "category": "Places & Structures",
@@ -26443,7 +26443,7 @@
     },
     {
       "title": "Wheel",
-      "file_name": "wheel.png",
+      "file_name": "images/vehicles_transport/wheel.png",
       "added_on": "2025-06-07 13:31:25",
       "slug": "wheel",
       "category": "Vehicles & Transport",
@@ -26573,7 +26573,7 @@
     },
     {
       "title": "Wheelbarrow",
-      "file_name": "wheelbarrow-kle95k.png",
+      "file_name": "images/everyday_life/wheelbarrow-kle95k.png",
       "added_on": "2025-06-07 15:02:28",
       "slug": "wheelbarrow-kle95k",
       "category": "Everyday Life",
@@ -28034,7 +28034,7 @@
     },
     {
       "title": "Wheaton Terrier",
-      "file_name": "wheaton-terrier.png",
+      "file_name": "images/animals/wheaton-terrier.png",
       "added_on": "2025-06-08 21:32:05",
       "slug": "wheaton-terrier",
       "category": "Animals",
@@ -29661,7 +29661,7 @@
     },
     {
       "title": "Welding torch",
-      "file_name": "welding-torch.png",
+      "file_name": "images/work_industry/welding-torch.png",
       "added_on": "2025-06-10 13:19:27",
       "slug": "welding-torch",
       "category": "Work & Industry",
@@ -45797,7 +45797,7 @@
     },
     {
       "title": "Whale Shark",
-      "file_name": "whale-shark.png",
+      "file_name": "images/animals/whale-shark.png",
       "added_on": "2025-06-15 20:36:57",
       "slug": "whale-shark",
       "category": "Animals",
@@ -51104,7 +51104,7 @@
     },
     {
       "title": "Werewolf",
-      "file_name": "werewolf.png",
+      "file_name": "images/fantasy_imagination/werewolf.png",
       "added_on": "2025-06-23 03:19:26",
       "slug": "werewolf",
       "category": "Fantasy & Imagination",
@@ -82108,7 +82108,7 @@
     },
     {
       "title": "Wheel of Feelings",
-      "file_name": "wheel-of-feelings.png",
+      "file_name": "images/health_wellness/wheel-of-feelings.png",
       "added_on": "2025-08-04 05:28:32",
       "slug": "wheel-of-feelings",
       "category": "Health & Wellness",
@@ -89116,7 +89116,7 @@
     },
     {
       "title": "Wheelchair Basketball Chair",
-      "file_name": "wheelchair-basketball-chair.png",
+      "file_name": "images/sports/wheelchair-basketball-chair.png",
       "added_on": "2025-09-06 19:31:07",
       "slug": "wheelchair-basketball-chair",
       "category": "Sports",
@@ -91161,7 +91161,7 @@
     },
     {
       "title": "Western Lowland Gorilla",
-      "file_name": "western-lowland-gorilla.png",
+      "file_name": "images/animals/western-lowland-gorilla.png",
       "added_on": "2025-09-10 16:41:31",
       "slug": "western-lowland-gorilla",
       "category": "Animals",
@@ -99868,7 +99868,7 @@
     },
     {
       "title": "Whack-a-Mole Mallet",
-      "file_name": "whack-a-mole-mallet.png",
+      "file_name": "images/entertainment_leisure/whack-a-mole-mallet.png",
       "added_on": "2025-10-02 11:31:21",
       "slug": "whack-a-mole-mallet",
       "category": "Entertainment & Leisure",
@@ -106267,7 +106267,7 @@
     },
     {
       "title": "Whale Tooth Scrimshaw",
-      "file_name": "whale-tooth-scrimshaw.png",
+      "file_name": "images/hobbies/whale-tooth-scrimshaw.png",
       "added_on": "2025-10-20 16:57:19",
       "slug": "whale-tooth-scrimshaw",
       "category": "Hobbies",
@@ -110589,7 +110589,7 @@
     },
     {
       "title": "Welsh Flag",
-      "file_name": "welsh-flag.png",
+      "file_name": "images/flags/welsh-flag.png",
       "added_on": "2025-10-29 15:31:53",
       "slug": "welsh-flag",
       "category": "Flags",
@@ -113764,7 +113764,7 @@
     },
     {
       "title": "Whale Spine",
-      "file_name": "whale-spine.png",
+      "file_name": "images/nature_outdoors/whale-spine.png",
       "added_on": "2025-11-08 15:51:40",
       "slug": "whale-spine",
       "category": "Nature & Outdoors",
@@ -115621,7 +115621,7 @@
     },
     {
       "title": "Whack A Mole Game",
-      "file_name": "whack-a-mole-game.png",
+      "file_name": "images/entertainment_leisure/whack-a-mole-game.png",
       "added_on": "2025-11-14 16:21:58",
       "slug": "whack-a-mole-game",
       "category": "Entertainment & Leisure",
@@ -121635,7 +121635,7 @@
     },
     {
       "title": "Whale Fall",
-      "file_name": "whale-fall.png",
+      "file_name": "images/nature_outdoors/whale-fall.png",
       "added_on": "2026-01-24 09:51:19",
       "slug": "whale-fall",
       "category": "Nature & Outdoors",
