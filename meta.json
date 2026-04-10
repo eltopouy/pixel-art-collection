@@ -21409,7 +21409,7 @@
     },
     {
       "title": "Massage",
-      "file_name": "massage.png",
+      "file_name": "images/health_wellness/massage.png",
       "added_on": "2025-06-02 21:48:10",
       "slug": "massage",
       "category": "Health & Wellness",
@@ -23109,7 +23109,7 @@
     },
     {
       "title": "Massage Ball",
-      "file_name": "massage-ball.png",
+      "file_name": "images/health_wellness/massage-ball.png",
       "added_on": "2025-06-04 05:31:00",
       "slug": "massage-ball",
       "category": "Health & Wellness",
@@ -31487,7 +31487,7 @@
     },
     {
       "title": "Matcha Latte",
-      "file_name": "matcha-latte.png",
+      "file_name": "images/food_drink/matcha-latte.png",
       "added_on": "2025-06-11 02:01:01",
       "slug": "matcha-latte",
       "category": "Food & Drink",
@@ -39477,7 +39477,7 @@
     },
     {
       "title": "Massage gun",
-      "file_name": "massage-gun.png",
+      "file_name": "images/health_wellness/massage-gun.png",
       "added_on": "2025-06-13 11:07:15",
       "slug": "massage-gun",
       "category": "Health & Wellness",
@@ -40054,7 +40054,7 @@
     },
     {
       "title": "Massage chair",
-      "file_name": "massage-chair.png",
+      "file_name": "images/health_wellness/massage-chair.png",
       "added_on": "2025-06-13 16:01:21",
       "slug": "massage-chair",
       "category": "Health & Wellness",
@@ -43137,7 +43137,7 @@
     },
     {
       "title": "Matcha",
-      "file_name": "matcha.png",
+      "file_name": "images/food_drink/matcha.png",
       "added_on": "2025-06-14 09:43:22",
       "slug": "matcha",
       "category": "Food & Drink",
@@ -56991,7 +56991,7 @@
     },
     {
       "title": "Matcha Ice Cream",
-      "file_name": "matcha-ice-cream.png",
+      "file_name": "images/food_drink/matcha-ice-cream.png",
       "added_on": "2025-07-05 17:30:55",
       "slug": "matcha-ice-cream",
       "category": "Food & Drink",
@@ -58870,7 +58870,7 @@
     },
     {
       "title": "Matcha Powder",
-      "file_name": "matcha-powder.png",
+      "file_name": "images/food_drink/matcha-powder.png",
       "added_on": "2025-07-06 17:36:14",
       "slug": "matcha-powder",
       "category": "Food & Drink",
@@ -64411,7 +64411,7 @@
     },
     {
       "title": "Matcha Cake",
-      "file_name": "matcha-cake.png",
+      "file_name": "images/food_drink/matcha-cake.png",
       "added_on": "2025-07-10 12:06:21",
       "slug": "matcha-cake",
       "category": "Food & Drink",
@@ -68402,7 +68402,7 @@
     },
     {
       "title": "Matcha Whisk",
-      "file_name": "matcha-whisk.png",
+      "file_name": "images/hobbies/matcha-whisk.png",
       "added_on": "2025-07-13 02:21:36",
       "slug": "matcha-whisk",
       "category": "Hobbies",
@@ -78794,7 +78794,7 @@
     },
     {
       "title": "Match",
-      "file_name": "match.png",
+      "file_name": "images/everyday_life/match.png",
       "added_on": "2025-07-24 21:21:34",
       "slug": "match",
       "category": "Everyday Life",
@@ -80898,7 +80898,7 @@
     },
     {
       "title": "Masseuse",
-      "file_name": "masseuse.png",
+      "file_name": "images/professions/masseuse.png",
       "added_on": "2025-07-28 17:44:26",
       "slug": "masseuse",
       "category": "Professions",
@@ -83766,7 +83766,7 @@
     },
     {
       "title": "Matcha Boba Tea",
-      "file_name": "matcha-boba-tea.png",
+      "file_name": "images/food_drink/matcha-boba-tea.png",
       "added_on": "2025-08-16 23:01:10",
       "slug": "matcha-boba-tea",
       "category": "Food & Drink",
@@ -101740,7 +101740,7 @@
     },
     {
       "title": "Matamata Turtle",
-      "file_name": "matamata-turtle.png",
+      "file_name": "images/animals/matamata-turtle.png",
       "added_on": "2025-10-06 15:21:42",
       "slug": "matamata-turtle",
       "category": "Animals",
@@ -103208,7 +103208,7 @@
     },
     {
       "title": "Mata Hari",
-      "file_name": "mata-hari.png",
+      "file_name": "images/historical_figures/mata-hari.png",
       "added_on": "2025-10-09 20:31:43",
       "slug": "mata-hari",
       "category": "Historical Figures",
@@ -112548,7 +112548,7 @@
     },
     {
       "title": "Mata Mata Turtle",
-      "file_name": "mata-mata-turtle.png",
+      "file_name": "images/animals/mata-mata-turtle.png",
       "added_on": "2025-11-03 12:22:01",
       "slug": "mata-mata-turtle",
       "category": "Animals",
@@ -121986,7 +121986,7 @@
     },
     {
       "title": "Matcha Soft Serve",
-      "file_name": "matcha-soft-serve.png",
+      "file_name": "images/food_drink/matcha-soft-serve.png",
       "added_on": "2026-01-26 18:41:05",
       "slug": "matcha-soft-serve",
       "category": "Food & Drink",
@@ -125348,7 +125348,7 @@
     },
     {
       "title": "Matcha Donut",
-      "file_name": "matcha-donut.png",
+      "file_name": "images/food_drink/matcha-donut.png",
       "added_on": "2026-02-11 03:01:07",
       "slug": "matcha-donut",
       "category": "Food & Drink",
@@ -128478,7 +128478,7 @@
     },
     {
       "title": "Massage Cane",
-      "file_name": "massage-cane.png",
+      "file_name": "images/health_wellness/massage-cane.png",
       "added_on": "2026-03-09 04:00:53",
       "slug": "massage-cane",
       "category": "Health & Wellness",
@@ -131371,7 +131371,7 @@
     },
     {
       "title": "Massage table",
-      "file_name": "massage-table.png",
+      "file_name": "images/health_wellness/massage-table.png",
       "added_on": "2026-03-20 18:11:16",
       "slug": "massage-table",
       "category": "Health & Wellness",
