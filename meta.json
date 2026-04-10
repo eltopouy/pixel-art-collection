@@ -2412,7 +2412,7 @@
     },
     {
       "title": "Leathercraft Tool Set",
-      "file_name": "leathercraft-tool-set.png",
+      "file_name": "images/hobbies/leathercraft-tool-set.png",
       "added_on": "2025-05-16 12:58:23",
       "slug": "leathercraft-tool-set",
       "category": "Hobbies",
@@ -7494,7 +7494,7 @@
     },
     {
       "title": "Leaf",
-      "file_name": "leaf.png",
+      "file_name": "images/nature_outdoors/leaf.png",
       "added_on": "2025-05-19 07:35:42",
       "slug": "leaf",
       "category": "Nature & Outdoors",
@@ -17369,7 +17369,7 @@
     },
     {
       "title": "Leather Journal",
-      "file_name": "leather-journal.png",
+      "file_name": "images/everyday_life/leather-journal.png",
       "added_on": "2025-05-31 11:01:55",
       "slug": "leather-journal",
       "category": "Everyday Life",
@@ -17486,7 +17486,7 @@
     },
     {
       "title": "Leather Satchel",
-      "file_name": "leather-satchel.png",
+      "file_name": "images/fashion_style/leather-satchel.png",
       "added_on": "2025-05-31 11:02:52",
       "slug": "leather-satchel",
       "category": "Fashion & Style",
@@ -20361,7 +20361,7 @@
     },
     {
       "title": "Leaning Tower of Pisa",
-      "file_name": "leaning-tower-of-pisa.png",
+      "file_name": "images/places_structures/leaning-tower-of-pisa.png",
       "added_on": "2025-06-02 09:45:17",
       "slug": "leaning-tower-of-pisa",
       "category": "Places & Structures",
@@ -31854,7 +31854,7 @@
     },
     {
       "title": "Leathercraft",
-      "file_name": "leathercraft.png",
+      "file_name": "images/hobbies/leathercraft.png",
       "added_on": "2025-06-11 05:25:03",
       "slug": "leathercraft",
       "category": "Hobbies",
@@ -35028,7 +35028,7 @@
     },
     {
       "title": "Leather carving",
-      "file_name": "leather-carving.png",
+      "file_name": "images/hobbies/leather-carving.png",
       "added_on": "2025-06-12 02:37:08",
       "slug": "leather-carving",
       "category": "Hobbies",
@@ -40621,7 +40621,7 @@
     },
     {
       "title": "Leafy Seadragon",
-      "file_name": "leafy-seadragon.png",
+      "file_name": "images/animals/leafy-seadragon.png",
       "added_on": "2025-06-13 21:25:21",
       "slug": "leafy-seadragon",
       "category": "Animals",
@@ -41940,7 +41940,7 @@
     },
     {
       "title": "Leather Boots",
-      "file_name": "leather-boots.png",
+      "file_name": "images/fashion_style/leather-boots.png",
       "added_on": "2025-06-13 23:49:06",
       "slug": "leather-boots",
       "category": "Fashion & Style",
@@ -44170,7 +44170,7 @@
     },
     {
       "title": "Leather Belt",
-      "file_name": "leather-belt.png",
+      "file_name": "images/fashion_style/leather-belt.png",
       "added_on": "2025-06-14 13:48:59",
       "slug": "leather-belt",
       "category": "Fashion & Style",
@@ -57478,7 +57478,7 @@
     },
     {
       "title": "Leafy sea dragon",
-      "file_name": "leafy-sea-dragon.png",
+      "file_name": "images/animals/leafy-sea-dragon.png",
       "added_on": "2025-07-05 21:26:21",
       "slug": "leafy-sea-dragon",
       "category": "Animals",
@@ -64893,7 +64893,7 @@
     },
     {
       "title": "Leaf Sheep (Costasiella kuroshimae)",
-      "file_name": "leaf-sheep-costasiella-kuroshimae.png",
+      "file_name": "images/animals/leaf-sheep-costasiella-kuroshimae.png",
       "added_on": "2025-07-10 15:16:05",
       "slug": "leaf-sheep-costasiella-kuroshimae",
       "category": "Animals",
@@ -73514,7 +73514,7 @@
     },
     {
       "title": "Leather jacket",
-      "file_name": "leather-jacket.png",
+      "file_name": "images/fashion_style/leather-jacket.png",
       "added_on": "2025-07-17 15:51:36",
       "slug": "leather-jacket",
       "category": "Fashion & Style",
@@ -75275,7 +75275,7 @@
     },
     {
       "title": "Leafcutter Ant",
-      "file_name": "leafcutter-ant.png",
+      "file_name": "images/animals/leafcutter-ant.png",
       "added_on": "2025-07-19 15:51:23",
       "slug": "leafcutter-ant",
       "category": "Animals",
@@ -102002,7 +102002,7 @@
     },
     {
       "title": "Leather Pouch",
-      "file_name": "leather-pouch.png",
+      "file_name": "images/hobbies/leather-pouch.png",
       "added_on": "2025-10-08 12:41:25",
       "slug": "leather-pouch",
       "category": "Hobbies",
@@ -117663,7 +117663,7 @@
     },
     {
       "title": "Leafy Slug",
-      "file_name": "leafy-slug.png",
+      "file_name": "images/animals/leafy-slug.png",
       "added_on": "2025-11-25 09:21:37",
       "slug": "leafy-slug",
       "category": "Animals",
@@ -118939,7 +118939,7 @@
     },
     {
       "title": "Leatherback Sea Turtle",
-      "file_name": "leatherback-sea-turtle.png",
+      "file_name": "images/animals/leatherback-sea-turtle.png",
       "added_on": "2025-12-04 16:01:21",
       "slug": "leatherback-sea-turtle",
       "category": "Animals",
@@ -122237,7 +122237,7 @@
     },
     {
       "title": "Leafy Horned Lizard",
-      "file_name": "leafy-horned-lizard.png",
+      "file_name": "images/animals/leafy-horned-lizard.png",
       "added_on": "2026-01-26 21:51:11",
       "slug": "leafy-horned-lizard",
       "category": "Animals",
@@ -122528,7 +122528,7 @@
     },
     {
       "title": "Leaky Faucet",
-      "file_name": "leaky-faucet.png",
+      "file_name": "images/everyday_life/leaky-faucet.png",
       "added_on": "2026-01-29 14:01:14",
       "slug": "leaky-faucet",
       "category": "Everyday Life",
@@ -126895,7 +126895,7 @@
     },
     {
       "title": "Leak",
-      "file_name": "leak.png",
+      "file_name": "images/everyday_life/leak.png",
       "added_on": "2026-02-23 12:21:20",
       "slug": "leak",
       "category": "Everyday Life",
