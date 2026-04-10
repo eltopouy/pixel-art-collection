@@ -1502,7 +1502,7 @@
     },
     {
       "title": "Suspension Bridge",
-      "file_name": "suspension-bridge.png",
+      "file_name": "images/places_structures/suspension-bridge.png",
       "added_on": "2025-05-16 09:07:03",
       "slug": "suspension-bridge",
       "category": "Places & Structures",
@@ -3726,7 +3726,7 @@
     },
     {
       "title": "SUV",
-      "file_name": "suv.png",
+      "file_name": "images/vehicles_transport/suv.png",
       "added_on": "2025-05-16 23:01:04",
       "slug": "suv",
       "category": "Vehicles & Transport",
@@ -9119,7 +9119,7 @@
     },
     {
       "title": "Sushi",
-      "file_name": "sushi.png",
+      "file_name": "images/food_drink/sushi.png",
       "added_on": "2025-05-22 23:30:55",
       "slug": "sushi",
       "category": "Food & Drink",
@@ -18346,7 +18346,7 @@
     },
     {
       "title": "Sushi - California Roll",
-      "file_name": "sushi-california-roll.png",
+      "file_name": "images/food_drink/sushi-california-roll.png",
       "added_on": "2025-06-01 08:17:29",
       "slug": "sushi-california-roll",
       "category": "Food & Drink",
@@ -30122,7 +30122,7 @@
     },
     {
       "title": "Surfboard",
-      "file_name": "surfboard.png",
+      "file_name": "images/sports/surfboard.png",
       "added_on": "2025-06-10 17:13:04",
       "slug": "surfboard",
       "category": "Sports",
@@ -30564,7 +30564,7 @@
     },
     {
       "title": "Sustainability Consultant",
-      "file_name": "sustainability-consultant.png",
+      "file_name": "images/professions/sustainability-consultant.png",
       "added_on": "2025-06-10 18:49:20",
       "slug": "sustainability-consultant",
       "category": "Professions",
@@ -31893,7 +31893,7 @@
     },
     {
       "title": "Supernova",
-      "file_name": "supernova.png",
+      "file_name": "images/space_science/supernova.png",
       "added_on": "2025-06-11 05:42:54",
       "slug": "supernova",
       "category": "Space & Science",
@@ -45836,7 +45836,7 @@
     },
     {
       "title": "Surgeon",
-      "file_name": "surgeon.png",
+      "file_name": "images/professions/surgeon.png",
       "added_on": "2025-06-15 21:01:02",
       "slug": "surgeon",
       "category": "Professions",
@@ -47582,7 +47582,7 @@
     },
     {
       "title": "SUV",
-      "file_name": "suv-1.png",
+      "file_name": "images/vehicles_transport/suv-1.png",
       "added_on": "2025-06-19 12:59:20",
       "slug": "suv-1",
       "category": "Vehicles & Transport",
@@ -50944,7 +50944,7 @@
     },
     {
       "title": "Survey",
-      "file_name": "survey.png",
+      "file_name": "images/work_industry/survey.png",
       "added_on": "2025-06-23 02:01:24",
       "slug": "survey",
       "category": "Work & Industry",
@@ -56387,7 +56387,7 @@
     },
     {
       "title": "Supermarket",
-      "file_name": "supermarket.png",
+      "file_name": "images/places_structures/supermarket.png",
       "added_on": "2025-07-02 08:53:14",
       "slug": "supermarket",
       "category": "Places & Structures",
@@ -62270,7 +62270,7 @@
     },
     {
       "title": "Supervisor Chair",
-      "file_name": "supervisor-chair.png",
+      "file_name": "images/work_industry/supervisor-chair.png",
       "added_on": "2025-07-09 04:16:00",
       "slug": "supervisor-chair",
       "category": "Work & Industry",
@@ -66983,7 +66983,7 @@
     },
     {
       "title": "Swallow",
-      "file_name": "swallow.png",
+      "file_name": "images/animals/swallow.png",
       "added_on": "2025-07-12 01:11:15",
       "slug": "swallow",
       "category": "Animals",
@@ -67422,7 +67422,7 @@
     },
     {
       "title": "Support Brace",
-      "file_name": "support-brace.png",
+      "file_name": "images/health_wellness/support-brace.png",
       "added_on": "2025-07-12 06:51:39",
       "slug": "support-brace",
       "category": "Health & Wellness",
@@ -78592,7 +78592,7 @@
     },
     {
       "title": "Surfing",
-      "file_name": "surfing.png",
+      "file_name": "images/sports/surfing.png",
       "added_on": "2025-07-24 18:41:35",
       "slug": "surfing",
       "category": "Sports",
@@ -98030,7 +98030,7 @@
     },
     {
       "title": "Swamp Buggy",
-      "file_name": "swamp-buggy.png",
+      "file_name": "images/vehicles_transport/swamp-buggy.png",
       "added_on": "2025-09-27 15:41:19",
       "slug": "swamp-buggy",
       "category": "Vehicles & Transport",
@@ -98962,7 +98962,7 @@
     },
     {
       "title": "Suppository",
-      "file_name": "suppository.png",
+      "file_name": "images/health_wellness/suppository.png",
       "added_on": "2025-09-30 21:11:25",
       "slug": "suppository",
       "category": "Health & Wellness",
@@ -106020,7 +106020,7 @@
     },
     {
       "title": "Swamp Cruiser",
-      "file_name": "swamp-cruiser.png",
+      "file_name": "images/vehicles_transport/swamp-cruiser.png",
       "added_on": "2025-10-20 16:30:15",
       "slug": "swamp-cruiser",
       "category": "Vehicles & Transport",
@@ -108109,7 +108109,7 @@
     },
     {
       "title": "Suspension Train",
-      "file_name": "suspension-train.png",
+      "file_name": "images/vehicles_transport/suspension-train.png",
       "added_on": "2025-10-24 11:09:22",
       "slug": "suspension-train",
       "category": "Vehicles & Transport",
@@ -118705,7 +118705,7 @@
     },
     {
       "title": "Surprise",
-      "file_name": "surprise.png",
+      "file_name": "images/everyday_life/surprise.png",
       "added_on": "2025-12-01 15:21:05",
       "slug": "surprise",
       "category": "Everyday Life",
