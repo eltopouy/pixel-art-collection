@@ -3323,7 +3323,7 @@
     },
     {
       "title": "Police Officer",
-      "file_name": "police-officer.png",
+      "file_name": "images/professions/police-officer.png",
       "added_on": "2025-05-16 20:00:59",
       "slug": "police-officer",
       "category": "Professions",
@@ -4635,7 +4635,7 @@
     },
     {
       "title": "Police Detective",
-      "file_name": "police-detective.png",
+      "file_name": "images/professions/police-detective.png",
       "added_on": "2025-05-17 12:06:35",
       "slug": "police-detective",
       "category": "Professions",
@@ -6532,7 +6532,7 @@
     },
     {
       "title": "Podcast Microphone Kit",
-      "file_name": "podcast-microphone-kit.png",
+      "file_name": "images/technology_media/podcast-microphone-kit.png",
       "added_on": "2025-05-18 22:31:26",
       "slug": "podcast-microphone-kit",
       "category": "Technology & Media",
@@ -8014,7 +8014,7 @@
     },
     {
       "title": "Poland",
-      "file_name": "poland.png",
+      "file_name": "images/countries/poland.png",
       "added_on": "2025-05-20 03:21:11",
       "slug": "poland",
       "category": "Countries",
@@ -19009,7 +19009,7 @@
     },
     {
       "title": "Polar Bear",
-      "file_name": "polar-bear.png",
+      "file_name": "images/animals/polar-bear.png",
       "added_on": "2025-06-01 08:30:57",
       "slug": "polar-bear",
       "category": "Animals",
@@ -19675,7 +19675,7 @@
     },
     {
       "title": "Police Car",
-      "file_name": "police-car.png",
+      "file_name": "images/vehicles_transport/police-car.png",
       "added_on": "2025-06-02 09:31:48",
       "slug": "police-car",
       "category": "Vehicles & Transport",
@@ -21949,7 +21949,7 @@
     },
     {
       "title": "Point of Sale",
-      "file_name": "point-of-sale.png",
+      "file_name": "images/work_industry/point-of-sale.png",
       "added_on": "2025-06-03 14:48:00",
       "slug": "point-of-sale",
       "category": "Work & Industry",
@@ -30291,7 +30291,7 @@
     },
     {
       "title": "Polaroid Camera",
-      "file_name": "polaroid-camera.png",
+      "file_name": "images/technology_media/polaroid-camera.png",
       "added_on": "2025-06-10 18:28:45",
       "slug": "polaroid-camera",
       "category": "Technology & Media",
@@ -30395,7 +30395,7 @@
     },
     {
       "title": "Poker Chips",
-      "file_name": "poker-chips.png",
+      "file_name": "images/entertainment_leisure/poker-chips.png",
       "added_on": "2025-06-10 18:29:04",
       "slug": "poker-chips",
       "category": "Entertainment & Leisure",
@@ -30643,7 +30643,7 @@
     },
     {
       "title": "Podcast",
-      "file_name": "podcast.png",
+      "file_name": "images/technology_media/podcast.png",
       "added_on": "2025-06-10 19:31:16",
       "slug": "podcast",
       "category": "Technology & Media",
@@ -34200,7 +34200,7 @@
     },
     {
       "title": "Police Investigator's Notebook",
-      "file_name": "police-investigators-notebook.png",
+      "file_name": "images/professions/police-investigators-notebook.png",
       "added_on": "2025-06-11 22:47:20",
       "slug": "police-investigators-notebook",
       "category": "Professions",
@@ -34265,7 +34265,7 @@
     },
     {
       "title": "Police Crime Scene Tape",
-      "file_name": "police-crime-scene-tape.png",
+      "file_name": "images/everyday_life/police-crime-scene-tape.png",
       "added_on": "2025-06-11 22:47:31",
       "slug": "police-crime-scene-tape",
       "category": "Everyday Life",
@@ -34278,7 +34278,7 @@
     },
     {
       "title": "Police Siren",
-      "file_name": "police-siren.png",
+      "file_name": "images/everyday_life/police-siren.png",
       "added_on": "2025-06-11 22:47:36",
       "slug": "police-siren",
       "category": "Everyday Life",
@@ -41706,7 +41706,7 @@
     },
     {
       "title": "Polaroid SX-70 Instant Camera",
-      "file_name": "polaroid-sx-70-instant-camera.png",
+      "file_name": "images/technology_media/polaroid-sx-70-instant-camera.png",
       "added_on": "2025-06-13 22:35:09",
       "slug": "polaroid-sx-70-instant-camera",
       "category": "Technology & Media",
@@ -46988,7 +46988,7 @@
     },
     {
       "title": "Poison Bottle",
-      "file_name": "poison-bottle.png",
+      "file_name": "images/fantasy_imagination/poison-bottle.png",
       "added_on": "2025-06-18 13:28:03",
       "slug": "poison-bottle",
       "category": "Fantasy & Imagination",
@@ -58883,7 +58883,7 @@
     },
     {
       "title": "Polenta",
-      "file_name": "polenta.png",
+      "file_name": "images/food_drink/polenta.png",
       "added_on": "2025-07-06 17:41:02",
       "slug": "polenta",
       "category": "Food & Drink",
@@ -62023,7 +62023,7 @@
     },
     {
       "title": "Pogo Stick",
-      "file_name": "pogo-stick.png",
+      "file_name": "images/sports/pogo-stick.png",
       "added_on": "2025-07-09 02:35:58",
       "slug": "pogo-stick",
       "category": "Sports",
@@ -66996,7 +66996,7 @@
     },
     {
       "title": "Poker Table",
-      "file_name": "poker-table.png",
+      "file_name": "images/entertainment_leisure/poker-table.png",
       "added_on": "2025-07-12 01:31:37",
       "slug": "poker-table",
       "category": "Entertainment & Leisure",
@@ -125482,7 +125482,7 @@
     },
     {
       "title": "Police Speedboat",
-      "file_name": "police-speedboat.png",
+      "file_name": "images/vehicles_transport/police-speedboat.png",
       "added_on": "2026-02-11 04:41:11",
       "slug": "police-speedboat",
       "category": "Vehicles & Transport",
@@ -131449,7 +131449,7 @@
     },
     {
       "title": "Poke Bowl",
-      "file_name": "poke-bowl.png",
+      "file_name": "images/food_drink/poke-bowl.png",
       "added_on": "2026-03-21 00:21:13",
       "slug": "poke-bowl",
       "category": "Food & Drink",
