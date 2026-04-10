@@ -969,7 +969,7 @@
     },
     {
       "title": "Laundry Detergent",
-      "file_name": "laundry-detergent.png",
+      "file_name": "images/everyday_life/laundry-detergent.png",
       "added_on": "2025-05-16 01:31:09",
       "slug": "laundry-detergent",
       "category": "Everyday Life",
@@ -1125,7 +1125,7 @@
     },
     {
       "title": "Laundry Peg",
-      "file_name": "laundry-peg.png",
+      "file_name": "images/everyday_life/laundry-peg.png",
       "added_on": "2025-05-16 03:40:56",
       "slug": "laundry-peg",
       "category": "Everyday Life",
@@ -1177,7 +1177,7 @@
     },
     {
       "title": "Laundry Basket",
-      "file_name": "laundry-basket.png",
+      "file_name": "images/everyday_life/laundry-basket.png",
       "added_on": "2025-05-16 04:30:52",
       "slug": "laundry-basket",
       "category": "Everyday Life",
@@ -13701,7 +13701,7 @@
     },
     {
       "title": "Latvia",
-      "file_name": "latvia.png",
+      "file_name": "images/countries/latvia.png",
       "added_on": "2025-05-26 12:20:52",
       "slug": "latvia",
       "category": "Countries",
@@ -14650,7 +14650,7 @@
     },
     {
       "title": "Laundromat",
-      "file_name": "laundromat.png",
+      "file_name": "images/places_structures/laundromat.png",
       "added_on": "2025-05-27 01:51:05",
       "slug": "laundromat",
       "category": "Places & Structures",
@@ -23226,7 +23226,7 @@
     },
     {
       "title": "Laundry Bag",
-      "file_name": "laundry-bag.png",
+      "file_name": "images/everyday_life/laundry-bag.png",
       "added_on": "2025-06-04 08:27:02",
       "slug": "laundry-bag",
       "category": "Everyday Life",
@@ -33193,7 +33193,7 @@
     },
     {
       "title": "Lathe",
-      "file_name": "lathe.png",
+      "file_name": "images/work_industry/lathe.png",
       "added_on": "2025-06-11 15:25:35",
       "slug": "lathe",
       "category": "Work & Industry",
@@ -47176,7 +47176,7 @@
     },
     {
       "title": "Lateral Seated Row Machine",
-      "file_name": "lateral-seated-row-machine.png",
+      "file_name": "images/health_wellness/lateral-seated-row-machine.png",
       "added_on": "2025-06-18 13:29:43",
       "slug": "lateral-seated-row-machine",
       "category": "Health & Wellness",
@@ -62075,7 +62075,7 @@
     },
     {
       "title": "Laugh Track Box",
-      "file_name": "laugh-track-box.png",
+      "file_name": "images/entertainment_leisure/laugh-track-box.png",
       "added_on": "2025-07-09 02:56:02",
       "slug": "laugh-track-box",
       "category": "Entertainment & Leisure",
@@ -65636,7 +65636,7 @@
     },
     {
       "title": "Laundry Hamper",
-      "file_name": "laundry-hamper.png",
+      "file_name": "images/everyday_life/laundry-hamper.png",
       "added_on": "2025-07-10 21:01:18",
       "slug": "laundry-hamper",
       "category": "Everyday Life",
@@ -74224,7 +74224,7 @@
     },
     {
       "title": "Laundry Pod",
-      "file_name": "laundry-pod.png",
+      "file_name": "images/everyday_life/laundry-pod.png",
       "added_on": "2025-07-18 11:11:50",
       "slug": "laundry-pod",
       "category": "Everyday Life",
@@ -83779,7 +83779,7 @@
     },
     {
       "title": "Laughing Buddha",
-      "file_name": "laughing-buddha.png",
+      "file_name": "images/history_culture/laughing-buddha.png",
       "added_on": "2025-08-16 23:11:10",
       "slug": "laughing-buddha",
       "category": "History & Culture",
@@ -92805,7 +92805,7 @@
     },
     {
       "title": "Laundry Tag",
-      "file_name": "laundry-tag.png",
+      "file_name": "images/everyday_life/laundry-tag.png",
       "added_on": "2025-09-15 13:31:26",
       "slug": "laundry-tag",
       "category": "Everyday Life",
@@ -100745,7 +100745,7 @@
     },
     {
       "title": "Laundry Ball",
-      "file_name": "laundry-ball.png",
+      "file_name": "images/everyday_life/laundry-ball.png",
       "added_on": "2025-10-04 16:51:23",
       "slug": "laundry-ball",
       "category": "Everyday Life",
@@ -103351,7 +103351,7 @@
     },
     {
       "title": "Laundry Sheet",
-      "file_name": "laundry-sheet.png",
+      "file_name": "images/everyday_life/laundry-sheet.png",
       "added_on": "2025-10-10 10:11:43",
       "slug": "laundry-sheet",
       "category": "Everyday Life",
@@ -106999,7 +106999,7 @@
     },
     {
       "title": "Laundry Coin",
-      "file_name": "laundry-coin.png",
+      "file_name": "images/everyday_life/laundry-coin.png",
       "added_on": "2025-10-22 16:51:19",
       "slug": "laundry-coin",
       "category": "Everyday Life",
@@ -114011,7 +114011,7 @@
     },
     {
       "title": "Laundry Marker",
-      "file_name": "laundry-marker.png",
+      "file_name": "images/everyday_life/laundry-marker.png",
       "added_on": "2025-11-09 13:22:07",
       "slug": "laundry-marker",
       "category": "Everyday Life",
@@ -116639,7 +116639,7 @@
     },
     {
       "title": "Latte",
-      "file_name": "latte.png",
+      "file_name": "images/food_drink/latte.png",
       "added_on": "2025-11-18 14:21:56",
       "slug": "latte",
       "category": "Food & Drink",
@@ -127993,7 +127993,7 @@
     },
     {
       "title": "Laundry Detergent Bottle",
-      "file_name": "laundry-detergent-bottle.png",
+      "file_name": "images/everyday_life/laundry-detergent-bottle.png",
       "added_on": "2026-03-08 21:00:49",
       "slug": "laundry-detergent-bottle",
       "category": "Everyday Life",
@@ -129697,7 +129697,7 @@
     },
     {
       "title": "Laundry Line",
-      "file_name": "laundry-line.png",
+      "file_name": "images/everyday_life/laundry-line.png",
       "added_on": "2026-03-17 17:40:54",
       "slug": "laundry-line",
       "category": "Everyday Life",
@@ -131504,7 +131504,7 @@
     },
     {
       "title": "Late Arrival",
-      "file_name": "late-arrival.png",
+      "file_name": "images/everyday_life/late-arrival.png",
       "added_on": "2026-03-23 10:31:18",
       "slug": "late-arrival",
       "category": "Everyday Life",
