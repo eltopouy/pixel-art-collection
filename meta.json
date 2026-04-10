@@ -11383,7 +11383,7 @@
     },
     {
       "title": "Roller Coaster",
-      "file_name": "roller-coaster.png",
+      "file_name": "images/places_structures/roller-coaster.png",
       "added_on": "2025-05-24 05:31:22",
       "slug": "roller-coaster",
       "category": "Places & Structures",
@@ -18320,7 +18320,7 @@
     },
     {
       "title": "Rollerskate",
-      "file_name": "rollerskate.png",
+      "file_name": "images/sports/rollerskate.png",
       "added_on": "2025-06-01 08:16:57",
       "slug": "rollerskate",
       "category": "Sports",
@@ -26898,7 +26898,7 @@
     },
     {
       "title": "Rolling Pin",
-      "file_name": "rolling-pin.png",
+      "file_name": "images/everyday_life/rolling-pin.png",
       "added_on": "2025-06-07 15:04:37",
       "slug": "rolling-pin",
       "category": "Everyday Life",
@@ -30988,7 +30988,7 @@
     },
     {
       "title": "Roman Gladiator Helmet",
-      "file_name": "roman-gladiator-helmet.png",
+      "file_name": "images/history_culture/roman-gladiator-helmet.png",
       "added_on": "2025-06-10 21:42:47",
       "slug": "roman-gladiator-helmet",
       "category": "History & Culture",
@@ -42205,7 +42205,7 @@
     },
     {
       "title": "Rolling Ladder",
-      "file_name": "rolling-ladder.png",
+      "file_name": "images/work_industry/rolling-ladder.png",
       "added_on": "2025-06-14 02:06:59",
       "slug": "rolling-ladder",
       "category": "Work & Industry",
@@ -43935,7 +43935,7 @@
     },
     {
       "title": "Rolodex",
-      "file_name": "rolodex.png",
+      "file_name": "images/everyday_life/rolodex.png",
       "added_on": "2025-06-14 13:21:26",
       "slug": "rolodex",
       "category": "Everyday Life",
@@ -44647,7 +44647,7 @@
     },
     {
       "title": "Roller skate",
-      "file_name": "roller-skate.png",
+      "file_name": "images/entertainment_leisure/roller-skate.png",
       "added_on": "2025-06-14 18:18:56",
       "slug": "roller-skate",
       "category": "Entertainment & Leisure",
@@ -51302,7 +51302,7 @@
     },
     {
       "title": "Roll Cake",
-      "file_name": "roll-cake.png",
+      "file_name": "images/food_drink/roll-cake.png",
       "added_on": "2025-06-23 08:10:18",
       "slug": "roll-cake",
       "category": "Food & Drink",
@@ -63838,7 +63838,7 @@
     },
     {
       "title": "Rolling House",
-      "file_name": "rolling-house.png",
+      "file_name": "images/vehicles_transport/rolling-house.png",
       "added_on": "2025-07-09 15:56:01",
       "slug": "rolling-house",
       "category": "Vehicles & Transport",
@@ -70948,7 +70948,7 @@
     },
     {
       "title": "Roller Derby Helmet",
-      "file_name": "roller-derby-helmet.png",
+      "file_name": "images/sports/roller-derby-helmet.png",
       "added_on": "2025-07-15 00:01:45",
       "slug": "roller-derby-helmet",
       "category": "Sports",
@@ -80612,7 +80612,7 @@
     },
     {
       "title": "Roll of Stickers",
-      "file_name": "roll-of-stickers.png",
+      "file_name": "images/everyday_life/roll-of-stickers.png",
       "added_on": "2025-07-25 23:51:30",
       "slug": "roll-of-stickers",
       "category": "Everyday Life",
@@ -89415,7 +89415,7 @@
     },
     {
       "title": "Rollerblade",
-      "file_name": "rollerblade.png",
+      "file_name": "images/sports/rollerblade.png",
       "added_on": "2025-09-07 16:31:09",
       "slug": "rollerblade",
       "category": "Sports",
@@ -99108,7 +99108,7 @@
     },
     {
       "title": "Roman Fasces",
-      "file_name": "roman-fasces.png",
+      "file_name": "images/history_culture/roman-fasces.png",
       "added_on": "2025-09-30 23:11:00",
       "slug": "roman-fasces",
       "category": "History & Culture",
@@ -102030,7 +102030,7 @@
     },
     {
       "title": "Roman Bath",
-      "file_name": "roman-bath.png",
+      "file_name": "images/history_culture/roman-bath.png",
       "added_on": "2025-10-08 13:01:48",
       "slug": "roman-bath",
       "category": "History & Culture",
@@ -102134,7 +102134,7 @@
     },
     {
       "title": "Rollerblade Shoes",
-      "file_name": "rollerblade-shoes.png",
+      "file_name": "images/vehicles_transport/rollerblade-shoes.png",
       "added_on": "2025-10-08 14:41:45",
       "slug": "rollerblade-shoes",
       "category": "Vehicles & Transport",
@@ -106085,7 +106085,7 @@
     },
     {
       "title": "Roman Dodecahedron",
-      "file_name": "roman-dodecahedron.png",
+      "file_name": "images/history_culture/roman-dodecahedron.png",
       "added_on": "2025-10-20 16:45:48",
       "slug": "roman-dodecahedron",
       "category": "History & Culture",
@@ -107363,7 +107363,7 @@
     },
     {
       "title": "Rolloff Truck",
-      "file_name": "rolloff-truck.png",
+      "file_name": "images/vehicles_transport/rolloff-truck.png",
       "added_on": "2025-10-22 22:01:14",
       "slug": "rolloff-truck",
       "category": "Vehicles & Transport",
@@ -110234,7 +110234,7 @@
     },
     {
       "title": "Roman Groma",
-      "file_name": "roman-groma.png",
+      "file_name": "images/history_culture/roman-groma.png",
       "added_on": "2025-10-29 09:31:59",
       "slug": "roman-groma",
       "category": "History & Culture",
@@ -127720,7 +127720,7 @@
     },
     {
       "title": "Rolling Tool Cart",
-      "file_name": "rolling-tool-cart.png",
+      "file_name": "images/work_industry/rolling-tool-cart.png",
       "added_on": "2026-03-02 21:01:08",
       "slug": "rolling-tool-cart",
       "category": "Work & Industry",
@@ -130144,7 +130144,7 @@
     },
     {
       "title": "Roman Aqueduct",
-      "file_name": "roman-aqueduct.png",
+      "file_name": "images/places_structures/roman-aqueduct.png",
       "added_on": "2026-03-17 23:20:52",
       "slug": "roman-aqueduct",
       "category": "Places & Structures",
