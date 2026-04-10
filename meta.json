@@ -11578,7 +11578,7 @@
     },
     {
       "title": "Snail",
-      "file_name": "snail.png",
+      "file_name": "images/animals/snail.png",
       "added_on": "2025-05-24 10:11:20",
       "slug": "snail",
       "category": "Animals",
@@ -11968,7 +11968,7 @@
     },
     {
       "title": "Snake",
-      "file_name": "snake.png",
+      "file_name": "images/animals/snake.png",
       "added_on": "2025-05-25 10:01:21",
       "slug": "snake",
       "category": "Animals",
@@ -31841,7 +31841,7 @@
     },
     {
       "title": "Snow Globe",
-      "file_name": "snow-globe.png",
+      "file_name": "images/entertainment_leisure/snow-globe.png",
       "added_on": "2025-06-11 05:19:06",
       "slug": "snow-globe",
       "category": "Entertainment & Leisure",
@@ -42452,7 +42452,7 @@
     },
     {
       "title": "Snorkel",
-      "file_name": "snorkel.png",
+      "file_name": "images/sports/snorkel.png",
       "added_on": "2025-06-14 04:31:00",
       "slug": "snorkel",
       "category": "Sports",
@@ -45020,7 +45020,7 @@
     },
     {
       "title": "Sneakers",
-      "file_name": "sneakers.png",
+      "file_name": "images/everyday_life/sneakers.png",
       "added_on": "2025-06-14 21:42:48",
       "slug": "sneakers",
       "category": "Everyday Life",
@@ -72300,7 +72300,7 @@
     },
     {
       "title": "Snow Cone Maker",
-      "file_name": "snow-cone-maker.png",
+      "file_name": "images/entertainment_leisure/snow-cone-maker.png",
       "added_on": "2025-07-16 15:21:35",
       "slug": "snow-cone-maker",
       "category": "Entertainment & Leisure",
@@ -89798,7 +89798,7 @@
     },
     {
       "title": "Snake Arm Bracelet",
-      "file_name": "snake-arm-bracelet.png",
+      "file_name": "images/fashion_style/snake-arm-bracelet.png",
       "added_on": "2025-09-09 10:11:31",
       "slug": "snake-arm-bracelet",
       "category": "Fashion & Style",
@@ -89850,7 +89850,7 @@
     },
     {
       "title": "Snail Shell",
-      "file_name": "snail-shell.png",
+      "file_name": "images/nature_outdoors/snail-shell.png",
       "added_on": "2025-09-09 10:51:31",
       "slug": "snail-shell",
       "category": "Nature & Outdoors",
@@ -91356,7 +91356,7 @@
     },
     {
       "title": "Snare Drum",
-      "file_name": "snare-drum.png",
+      "file_name": "images/entertainment_leisure/snare-drum.png",
       "added_on": "2025-09-11 13:36:01",
       "slug": "snare-drum",
       "category": "Entertainment & Leisure",
@@ -91670,7 +91670,7 @@
     },
     {
       "title": "Snore Guard",
-      "file_name": "snore-guard.png",
+      "file_name": "images/health_wellness/snore-guard.png",
       "added_on": "2025-09-12 02:11:26",
       "slug": "snore-guard",
       "category": "Health & Wellness",
@@ -92078,7 +92078,7 @@
     },
     {
       "title": "Snack Vending Machine",
-      "file_name": "snack-vending-machine.png",
+      "file_name": "images/work_industry/snack-vending-machine.png",
       "added_on": "2025-09-12 22:41:15",
       "slug": "snack-vending-machine",
       "category": "Work & Industry",
@@ -95014,7 +95014,7 @@
     },
     {
       "title": "Snake Print Purse",
-      "file_name": "snake-print-purse.png",
+      "file_name": "images/fashion_style/snake-print-purse.png",
       "added_on": "2025-09-19 23:41:35",
       "slug": "snake-print-purse",
       "category": "Fashion & Style",
@@ -95694,7 +95694,7 @@
     },
     {
       "title": "Sniffing Salts",
-      "file_name": "sniffing-salts.png",
+      "file_name": "images/health_wellness/sniffing-salts.png",
       "added_on": "2025-09-21 14:31:15",
       "slug": "sniffing-salts",
       "category": "Health & Wellness",
@@ -97351,7 +97351,7 @@
     },
     {
       "title": "Snow Coach",
-      "file_name": "snow-coach.png",
+      "file_name": "images/vehicles_transport/snow-coach.png",
       "added_on": "2025-09-25 15:41:19",
       "slug": "snow-coach",
       "category": "Vehicles & Transport",
@@ -103169,7 +103169,7 @@
     },
     {
       "title": "Snooze Button",
-      "file_name": "snooze-button.png",
+      "file_name": "images/health_wellness/snooze-button.png",
       "added_on": "2025-10-09 20:01:39",
       "slug": "snooze-button",
       "category": "Health & Wellness",
@@ -110104,7 +110104,7 @@
     },
     {
       "title": "Snail Kite",
-      "file_name": "snail-kite.png",
+      "file_name": "images/animals/snail-kite.png",
       "added_on": "2025-10-28 20:21:49",
       "slug": "snail-kite",
       "category": "Animals",
@@ -113699,7 +113699,7 @@
     },
     {
       "title": "Snow-capped Peak",
-      "file_name": "snow-capped-peak.png",
+      "file_name": "images/nature_outdoors/snow-capped-peak.png",
       "added_on": "2025-11-08 14:51:57",
       "slug": "snow-capped-peak",
       "category": "Nature & Outdoors",
@@ -116075,7 +116075,7 @@
     },
     {
       "title": "Snapping Turtle",
-      "file_name": "snapping-turtle.png",
+      "file_name": "images/animals/snapping-turtle.png",
       "added_on": "2025-11-16 10:02:18",
       "slug": "snapping-turtle",
       "category": "Animals",
@@ -125730,7 +125730,7 @@
     },
     {
       "title": "Snow Cornice",
-      "file_name": "snow-cornice.png",
+      "file_name": "images/nature_outdoors/snow-cornice.png",
       "added_on": "2026-02-11 10:11:15",
       "slug": "snow-cornice",
       "category": "Nature & Outdoors",
@@ -127198,7 +127198,7 @@
     },
     {
       "title": "Snow-Covered Spruce",
-      "file_name": "snow-covered-spruce.png",
+      "file_name": "images/nature_outdoors/snow-covered-spruce.png",
       "added_on": "2026-02-25 11:41:17",
       "slug": "snow-covered-spruce",
       "category": "Nature & Outdoors",
