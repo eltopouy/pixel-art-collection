@@ -21357,7 +21357,7 @@
     },
     {
       "title": "Martial Arts",
-      "file_name": "martial-arts.png",
+      "file_name": "images/sports/martial-arts.png",
       "added_on": "2025-06-02 21:47:51",
       "slug": "martial-arts",
       "category": "Sports",
@@ -25172,7 +25172,7 @@
     },
     {
       "title": "Martini",
-      "file_name": "martini.png",
+      "file_name": "images/food_drink/martini.png",
       "added_on": "2025-06-05 16:40:04",
       "slug": "martini",
       "category": "Food & Drink",
@@ -26612,7 +26612,7 @@
     },
     {
       "title": "Masonry Hammer",
-      "file_name": "masonry-hammer.png",
+      "file_name": "images/work_industry/masonry-hammer.png",
       "added_on": "2025-06-07 15:02:34",
       "slug": "masonry-hammer",
       "category": "Work & Industry",
@@ -27382,7 +27382,7 @@
     },
     {
       "title": "Massachusetts Institute of Technology",
-      "file_name": "massachusetts-institute-of-technology.png",
+      "file_name": "images/places_structures/massachusetts-institute-of-technology.png",
       "added_on": "2025-06-08 01:00:16",
       "slug": "massachusetts-institute-of-technology",
       "category": "Places & Structures",
@@ -30226,7 +30226,7 @@
     },
     {
       "title": "Mask",
-      "file_name": "mask.png",
+      "file_name": "images/fantasy_imagination/mask.png",
       "added_on": "2025-06-10 18:04:12",
       "slug": "mask",
       "category": "Fantasy & Imagination",
@@ -36844,7 +36844,7 @@
     },
     {
       "title": "Mars Rover",
-      "file_name": "mars-rover.png",
+      "file_name": "images/space_science/mars-rover.png",
       "added_on": "2025-06-12 19:43:06",
       "slug": "mars-rover",
       "category": "Space & Science",
@@ -37483,7 +37483,7 @@
     },
     {
       "title": "Masada",
-      "file_name": "masada.png",
+      "file_name": "images/places_structures/masada.png",
       "added_on": "2025-06-12 23:02:34",
       "slug": "masada",
       "category": "Places & Structures",
@@ -39373,7 +39373,7 @@
     },
     {
       "title": "Mars",
-      "file_name": "mars.png",
+      "file_name": "images/space_science/mars.png",
       "added_on": "2025-06-13 10:07:24",
       "slug": "mars",
       "category": "Space & Science",
@@ -45349,7 +45349,7 @@
     },
     {
       "title": "Marsh",
-      "file_name": "marsh.png",
+      "file_name": "images/nature_outdoors/marsh.png",
       "added_on": "2025-06-15 00:36:59",
       "slug": "marsh",
       "category": "Nature & Outdoors",
@@ -63907,7 +63907,7 @@
     },
     {
       "title": "Martian Dust Storm",
-      "file_name": "martian-dust-storm.png",
+      "file_name": "images/space_science/martian-dust-storm.png",
       "added_on": "2025-07-09 16:25:58",
       "slug": "martian-dust-storm",
       "category": "Space & Science",
@@ -65952,7 +65952,7 @@
     },
     {
       "title": "Martian Ice Cap",
-      "file_name": "martian-ice-cap.png",
+      "file_name": "images/space_science/martian-ice-cap.png",
       "added_on": "2025-07-11 04:01:26",
       "slug": "martian-ice-cap",
       "category": "Space & Science",
@@ -71286,7 +71286,7 @@
     },
     {
       "title": "Martingale Collar",
-      "file_name": "martingale-collar.png",
+      "file_name": "images/everyday_life/martingale-collar.png",
       "added_on": "2025-07-16 08:38:17",
       "slug": "martingale-collar",
       "category": "Everyday Life",
@@ -72261,7 +72261,7 @@
     },
     {
       "title": "Mascot Head",
-      "file_name": "mascot-head.png",
+      "file_name": "images/entertainment_leisure/mascot-head.png",
       "added_on": "2025-07-16 14:51:08",
       "slug": "mascot-head",
       "category": "Entertainment & Leisure",
@@ -88796,7 +88796,7 @@
     },
     {
       "title": "Mars Rock Sample",
-      "file_name": "mars-rock-sample.png",
+      "file_name": "images/space_science/mars-rock-sample.png",
       "added_on": "2025-09-06 14:21:11",
       "slug": "mars-rock-sample",
       "category": "Space & Science",
@@ -93655,7 +93655,7 @@
     },
     {
       "title": "Mascot Costume",
-      "file_name": "mascot-costume.png",
+      "file_name": "images/sports/mascot-costume.png",
       "added_on": "2025-09-17 12:41:21",
       "slug": "mascot-costume",
       "category": "Sports",
@@ -97574,7 +97574,7 @@
     },
     {
       "title": "Mashed Potatoes",
-      "file_name": "mashed-potatoes.png",
+      "file_name": "images/food_drink/mashed-potatoes.png",
       "added_on": "2025-09-25 18:31:16",
       "slug": "mashed-potatoes",
       "category": "Food & Drink",
@@ -98871,7 +98871,7 @@
     },
     {
       "title": "Martin Luther King Jr.",
-      "file_name": "martin-luther-king-jr.png",
+      "file_name": "images/historical_figures/martin-luther-king-jr.png",
       "added_on": "2025-09-30 20:01:24",
       "slug": "martin-luther-king-jr",
       "category": "Historical Figures",
@@ -110680,7 +110680,7 @@
     },
     {
       "title": "Mary Queen of Scots",
-      "file_name": "mary-queen-of-scots.png",
+      "file_name": "images/historical_figures/mary-queen-of-scots.png",
       "added_on": "2025-10-30 15:42:04",
       "slug": "mary-queen-of-scots",
       "category": "Historical Figures",
@@ -114037,7 +114037,7 @@
     },
     {
       "title": "Marvelous Spatuletail Hummingbird",
-      "file_name": "marvelous-spatuletail-hummingbird.png",
+      "file_name": "images/animals/marvelous-spatuletail-hummingbird.png",
       "added_on": "2025-11-09 13:42:03",
       "slug": "marvelous-spatuletail-hummingbird",
       "category": "Animals",
@@ -114769,7 +114769,7 @@
     },
     {
       "title": "Marsh Buggy",
-      "file_name": "marsh-buggy.png",
+      "file_name": "images/vehicles_transport/marsh-buggy.png",
       "added_on": "2025-11-11 20:01:58",
       "slug": "marsh-buggy",
       "category": "Vehicles & Transport",
@@ -123251,7 +123251,7 @@
     },
     {
       "title": "Mascara",
-      "file_name": "mascara.png",
+      "file_name": "images/fashion_style/mascara.png",
       "added_on": "2026-01-30 00:21:08",
       "slug": "mascara",
       "category": "Fashion & Style",
