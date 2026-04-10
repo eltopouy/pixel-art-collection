@@ -10226,7 +10226,7 @@
     },
     {
       "title": "Intestine",
-      "file_name": "intestine.png",
+      "file_name": "images/space_science/intestine.png",
       "added_on": "2025-05-23 14:00:49",
       "slug": "intestine",
       "category": "Space & Science",
@@ -10590,7 +10590,7 @@
     },
     {
       "title": "Internet",
-      "file_name": "internet.png",
+      "file_name": "images/technology_media/internet.png",
       "added_on": "2025-05-23 19:01:18",
       "slug": "internet",
       "category": "Technology & Media",
@@ -10863,7 +10863,7 @@
     },
     {
       "title": "Investor",
-      "file_name": "investor.png",
+      "file_name": "images/work_industry/investor.png",
       "added_on": "2025-05-23 22:41:21",
       "slug": "investor",
       "category": "Work & Industry",
@@ -11253,7 +11253,7 @@
     },
     {
       "title": "Interior Designer",
-      "file_name": "interior-designer.png",
+      "file_name": "images/professions/interior-designer.png",
       "added_on": "2025-05-24 03:41:21",
       "slug": "interior-designer",
       "category": "Professions",
@@ -22132,7 +22132,7 @@
     },
     {
       "title": "Intersection",
-      "file_name": "intersection.png",
+      "file_name": "images/places_structures/intersection.png",
       "added_on": "2025-06-03 16:01:36",
       "slug": "intersection",
       "category": "Places & Structures",
@@ -29700,7 +29700,7 @@
     },
     {
       "title": "Invisibility Cloak",
-      "file_name": "invisibility-cloak.png",
+      "file_name": "images/fantasy_imagination/invisibility-cloak.png",
       "added_on": "2025-06-10 14:01:06",
       "slug": "invisibility-cloak",
       "category": "Fantasy & Imagination",
@@ -42993,7 +42993,7 @@
     },
     {
       "title": "Invisible Cloak",
-      "file_name": "invisible-cloak.png",
+      "file_name": "images/fantasy_imagination/invisible-cloak.png",
       "added_on": "2025-06-14 08:37:06",
       "slug": "invisible-cloak",
       "category": "Fantasy & Imagination",
@@ -51354,7 +51354,7 @@
     },
     {
       "title": "Introspective Monkey",
-      "file_name": "introspective-monkey.png",
+      "file_name": "images/fantasy_imagination/introspective-monkey.png",
       "added_on": "2025-06-23 08:10:33",
       "slug": "introspective-monkey",
       "category": "Fantasy & Imagination",
@@ -53154,7 +53154,7 @@
     },
     {
       "title": "Inventor",
-      "file_name": "inventor.png",
+      "file_name": "images/professions/inventor.png",
       "added_on": "2025-06-26 15:34:34",
       "slug": "inventor",
       "category": "Professions",
@@ -54241,7 +54241,7 @@
     },
     {
       "title": "International Space Station",
-      "file_name": "international-space-station.png",
+      "file_name": "images/space_science/international-space-station.png",
       "added_on": "2025-06-27 15:42:50",
       "slug": "international-space-station",
       "category": "Space & Science",
@@ -64331,7 +64331,7 @@
     },
     {
       "title": "Interstellar Message Disk",
-      "file_name": "interstellar-message-disk.png",
+      "file_name": "images/space_science/interstellar-message-disk.png",
       "added_on": "2025-07-10 11:26:32",
       "slug": "interstellar-message-disk",
       "category": "Space & Science",
@@ -66435,7 +66435,7 @@
     },
     {
       "title": "Internet Connection Cable",
-      "file_name": "internet-connection-cable.png",
+      "file_name": "images/technology_media/internet-connection-cable.png",
       "added_on": "2025-07-11 16:41:24",
       "slug": "internet-connection-cable",
       "category": "Technology & Media",
@@ -70961,7 +70961,7 @@
     },
     {
       "title": "Inverted Pyramid",
-      "file_name": "inverted-pyramid.png",
+      "file_name": "images/places_structures/inverted-pyramid.png",
       "added_on": "2025-07-15 01:01:45",
       "slug": "inverted-pyramid",
       "category": "Places & Structures",
@@ -77675,7 +77675,7 @@
     },
     {
       "title": "Interior Painting",
-      "file_name": "interior-painting.png",
+      "file_name": "images/everyday_life/interior-painting.png",
       "added_on": "2025-07-24 09:04:09",
       "slug": "interior-painting",
       "category": "Everyday Life",
@@ -93069,7 +93069,7 @@
     },
     {
       "title": "Inuit Snow Goggles",
-      "file_name": "inuit-snow-goggles.png",
+      "file_name": "images/history_culture/inuit-snow-goggles.png",
       "added_on": "2025-09-16 09:51:26",
       "slug": "inuit-snow-goggles",
       "category": "History & Culture",
@@ -111071,7 +111071,7 @@
     },
     {
       "title": "Interrogation",
-      "file_name": "interrogation.png",
+      "file_name": "images/professions/interrogation.png",
       "added_on": "2025-10-30 21:31:50",
       "slug": "interrogation",
       "category": "Professions",
@@ -116912,7 +116912,7 @@
     },
     {
       "title": "Interstellar Ark Ship",
-      "file_name": "interstellar-ark-ship.png",
+      "file_name": "images/space_science/interstellar-ark-ship.png",
       "added_on": "2025-11-19 23:51:32",
       "slug": "interstellar-ark-ship",
       "category": "Space & Science",
@@ -123029,7 +123029,7 @@
     },
     {
       "title": "Inuit Soapstone Carving",
-      "file_name": "inuit-soapstone-carving.png",
+      "file_name": "images/history_culture/inuit-soapstone-carving.png",
       "added_on": "2026-01-29 21:31:06",
       "slug": "inuit-soapstone-carving",
       "category": "History & Culture",
@@ -124053,7 +124053,7 @@
     },
     {
       "title": "Interstellar Ice Crystal",
-      "file_name": "interstellar-ice-crystal.png",
+      "file_name": "images/space_science/interstellar-ice-crystal.png",
       "added_on": "2026-02-04 09:01:23",
       "slug": "interstellar-ice-crystal",
       "category": "Space & Science",
@@ -127302,7 +127302,7 @@
     },
     {
       "title": "Interrupt",
-      "file_name": "interrupt.png",
+      "file_name": "images/interface_symbols/interrupt.png",
       "added_on": "2026-02-25 13:11:12",
       "slug": "interrupt",
       "category": "Interface & Symbols",
