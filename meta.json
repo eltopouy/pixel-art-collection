@@ -15417,7 +15417,7 @@
     },
     {
       "title": "Wombat",
-      "file_name": "wombat.png",
+      "file_name": "images/animals/wombat.png",
       "added_on": "2025-05-27 14:21:04",
       "slug": "wombat",
       "category": "Animals",
@@ -16172,7 +16172,7 @@
     },
     {
       "title": "Wolverine",
-      "file_name": "wolverine.png",
+      "file_name": "images/animals/wolverine.png",
       "added_on": "2025-05-28 04:01:04",
       "slug": "wolverine",
       "category": "Animals",
@@ -16810,7 +16810,7 @@
     },
     {
       "title": "Woman",
-      "file_name": "woman.png",
+      "file_name": "images/fashion_style/woman.png",
       "added_on": "2025-05-31 10:31:47",
       "slug": "woman",
       "category": "Fashion & Style",
@@ -20977,7 +20977,7 @@
     },
     {
       "title": "Wooden Smartphone Speaker",
-      "file_name": "wooden-smartphone-speaker.png",
+      "file_name": "images/technology_media/wooden-smartphone-speaker.png",
       "added_on": "2025-06-02 12:10:52",
       "slug": "wooden-smartphone-speaker",
       "category": "Technology & Media",
@@ -50775,7 +50775,7 @@
     },
     {
       "title": "Wood Glue",
-      "file_name": "wood-glue.png",
+      "file_name": "images/everyday_life/wood-glue.png",
       "added_on": "2025-06-23 00:31:23",
       "slug": "wood-glue",
       "category": "Everyday Life",
@@ -51934,7 +51934,7 @@
     },
     {
       "title": "Woman",
-      "file_name": "woman-1.png",
+      "file_name": "images/everyday_life/woman-1.png",
       "added_on": "2025-06-24 14:15:43",
       "slug": "woman-1",
       "category": "Everyday Life",
@@ -55102,7 +55102,7 @@
     },
     {
       "title": "Woman wearing hijab",
-      "file_name": "woman-wearing-hijab.png",
+      "file_name": "images/everyday_life/woman-wearing-hijab.png",
       "added_on": "2025-06-28 13:49:21",
       "slug": "woman-wearing-hijab",
       "category": "Everyday Life",
@@ -62649,7 +62649,7 @@
     },
     {
       "title": "Wooden Clogs",
-      "file_name": "wooden-clogs.png",
+      "file_name": "images/fashion_style/wooden-clogs.png",
       "added_on": "2025-07-09 07:30:59",
       "slug": "wooden-clogs",
       "category": "Fashion & Style",
@@ -67708,7 +67708,7 @@
     },
     {
       "title": "Woodburning Pen",
-      "file_name": "woodburning-pen.png",
+      "file_name": "images/hobbies/woodburning-pen.png",
       "added_on": "2025-07-12 13:32:13",
       "slug": "woodburning-pen",
       "category": "Hobbies",
@@ -73485,7 +73485,7 @@
     },
     {
       "title": "Wombat Mother",
-      "file_name": "wombat-mother.png",
+      "file_name": "images/animals/wombat-mother.png",
       "added_on": "2025-07-17 15:31:44",
       "slug": "wombat-mother",
       "category": "Animals",
@@ -77467,7 +77467,7 @@
     },
     {
       "title": "Women Running",
-      "file_name": "women-running.png",
+      "file_name": "images/sports/women-running.png",
       "added_on": "2025-07-24 09:02:44",
       "slug": "women-running",
       "category": "Sports",
@@ -78224,7 +78224,7 @@
     },
     {
       "title": "Wolfgang Amadeus Mozart",
-      "file_name": "wolfgang-amadeus-mozart.png",
+      "file_name": "images/history_culture/wolfgang-amadeus-mozart.png",
       "added_on": "2025-07-24 14:01:48",
       "slug": "wolfgang-amadeus-mozart",
       "category": "History & Culture",
@@ -81002,7 +81002,7 @@
     },
     {
       "title": "Woodblock",
-      "file_name": "woodblock.png",
+      "file_name": "images/entertainment_leisure/woodblock.png",
       "added_on": "2025-07-28 17:45:25",
       "slug": "woodblock",
       "category": "Entertainment & Leisure",
@@ -81767,7 +81767,7 @@
     },
     {
       "title": "Wood",
-      "file_name": "wood.png",
+      "file_name": "images/everyday_life/wood.png",
       "added_on": "2025-08-02 16:22:15",
       "slug": "wood",
       "category": "Everyday Life",
@@ -81819,7 +81819,7 @@
     },
     {
       "title": "Wood Dice Tray",
-      "file_name": "wood-dice-tray.png",
+      "file_name": "images/entertainment_leisure/wood-dice-tray.png",
       "added_on": "2025-08-02 16:22:40",
       "slug": "wood-dice-tray",
       "category": "Entertainment & Leisure",
@@ -92857,7 +92857,7 @@
     },
     {
       "title": "Wooden Race Car",
-      "file_name": "wooden-race-car.png",
+      "file_name": "images/vehicles_transport/wooden-race-car.png",
       "added_on": "2025-09-15 14:21:21",
       "slug": "wooden-race-car",
       "category": "Vehicles & Transport",
@@ -94621,7 +94621,7 @@
     },
     {
       "title": "Wood Slice Coaster",
-      "file_name": "wood-slice-coaster.png",
+      "file_name": "images/hobbies/wood-slice-coaster.png",
       "added_on": "2025-09-19 10:11:22",
       "slug": "wood-slice-coaster",
       "category": "Hobbies",
@@ -97169,7 +97169,7 @@
     },
     {
       "title": "Wooden Kaleidoscope",
-      "file_name": "wooden-kaleidoscope.png",
+      "file_name": "images/hobbies/wooden-kaleidoscope.png",
       "added_on": "2025-09-24 13:11:29",
       "slug": "wooden-kaleidoscope",
       "category": "Hobbies",
@@ -120044,7 +120044,7 @@
     },
     {
       "title": "Woman in Headphones",
-      "file_name": "woman-in-headphones.png",
+      "file_name": "images/everyday_life/woman-in-headphones.png",
       "added_on": "2025-12-14 13:51:22",
       "slug": "woman-in-headphones",
       "category": "Everyday Life",
@@ -129905,7 +129905,7 @@
     },
     {
       "title": "Wood Carving",
-      "file_name": "wood-carving.png",
+      "file_name": "images/hobbies/wood-carving.png",
       "added_on": "2026-03-17 20:20:54",
       "slug": "wood-carving",
       "category": "Hobbies",
