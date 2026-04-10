@@ -4687,7 +4687,7 @@
     },
     {
       "title": "Prison",
-      "file_name": "prison.png",
+      "file_name": "images/places_structures/prison.png",
       "added_on": "2025-05-17 12:41:31",
       "slug": "prison",
       "category": "Places & Structures",
@@ -10317,7 +10317,7 @@
     },
     {
       "title": "Pride Flag",
-      "file_name": "pride-flag.png",
+      "file_name": "images/flags/pride-flag.png",
       "added_on": "2025-05-23 15:10:44",
       "slug": "pride-flag",
       "category": "Flags",
@@ -21029,7 +21029,7 @@
     },
     {
       "title": "Privacy Policy",
-      "file_name": "privacy-policy.png",
+      "file_name": "images/interface_symbols/privacy-policy.png",
       "added_on": "2025-06-02 12:11:07",
       "slug": "privacy-policy",
       "category": "Interface & Symbols",
@@ -21082,7 +21082,7 @@
     },
     {
       "title": "Printed Circuit Board",
-      "file_name": "printed-circuit-board.png",
+      "file_name": "images/technology_media/printed-circuit-board.png",
       "added_on": "2025-06-02 13:56:15",
       "slug": "printed-circuit-board",
       "category": "Technology & Media",
@@ -27982,7 +27982,7 @@
     },
     {
       "title": "Prize Wheel",
-      "file_name": "prize-wheel.png",
+      "file_name": "images/events/prize-wheel.png",
       "added_on": "2025-06-08 21:31:56",
       "slug": "prize-wheel",
       "category": "Events",
@@ -28944,7 +28944,7 @@
     },
     {
       "title": "Pride Parade",
-      "file_name": "pride-parade.png",
+      "file_name": "images/events/pride-parade.png",
       "added_on": "2025-06-10 08:09:09",
       "slug": "pride-parade",
       "category": "Events",
@@ -32865,7 +32865,7 @@
     },
     {
       "title": "Process",
-      "file_name": "process.png",
+      "file_name": "images/interface_symbols/process.png",
       "added_on": "2025-06-11 12:57:43",
       "slug": "process",
       "category": "Interface & Symbols",
@@ -34577,7 +34577,7 @@
     },
     {
       "title": "Private Jet",
-      "file_name": "private-jet.png",
+      "file_name": "images/vehicles_transport/private-jet.png",
       "added_on": "2025-06-11 22:55:00",
       "slug": "private-jet",
       "category": "Vehicles & Transport",
@@ -34658,7 +34658,7 @@
     },
     {
       "title": "Proboscis Monkey",
-      "file_name": "proboscis-monkey.png",
+      "file_name": "images/animals/proboscis-monkey.png",
       "added_on": "2025-06-11 23:37:00",
       "slug": "proboscis-monkey",
       "category": "Animals",
@@ -41427,7 +41427,7 @@
     },
     {
       "title": "Prism",
-      "file_name": "prism.png",
+      "file_name": "images/space_science/prism.png",
       "added_on": "2025-06-13 22:32:48",
       "slug": "prism",
       "category": "Space & Science",
@@ -51908,7 +51908,7 @@
     },
     {
       "title": "Process",
-      "file_name": "process-1.png",
+      "file_name": "images/interface_symbols/process-1.png",
       "added_on": "2025-06-24 14:15:36",
       "slug": "process-1",
       "category": "Interface & Symbols",
@@ -54773,7 +54773,7 @@
     },
     {
       "title": "Pricelist",
-      "file_name": "pricelist.png",
+      "file_name": "images/everyday_life/pricelist.png",
       "added_on": "2025-06-28 08:37:16",
       "slug": "pricelist",
       "category": "Everyday Life",
@@ -55906,7 +55906,7 @@
     },
     {
       "title": "Principle",
-      "file_name": "principle.png",
+      "file_name": "images/history_culture/principle.png",
       "added_on": "2025-06-30 11:20:15",
       "slug": "principle",
       "category": "History & Culture",
@@ -60463,7 +60463,7 @@
     },
     {
       "title": "Price Tag",
-      "file_name": "price-tag.png",
+      "file_name": "images/everyday_life/price-tag.png",
       "added_on": "2025-07-08 15:11:36",
       "slug": "price-tag",
       "category": "Everyday Life",
@@ -63152,7 +63152,7 @@
     },
     {
       "title": "Prickly Pear",
-      "file_name": "prickly-pear.png",
+      "file_name": "images/food_drink/prickly-pear.png",
       "added_on": "2025-07-09 11:16:22",
       "slug": "prickly-pear",
       "category": "Food & Drink",
@@ -70031,7 +70031,7 @@
     },
     {
       "title": "Princess",
-      "file_name": "princess.png",
+      "file_name": "images/fantasy_imagination/princess.png",
       "added_on": "2025-07-14 09:59:32",
       "slug": "princess",
       "category": "Fantasy & Imagination",
@@ -81257,7 +81257,7 @@
     },
     {
       "title": "Prize Wheel",
-      "file_name": "prize-wheel-1.png",
+      "file_name": "images/entertainment_leisure/prize-wheel-1.png",
       "added_on": "2025-07-29 18:02:21",
       "slug": "prize-wheel-1",
       "category": "Entertainment & Leisure",
@@ -90331,7 +90331,7 @@
     },
     {
       "title": "Procedure",
-      "file_name": "procedure.png",
+      "file_name": "images/everyday_life/procedure.png",
       "added_on": "2025-09-09 18:11:21",
       "slug": "procedure",
       "category": "Everyday Life",
@@ -120229,7 +120229,7 @@
     },
     {
       "title": "Prince",
-      "file_name": "prince.png",
+      "file_name": "images/fantasy_imagination/prince.png",
       "added_on": "2026-01-22 16:01:25",
       "slug": "prince",
       "category": "Fantasy & Imagination",
@@ -128965,7 +128965,7 @@
     },
     {
       "title": "Prize claw",
-      "file_name": "prize-claw.png",
+      "file_name": "images/entertainment_leisure/prize-claw.png",
       "added_on": "2026-03-09 10:40:51",
       "slug": "prize-claw",
       "category": "Entertainment & Leisure",
@@ -130443,7 +130443,7 @@
     },
     {
       "title": "Procrastination",
-      "file_name": "procrastination.png",
+      "file_name": "images/everyday_life/procrastination.png",
       "added_on": "2026-03-18 03:50:56",
       "slug": "procrastination",
       "category": "Everyday Life",
