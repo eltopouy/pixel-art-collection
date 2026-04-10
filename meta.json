@@ -8976,7 +8976,7 @@
     },
     {
       "title": "Saguaro",
-      "file_name": "saguaro.png",
+      "file_name": "images/nature_outdoors/saguaro.png",
       "added_on": "2025-05-22 19:16:13",
       "slug": "saguaro",
       "category": "Nature & Outdoors",
@@ -9613,7 +9613,7 @@
     },
     {
       "title": "Sailboat",
-      "file_name": "sailboat.png",
+      "file_name": "images/vehicles_transport/sailboat.png",
       "added_on": "2025-05-23 06:00:49",
       "slug": "sailboat",
       "category": "Vehicles & Transport",
@@ -11617,7 +11617,7 @@
     },
     {
       "title": "Sailing boat",
-      "file_name": "sailing-boat.png",
+      "file_name": "images/vehicles_transport/sailing-boat.png",
       "added_on": "2025-05-24 10:51:32",
       "slug": "sailing-boat",
       "category": "Vehicles & Transport",
@@ -12371,7 +12371,7 @@
     },
     {
       "title": "Safety Tape",
-      "file_name": "safety-tape.png",
+      "file_name": "images/work_industry/safety-tape.png",
       "added_on": "2025-05-25 16:11:23",
       "slug": "safety-tape",
       "category": "Work & Industry",
@@ -12540,7 +12540,7 @@
     },
     {
       "title": "Salad",
-      "file_name": "salad.png",
+      "file_name": "images/food_drink/salad.png",
       "added_on": "2025-05-25 18:41:27",
       "slug": "salad",
       "category": "Food & Drink",
@@ -12878,7 +12878,7 @@
     },
     {
       "title": "Safety Vest",
-      "file_name": "safety-vest.png",
+      "file_name": "images/work_industry/safety-vest.png",
       "added_on": "2025-05-25 23:41:25",
       "slug": "safety-vest",
       "category": "Work & Industry",
@@ -20252,7 +20252,7 @@
     },
     {
       "title": "Saint Paul's Cathedral",
-      "file_name": "saint-pauls-cathedral.png",
+      "file_name": "images/places_structures/saint-pauls-cathedral.png",
       "added_on": "2025-06-02 09:44:23",
       "slug": "saint-pauls-cathedral",
       "category": "Places & Structures",
@@ -30735,7 +30735,7 @@
     },
     {
       "title": "Saiga",
-      "file_name": "saiga-antelope.png",
+      "file_name": "images/animals/saiga-antelope.png",
       "added_on": "2025-06-10 20:25:24",
       "slug": "saiga-antelope",
       "category": "Animals",
@@ -57782,7 +57782,7 @@
     },
     {
       "title": "Saguaro Cactus",
-      "file_name": "saguaro-cactus.png",
+      "file_name": "images/nature_outdoors/saguaro-cactus.png",
       "added_on": "2025-07-05 23:46:16",
       "slug": "saguaro-cactus",
       "category": "Nature & Outdoors",
@@ -62636,7 +62636,7 @@
     },
     {
       "title": "Sailor Collar",
-      "file_name": "sailor-collar.png",
+      "file_name": "images/fashion_style/sailor-collar.png",
       "added_on": "2025-07-09 07:26:00",
       "slug": "sailor-collar",
       "category": "Fashion & Style",
@@ -63654,7 +63654,7 @@
     },
     {
       "title": "Sagittarius Zodiac Sign",
-      "file_name": "sagittarius-zodiac-sign.png",
+      "file_name": "images/history_culture/sagittarius-zodiac-sign.png",
       "added_on": "2025-07-09 14:43:44",
       "slug": "sagittarius-zodiac-sign",
       "category": "History & Culture",
@@ -80703,7 +80703,7 @@
     },
     {
       "title": "Sailor Hat",
-      "file_name": "sailor-hat.png",
+      "file_name": "images/fashion_style/sailor-hat.png",
       "added_on": "2025-07-28 17:42:22",
       "slug": "sailor-hat",
       "category": "Fashion & Style",
@@ -81228,7 +81228,7 @@
     },
     {
       "title": "Salame",
-      "file_name": "salame.png",
+      "file_name": "images/food_drink/salame.png",
       "added_on": "2025-07-28 20:51:35",
       "slug": "salame",
       "category": "Food & Drink",
@@ -84712,7 +84712,7 @@
     },
     {
       "title": "Saint Bernard",
-      "file_name": "saint-bernard.png",
+      "file_name": "images/animals/saint-bernard.png",
       "added_on": "2025-08-19 16:37:09",
       "slug": "saint-bernard",
       "category": "Animals",
@@ -85608,7 +85608,7 @@
     },
     {
       "title": "Sainfoin Plant",
-      "file_name": "sainfoin-plant.png",
+      "file_name": "images/nature_outdoors/sainfoin-plant.png",
       "added_on": "2025-08-24 17:11:24",
       "slug": "sainfoin-plant",
       "category": "Nature & Outdoors",
@@ -99359,7 +99359,7 @@
     },
     {
       "title": "Sailfin Lizard",
-      "file_name": "sailfin-lizard.png",
+      "file_name": "images/animals/sailfin-lizard.png",
       "added_on": "2025-10-01 02:21:25",
       "slug": "sailfin-lizard",
       "category": "Animals",
@@ -102316,7 +102316,7 @@
     },
     {
       "title": "Sagrada Familia",
-      "file_name": "sagrada-familia.png",
+      "file_name": "images/places_structures/sagrada-familia.png",
       "added_on": "2025-10-08 17:31:46",
       "slug": "sagrada-familia",
       "category": "Places & Structures",
@@ -119775,7 +119775,7 @@
     },
     {
       "title": "Sake",
-      "file_name": "sake.png",
+      "file_name": "images/food_drink/sake.png",
       "added_on": "2025-12-10 03:31:24",
       "slug": "sake",
       "category": "Food & Drink",
@@ -123511,7 +123511,7 @@
     },
     {
       "title": "Saffron Ice Cream",
-      "file_name": "saffron-ice-cream.png",
+      "file_name": "images/food_drink/saffron-ice-cream.png",
       "added_on": "2026-02-01 16:11:09",
       "slug": "saffron-ice-cream",
       "category": "Food & Drink",
@@ -126439,7 +126439,7 @@
     },
     {
       "title": "Saffron Milk",
-      "file_name": "saffron-milk.png",
+      "file_name": "images/food_drink/saffron-milk.png",
       "added_on": "2026-02-12 14:11:09",
       "slug": "saffron-milk",
       "category": "Food & Drink",
@@ -130170,7 +130170,7 @@
     },
     {
       "title": "Sailing Dinghy",
-      "file_name": "sailing-dinghy.png",
+      "file_name": "images/sports/sailing-dinghy.png",
       "added_on": "2026-03-18 00:00:47",
       "slug": "sailing-dinghy",
       "category": "Sports",
