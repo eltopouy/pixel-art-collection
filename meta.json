@@ -710,7 +710,7 @@
     },
     {
       "title": "Hand Towel",
-      "file_name": "hand-towel.png",
+      "file_name": "images/everyday_life/hand-towel.png",
       "added_on": "2025-05-15 21:40:56",
       "slug": "hand-towel",
       "category": "Everyday Life",
@@ -956,7 +956,7 @@
     },
     {
       "title": "Hand Soap Dispenser",
-      "file_name": "hand-soap-dispenser.png",
+      "file_name": "images/everyday_life/hand-soap-dispenser.png",
       "added_on": "2025-05-16 01:10:48",
       "slug": "hand-soap-dispenser",
       "category": "Everyday Life",
@@ -3193,7 +3193,7 @@
     },
     {
       "title": "Hand Tool Set",
-      "file_name": "hand-tool-set.png",
+      "file_name": "images/work_industry/hand-tool-set.png",
       "added_on": "2025-05-16 19:01:06",
       "slug": "hand-tool-set",
       "category": "Work & Industry",
@@ -5467,7 +5467,7 @@
     },
     {
       "title": "Dolly",
-      "file_name": "hand-truck-dolly.png",
+      "file_name": "images/work_industry/hand-truck-dolly.png",
       "added_on": "2025-05-17 22:10:41",
       "slug": "hand-truck-dolly",
       "category": "Work & Industry",
@@ -6805,7 +6805,7 @@
     },
     {
       "title": "Handcart",
-      "file_name": "handcart.png",
+      "file_name": "images/vehicles_transport/handcart.png",
       "added_on": "2025-05-19 00:40:47",
       "slug": "handcart",
       "category": "Vehicles & Transport",
@@ -11136,7 +11136,7 @@
     },
     {
       "title": "Hand Wave",
-      "file_name": "hand-wave.png",
+      "file_name": "images/everyday_life/hand-wave.png",
       "added_on": "2025-05-24 02:11:20",
       "slug": "hand-wave",
       "category": "Everyday Life",
@@ -29219,7 +29219,7 @@
     },
     {
       "title": "Handcrafted Spice Blends",
-      "file_name": "handcrafted-spice-blends.png",
+      "file_name": "images/food_drink/handcrafted-spice-blends.png",
       "added_on": "2025-06-10 09:31:49",
       "slug": "handcrafted-spice-blends",
       "category": "Food & Drink",
@@ -34213,7 +34213,7 @@
     },
     {
       "title": "Handcuffs",
-      "file_name": "handcuffs.png",
+      "file_name": "images/work_industry/handcuffs.png",
       "added_on": "2025-06-11 22:47:21",
       "slug": "handcuffs",
       "category": "Work & Industry",
@@ -35683,7 +35683,7 @@
     },
     {
       "title": "Hand truck",
-      "file_name": "hand-truck.png",
+      "file_name": "images/work_industry/hand-truck.png",
       "added_on": "2025-06-12 08:07:01",
       "slug": "hand-truck",
       "category": "Work & Industry",
@@ -76929,7 +76929,7 @@
     },
     {
       "title": "Handbag",
-      "file_name": "handbag.png",
+      "file_name": "images/fashion_style/handbag.png",
       "added_on": "2025-07-21 10:31:50",
       "slug": "handbag",
       "category": "Fashion & Style",
@@ -77701,7 +77701,7 @@
     },
     {
       "title": "Hand Truck",
-      "file_name": "hand-truck-1.png",
+      "file_name": "images/everyday_life/hand-truck-1.png",
       "added_on": "2025-07-24 09:04:18",
       "slug": "hand-truck-1",
       "category": "Everyday Life",
@@ -80194,7 +80194,7 @@
     },
     {
       "title": "Handbrake",
-      "file_name": "handbrake.png",
+      "file_name": "images/vehicles_transport/handbrake.png",
       "added_on": "2025-07-25 18:01:35",
       "slug": "handbrake",
       "category": "Vehicles & Transport",
@@ -85296,7 +85296,7 @@
     },
     {
       "title": "Handball player",
-      "file_name": "handball-player.png",
+      "file_name": "images/sports/handball-player.png",
       "added_on": "2025-08-20 15:31:25",
       "slug": "handball-player",
       "category": "Sports",
@@ -92883,7 +92883,7 @@
     },
     {
       "title": "Handheld Fan",
-      "file_name": "handheld-fan.png",
+      "file_name": "images/entertainment_leisure/handheld-fan.png",
       "added_on": "2025-09-15 14:41:25",
       "slug": "handheld-fan",
       "category": "Entertainment & Leisure",
@@ -94321,7 +94321,7 @@
     },
     {
       "title": "Hand Towel Set",
-      "file_name": "hand-towel-set.png",
+      "file_name": "images/everyday_life/hand-towel-set.png",
       "added_on": "2025-09-18 13:50:59",
       "slug": "hand-towel-set",
       "category": "Everyday Life",
@@ -98201,7 +98201,7 @@
     },
     {
       "title": "Hand Warmer",
-      "file_name": "hand-warmer.png",
+      "file_name": "images/everyday_life/hand-warmer.png",
       "added_on": "2025-09-27 17:51:14",
       "slug": "hand-warmer",
       "category": "Everyday Life",
@@ -99240,7 +99240,7 @@
     },
     {
       "title": "Handcycle",
-      "file_name": "handcycle.png",
+      "file_name": "images/sports/handcycle.png",
       "added_on": "2025-10-01 00:51:19",
       "slug": "handcycle",
       "category": "Sports",
@@ -104589,7 +104589,7 @@
     },
     {
       "title": "Handcarved Wand",
-      "file_name": "handcarved-wand.png",
+      "file_name": "images/hobbies/handcarved-wand.png",
       "added_on": "2025-10-12 16:51:55",
       "slug": "handcarved-wand",
       "category": "Hobbies",
@@ -113777,7 +113777,7 @@
     },
     {
       "title": "Handbell",
-      "file_name": "handbell.png",
+      "file_name": "images/entertainment_leisure/handbell.png",
       "added_on": "2025-11-08 16:12:01",
       "slug": "handbell",
       "category": "Entertainment & Leisure",
@@ -121050,7 +121050,7 @@
     },
     {
       "title": "Handball",
-      "file_name": "handball.png",
+      "file_name": "images/sports/handball.png",
       "added_on": "2026-01-23 03:01:17",
       "slug": "handball",
       "category": "Sports",
