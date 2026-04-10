@@ -7039,7 +7039,7 @@
     },
     {
       "title": "Onion",
-      "file_name": "onion.png",
+      "file_name": "images/food_drink/onion.png",
       "added_on": "2025-05-19 02:26:00",
       "slug": "onion",
       "category": "Food & Drink",
@@ -21147,7 +21147,7 @@
     },
     {
       "title": "On Switch",
-      "file_name": "on-switch.png",
+      "file_name": "images/interface_symbols/on-switch.png",
       "added_on": "2025-06-02 13:56:46",
       "slug": "on-switch",
       "category": "Interface & Symbols",
@@ -28769,7 +28769,7 @@
     },
     {
       "title": "One World Trade Center",
-      "file_name": "one-world-trade-center.png",
+      "file_name": "images/places_structures/one-world-trade-center.png",
       "added_on": "2025-06-09 19:50:36",
       "slug": "one-world-trade-center",
       "category": "Places & Structures",
@@ -28799,7 +28799,7 @@
     },
     {
       "title": "One Vanderbilt Building",
-      "file_name": "one-vanderbilt-building.png",
+      "file_name": "images/places_structures/one-vanderbilt-building.png",
       "added_on": "2025-06-09 19:50:38",
       "slug": "one-vanderbilt-building",
       "category": "Places & Structures",
@@ -36506,7 +36506,7 @@
     },
     {
       "title": "Open Book",
-      "file_name": "open-book.png",
+      "file_name": "images/everyday_life/open-book.png",
       "added_on": "2025-06-12 17:51:22",
       "slug": "open-book",
       "category": "Everyday Life",
@@ -38643,7 +38643,7 @@
     },
     {
       "title": "Oncilla",
-      "file_name": "oncilla.png",
+      "file_name": "images/animals/oncilla.png",
       "added_on": "2025-06-13 03:55:22",
       "slug": "oncilla",
       "category": "Animals",
@@ -47335,7 +47335,7 @@
     },
     {
       "title": "Opabinia",
-      "file_name": "opabinia.png",
+      "file_name": "images/animals/opabinia.png",
       "added_on": "2025-06-19 12:57:42",
       "slug": "opabinia",
       "category": "Animals",
@@ -47795,7 +47795,7 @@
     },
     {
       "title": "Onigiri",
-      "file_name": "onigiri.png",
+      "file_name": "images/food_drink/onigiri.png",
       "added_on": "2025-06-19 16:43:33",
       "slug": "onigiri",
       "category": "Food & Drink",
@@ -48014,7 +48014,7 @@
     },
     {
       "title": "On Switch",
-      "file_name": "on-switch-1.png",
+      "file_name": "images/interface_symbols/on-switch-1.png",
       "added_on": "2025-06-20 13:30:11",
       "slug": "on-switch-1",
       "category": "Interface & Symbols",
@@ -53915,7 +53915,7 @@
     },
     {
       "title": "Number One (1)",
-      "file_name": "one.png",
+      "file_name": "images/interface_symbols/one.png",
       "added_on": "2025-06-27 08:39:01",
       "slug": "one",
       "category": "Interface & Symbols",
@@ -68807,7 +68807,7 @@
     },
     {
       "title": "Onion Rings",
-      "file_name": "onion-rings.png",
+      "file_name": "images/food_drink/onion-rings.png",
       "added_on": "2025-07-13 14:02:03",
       "slug": "onion-rings",
       "category": "Food & Drink",
@@ -87002,7 +87002,7 @@
     },
     {
       "title": "Open Door",
-      "file_name": "open-door.png",
+      "file_name": "images/everyday_life/open-door.png",
       "added_on": "2025-08-30 14:41:23",
       "slug": "open-door",
       "category": "Everyday Life",
@@ -87542,7 +87542,7 @@
     },
     {
       "title": "Open Box",
-      "file_name": "open-box.png",
+      "file_name": "images/everyday_life/open-box.png",
       "added_on": "2025-09-03 09:00:45",
       "slug": "open-box",
       "category": "Everyday Life",
@@ -87555,7 +87555,7 @@
     },
     {
       "title": "Open Box",
-      "file_name": "open-box-1.png",
+      "file_name": "images/everyday_life/open-box-1.png",
       "added_on": "2025-09-03 09:00:47",
       "slug": "open-box-1",
       "category": "Everyday Life",
@@ -98017,7 +98017,7 @@
     },
     {
       "title": "Onion Bhaji",
-      "file_name": "onion-bhaji.png",
+      "file_name": "images/food_drink/onion-bhaji.png",
       "added_on": "2025-09-27 15:31:12",
       "slug": "onion-bhaji",
       "category": "Food & Drink",
@@ -104910,7 +104910,7 @@
     },
     {
       "title": "Oni Mask",
-      "file_name": "oni-mask.png",
+      "file_name": "images/history_culture/oni-mask.png",
       "added_on": "2025-10-13 12:22:48",
       "slug": "oni-mask",
       "category": "History & Culture",
@@ -109061,7 +109061,7 @@
     },
     {
       "title": "Onsen Tamago",
-      "file_name": "onsen-tamago.png",
+      "file_name": "images/food_drink/onsen-tamago.png",
       "added_on": "2025-10-27 11:31:20",
       "slug": "onsen-tamago",
       "category": "Food & Drink",
@@ -110286,7 +110286,7 @@
     },
     {
       "title": "Onion Goggles",
-      "file_name": "onion-goggles.png",
+      "file_name": "images/health_wellness/onion-goggles.png",
       "added_on": "2025-10-29 10:21:53",
       "slug": "onion-goggles",
       "category": "Health & Wellness",
@@ -113042,7 +113042,7 @@
     },
     {
       "title": "Open-Air Bus",
-      "file_name": "open-air-bus.png",
+      "file_name": "images/vehicles_transport/open-air-bus.png",
       "added_on": "2025-11-05 20:31:58",
       "slug": "open-air-bus",
       "category": "Vehicles & Transport",
@@ -128649,7 +128649,7 @@
     },
     {
       "title": "Opal Hair Clip",
-      "file_name": "opal-hair-clip.png",
+      "file_name": "images/fashion_style/opal-hair-clip.png",
       "added_on": "2026-03-09 06:10:53",
       "slug": "opal-hair-clip",
       "category": "Fashion & Style",
