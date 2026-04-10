@@ -1060,7 +1060,7 @@
     },
     {
       "title": "Hand Mirror",
-      "file_name": "hand-mirror.png",
+      "file_name": "images/everyday_life/hand-mirror.png",
       "added_on": "2025-05-16 02:51:01",
       "slug": "hand-mirror",
       "category": "Everyday Life",
@@ -1086,7 +1086,7 @@
     },
     {
       "title": "Hand Sanitizer",
-      "file_name": "hand-sanitizer.png",
+      "file_name": "images/everyday_life/hand-sanitizer.png",
       "added_on": "2025-05-16 03:10:51",
       "slug": "hand-sanitizer",
       "category": "Everyday Life",
@@ -1580,7 +1580,7 @@
     },
     {
       "title": "Hammock",
-      "file_name": "hammock.png",
+      "file_name": "images/nature_outdoors/hammock.png",
       "added_on": "2025-05-16 09:25:03",
       "slug": "hammock",
       "category": "Nature & Outdoors",
@@ -3778,7 +3778,7 @@
     },
     {
       "title": "Hammer",
-      "file_name": "hammer.png",
+      "file_name": "images/work_industry/hammer.png",
       "added_on": "2025-05-16 23:21:00",
       "slug": "hammer",
       "category": "Work & Industry",
@@ -5285,7 +5285,7 @@
     },
     {
       "title": "Hand Saw",
-      "file_name": "hand-saw.png",
+      "file_name": "images/work_industry/hand-saw.png",
       "added_on": "2025-05-17 20:05:36",
       "slug": "hand-saw",
       "category": "Work & Industry",
@@ -16836,7 +16836,7 @@
     },
     {
       "title": "Hand Shadow Puppets",
-      "file_name": "hand-shadow-puppets.png",
+      "file_name": "images/entertainment_leisure/hand-shadow-puppets.png",
       "added_on": "2025-05-31 10:37:59",
       "slug": "hand-shadow-puppets",
       "category": "Entertainment & Leisure",
@@ -22719,7 +22719,7 @@
     },
     {
       "title": "Hand Grip Strengthener",
-      "file_name": "hand-grip-strengthener.png",
+      "file_name": "images/health_wellness/hand-grip-strengthener.png",
       "added_on": "2025-06-03 20:21:04",
       "slug": "hand-grip-strengthener",
       "category": "Health & Wellness",
@@ -23571,7 +23571,7 @@
     },
     {
       "title": "Hand Mirror",
-      "file_name": "hand-mirror-widrn9.png",
+      "file_name": "images/everyday_life/hand-mirror-widrn9.png",
       "added_on": "2025-06-04 08:36:13",
       "slug": "hand-mirror-widrn9",
       "category": "Everyday Life",
@@ -41073,7 +41073,7 @@
     },
     {
       "title": "Hammerhead Shark",
-      "file_name": "hammerhead-shark.png",
+      "file_name": "images/animals/hammerhead-shark.png",
       "added_on": "2025-06-13 22:28:37",
       "slug": "hammerhead-shark",
       "category": "Animals",
@@ -45388,7 +45388,7 @@
     },
     {
       "title": "Hand lettering",
-      "file_name": "hand-lettering.png",
+      "file_name": "images/hobbies/hand-lettering.png",
       "added_on": "2025-06-15 01:06:56",
       "slug": "hand-lettering",
       "category": "Hobbies",
@@ -50643,7 +50643,7 @@
     },
     {
       "title": "Hamster",
-      "file_name": "hamster.png",
+      "file_name": "images/animals/hamster.png",
       "added_on": "2025-06-22 23:31:17",
       "slug": "hamster",
       "category": "Animals",
@@ -63058,7 +63058,7 @@
     },
     {
       "title": "Hammerhead Flatworm",
-      "file_name": "hammerhead-flatworm.png",
+      "file_name": "images/animals/hammerhead-flatworm.png",
       "added_on": "2025-07-09 10:31:15",
       "slug": "hammerhead-flatworm",
       "category": "Animals",
@@ -101597,7 +101597,7 @@
     },
     {
       "title": "Hammerschlagen",
-      "file_name": "hammerschlagen.png",
+      "file_name": "images/sports/hammerschlagen.png",
       "added_on": "2025-10-06 00:41:37",
       "slug": "hammerschlagen",
       "category": "Sports",
@@ -110442,7 +110442,7 @@
     },
     {
       "title": "Hand Clapper Toy",
-      "file_name": "hand-clapper-toy.png",
+      "file_name": "images/entertainment_leisure/hand-clapper-toy.png",
       "added_on": "2025-10-29 12:41:49",
       "slug": "hand-clapper-toy",
       "category": "Entertainment & Leisure",
@@ -111019,7 +111019,7 @@
     },
     {
       "title": "Hand Drum",
-      "file_name": "hand-drum.png",
+      "file_name": "images/hobbies/hand-drum.png",
       "added_on": "2025-10-30 20:31:54",
       "slug": "hand-drum",
       "category": "Hobbies",
@@ -112587,7 +112587,7 @@
     },
     {
       "title": "Hand Showing 3 Fingers",
-      "file_name": "hand-showing-3-fingers.png",
+      "file_name": "images/everyday_life/hand-showing-3-fingers.png",
       "added_on": "2025-11-03 13:12:05",
       "slug": "hand-showing-3-fingers",
       "category": "Everyday Life",
@@ -112600,7 +112600,7 @@
     },
     {
       "title": "Hand Showing 4 Fingers",
-      "file_name": "hand-showing-4-fingers.png",
+      "file_name": "images/everyday_life/hand-showing-4-fingers.png",
       "added_on": "2025-11-03 13:23:12",
       "slug": "hand-showing-4-fingers",
       "category": "Everyday Life",
@@ -112613,7 +112613,7 @@
     },
     {
       "title": "Hand Showing 5 Fingers",
-      "file_name": "hand-showing-5-fingers.png",
+      "file_name": "images/everyday_life/hand-showing-5-fingers.png",
       "added_on": "2025-11-03 13:31:55",
       "slug": "hand-showing-5-fingers",
       "category": "Everyday Life",
@@ -114834,7 +114834,7 @@
     },
     {
       "title": "Hand-Crank Movie Viewer",
-      "file_name": "hand-crank-movie-viewer.png",
+      "file_name": "images/entertainment_leisure/hand-crank-movie-viewer.png",
       "added_on": "2025-11-11 21:12:00",
       "slug": "hand-crank-movie-viewer",
       "category": "Entertainment & Leisure",
@@ -116626,7 +116626,7 @@
     },
     {
       "title": "Hand Gesture",
-      "file_name": "hand-gesture.png",
+      "file_name": "images/everyday_life/hand-gesture.png",
       "added_on": "2025-11-18 14:11:47",
       "slug": "hand-gesture",
       "category": "Everyday Life",
@@ -122938,7 +122938,7 @@
     },
     {
       "title": "Hand Sanitizer Bottle",
-      "file_name": "hand-sanitizer-bottle.png",
+      "file_name": "images/everyday_life/hand-sanitizer-bottle.png",
       "added_on": "2026-01-29 20:21:05",
       "slug": "hand-sanitizer-bottle",
       "category": "Everyday Life",
