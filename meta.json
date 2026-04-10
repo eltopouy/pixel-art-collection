@@ -4817,7 +4817,7 @@
     },
     {
       "title": "Truck",
-      "file_name": "truck.png",
+      "file_name": "images/vehicles_transport/truck.png",
       "added_on": "2025-05-17 15:25:40",
       "slug": "truck",
       "category": "Vehicles & Transport",
@@ -8534,7 +8534,7 @@
     },
     {
       "title": "Trumpet",
-      "file_name": "trumpet.png",
+      "file_name": "images/entertainment_leisure/trumpet.png",
       "added_on": "2025-05-22 16:21:11",
       "slug": "trumpet",
       "category": "Entertainment & Leisure",
@@ -25276,7 +25276,7 @@
     },
     {
       "title": "Trowel",
-      "file_name": "trowel.png",
+      "file_name": "images/nature_outdoors/trowel.png",
       "added_on": "2025-06-05 16:40:30",
       "slug": "trowel",
       "category": "Nature & Outdoors",
@@ -33927,7 +33927,7 @@
     },
     {
       "title": "Truffle Oil",
-      "file_name": "truffle-oil.png",
+      "file_name": "images/food_drink/truffle-oil.png",
       "added_on": "2025-06-11 21:12:46",
       "slug": "truffle-oil",
       "category": "Food & Drink",
@@ -36623,7 +36623,7 @@
     },
     {
       "title": "Trumpet Mute",
-      "file_name": "trumpet-mute.png",
+      "file_name": "images/entertainment_leisure/trumpet-mute.png",
       "added_on": "2025-06-12 17:51:47",
       "slug": "trumpet-mute",
       "category": "Entertainment & Leisure",
@@ -36636,7 +36636,7 @@
     },
     {
       "title": "Trumpet Plunger Mute",
-      "file_name": "trumpet-plunger-mute.png",
+      "file_name": "images/entertainment_leisure/trumpet-plunger-mute.png",
       "added_on": "2025-06-12 17:51:49",
       "slug": "trumpet-plunger-mute",
       "category": "Entertainment & Leisure",
@@ -44447,7 +44447,7 @@
     },
     {
       "title": "Tufa tower",
-      "file_name": "tufa-tower.png",
+      "file_name": "images/nature_outdoors/tufa-tower.png",
       "added_on": "2025-06-14 16:12:55",
       "slug": "tufa-tower",
       "category": "Nature & Outdoors",
@@ -49941,7 +49941,7 @@
     },
     {
       "title": "Tuba",
-      "file_name": "tuba.png",
+      "file_name": "images/entertainment_leisure/tuba.png",
       "added_on": "2025-06-22 19:55:35",
       "slug": "tuba",
       "category": "Entertainment & Leisure",
@@ -53020,7 +53020,7 @@
     },
     {
       "title": "Truffle Burrata Bruschetta",
-      "file_name": "truffle-burrata-bruschetta.png",
+      "file_name": "images/food_drink/truffle-burrata-bruschetta.png",
       "added_on": "2025-06-26 15:33:28",
       "slug": "truffle-burrata-bruschetta",
       "category": "Food & Drink",
@@ -54812,7 +54812,7 @@
     },
     {
       "title": "Tteokbokki",
-      "file_name": "tteokbokki.png",
+      "file_name": "images/food_drink/tteokbokki.png",
       "added_on": "2025-06-28 08:55:16",
       "slug": "tteokbokki",
       "category": "Food & Drink",
@@ -66513,7 +66513,7 @@
     },
     {
       "title": "Tsunami",
-      "file_name": "tsunami.png",
+      "file_name": "images/nature_outdoors/tsunami.png",
       "added_on": "2025-07-11 17:40:58",
       "slug": "tsunami",
       "category": "Nature & Outdoors",
@@ -83441,7 +83441,7 @@
     },
     {
       "title": "Tteokbokki",
-      "file_name": "tteokbokki-1.png",
+      "file_name": "images/food_drink/tteokbokki-1.png",
       "added_on": "2025-08-16 19:12:04",
       "slug": "tteokbokki-1",
       "category": "Food & Drink",
@@ -84315,7 +84315,7 @@
     },
     {
       "title": "Tteokguk",
-      "file_name": "tteokguk.png",
+      "file_name": "images/food_drink/tteokguk.png",
       "added_on": "2025-08-18 09:37:51",
       "slug": "tteokguk",
       "category": "Food & Drink",
@@ -91421,7 +91421,7 @@
     },
     {
       "title": "Tuatara",
-      "file_name": "tuatara.png",
+      "file_name": "images/animals/tuatara.png",
       "added_on": "2025-09-11 22:31:31",
       "slug": "tuatara",
       "category": "Animals",
@@ -95985,7 +95985,7 @@
     },
     {
       "title": "Tudor Rose Badge",
-      "file_name": "tudor-rose-badge.png",
+      "file_name": "images/history_culture/tudor-rose-badge.png",
       "added_on": "2025-09-22 12:31:11",
       "slug": "tudor-rose-badge",
       "category": "History & Culture",
@@ -96560,7 +96560,7 @@
     },
     {
       "title": "Tudor Ruff Collar",
-      "file_name": "tudor-ruff-collar.png",
+      "file_name": "images/history_culture/tudor-ruff-collar.png",
       "added_on": "2025-09-23 11:11:22",
       "slug": "tudor-ruff-collar",
       "category": "History & Culture",
@@ -101911,7 +101911,7 @@
     },
     {
       "title": "Truffle Fries",
-      "file_name": "truffle-fries.png",
+      "file_name": "images/food_drink/truffle-fries.png",
       "added_on": "2025-10-08 11:11:49",
       "slug": "truffle-fries",
       "category": "Food & Drink",
@@ -105877,7 +105877,7 @@
     },
     {
       "title": "Tufted Puffin",
-      "file_name": "tufted-puffin.png",
+      "file_name": "images/animals/tufted-puffin.png",
       "added_on": "2025-10-20 11:11:20",
       "slug": "tufted-puffin",
       "category": "Animals",
@@ -110719,7 +110719,7 @@
     },
     {
       "title": "Truffle Honey Jar",
-      "file_name": "truffle-honey-jar.png",
+      "file_name": "images/food_drink/truffle-honey-jar.png",
       "added_on": "2025-10-30 16:11:57",
       "slug": "truffle-honey-jar",
       "category": "Food & Drink",
@@ -115580,7 +115580,7 @@
     },
     {
       "title": "Truck Cylinder Gas",
-      "file_name": "truck-cylinder-gas.png",
+      "file_name": "images/vehicles_transport/truck-cylinder-gas.png",
       "added_on": "2025-11-14 15:42:10",
       "slug": "truck-cylinder-gas",
       "category": "Vehicles & Transport",
@@ -128543,7 +128543,7 @@
     },
     {
       "title": "Truffle Oil Bottle",
-      "file_name": "truffle-oil-bottle.png",
+      "file_name": "images/food_drink/truffle-oil-bottle.png",
       "added_on": "2026-03-09 04:50:53",
       "slug": "truffle-oil-bottle",
       "category": "Food & Drink",
