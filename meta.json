@@ -2334,7 +2334,7 @@
     },
     {
       "title": "Giraffe",
-      "file_name": "giraffe.png",
+      "file_name": "images/animals/giraffe.png",
       "added_on": "2025-05-16 12:40:23",
       "slug": "giraffe",
       "category": "Animals",
@@ -3063,7 +3063,7 @@
     },
     {
       "title": "Glass Frog",
-      "file_name": "glass-frog.png",
+      "file_name": "images/animals/glass-frog.png",
       "added_on": "2025-05-16 17:45:47",
       "slug": "glass-frog",
       "category": "Animals",
@@ -20535,7 +20535,7 @@
     },
     {
       "title": "Glacier",
-      "file_name": "glacier.png",
+      "file_name": "images/nature_outdoors/glacier.png",
       "added_on": "2025-06-02 10:17:37",
       "slug": "glacier",
       "category": "Nature & Outdoors",
@@ -43267,7 +43267,7 @@
     },
     {
       "title": "Gladiator Helmet",
-      "file_name": "gladiator-helmet.png",
+      "file_name": "images/history_culture/gladiator-helmet.png",
       "added_on": "2025-06-14 10:43:12",
       "slug": "gladiator-helmet",
       "category": "History & Culture",
@@ -56439,7 +56439,7 @@
     },
     {
       "title": "Glamping",
-      "file_name": "glamping.png",
+      "file_name": "images/nature_outdoors/glamping.png",
       "added_on": "2025-07-02 14:01:09",
       "slug": "glamping",
       "category": "Nature & Outdoors",
@@ -65095,7 +65095,7 @@
     },
     {
       "title": "Glass Marbles",
-      "file_name": "glass-marbles.png",
+      "file_name": "images/hobbies/glass-marbles.png",
       "added_on": "2025-07-10 16:41:00",
       "slug": "glass-marbles",
       "category": "Hobbies",
@@ -65755,7 +65755,7 @@
     },
     {
       "title": "Glass Catfish",
-      "file_name": "glass-catfish.png",
+      "file_name": "images/animals/glass-catfish.png",
       "added_on": "2025-07-10 21:56:22",
       "slug": "glass-catfish",
       "category": "Animals",
@@ -67383,7 +67383,7 @@
     },
     {
       "title": "Glass Cutter",
-      "file_name": "glass-cutter.png",
+      "file_name": "images/hobbies/glass-cutter.png",
       "added_on": "2025-07-12 06:21:34",
       "slug": "glass-cutter",
       "category": "Hobbies",
@@ -67552,7 +67552,7 @@
     },
     {
       "title": "Glass Gargoyle",
-      "file_name": "glass-gargoyle.png",
+      "file_name": "images/fantasy_imagination/glass-gargoyle.png",
       "added_on": "2025-07-12 08:42:05",
       "slug": "glass-gargoyle",
       "category": "Fantasy & Imagination",
@@ -73147,7 +73147,7 @@
     },
     {
       "title": "Girl",
-      "file_name": "girl.png",
+      "file_name": "images/everyday_life/girl.png",
       "added_on": "2025-07-17 10:33:45",
       "slug": "girl",
       "category": "Everyday Life",
@@ -73160,7 +73160,7 @@
     },
     {
       "title": "Glass Chapel",
-      "file_name": "glass-chapel.png",
+      "file_name": "images/places_structures/glass-chapel.png",
       "added_on": "2025-07-17 10:52:16",
       "slug": "glass-chapel",
       "category": "Places & Structures",
@@ -79601,7 +79601,7 @@
     },
     {
       "title": "Gladiatrice",
-      "file_name": "gladiatrices.png",
+      "file_name": "images/history_culture/gladiatrices.png",
       "added_on": "2025-07-25 05:41:44",
       "slug": "gladiatrices",
       "category": "History & Culture",
@@ -96083,7 +96083,7 @@
     },
     {
       "title": "Girl with a Pearl Earring",
-      "file_name": "girl-with-a-pearl-earring.png",
+      "file_name": "images/history_culture/girl-with-a-pearl-earring.png",
       "added_on": "2025-09-22 13:41:20",
       "slug": "girl-with-a-pearl-earring",
       "category": "History & Culture",
@@ -97013,7 +97013,7 @@
     },
     {
       "title": "Glass Eye",
-      "file_name": "glass-eye.png",
+      "file_name": "images/hobbies/glass-eye.png",
       "added_on": "2025-09-24 10:51:23",
       "slug": "glass-eye",
       "category": "Hobbies",
@@ -100286,7 +100286,7 @@
     },
     {
       "title": "Female Hockey Player",
-      "file_name": "girl-ice-hockey-player.png",
+      "file_name": "images/sports/girl-ice-hockey-player.png",
       "added_on": "2025-10-02 16:51:16",
       "slug": "girl-ice-hockey-player",
       "category": "Sports",
@@ -103663,7 +103663,7 @@
     },
     {
       "title": "Glass Chart",
-      "file_name": "glass-chart.png",
+      "file_name": "images/everyday_life/glass-chart.png",
       "added_on": "2025-10-10 14:21:42",
       "slug": "glass-chart",
       "category": "Everyday Life",
@@ -110130,7 +110130,7 @@
     },
     {
       "title": "Giraffe Weevil",
-      "file_name": "giraffe-weevil.png",
+      "file_name": "images/animals/giraffe-weevil.png",
       "added_on": "2025-10-28 20:41:55",
       "slug": "giraffe-weevil",
       "category": "Animals",
@@ -113868,7 +113868,7 @@
     },
     {
       "title": "Girl Scout",
-      "file_name": "girl-scout.png",
+      "file_name": "images/professions/girl-scout.png",
       "added_on": "2025-11-08 17:21:57",
       "slug": "girl-scout",
       "category": "Professions",
@@ -119923,7 +119923,7 @@
     },
     {
       "title": "Girlfriend",
-      "file_name": "girlfriend.png",
+      "file_name": "images/everyday_life/girlfriend.png",
       "added_on": "2025-12-11 14:31:52",
       "slug": "girlfriend",
       "category": "Everyday Life",
@@ -120112,7 +120112,7 @@
     },
     {
       "title": "Girls",
-      "file_name": "girls.png",
+      "file_name": "images/everyday_life/girls.png",
       "added_on": "2025-12-14 14:41:42",
       "slug": "girls",
       "category": "Everyday Life",
