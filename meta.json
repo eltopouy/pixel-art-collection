@@ -12098,7 +12098,7 @@
     },
     {
       "title": "Ladybug",
-      "file_name": "ladybug.png",
+      "file_name": "images/animals/ladybug.png",
       "added_on": "2025-05-25 11:41:27",
       "slug": "ladybug",
       "category": "Animals",
@@ -21884,7 +21884,7 @@
     },
     {
       "title": "Lab",
-      "file_name": "lab.png",
+      "file_name": "images/space_science/lab.png",
       "added_on": "2025-06-03 14:26:04",
       "slug": "lab",
       "category": "Space & Science",
@@ -32629,7 +32629,7 @@
     },
     {
       "title": "Lacrosse Stick",
-      "file_name": "lacrosse-stick.png",
+      "file_name": "images/sports/lacrosse-stick.png",
       "added_on": "2025-06-11 12:12:43",
       "slug": "lacrosse-stick",
       "category": "Sports",
@@ -33219,7 +33219,7 @@
     },
     {
       "title": "Label Maker",
-      "file_name": "label-maker.png",
+      "file_name": "images/work_industry/label-maker.png",
       "added_on": "2025-06-11 15:36:44",
       "slug": "label-maker",
       "category": "Work & Industry",
@@ -33323,7 +33323,7 @@
     },
     {
       "title": "Lace Bodysuit",
-      "file_name": "lace-bodysuit.png",
+      "file_name": "images/fashion_style/lace-bodysuit.png",
       "added_on": "2025-06-11 16:30:50",
       "slug": "lace-bodysuit",
       "category": "Fashion & Style",
@@ -40661,7 +40661,7 @@
     },
     {
       "title": "Ladder",
-      "file_name": "ladder.png",
+      "file_name": "images/work_industry/ladder.png",
       "added_on": "2025-06-13 21:43:26",
       "slug": "ladder",
       "category": "Work & Industry",
@@ -46089,7 +46089,7 @@
     },
     {
       "title": "Laboratory Robot Arm",
-      "file_name": "laboratory-robot-arm.png",
+      "file_name": "images/space_science/laboratory-robot-arm.png",
       "added_on": "2025-06-15 23:14:12",
       "slug": "laboratory-robot-arm",
       "category": "Space & Science",
@@ -49640,7 +49640,7 @@
     },
     {
       "title": "Labrador Retriever",
-      "file_name": "labrador-retriever.png",
+      "file_name": "images/animals/labrador-retriever.png",
       "added_on": "2025-06-22 17:34:50",
       "slug": "labrador-retriever",
       "category": "Animals",
@@ -54878,7 +54878,7 @@
     },
     {
       "title": "Laboratory",
-      "file_name": "laboratory.png",
+      "file_name": "images/space_science/laboratory.png",
       "added_on": "2025-06-28 09:43:21",
       "slug": "laboratory",
       "category": "Space & Science",
@@ -56465,7 +56465,7 @@
     },
     {
       "title": "Labradoodle",
-      "file_name": "labradoodle.png",
+      "file_name": "images/animals/labradoodle.png",
       "added_on": "2025-07-02 20:01:03",
       "slug": "labradoodle",
       "category": "Animals",
@@ -58727,7 +58727,7 @@
     },
     {
       "title": "Labyrinth",
-      "file_name": "labyrinth.png",
+      "file_name": "images/places_structures/labyrinth.png",
       "added_on": "2025-07-06 15:06:08",
       "slug": "labyrinth",
       "category": "Places & Structures",
@@ -81728,7 +81728,7 @@
     },
     {
       "title": "Lab-Grown Meat",
-      "file_name": "lab-grown-meat.png",
+      "file_name": "images/food_drink/lab-grown-meat.png",
       "added_on": "2025-08-02 16:22:02",
       "slug": "lab-grown-meat",
       "category": "Food & Drink",
@@ -82398,7 +82398,7 @@
     },
     {
       "title": "Lady Justice",
-      "file_name": "lady-justice.png",
+      "file_name": "images/history_culture/lady-justice.png",
       "added_on": "2025-08-05 05:51:12",
       "slug": "lady-justice",
       "category": "History & Culture",
@@ -106072,7 +106072,7 @@
     },
     {
       "title": "Lab Rat Maze",
-      "file_name": "lab-rat-maze.png",
+      "file_name": "images/space_science/lab-rat-maze.png",
       "added_on": "2025-10-20 16:44:38",
       "slug": "lab-rat-maze",
       "category": "Space & Science",
@@ -109230,7 +109230,7 @@
     },
     {
       "title": "Lacrosse Goal",
-      "file_name": "lacrosse-goal.png",
+      "file_name": "images/sports/lacrosse-goal.png",
       "added_on": "2025-10-27 16:01:15",
       "slug": "lacrosse-goal",
       "category": "Sports",
@@ -111644,7 +111644,7 @@
     },
     {
       "title": "Lace Face Mask",
-      "file_name": "lace-face-mask.png",
+      "file_name": "images/fashion_style/lace-face-mask.png",
       "added_on": "2025-11-01 17:21:54",
       "slug": "lace-face-mask",
       "category": "Fashion & Style",
@@ -112024,7 +112024,7 @@
     },
     {
       "title": "Lace Bra",
-      "file_name": "lace-bra.png",
+      "file_name": "images/fashion_style/lace-bra.png",
       "added_on": "2025-11-02 08:51:56",
       "slug": "lace-bra",
       "category": "Fashion & Style",
@@ -112037,7 +112037,7 @@
     },
     {
       "title": "Lace thong",
-      "file_name": "lace-thong.png",
+      "file_name": "images/fashion_style/lace-thong.png",
       "added_on": "2025-11-02 09:02:00",
       "slug": "lace-thong",
       "category": "Fashion & Style",
@@ -127367,7 +127367,7 @@
     },
     {
       "title": "Lace-Up Corset Belt",
-      "file_name": "lace-up-corset-belt.png",
+      "file_name": "images/fashion_style/lace-up-corset-belt.png",
       "added_on": "2026-03-02 15:51:22",
       "slug": "lace-up-corset-belt",
       "category": "Fashion & Style",
@@ -129593,7 +129593,7 @@
     },
     {
       "title": "Lab test tube rack",
-      "file_name": "lab-test-tube-rack.png",
+      "file_name": "images/space_science/lab-test-tube-rack.png",
       "added_on": "2026-03-17 16:20:57",
       "slug": "lab-test-tube-rack",
       "category": "Space & Science",
