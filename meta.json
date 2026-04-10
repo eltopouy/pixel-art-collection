@@ -1814,7 +1814,7 @@
     },
     {
       "title": "Knitting Kit",
-      "file_name": "knitting-kit.png",
+      "file_name": "images/hobbies/knitting-kit.png",
       "added_on": "2025-05-16 10:37:29",
       "slug": "knitting-kit",
       "category": "Hobbies",
@@ -3934,7 +3934,7 @@
     },
     {
       "title": "Knife",
-      "file_name": "knife.png",
+      "file_name": "images/food_drink/knife.png",
       "added_on": "2025-05-17 01:15:59",
       "slug": "knife",
       "category": "Food & Drink",
@@ -7299,7 +7299,7 @@
     },
     {
       "title": "Koala",
-      "file_name": "koala.png",
+      "file_name": "images/animals/koala.png",
       "added_on": "2025-05-19 04:40:45",
       "slug": "koala",
       "category": "Animals",
@@ -18125,7 +18125,7 @@
     },
     {
       "title": "Knight (Chess Piece) in Black",
-      "file_name": "knight-chess-piece-in-black.png",
+      "file_name": "images/entertainment_leisure/knight-chess-piece-in-black.png",
       "added_on": "2025-06-01 08:14:21",
       "slug": "knight-chess-piece-in-black",
       "category": "Entertainment & Leisure",
@@ -18138,7 +18138,7 @@
     },
     {
       "title": "Knight (Chess Piece)",
-      "file_name": "knight-chess-piece.png",
+      "file_name": "images/entertainment_leisure/knight-chess-piece.png",
       "added_on": "2025-06-01 08:14:23",
       "slug": "knight-chess-piece",
       "category": "Entertainment & Leisure",
@@ -20899,7 +20899,7 @@
     },
     {
       "title": "Knight in Armor",
-      "file_name": "knight-in-armor.png",
+      "file_name": "images/fantasy_imagination/knight-in-armor.png",
       "added_on": "2025-06-02 12:10:37",
       "slug": "knight-in-armor",
       "category": "Fantasy & Imagination",
@@ -41534,7 +41534,7 @@
     },
     {
       "title": "Knight Cat",
-      "file_name": "knight-cat.png",
+      "file_name": "images/fantasy_imagination/knight-cat.png",
       "added_on": "2025-06-13 22:34:06",
       "slug": "knight-cat",
       "category": "Fantasy & Imagination",
@@ -41745,7 +41745,7 @@
     },
     {
       "title": "Kodak 400TX 35mm Black and White Film Canister",
-      "file_name": "kodak-400tx-35mm-black-and-white-film-canister.png",
+      "file_name": "images/technology_media/kodak-400tx-35mm-black-and-white-film-canister.png",
       "added_on": "2025-06-13 22:35:41",
       "slug": "kodak-400tx-35mm-black-and-white-film-canister",
       "category": "Technology & Media",
@@ -46037,7 +46037,7 @@
     },
     {
       "title": "Knife Sharpener",
-      "file_name": "knife-sharpener.png",
+      "file_name": "images/everyday_life/knife-sharpener.png",
       "added_on": "2025-06-15 23:13:37",
       "slug": "knife-sharpener",
       "category": "Everyday Life",
@@ -46234,7 +46234,7 @@
     },
     {
       "title": "Knight in Armor on Horseback",
-      "file_name": "knight-in-armor-on-horseback.png",
+      "file_name": "images/history_culture/knight-in-armor-on-horseback.png",
       "added_on": "2025-06-15 23:49:12",
       "slug": "knight-in-armor-on-horseback",
       "category": "History & Culture",
@@ -46794,7 +46794,7 @@
     },
     {
       "title": "Knee Joint Bone",
-      "file_name": "knee-joint-bone.png",
+      "file_name": "images/health_wellness/knee-joint-bone.png",
       "added_on": "2025-06-18 13:27:15",
       "slug": "knee-joint-bone",
       "category": "Health & Wellness",
@@ -57730,7 +57730,7 @@
     },
     {
       "title": "Knitted Beanie",
-      "file_name": "knitted-beanie.png",
+      "file_name": "images/fashion_style/knitted-beanie.png",
       "added_on": "2025-07-05 23:11:18",
       "slug": "knitted-beanie",
       "category": "Fashion & Style",
@@ -66682,7 +66682,7 @@
     },
     {
       "title": "Knitted Sweater Set",
-      "file_name": "knitted-sweater-set.png",
+      "file_name": "images/fashion_style/knitted-sweater-set.png",
       "added_on": "2025-07-11 20:51:29",
       "slug": "knitted-sweater-set",
       "category": "Fashion & Style",
@@ -70135,7 +70135,7 @@
     },
     {
       "title": "Kobold",
-      "file_name": "kobold.png",
+      "file_name": "images/fantasy_imagination/kobold.png",
       "added_on": "2025-07-14 10:06:39",
       "slug": "kobold",
       "category": "Fantasy & Imagination",
@@ -72742,7 +72742,7 @@
     },
     {
       "title": "Knight Helmet",
-      "file_name": "knight-helmet.png",
+      "file_name": "images/hobbies/knight-helmet.png",
       "added_on": "2025-07-16 21:11:57",
       "slug": "knight-helmet",
       "category": "Hobbies",
@@ -107532,7 +107532,7 @@
     },
     {
       "title": "Knuckle Duster",
-      "file_name": "knuckle-duster.png",
+      "file_name": "images/everyday_life/knuckle-duster.png",
       "added_on": "2025-10-23 00:21:18",
       "slug": "knuckle-duster",
       "category": "Everyday Life",
@@ -113465,7 +113465,7 @@
     },
     {
       "title": "Knee Pads",
-      "file_name": "knee-pads.png",
+      "file_name": "images/work_industry/knee-pads.png",
       "added_on": "2025-11-07 00:51:58",
       "slug": "knee-pads",
       "category": "Work & Industry",
@@ -128926,7 +128926,7 @@
     },
     {
       "title": "Knot Board",
-      "file_name": "knot-board.png",
+      "file_name": "images/hobbies/knot-board.png",
       "added_on": "2026-03-09 10:11:05",
       "slug": "knot-board",
       "category": "Hobbies",
@@ -129775,7 +129775,7 @@
     },
     {
       "title": "Knotweed",
-      "file_name": "knotweed.png",
+      "file_name": "images/nature_outdoors/knotweed.png",
       "added_on": "2026-03-17 18:40:59",
       "slug": "knotweed",
       "category": "Nature & Outdoors",
@@ -130651,7 +130651,7 @@
     },
     {
       "title": "Knee-high boots",
-      "file_name": "knee-high-boots.png",
+      "file_name": "images/fashion_style/knee-high-boots.png",
       "added_on": "2026-03-18 13:41:14",
       "slug": "knee-high-boots",
       "category": "Fashion & Style",
