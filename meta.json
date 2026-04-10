@@ -2685,7 +2685,7 @@
     },
     {
       "title": "Pottery Wheel Kit",
-      "file_name": "pottery-wheel-kit.png",
+      "file_name": "images/hobbies/pottery-wheel-kit.png",
       "added_on": "2025-05-16 14:11:13",
       "slug": "pottery-wheel-kit",
       "category": "Hobbies",
@@ -5506,7 +5506,7 @@
     },
     {
       "title": "Potato",
-      "file_name": "potato.png",
+      "file_name": "images/food_drink/potato.png",
       "added_on": "2025-05-17 22:45:39",
       "slug": "potato",
       "category": "Food & Drink",
@@ -20332,7 +20332,7 @@
     },
     {
       "title": "Potala Palace",
-      "file_name": "potala-palace.png",
+      "file_name": "images/places_structures/potala-palace.png",
       "added_on": "2025-06-02 09:44:48",
       "slug": "potala-palace",
       "category": "Places & Structures",
@@ -22353,7 +22353,7 @@
     },
     {
       "title": "Potion",
-      "file_name": "potion.png",
+      "file_name": "images/fantasy_imagination/potion.png",
       "added_on": "2025-06-03 17:16:08",
       "slug": "potion",
       "category": "Fantasy & Imagination",
@@ -28931,7 +28931,7 @@
     },
     {
       "title": "Power Grid Management System",
-      "file_name": "power-grid-management-system.png",
+      "file_name": "images/technology_media/power-grid-management-system.png",
       "added_on": "2025-06-10 08:08:47",
       "slug": "power-grid-management-system",
       "category": "Technology & Media",
@@ -33206,7 +33206,7 @@
     },
     {
       "title": "Power Drill",
-      "file_name": "power-drill.png",
+      "file_name": "images/work_industry/power-drill.png",
       "added_on": "2025-06-11 15:30:48",
       "slug": "power-drill",
       "category": "Work & Industry",
@@ -36779,7 +36779,7 @@
     },
     {
       "title": "Power Generator",
-      "file_name": "power-generator.png",
+      "file_name": "images/work_industry/power-generator.png",
       "added_on": "2025-06-12 19:13:09",
       "slug": "power-generator",
       "category": "Work & Industry",
@@ -43436,7 +43436,7 @@
     },
     {
       "title": "Potion Vial",
-      "file_name": "potion-vial.png",
+      "file_name": "images/fantasy_imagination/potion-vial.png",
       "added_on": "2025-06-14 12:07:06",
       "slug": "potion-vial",
       "category": "Fantasy & Imagination",
@@ -44105,7 +44105,7 @@
     },
     {
       "title": "Power Bank",
-      "file_name": "power-bank.png",
+      "file_name": "images/technology_media/power-bank.png",
       "added_on": "2025-06-14 13:22:52",
       "slug": "power-bank",
       "category": "Technology & Media",
@@ -50827,7 +50827,7 @@
     },
     {
       "title": "Power Adapter",
-      "file_name": "power-adapter.png",
+      "file_name": "images/technology_media/power-adapter.png",
       "added_on": "2025-06-23 00:55:34",
       "slug": "power-adapter",
       "category": "Technology & Media",
@@ -60723,7 +60723,7 @@
     },
     {
       "title": "Potoo",
-      "file_name": "potoo.png",
+      "file_name": "images/animals/potoo.png",
       "added_on": "2025-07-08 17:00:57",
       "slug": "potoo",
       "category": "Animals",
@@ -61867,7 +61867,7 @@
     },
     {
       "title": "Potato Battery",
-      "file_name": "potato-battery.png",
+      "file_name": "images/hobbies/potato-battery.png",
       "added_on": "2025-07-09 01:25:56",
       "slug": "potato-battery",
       "category": "Hobbies",
@@ -77454,7 +77454,7 @@
     },
     {
       "title": "Potted Dwarf Orange Tree",
-      "file_name": "potted-dwarf-orange-tree.png",
+      "file_name": "images/nature_outdoors/potted-dwarf-orange-tree.png",
       "added_on": "2025-07-24 09:02:44",
       "slug": "potted-dwarf-orange-tree",
       "category": "Nature & Outdoors",
@@ -77948,7 +77948,7 @@
     },
     {
       "title": "Potions Book",
-      "file_name": "potions-book.png",
+      "file_name": "images/fantasy_imagination/potions-book.png",
       "added_on": "2025-07-24 10:39:45",
       "slug": "potions-book",
       "category": "Fantasy & Imagination",
@@ -81884,7 +81884,7 @@
     },
     {
       "title": "Potpourri",
-      "file_name": "potpourri.png",
+      "file_name": "images/everyday_life/potpourri.png",
       "added_on": "2025-08-02 16:41:11",
       "slug": "potpourri",
       "category": "Everyday Life",
@@ -91878,7 +91878,7 @@
     },
     {
       "title": "Potion Bottle",
-      "file_name": "potion-bottle.png",
+      "file_name": "images/hobbies/potion-bottle.png",
       "added_on": "2025-09-12 13:41:28",
       "slug": "potion-bottle",
       "category": "Hobbies",
@@ -96534,7 +96534,7 @@
     },
     {
       "title": "Potato Stamp",
-      "file_name": "potato-stamp.png",
+      "file_name": "images/hobbies/potato-stamp.png",
       "added_on": "2025-09-23 10:51:26",
       "slug": "potato-stamp",
       "category": "Hobbies",
@@ -97156,7 +97156,7 @@
     },
     {
       "title": "Potion Cabinet",
-      "file_name": "potion-cabinet.png",
+      "file_name": "images/hobbies/potion-cabinet.png",
       "added_on": "2025-09-24 13:01:27",
       "slug": "potion-cabinet",
       "category": "Hobbies",
@@ -102160,7 +102160,7 @@
     },
     {
       "title": "Potato Masher",
-      "file_name": "potato-masher.png",
+      "file_name": "images/everyday_life/potato-masher.png",
       "added_on": "2025-10-08 15:01:17",
       "slug": "potato-masher",
       "category": "Everyday Life",
@@ -128874,7 +128874,7 @@
     },
     {
       "title": "Pottery Clay",
-      "file_name": "pottery-clay.png",
+      "file_name": "images/hobbies/pottery-clay.png",
       "added_on": "2026-03-09 09:30:53",
       "slug": "pottery-clay",
       "category": "Hobbies",
@@ -129095,7 +129095,7 @@
     },
     {
       "title": "Potholder",
-      "file_name": "potholder.png",
+      "file_name": "images/everyday_life/potholder.png",
       "added_on": "2026-03-09 12:20:56",
       "slug": "potholder",
       "category": "Everyday Life",
