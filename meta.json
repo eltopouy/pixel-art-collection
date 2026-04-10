@@ -7845,7 +7845,7 @@
     },
     {
       "title": "Greece",
-      "file_name": "greece.png",
+      "file_name": "images/countries/greece.png",
       "added_on": "2025-05-20 00:21:07",
       "slug": "greece",
       "category": "Countries",
@@ -19822,7 +19822,7 @@
     },
     {
       "title": "Great Wall of China",
-      "file_name": "great-wall-of-china.png",
+      "file_name": "images/places_structures/great-wall-of-china.png",
       "added_on": "2025-06-02 09:37:02",
       "slug": "great-wall-of-china",
       "category": "Places & Structures",
@@ -20239,7 +20239,7 @@
     },
     {
       "title": "Great Barrier Reef",
-      "file_name": "great-barrier-reef.png",
+      "file_name": "images/nature_outdoors/great-barrier-reef.png",
       "added_on": "2025-06-02 09:44:21",
       "slug": "great-barrier-reef",
       "category": "Nature & Outdoors",
@@ -28827,7 +28827,7 @@
     },
     {
       "title": "Great Pyrenees",
-      "file_name": "great-pyrenees.png",
+      "file_name": "images/animals/great-pyrenees.png",
       "added_on": "2025-06-09 19:50:44",
       "slug": "great-pyrenees",
       "category": "Animals",
@@ -30054,7 +30054,7 @@
     },
     {
       "title": "Greek Amphitheater",
-      "file_name": "greek-amphitheater.png",
+      "file_name": "images/history_culture/greek-amphitheater.png",
       "added_on": "2025-06-10 16:43:13",
       "slug": "greek-amphitheater",
       "category": "History & Culture",
@@ -38302,7 +38302,7 @@
     },
     {
       "title": "Greek yogurt",
-      "file_name": "greek-yogurt.png",
+      "file_name": "images/food_drink/greek-yogurt.png",
       "added_on": "2025-06-13 01:19:17",
       "slug": "greek-yogurt",
       "category": "Food & Drink",
@@ -40210,7 +40210,7 @@
     },
     {
       "title": "Greek Amphora",
-      "file_name": "greek-amphora.png",
+      "file_name": "images/history_culture/greek-amphora.png",
       "added_on": "2025-06-13 17:37:21",
       "slug": "greek-amphora",
       "category": "History & Culture",
@@ -41017,7 +41017,7 @@
     },
     {
       "title": "Great White Shark",
-      "file_name": "great-white-shark.png",
+      "file_name": "images/animals/great-white-shark.png",
       "added_on": "2025-06-13 22:28:21",
       "slug": "great-white-shark",
       "category": "Animals",
@@ -41166,7 +41166,7 @@
     },
     {
       "title": "Great Swiss Mountain Dog",
-      "file_name": "great-swiss-mountain-dog.png",
+      "file_name": "images/animals/great-swiss-mountain-dog.png",
       "added_on": "2025-06-13 22:29:59",
       "slug": "great-swiss-mountain-dog",
       "category": "Animals",
@@ -49063,7 +49063,7 @@
     },
     {
       "title": "Green Anaconda",
-      "file_name": "green-anaconda.png",
+      "file_name": "images/animals/green-anaconda.png",
       "added_on": "2025-06-22 17:32:19",
       "slug": "green-anaconda",
       "category": "Animals",
@@ -49434,7 +49434,7 @@
     },
     {
       "title": "Great Dane",
-      "file_name": "great-dane.png",
+      "file_name": "images/animals/great-dane.png",
       "added_on": "2025-06-22 17:34:14",
       "slug": "great-dane",
       "category": "Animals",
@@ -51843,7 +51843,7 @@
     },
     {
       "title": "Green Earth",
-      "file_name": "green-earth.png",
+      "file_name": "images/nature_outdoors/green-earth.png",
       "added_on": "2025-06-24 09:48:45",
       "slug": "green-earth",
       "category": "Nature & Outdoors",
@@ -79789,7 +79789,7 @@
     },
     {
       "title": "Greater Weever",
-      "file_name": "greater-weever.png",
+      "file_name": "images/animals/greater-weever.png",
       "added_on": "2025-07-25 08:41:34",
       "slug": "greater-weever",
       "category": "Animals",
@@ -85981,7 +85981,7 @@
     },
     {
       "title": "Greater Rhea",
-      "file_name": "greater-rhea.png",
+      "file_name": "images/animals/greater-rhea.png",
       "added_on": "2025-08-24 21:41:27",
       "slug": "greater-rhea",
       "category": "Animals",
@@ -94673,7 +94673,7 @@
     },
     {
       "title": "Grease Trap",
-      "file_name": "grease-trap.png",
+      "file_name": "images/work_industry/grease-trap.png",
       "added_on": "2025-09-19 10:51:24",
       "slug": "grease-trap",
       "category": "Work & Industry",
@@ -96443,7 +96443,7 @@
     },
     {
       "title": "Greek Lyra",
-      "file_name": "greek-lyra.png",
+      "file_name": "images/history_culture/greek-lyra.png",
       "added_on": "2025-09-23 09:31:24",
       "slug": "greek-lyra",
       "category": "History & Culture",
@@ -97195,7 +97195,7 @@
     },
     {
       "title": "Grease Monkey Suit",
-      "file_name": "grease-monkey-suit.png",
+      "file_name": "images/work_industry/grease-monkey-suit.png",
       "added_on": "2025-09-24 13:31:27",
       "slug": "grease-monkey-suit",
       "category": "Work & Industry",
@@ -110013,7 +110013,7 @@
     },
     {
       "title": "Green Flag",
-      "file_name": "green-flag.png",
+      "file_name": "images/flags/green-flag.png",
       "added_on": "2025-10-28 19:11:55",
       "slug": "green-flag",
       "category": "Flags",
@@ -116522,7 +116522,7 @@
     },
     {
       "title": "Green Basilisk",
-      "file_name": "green-basilisk.png",
+      "file_name": "images/animals/green-basilisk.png",
       "added_on": "2025-11-18 12:51:22",
       "slug": "green-basilisk",
       "category": "Animals",
@@ -121245,7 +121245,7 @@
     },
     {
       "title": "Green Grapes",
-      "file_name": "green-grapes.png",
+      "file_name": "images/food_drink/green-grapes.png",
       "added_on": "2026-01-23 06:11:18",
       "slug": "green-grapes",
       "category": "Food & Drink",
@@ -125112,7 +125112,7 @@
     },
     {
       "title": "Greek Tragedy Mask",
-      "file_name": "greek-tragedy-mask.png",
+      "file_name": "images/history_culture/greek-tragedy-mask.png",
       "added_on": "2026-02-10 23:51:07",
       "slug": "greek-tragedy-mask",
       "category": "History & Culture",
