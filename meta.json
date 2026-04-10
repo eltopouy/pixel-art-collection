@@ -237,7 +237,7 @@
     },
     {
       "title": "Television",
-      "file_name": "television.png",
+      "file_name": "images/everyday_life/television.png",
       "added_on": "2025-05-15 16:18:50",
       "slug": "television",
       "category": "Everyday Life",
@@ -1593,7 +1593,7 @@
     },
     {
       "title": "Tent",
-      "file_name": "tent.png",
+      "file_name": "images/nature_outdoors/tent.png",
       "added_on": "2025-05-16 09:27:59",
       "slug": "tent",
       "category": "Nature & Outdoors",
@@ -3180,7 +3180,7 @@
     },
     {
       "title": "Temple",
-      "file_name": "temple.png",
+      "file_name": "images/places_structures/temple.png",
       "added_on": "2025-05-16 18:56:17",
       "slug": "temple",
       "category": "Places & Structures",
@@ -6766,7 +6766,7 @@
     },
     {
       "title": "Tennis Racket",
-      "file_name": "tennis-racket.png",
+      "file_name": "images/sports/tennis-racket.png",
       "added_on": "2025-05-19 00:20:52",
       "slug": "tennis-racket",
       "category": "Sports",
@@ -11682,7 +11682,7 @@
     },
     {
       "title": "Telescope",
-      "file_name": "telescope.png",
+      "file_name": "images/space_science/telescope.png",
       "added_on": "2025-05-24 11:41:27",
       "slug": "telescope",
       "category": "Space & Science",
@@ -13321,7 +13321,7 @@
     },
     {
       "title": "Tennis Ball",
-      "file_name": "tennis-ball.png",
+      "file_name": "images/sports/tennis-ball.png",
       "added_on": "2025-05-26 06:21:32",
       "slug": "tennis-ball",
       "category": "Sports",
@@ -27499,7 +27499,7 @@
     },
     {
       "title": "Tennis Court",
-      "file_name": "tennis-court.png",
+      "file_name": "images/sports/tennis-court.png",
       "added_on": "2025-06-08 04:31:32",
       "slug": "tennis-court",
       "category": "Sports",
@@ -39833,7 +39833,7 @@
     },
     {
       "title": "Television remote",
-      "file_name": "television-remote.png",
+      "file_name": "images/everyday_life/television-remote.png",
       "added_on": "2025-06-13 14:13:23",
       "slug": "television-remote",
       "category": "Everyday Life",
@@ -42517,7 +42517,7 @@
     },
     {
       "title": "Tenrec",
-      "file_name": "tenrec.png",
+      "file_name": "images/animals/tenrec.png",
       "added_on": "2025-06-14 05:01:02",
       "slug": "tenrec",
       "category": "Animals",
@@ -44473,7 +44473,7 @@
     },
     {
       "title": "Telescope Drone",
-      "file_name": "telescope-drone.png",
+      "file_name": "images/space_science/telescope-drone.png",
       "added_on": "2025-06-14 16:24:57",
       "slug": "telescope-drone",
       "category": "Space & Science",
@@ -50497,7 +50497,7 @@
     },
     {
       "title": "Tennis Player",
-      "file_name": "tennis-player.png",
+      "file_name": "images/sports/tennis-player.png",
       "added_on": "2025-06-22 22:07:21",
       "slug": "tennis-player",
       "category": "Sports",
@@ -62205,7 +62205,7 @@
     },
     {
       "title": "Tempura Lotus Root",
-      "file_name": "tempura-lotus-root.png",
+      "file_name": "images/food_drink/tempura-lotus-root.png",
       "added_on": "2025-07-09 03:46:17",
       "slug": "tempura-lotus-root",
       "category": "Food & Drink",
@@ -68308,7 +68308,7 @@
     },
     {
       "title": "Tennis Ball Machine",
-      "file_name": "tennis-ball-machine.png",
+      "file_name": "images/sports/tennis-ball-machine.png",
       "added_on": "2025-07-13 00:11:28",
       "slug": "tennis-ball-machine",
       "category": "Sports",
@@ -73067,7 +73067,7 @@
     },
     {
       "title": "Tennis Player",
-      "file_name": "tennis-player-1.png",
+      "file_name": "images/sports/tennis-player-1.png",
       "added_on": "2025-07-17 10:33:19",
       "slug": "tennis-player-1",
       "category": "Sports",
@@ -88272,7 +88272,7 @@
     },
     {
       "title": "Tempura",
-      "file_name": "tempura.png",
+      "file_name": "images/food_drink/tempura.png",
       "added_on": "2025-09-04 22:02:24",
       "slug": "tempura",
       "category": "Food & Drink",
@@ -98910,7 +98910,7 @@
     },
     {
       "title": "Tennis Elbow Brace",
-      "file_name": "tennis-elbow-brace.png",
+      "file_name": "images/health_wellness/tennis-elbow-brace.png",
       "added_on": "2025-09-30 20:31:25",
       "slug": "tennis-elbow-brace",
       "category": "Health & Wellness",
@@ -113279,7 +113279,7 @@
     },
     {
       "title": "Tension",
-      "file_name": "tension.png",
+      "file_name": "images/health_wellness/tension.png",
       "added_on": "2025-11-05 23:41:59",
       "slug": "tension",
       "category": "Health & Wellness",
@@ -115097,7 +115097,7 @@
     },
     {
       "title": "Templar Shield",
-      "file_name": "templar-shield.png",
+      "file_name": "images/history_culture/templar-shield.png",
       "added_on": "2025-11-12 13:12:10",
       "slug": "templar-shield",
       "category": "History & Culture",
@@ -125044,7 +125044,7 @@
     },
     {
       "title": "Teqball Table",
-      "file_name": "teqball-table.png",
+      "file_name": "images/sports/teqball-table.png",
       "added_on": "2026-02-10 23:01:05",
       "slug": "teqball-table",
       "category": "Sports",
@@ -127549,7 +127549,7 @@
     },
     {
       "title": "Tennis Umpire Chair",
-      "file_name": "tennis-umpire-chair.png",
+      "file_name": "images/sports/tennis-umpire-chair.png",
       "added_on": "2026-03-02 18:51:09",
       "slug": "tennis-umpire-chair",
       "category": "Sports",
@@ -130703,7 +130703,7 @@
     },
     {
       "title": "Temple Bell",
-      "file_name": "temple-bell.png",
+      "file_name": "images/history_culture/temple-bell.png",
       "added_on": "2026-03-18 14:21:23",
       "slug": "temple-bell",
       "category": "History & Culture",
