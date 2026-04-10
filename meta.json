@@ -544,7 +544,7 @@
     },
     {
       "title": "Wall Art",
-      "file_name": "wall-art.png",
+      "file_name": "images/everyday_life/wall-art.png",
       "added_on": "2025-05-15 19:12:50",
       "slug": "wall-art",
       "category": "Everyday Life",
@@ -570,7 +570,7 @@
     },
     {
       "title": "Wall Hook",
-      "file_name": "wall-hook.png",
+      "file_name": "images/everyday_life/wall-hook.png",
       "added_on": "2025-05-15 19:41:04",
       "slug": "wall-hook",
       "category": "Everyday Life",
@@ -595,7 +595,7 @@
     },
     {
       "title": "Wall Shelf",
-      "file_name": "wall-shelf.png",
+      "file_name": "images/everyday_life/wall-shelf.png",
       "added_on": "2025-05-15 20:10:50",
       "slug": "wall-shelf",
       "category": "Everyday Life",
@@ -1229,7 +1229,7 @@
     },
     {
       "title": "Wall Outlet",
-      "file_name": "wall-outlet.png",
+      "file_name": "images/everyday_life/wall-outlet.png",
       "added_on": "2025-05-16 05:11:05",
       "slug": "wall-outlet",
       "category": "Everyday Life",
@@ -1333,7 +1333,7 @@
     },
     {
       "title": "Wall Calendar",
-      "file_name": "wall-calendar.png",
+      "file_name": "images/everyday_life/wall-calendar.png",
       "added_on": "2025-05-16 07:10:52",
       "slug": "wall-calendar",
       "category": "Everyday Life",
@@ -3388,7 +3388,7 @@
     },
     {
       "title": "Walking Stick",
-      "file_name": "walking-stick.png",
+      "file_name": "images/nature_outdoors/walking-stick.png",
       "added_on": "2025-05-16 20:25:50",
       "slug": "walking-stick",
       "category": "Nature & Outdoors",
@@ -3453,7 +3453,7 @@
     },
     {
       "title": "Waiter",
-      "file_name": "waiter.png",
+      "file_name": "images/professions/waiter.png",
       "added_on": "2025-05-16 20:50:50",
       "slug": "waiter",
       "category": "Professions",
@@ -25289,7 +25289,7 @@
     },
     {
       "title": "Wall Clock",
-      "file_name": "wall-clock.png",
+      "file_name": "images/everyday_life/wall-clock.png",
       "added_on": "2025-06-05 16:40:33",
       "slug": "wall-clock",
       "category": "Everyday Life",
@@ -29922,7 +29922,7 @@
     },
     {
       "title": "Waistcoat",
-      "file_name": "waistcoat.png",
+      "file_name": "images/fashion_style/waistcoat.png",
       "added_on": "2025-06-10 15:43:13",
       "slug": "waistcoat",
       "category": "Fashion & Style",
@@ -47309,7 +47309,7 @@
     },
     {
       "title": "Wall Painted",
-      "file_name": "wall-painted.png",
+      "file_name": "images/places_structures/wall-painted.png",
       "added_on": "2025-06-19 12:57:38",
       "slug": "wall-painted",
       "category": "Places & Structures",
@@ -54692,7 +54692,7 @@
     },
     {
       "title": "Walk",
-      "file_name": "walk.png",
+      "file_name": "images/everyday_life/walk.png",
       "added_on": "2025-06-28 08:35:42",
       "slug": "walk",
       "category": "Everyday Life",
@@ -61646,7 +61646,7 @@
     },
     {
       "title": "Walk-up Window",
-      "file_name": "walk-up-window.png",
+      "file_name": "images/places_structures/walk-up-window.png",
       "added_on": "2025-07-08 23:46:03",
       "slug": "walk-up-window",
       "category": "Places & Structures",
@@ -66526,7 +66526,7 @@
     },
     {
       "title": "Wall Clock Frame",
-      "file_name": "wall-clock-frame.png",
+      "file_name": "images/everyday_life/wall-clock-frame.png",
       "added_on": "2025-07-11 18:00:54",
       "slug": "wall-clock-frame",
       "category": "Everyday Life",
@@ -78331,7 +78331,7 @@
     },
     {
       "title": "Walking Palm",
-      "file_name": "walking-palm.png",
+      "file_name": "images/nature_outdoors/walking-palm.png",
       "added_on": "2025-07-24 15:21:35",
       "slug": "walking-palm",
       "category": "Nature & Outdoors",
@@ -78937,7 +78937,7 @@
     },
     {
       "title": "Walking Duck",
-      "file_name": "walking-duck.png",
+      "file_name": "images/animals/walking-duck.png",
       "added_on": "2025-07-24 22:07:45",
       "slug": "walking-duck",
       "category": "Animals",
@@ -78963,7 +78963,7 @@
     },
     {
       "title": "Wall Art",
-      "file_name": "wall-art-1.png",
+      "file_name": "images/everyday_life/wall-art-1.png",
       "added_on": "2025-07-24 22:07:55",
       "slug": "wall-art-1",
       "category": "Everyday Life",
@@ -98188,7 +98188,7 @@
     },
     {
       "title": "Walkie Talkie",
-      "file_name": "walkie-talkie.png",
+      "file_name": "images/work_industry/walkie-talkie.png",
       "added_on": "2025-09-27 17:41:24",
       "slug": "walkie-talkie",
       "category": "Work & Industry",
@@ -105784,7 +105784,7 @@
     },
     {
       "title": "Walking Stick Insect",
-      "file_name": "walking-stick-insect.png",
+      "file_name": "images/animals/walking-stick-insect.png",
       "added_on": "2025-10-20 09:21:02",
       "slug": "walking-stick-insect",
       "category": "Animals",
@@ -114325,7 +114325,7 @@
     },
     {
       "title": "Waking Up",
-      "file_name": "waking-up.png",
+      "file_name": "images/everyday_life/waking-up.png",
       "added_on": "2025-11-09 17:52:01",
       "slug": "waking-up",
       "category": "Everyday Life",
@@ -115175,7 +115175,7 @@
     },
     {
       "title": "Waiting",
-      "file_name": "waiting.png",
+      "file_name": "images/everyday_life/waiting.png",
       "added_on": "2025-11-12 22:42:02",
       "slug": "waiting",
       "category": "Everyday Life",
@@ -131004,7 +131004,7 @@
     },
     {
       "title": "Walking cane",
-      "file_name": "walking-cane.png",
+      "file_name": "images/health_wellness/walking-cane.png",
       "added_on": "2026-03-19 01:21:13",
       "slug": "walking-cane",
       "category": "Health & Wellness",
