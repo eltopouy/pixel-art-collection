@@ -879,7 +879,7 @@
     },
     {
       "title": "Frying Pan",
-      "file_name": "frying-pan.png",
+      "file_name": "images/everyday_life/frying-pan.png",
       "added_on": "2025-05-16 00:00:58",
       "slug": "frying-pan",
       "category": "Everyday Life",
@@ -13831,7 +13831,7 @@
     },
     {
       "title": "Fundraiser",
-      "file_name": "fundraiser.png",
+      "file_name": "images/events/fundraiser.png",
       "added_on": "2025-05-26 14:10:48",
       "slug": "fundraiser",
       "category": "Events",
@@ -52903,7 +52903,7 @@
     },
     {
       "title": "Frozen Yoghurt",
-      "file_name": "frozen-yoghurt.png",
+      "file_name": "images/food_drink/frozen-yoghurt.png",
       "added_on": "2025-06-26 15:32:59",
       "slug": "frozen-yoghurt",
       "category": "Food & Drink",
@@ -53544,7 +53544,7 @@
     },
     {
       "title": "Full English Plate",
-      "file_name": "full-english-plate.png",
+      "file_name": "images/food_drink/full-english-plate.png",
       "added_on": "2025-06-27 08:37:44",
       "slug": "full-english-plate",
       "category": "Food & Drink",
@@ -56978,7 +56978,7 @@
     },
     {
       "title": "Frozen Pond",
-      "file_name": "frozen-pond.png",
+      "file_name": "images/nature_outdoors/frozen-pond.png",
       "added_on": "2025-07-05 17:20:56",
       "slug": "frozen-pond",
       "category": "Nature & Outdoors",
@@ -61945,7 +61945,7 @@
     },
     {
       "title": "Fruit Leather",
-      "file_name": "fruit-leather.png",
+      "file_name": "images/food_drink/fruit-leather.png",
       "added_on": "2025-07-09 02:06:04",
       "slug": "fruit-leather",
       "category": "Food & Drink",
@@ -64370,7 +64370,7 @@
     },
     {
       "title": "Frozen Waterfall",
-      "file_name": "frozen-waterfall.png",
+      "file_name": "images/nature_outdoors/frozen-waterfall.png",
       "added_on": "2025-07-10 11:41:07",
       "slug": "frozen-waterfall",
       "category": "Nature & Outdoors",
@@ -65108,7 +65108,7 @@
     },
     {
       "title": "Fume Hood",
-      "file_name": "fume-hood.png",
+      "file_name": "images/work_industry/fume-hood.png",
       "added_on": "2025-07-10 16:46:12",
       "slug": "fume-hood",
       "category": "Work & Industry",
@@ -69652,7 +69652,7 @@
     },
     {
       "title": "Fungal Shelf",
-      "file_name": "fungal-shelf.png",
+      "file_name": "images/nature_outdoors/fungal-shelf.png",
       "added_on": "2025-07-14 06:21:22",
       "slug": "fungal-shelf",
       "category": "Nature & Outdoors",
@@ -69758,7 +69758,7 @@
     },
     {
       "title": "Fungus Gnats",
-      "file_name": "fungus-gnats.png",
+      "file_name": "images/nature_outdoors/fungus-gnats.png",
       "added_on": "2025-07-14 09:11:41",
       "slug": "fungus-gnats",
       "category": "Nature & Outdoors",
@@ -75405,7 +75405,7 @@
     },
     {
       "title": "Frozen Leaf",
-      "file_name": "frozen-leaf.png",
+      "file_name": "images/nature_outdoors/frozen-leaf.png",
       "added_on": "2025-07-19 17:31:29",
       "slug": "frozen-leaf",
       "category": "Nature & Outdoors",
@@ -77532,7 +77532,7 @@
     },
     {
       "title": "Fruits",
-      "file_name": "fruits.png",
+      "file_name": "images/food_drink/fruits.png",
       "added_on": "2025-07-24 09:03:17",
       "slug": "fruits",
       "category": "Food & Drink",
@@ -79561,7 +79561,7 @@
     },
     {
       "title": "Funeral Bell",
-      "file_name": "funeral-bell.png",
+      "file_name": "images/nature_outdoors/funeral-bell.png",
       "added_on": "2025-07-25 05:11:38",
       "slug": "funeral-bell",
       "category": "Nature & Outdoors",
@@ -79574,7 +79574,7 @@
     },
     {
       "title": "Fugu",
-      "file_name": "fugu.png",
+      "file_name": "images/animals/fugu.png",
       "added_on": "2025-07-25 05:21:12",
       "slug": "fugu",
       "category": "Animals",
@@ -81481,7 +81481,7 @@
     },
     {
       "title": "Fuel Tank",
-      "file_name": "fuel-tank.png",
+      "file_name": "images/work_industry/fuel-tank.png",
       "added_on": "2025-07-30 17:23:17",
       "slug": "fuel-tank",
       "category": "Work & Industry",
@@ -89733,7 +89733,7 @@
     },
     {
       "title": "Funicular",
-      "file_name": "funicular.png",
+      "file_name": "images/vehicles_transport/funicular.png",
       "added_on": "2025-09-08 16:11:22",
       "slug": "funicular",
       "category": "Vehicles & Transport",
@@ -98346,7 +98346,7 @@
     },
     {
       "title": "Funk",
-      "file_name": "funk.png",
+      "file_name": "images/entertainment_leisure/funk.png",
       "added_on": "2025-09-27 19:51:13",
       "slug": "funk",
       "category": "Entertainment & Leisure",
@@ -119671,7 +119671,7 @@
     },
     {
       "title": "Fruit",
-      "file_name": "fruit.png",
+      "file_name": "images/food_drink/fruit.png",
       "added_on": "2025-12-10 02:01:29",
       "slug": "fruit",
       "category": "Food & Drink",
@@ -120070,7 +120070,7 @@
     },
     {
       "title": "Fuet",
-      "file_name": "fuet.png",
+      "file_name": "images/food_drink/fuet.png",
       "added_on": "2025-12-14 14:11:23",
       "slug": "fuet",
       "category": "Food & Drink",
@@ -129253,7 +129253,7 @@
     },
     {
       "title": "Funeral Carriage",
-      "file_name": "funeral-carriage.png",
+      "file_name": "images/vehicles_transport/funeral-carriage.png",
       "added_on": "2026-03-09 14:40:55",
       "slug": "funeral-carriage",
       "category": "Vehicles & Transport",
