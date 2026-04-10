@@ -917,7 +917,7 @@
     },
     {
       "title": "Socks",
-      "file_name": "socks.png",
+      "file_name": "images/everyday_life/socks.png",
       "added_on": "2025-05-16 00:30:50",
       "slug": "socks",
       "category": "Everyday Life",
@@ -2920,7 +2920,7 @@
     },
     {
       "title": "Social Worker",
-      "file_name": "social-worker.png",
+      "file_name": "images/professions/social-worker.png",
       "added_on": "2025-05-16 16:15:57",
       "slug": "social-worker",
       "category": "Professions",
@@ -7611,7 +7611,7 @@
     },
     {
       "title": "Soccer Goal",
-      "file_name": "soccer-goal.png",
+      "file_name": "images/sports/soccer-goal.png",
       "added_on": "2025-05-19 08:40:46",
       "slug": "soccer-goal",
       "category": "Sports",
@@ -12072,7 +12072,7 @@
     },
     {
       "title": "Soccer Net",
-      "file_name": "soccer-net.png",
+      "file_name": "images/sports/soccer-net.png",
       "added_on": "2025-05-25 11:21:32",
       "slug": "soccer-net",
       "category": "Sports",
@@ -17616,7 +17616,7 @@
     },
     {
       "title": "Soccer Shoe",
-      "file_name": "soccer-shoe.png",
+      "file_name": "images/sports/soccer-shoe.png",
       "added_on": "2025-05-31 17:22:32",
       "slug": "soccer-shoe",
       "category": "Sports",
@@ -20873,7 +20873,7 @@
     },
     {
       "title": "Soda Can",
-      "file_name": "soda-can.png",
+      "file_name": "images/food_drink/soda-can.png",
       "added_on": "2025-06-02 12:10:04",
       "slug": "soda-can",
       "category": "Food & Drink",
@@ -21173,7 +21173,7 @@
     },
     {
       "title": "Soda Bottle",
-      "file_name": "soda-bottle.png",
+      "file_name": "images/food_drink/soda-bottle.png",
       "added_on": "2025-06-02 15:29:38",
       "slug": "soda-bottle",
       "category": "Food & Drink",
@@ -30630,7 +30630,7 @@
     },
     {
       "title": "Social media app",
-      "file_name": "social-media-app.png",
+      "file_name": "images/technology_media/social-media-app.png",
       "added_on": "2025-06-10 19:25:10",
       "slug": "social-media-app",
       "category": "Technology & Media",
@@ -31656,7 +31656,7 @@
     },
     {
       "title": "Soccer Ball",
-      "file_name": "soccer-ball.png",
+      "file_name": "images/sports/soccer-ball.png",
       "added_on": "2025-06-11 03:49:00",
       "slug": "soccer-ball",
       "category": "Sports",
@@ -56611,7 +56611,7 @@
     },
     {
       "title": "Soccer Player",
-      "file_name": "soccer-player.png",
+      "file_name": "images/sports/soccer-player.png",
       "added_on": "2025-07-05 08:02:29",
       "slug": "soccer-player",
       "category": "Sports",
@@ -61711,7 +61711,7 @@
     },
     {
       "title": "Sock Hop Dress",
-      "file_name": "sock-hop-dress.png",
+      "file_name": "images/entertainment_leisure/sock-hop-dress.png",
       "added_on": "2025-07-09 00:15:57",
       "slug": "sock-hop-dress",
       "category": "Entertainment & Leisure",
@@ -73881,7 +73881,7 @@
     },
     {
       "title": "Sock Organizer",
-      "file_name": "sock-organizer.png",
+      "file_name": "images/everyday_life/sock-organizer.png",
       "added_on": "2025-07-17 22:51:45",
       "slug": "sock-organizer",
       "category": "Everyday Life",
@@ -74211,7 +74211,7 @@
     },
     {
       "title": "Sock Puppet",
-      "file_name": "sock-puppet.png",
+      "file_name": "images/entertainment_leisure/sock-puppet.png",
       "added_on": "2025-07-18 11:01:23",
       "slug": "sock-puppet",
       "category": "Entertainment & Leisure",
@@ -82981,7 +82981,7 @@
     },
     {
       "title": "Social Studies",
-      "file_name": "social-studies.png",
+      "file_name": "images/history_culture/social-studies.png",
       "added_on": "2025-08-08 06:55:24",
       "slug": "social-studies",
       "category": "History & Culture",
@@ -88809,7 +88809,7 @@
     },
     {
       "title": "Socrates",
-      "file_name": "socrates.png",
+      "file_name": "images/historical_figures/socrates.png",
       "added_on": "2025-09-06 14:41:01",
       "slug": "socrates",
       "category": "Historical Figures",
@@ -95337,7 +95337,7 @@
     },
     {
       "title": "Socket",
-      "file_name": "socket.png",
+      "file_name": "images/technology_media/socket.png",
       "added_on": "2025-09-20 15:41:13",
       "slug": "socket",
       "category": "Technology & Media",
@@ -99134,7 +99134,7 @@
     },
     {
       "title": "Sock Monkey",
-      "file_name": "sock-monkey.png",
+      "file_name": "images/entertainment_leisure/sock-monkey.png",
       "added_on": "2025-09-30 23:31:01",
       "slug": "sock-monkey",
       "category": "Entertainment & Leisure",
@@ -117086,7 +117086,7 @@
     },
     {
       "title": "Social Security Card",
-      "file_name": "social-security-card.png",
+      "file_name": "images/everyday_life/social-security-card.png",
       "added_on": "2025-11-24 09:31:41",
       "slug": "social-security-card",
       "category": "Everyday Life",
@@ -119098,7 +119098,7 @@
     },
     {
       "title": "Soccer Spray",
-      "file_name": "soccer-spray.png",
+      "file_name": "images/sports/soccer-spray.png",
       "added_on": "2025-12-04 18:21:49",
       "slug": "soccer-spray",
       "category": "Sports",
@@ -121739,7 +121739,7 @@
     },
     {
       "title": "Sock Drawer",
-      "file_name": "sock-drawer.png",
+      "file_name": "images/everyday_life/sock-drawer.png",
       "added_on": "2026-01-26 15:11:18",
       "slug": "sock-drawer",
       "category": "Everyday Life",
@@ -129370,7 +129370,7 @@
     },
     {
       "title": "Social Media",
-      "file_name": "social-media.png",
+      "file_name": "images/technology_media/social-media.png",
       "added_on": "2026-03-17 13:11:01",
       "slug": "social-media",
       "category": "Technology & Media",
