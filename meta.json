@@ -2100,7 +2100,7 @@
     },
     {
       "title": "Pharmacist",
-      "file_name": "pharmacist.png",
+      "file_name": "images/professions/pharmacist.png",
       "added_on": "2025-05-16 11:46:21",
       "slug": "pharmacist",
       "category": "Professions",
@@ -8066,7 +8066,7 @@
     },
     {
       "title": "Philippines",
-      "file_name": "philippines.png",
+      "file_name": "images/countries/philippines.png",
       "added_on": "2025-05-20 04:01:12",
       "slug": "philippines",
       "category": "Countries",
@@ -10161,7 +10161,7 @@
     },
     {
       "title": "Philosophy",
-      "file_name": "philosophy.png",
+      "file_name": "images/everyday_life/philosophy.png",
       "added_on": "2025-05-23 13:10:50",
       "slug": "philosophy",
       "category": "Everyday Life",
@@ -12059,7 +12059,7 @@
     },
     {
       "title": "Petri Dish",
-      "file_name": "petri-dish.png",
+      "file_name": "images/space_science/petri-dish.png",
       "added_on": "2025-05-25 11:11:23",
       "slug": "petri-dish",
       "category": "Space & Science",
@@ -15092,7 +15092,7 @@
     },
     {
       "title": "Petroleum",
-      "file_name": "petroleum.png",
+      "file_name": "images/work_industry/petroleum.png",
       "added_on": "2025-05-27 09:11:00",
       "slug": "petroleum",
       "category": "Work & Industry",
@@ -19862,7 +19862,7 @@
     },
     {
       "title": "Petra",
-      "file_name": "petra.png",
+      "file_name": "images/places_structures/petra.png",
       "added_on": "2025-06-02 09:37:17",
       "slug": "petra",
       "category": "Places & Structures",
@@ -20717,7 +20717,7 @@
     },
     {
       "title": "Philips Screwdriver",
-      "file_name": "philips-screwdriver.png",
+      "file_name": "images/everyday_life/philips-screwdriver.png",
       "added_on": "2025-06-02 10:25:09",
       "slug": "philips-screwdriver",
       "category": "Everyday Life",
@@ -22262,7 +22262,7 @@
     },
     {
       "title": "Pharmacy",
-      "file_name": "pharmacy.png",
+      "file_name": "images/health_wellness/pharmacy.png",
       "added_on": "2025-06-03 16:41:07",
       "slug": "pharmacy",
       "category": "Health & Wellness",
@@ -36162,7 +36162,7 @@
     },
     {
       "title": "Phantom of the Opera Mask",
-      "file_name": "phantom-of-the-opera-mask.png",
+      "file_name": "images/entertainment_leisure/phantom-of-the-opera-mask.png",
       "added_on": "2025-06-12 08:40:21",
       "slug": "phantom-of-the-opera-mask",
       "category": "Entertainment & Leisure",
@@ -59472,7 +59472,7 @@
     },
     {
       "title": "Petrified Wood",
-      "file_name": "petrified-wood.png",
+      "file_name": "images/nature_outdoors/petrified-wood.png",
       "added_on": "2025-07-07 06:31:45",
       "slug": "petrified-wood",
       "category": "Nature & Outdoors",
@@ -60214,7 +60214,7 @@
     },
     {
       "title": "Pharaoh's Crook",
-      "file_name": "pharaohs-crook.png",
+      "file_name": "images/history_culture/pharaohs-crook.png",
       "added_on": "2025-07-08 13:11:13",
       "slug": "pharaohs-crook",
       "category": "History & Culture",
@@ -60684,7 +60684,7 @@
     },
     {
       "title": "Pet Rock",
-      "file_name": "pet-rock.png",
+      "file_name": "images/hobbies/pet-rock.png",
       "added_on": "2025-07-08 16:46:00",
       "slug": "pet-rock",
       "category": "Hobbies",
@@ -64305,7 +64305,7 @@
     },
     {
       "title": "Petabyte Data Drive",
-      "file_name": "petabyte-data-drive.png",
+      "file_name": "images/space_science/petabyte-data-drive.png",
       "added_on": "2025-07-10 11:16:38",
       "slug": "petabyte-data-drive",
       "category": "Space & Science",
@@ -64588,7 +64588,7 @@
     },
     {
       "title": "Pharaoh's Sphinx",
-      "file_name": "pharaohs-sphinx.png",
+      "file_name": "images/history_culture/pharaohs-sphinx.png",
       "added_on": "2025-07-10 13:16:24",
       "slug": "pharaohs-sphinx",
       "category": "History & Culture",
@@ -77332,7 +77332,7 @@
     },
     {
       "title": "Pet Store",
-      "file_name": "pet-store.png",
+      "file_name": "images/places_structures/pet-store.png",
       "added_on": "2025-07-24 09:01:57",
       "slug": "pet-store",
       "category": "Places & Structures",
@@ -78696,7 +78696,7 @@
     },
     {
       "title": "Petronas Towers",
-      "file_name": "petronas-towers.png",
+      "file_name": "images/places_structures/petronas-towers.png",
       "added_on": "2025-07-24 20:11:37",
       "slug": "petronas-towers",
       "category": "Places & Structures",
@@ -93056,7 +93056,7 @@
     },
     {
       "title": "Pharaoh Death Mask",
-      "file_name": "pharaoh-death-mask.png",
+      "file_name": "images/history_culture/pharaoh-death-mask.png",
       "added_on": "2025-09-16 09:41:35",
       "slug": "pharaoh-death-mask",
       "category": "History & Culture",
@@ -96153,7 +96153,7 @@
     },
     {
       "title": "Pharaoh's Crook and Flail",
-      "file_name": "pharaohs-crook-and-flail.png",
+      "file_name": "images/history_culture/pharaohs-crook-and-flail.png",
       "added_on": "2025-09-22 15:01:35",
       "slug": "pharaohs-crook-and-flail",
       "category": "History & Culture",
@@ -109597,7 +109597,7 @@
     },
     {
       "title": "Pharaoh\u2019s Nemes",
-      "file_name": "pharaohs-nemes.png",
+      "file_name": "images/history_culture/pharaohs-nemes.png",
       "added_on": "2025-10-28 13:02:01",
       "slug": "pharaohs-nemes",
       "category": "History & Culture",
@@ -121232,7 +121232,7 @@
     },
     {
       "title": "Pharynx",
-      "file_name": "pharynx.png",
+      "file_name": "images/health_wellness/pharynx.png",
       "added_on": "2026-01-23 06:01:26",
       "slug": "pharynx",
       "category": "Health & Wellness",
@@ -121258,7 +121258,7 @@
     },
     {
       "title": "Pheasant",
-      "file_name": "pheasant.png",
+      "file_name": "images/animals/pheasant.png",
       "added_on": "2026-01-23 06:21:19",
       "slug": "pheasant",
       "category": "Animals",
