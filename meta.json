@@ -2321,7 +2321,7 @@
     },
     {
       "title": "Paramedic",
-      "file_name": "paramedic.png",
+      "file_name": "images/professions/paramedic.png",
       "added_on": "2025-05-16 12:37:21",
       "slug": "paramedic",
       "category": "Professions",
@@ -10291,7 +10291,7 @@
     },
     {
       "title": "Paperclip",
-      "file_name": "paperclip.png",
+      "file_name": "images/everyday_life/paperclip.png",
       "added_on": "2025-05-23 14:50:55",
       "slug": "paperclip",
       "category": "Everyday Life",
@@ -10538,7 +10538,7 @@
     },
     {
       "title": "Paraglider",
-      "file_name": "paraglider.png",
+      "file_name": "images/sports/paraglider.png",
       "added_on": "2025-05-23 18:21:16",
       "slug": "paraglider",
       "category": "Sports",
@@ -12722,7 +12722,7 @@
     },
     {
       "title": "Paper Towel Roll",
-      "file_name": "paper-towel-roll.png",
+      "file_name": "images/everyday_life/paper-towel-roll.png",
       "added_on": "2025-05-25 21:11:24",
       "slug": "paper-towel-roll",
       "category": "Everyday Life",
@@ -13464,7 +13464,7 @@
     },
     {
       "title": "Papermaking",
-      "file_name": "papermaking.png",
+      "file_name": "images/hobbies/papermaking.png",
       "added_on": "2025-05-26 08:50:53",
       "slug": "papermaking",
       "category": "Hobbies",
@@ -19478,7 +19478,7 @@
     },
     {
       "title": "Paragraph Symbol",
-      "file_name": "paragraph-symbol.png",
+      "file_name": "images/interface_symbols/paragraph-symbol.png",
       "added_on": "2025-06-02 09:17:00",
       "slug": "paragraph-symbol",
       "category": "Interface & Symbols",
@@ -30845,7 +30845,7 @@
     },
     {
       "title": "Parade",
-      "file_name": "parade.png",
+      "file_name": "images/events/parade.png",
       "added_on": "2025-06-10 20:48:47",
       "slug": "parade",
       "category": "Events",
@@ -35984,7 +35984,7 @@
     },
     {
       "title": "Parasaurolophus",
-      "file_name": "parasaurolophus.png",
+      "file_name": "images/animals/parasaurolophus.png",
       "added_on": "2025-06-12 08:37:46",
       "slug": "parasaurolophus",
       "category": "Animals",
@@ -43241,7 +43241,7 @@
     },
     {
       "title": "Paraguay",
-      "file_name": "paraguay.png",
+      "file_name": "images/countries/paraguay.png",
       "added_on": "2025-06-14 10:31:10",
       "slug": "paraguay",
       "category": "Countries",
@@ -45678,7 +45678,7 @@
     },
     {
       "title": "Paprika",
-      "file_name": "paprika.png",
+      "file_name": "images/food_drink/paprika.png",
       "added_on": "2025-06-15 19:43:06",
       "slug": "paprika",
       "category": "Food & Drink",
@@ -49727,7 +49727,7 @@
     },
     {
       "title": "Paper",
-      "file_name": "paper.png",
+      "file_name": "images/everyday_life/paper.png",
       "added_on": "2025-06-22 17:35:11",
       "slug": "paper",
       "category": "Everyday Life",
@@ -68389,7 +68389,7 @@
     },
     {
       "title": "Papercraft House",
-      "file_name": "papercraft-house.png",
+      "file_name": "images/hobbies/papercraft-house.png",
       "added_on": "2025-07-13 02:11:30",
       "slug": "papercraft-house",
       "category": "Hobbies",
@@ -69158,7 +69158,7 @@
     },
     {
       "title": "Papercutting Knife",
-      "file_name": "papercutting-knife.png",
+      "file_name": "images/hobbies/papercutting-knife.png",
       "added_on": "2025-07-13 17:11:49",
       "slug": "papercutting-knife",
       "category": "Hobbies",
@@ -74935,7 +74935,7 @@
     },
     {
       "title": "Papier-m\u00e2ch\u00e9 Mask",
-      "file_name": "papier-mch-mask.png",
+      "file_name": "images/hobbies/papier-mch-mask.png",
       "added_on": "2025-07-18 22:11:22",
       "slug": "papier-mch-mask",
       "category": "Hobbies",
@@ -94910,7 +94910,7 @@
     },
     {
       "title": "Parachute Harness",
-      "file_name": "parachute-harness.png",
+      "file_name": "images/sports/parachute-harness.png",
       "added_on": "2025-09-19 14:01:12",
       "slug": "parachute-harness",
       "category": "Sports",
@@ -103312,7 +103312,7 @@
     },
     {
       "title": "Papyrus Scroll",
-      "file_name": "papyrus-scroll.png",
+      "file_name": "images/hobbies/papyrus-scroll.png",
       "added_on": "2025-10-10 09:41:48",
       "slug": "papyrus-scroll",
       "category": "Hobbies",
@@ -109805,7 +109805,7 @@
     },
     {
       "title": "Papua New Guinea Flag",
-      "file_name": "papua-new-guinea-flag.png",
+      "file_name": "images/flags/papua-new-guinea-flag.png",
       "added_on": "2025-10-28 16:31:54",
       "slug": "papua-new-guinea-flag",
       "category": "Flags",
@@ -113344,7 +113344,7 @@
     },
     {
       "title": "Paracas Textile",
-      "file_name": "paracas-textile.png",
+      "file_name": "images/history_culture/paracas-textile.png",
       "added_on": "2025-11-06 23:21:58",
       "slug": "paracas-textile",
       "category": "History & Culture",
@@ -114899,7 +114899,7 @@
     },
     {
       "title": "Parade Float",
-      "file_name": "parade-float.png",
+      "file_name": "images/vehicles_transport/parade-float.png",
       "added_on": "2025-11-12 10:12:17",
       "slug": "parade-float",
       "category": "Vehicles & Transport",
@@ -123120,7 +123120,7 @@
     },
     {
       "title": "Paper Towel Holder",
-      "file_name": "paper-towel-holder.png",
+      "file_name": "images/everyday_life/paper-towel-holder.png",
       "added_on": "2026-01-29 22:41:08",
       "slug": "paper-towel-holder",
       "category": "Everyday Life",
