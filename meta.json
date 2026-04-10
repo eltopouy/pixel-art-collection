@@ -149,7 +149,7 @@
     },
     {
       "title": "Floor Fan",
-      "file_name": "floor-fan.png",
+      "file_name": "images/everyday_life/floor-fan.png",
       "added_on": "2025-05-15 15:50:41",
       "slug": "floor-fan",
       "category": "Everyday Life",
@@ -827,7 +827,7 @@
     },
     {
       "title": "Flashlight",
-      "file_name": "flashlight.png",
+      "file_name": "images/everyday_life/flashlight.png",
       "added_on": "2025-05-15 23:20:54",
       "slug": "flashlight",
       "category": "Everyday Life",
@@ -840,7 +840,7 @@
     },
     {
       "title": "Fireplace",
-      "file_name": "fireplace.png",
+      "file_name": "images/everyday_life/fireplace.png",
       "added_on": "2025-05-15 23:30:57",
       "slug": "fireplace",
       "category": "Everyday Life",
@@ -1073,7 +1073,7 @@
     },
     {
       "title": "Floor Lamp",
-      "file_name": "floor-lamp.png",
+      "file_name": "images/everyday_life/floor-lamp.png",
       "added_on": "2025-05-16 03:00:53",
       "slug": "floor-lamp",
       "category": "Everyday Life",
@@ -1554,7 +1554,7 @@
     },
     {
       "title": "Forklift",
-      "file_name": "forklift.png",
+      "file_name": "images/work_industry/forklift.png",
       "added_on": "2025-05-16 09:19:10",
       "slug": "forklift",
       "category": "Work & Industry",
@@ -2009,7 +2009,7 @@
     },
     {
       "title": "Firefighter",
-      "file_name": "firefighter.png",
+      "file_name": "images/professions/firefighter.png",
       "added_on": "2025-05-16 11:25:32",
       "slug": "firefighter",
       "category": "Professions",
@@ -3284,7 +3284,7 @@
     },
     {
       "title": "Fork",
-      "file_name": "fork.png",
+      "file_name": "images/food_drink/fork.png",
       "added_on": "2025-05-16 19:35:51",
       "slug": "fork",
       "category": "Food & Drink",
@@ -3297,7 +3297,7 @@
     },
     {
       "title": "Fishing Rod",
-      "file_name": "fishing-rod.png",
+      "file_name": "images/nature_outdoors/fishing-rod.png",
       "added_on": "2025-05-16 19:40:53",
       "slug": "fishing-rod",
       "category": "Nature & Outdoors",
@@ -3492,7 +3492,7 @@
     },
     {
       "title": "Fishing Rod and Tackle Set",
-      "file_name": "fishing-rod-and-tackle-set.png",
+      "file_name": "images/hobbies/fishing-rod-and-tackle-set.png",
       "added_on": "2025-05-16 21:05:58",
       "slug": "fishing-rod-and-tackle-set",
       "category": "Hobbies",
@@ -3856,7 +3856,7 @@
     },
     {
       "title": "Firewood",
-      "file_name": "firewood.png",
+      "file_name": "images/nature_outdoors/firewood.png",
       "added_on": "2025-05-17 00:06:12",
       "slug": "firewood",
       "category": "Nature & Outdoors",
@@ -4258,7 +4258,7 @@
     },
     {
       "title": "Fountain",
-      "file_name": "fountain.png",
+      "file_name": "images/places_structures/fountain.png",
       "added_on": "2025-05-17 05:41:09",
       "slug": "fountain",
       "category": "Places & Structures",
@@ -4518,7 +4518,7 @@
     },
     {
       "title": "Freight Train",
-      "file_name": "freight-train.png",
+      "file_name": "images/vehicles_transport/freight-train.png",
       "added_on": "2025-05-17 10:16:10",
       "slug": "freight-train",
       "category": "Vehicles & Transport",
@@ -4960,7 +4960,7 @@
     },
     {
       "title": "Fish",
-      "file_name": "fish.png",
+      "file_name": "images/animals/fish.png",
       "added_on": "2025-05-17 16:25:41",
       "slug": "fish",
       "category": "Animals",
@@ -5909,7 +5909,7 @@
     },
     {
       "title": "Raw Fish",
-      "file_name": "fish-raw.png",
+      "file_name": "images/food_drink/fish-raw.png",
       "added_on": "2025-05-18 08:16:00",
       "slug": "fish-raw",
       "category": "Food & Drink",
@@ -6298,7 +6298,7 @@
     },
     {
       "title": "Cooked Fish",
-      "file_name": "fish-cooked.png",
+      "file_name": "images/food_drink/fish-cooked.png",
       "added_on": "2025-05-18 17:06:29",
       "slug": "fish-cooked",
       "category": "Food & Drink",
@@ -7026,7 +7026,7 @@
     },
     {
       "title": "Flatbed Trailer",
-      "file_name": "flatbed-trailer.png",
+      "file_name": "images/vehicles_transport/flatbed-trailer.png",
       "added_on": "2025-05-19 02:20:50",
       "slug": "flatbed-trailer",
       "category": "Vehicles & Transport",
@@ -7273,7 +7273,7 @@
     },
     {
       "title": "Florist",
-      "file_name": "florist.png",
+      "file_name": "images/professions/florist.png",
       "added_on": "2025-05-19 04:25:49",
       "slug": "florist",
       "category": "Professions",
@@ -7715,7 +7715,7 @@
     },
     {
       "title": "France",
-      "file_name": "france.png",
+      "file_name": "images/countries/france.png",
       "added_on": "2025-05-19 22:21:13",
       "slug": "france",
       "category": "Countries",
@@ -8040,7 +8040,7 @@
     },
     {
       "title": "Finland",
-      "file_name": "finland.png",
+      "file_name": "images/countries/finland.png",
       "added_on": "2025-05-20 03:41:09",
       "slug": "finland",
       "category": "Countries",
@@ -8716,7 +8716,7 @@
     },
     {
       "title": "File",
-      "file_name": "file.png",
+      "file_name": "images/technology_media/file.png",
       "added_on": "2025-05-22 17:31:00",
       "slug": "file",
       "category": "Technology & Media",
@@ -10095,7 +10095,7 @@
     },
     {
       "title": "Flute",
-      "file_name": "flute.png",
+      "file_name": "images/entertainment_leisure/flute.png",
       "added_on": "2025-05-23 12:20:49",
       "slug": "flute",
       "category": "Entertainment & Leisure",
@@ -10108,7 +10108,7 @@
     },
     {
       "title": "Fragrance (Cologne)",
-      "file_name": "fragrance-cologne.png",
+      "file_name": "images/everyday_life/fragrance-cologne.png",
       "added_on": "2025-05-23 12:30:49",
       "slug": "fragrance-cologne",
       "category": "Everyday Life",
@@ -10811,7 +10811,7 @@
     },
     {
       "title": "Fire Extinguisher",
-      "file_name": "fire-extinguisher.png",
+      "file_name": "images/everyday_life/fire-extinguisher.png",
       "added_on": "2025-05-23 22:01:19",
       "slug": "fire-extinguisher",
       "category": "Everyday Life",
@@ -13935,7 +13935,7 @@
     },
     {
       "title": "Footpath",
-      "file_name": "footpath.png",
+      "file_name": "images/places_structures/footpath.png",
       "added_on": "2025-05-26 15:30:52",
       "slug": "footpath",
       "category": "Places & Structures",
@@ -14039,7 +14039,7 @@
     },
     {
       "title": "Folder",
-      "file_name": "folder.png",
+      "file_name": "images/everyday_life/folder.png",
       "added_on": "2025-05-26 17:20:43",
       "slug": "folder",
       "category": "Everyday Life",
@@ -14507,7 +14507,7 @@
     },
     {
       "title": "Film Screening",
-      "file_name": "film-screening.png",
+      "file_name": "images/events/film-screening.png",
       "added_on": "2025-05-27 00:00:43",
       "slug": "film-screening",
       "category": "Events",
@@ -14533,7 +14533,7 @@
     },
     {
       "title": "Flea Market",
-      "file_name": "flea-market.png",
+      "file_name": "images/events/flea-market.png",
       "added_on": "2025-05-27 00:20:47",
       "slug": "flea-market",
       "category": "Events",
@@ -14793,7 +14793,7 @@
     },
     {
       "title": "Fireworks Show",
-      "file_name": "fireworks-show.png",
+      "file_name": "images/events/fireworks-show.png",
       "added_on": "2025-05-27 04:10:58",
       "slug": "fireworks-show",
       "category": "Events",
@@ -15040,7 +15040,7 @@
     },
     {
       "title": "Flash Mob",
-      "file_name": "flash-mob.png",
+      "file_name": "images/events/flash-mob.png",
       "added_on": "2025-05-27 08:31:02",
       "slug": "flash-mob",
       "category": "Events",
@@ -16472,7 +16472,7 @@
     },
     {
       "title": "Floppy disk",
-      "file_name": "floppy-disk.png",
+      "file_name": "images/technology_media/floppy-disk.png",
       "added_on": "2025-05-28 08:49:07",
       "slug": "floppy-disk",
       "category": "Technology & Media",
@@ -16576,7 +16576,7 @@
     },
     {
       "title": "Flip-Flop",
-      "file_name": "flip-flop.png",
+      "file_name": "images/fashion_style/flip-flop.png",
       "added_on": "2025-05-30 19:49:23",
       "slug": "flip-flop",
       "category": "Fashion & Style",
@@ -16654,7 +16654,7 @@
     },
     {
       "title": "Formal Wear",
-      "file_name": "formal-wear.png",
+      "file_name": "images/fashion_style/formal-wear.png",
       "added_on": "2025-05-31 10:10:25",
       "slug": "formal-wear",
       "category": "Fashion & Style",
@@ -16966,7 +16966,7 @@
     },
     {
       "title": "Forge",
-      "file_name": "forge.png",
+      "file_name": "images/work_industry/forge.png",
       "added_on": "2025-05-31 10:42:05",
       "slug": "forge",
       "category": "Work & Industry",
@@ -17551,7 +17551,7 @@
     },
     {
       "title": "Flame",
-      "file_name": "flame.png",
+      "file_name": "images/nature_outdoors/flame.png",
       "added_on": "2025-05-31 13:20:42",
       "slug": "flame",
       "category": "Nature & Outdoors",
@@ -17915,7 +17915,7 @@
     },
     {
       "title": "Flying Saucer",
-      "file_name": "flying-saucer.png",
+      "file_name": "images/fantasy_imagination/flying-saucer.png",
       "added_on": "2025-06-01 08:11:22",
       "slug": "flying-saucer",
       "category": "Fantasy & Imagination",
@@ -18632,7 +18632,7 @@
     },
     {
       "title": "Fingerprint",
-      "file_name": "fingerprint.png",
+      "file_name": "images/interface_symbols/fingerprint.png",
       "added_on": "2025-06-01 08:27:29",
       "slug": "fingerprint",
       "category": "Interface & Symbols",
@@ -19061,7 +19061,7 @@
     },
     {
       "title": "Fleur-de-lis",
-      "file_name": "fleur-de-lis.png",
+      "file_name": "images/history_culture/fleur-de-lis.png",
       "added_on": "2025-06-01 08:31:22",
       "slug": "fleur-de-lis",
       "category": "History & Culture",
@@ -19074,7 +19074,7 @@
     },
     {
       "title": "Football",
-      "file_name": "football.png",
+      "file_name": "images/sports/football.png",
       "added_on": "2025-06-01 08:31:30",
       "slug": "football",
       "category": "Sports",
@@ -19269,7 +19269,7 @@
     },
     {
       "title": "Formula 1 Car",
-      "file_name": "formula-1-car.png",
+      "file_name": "images/vehicles_transport/formula-1-car.png",
       "added_on": "2025-06-01 10:34:29",
       "slug": "formula-1-car",
       "category": "Vehicles & Transport",
@@ -20483,7 +20483,7 @@
     },
     {
       "title": "Flamboyant",
-      "file_name": "flamboyant.png",
+      "file_name": "images/nature_outdoors/flamboyant.png",
       "added_on": "2025-06-02 09:49:29",
       "slug": "flamboyant",
       "category": "Nature & Outdoors",
@@ -21461,7 +21461,7 @@
     },
     {
       "title": "First-Aid Kit",
-      "file_name": "first-aid-kit.png",
+      "file_name": "images/health_wellness/first-aid-kit.png",
       "added_on": "2025-06-03 08:07:13",
       "slug": "first-aid-kit",
       "category": "Health & Wellness",
@@ -22184,7 +22184,7 @@
     },
     {
       "title": "Flipchart",
-      "file_name": "flipchart.png",
+      "file_name": "images/work_industry/flipchart.png",
       "added_on": "2025-06-03 16:20:56",
       "slug": "flipchart",
       "category": "Work & Industry",
@@ -22901,7 +22901,7 @@
     },
     {
       "title": "Football Helmet",
-      "file_name": "football-helmet.png",
+      "file_name": "images/sports/football-helmet.png",
       "added_on": "2025-06-03 21:31:00",
       "slug": "football-helmet",
       "category": "Sports",
@@ -23414,7 +23414,7 @@
     },
     {
       "title": "Fire Hydrant",
-      "file_name": "fire-hydrant.png",
+      "file_name": "images/everyday_life/fire-hydrant.png",
       "added_on": "2025-06-04 08:29:41",
       "slug": "fire-hydrant",
       "category": "Everyday Life",
@@ -23427,7 +23427,7 @@
     },
     {
       "title": "Firehose",
-      "file_name": "firehose.png",
+      "file_name": "images/work_industry/firehose.png",
       "added_on": "2025-06-04 08:29:47",
       "slug": "firehose",
       "category": "Work & Industry",
@@ -23440,7 +23440,7 @@
     },
     {
       "title": "Fire Truck",
-      "file_name": "fire-truck.png",
+      "file_name": "images/vehicles_transport/fire-truck.png",
       "added_on": "2025-06-04 08:29:48",
       "slug": "fire-truck",
       "category": "Vehicles & Transport",
@@ -23987,7 +23987,7 @@
     },
     {
       "title": "Flechette",
-      "file_name": "flechette.png",
+      "file_name": "images/sports/flechette.png",
       "added_on": "2025-06-04 08:50:23",
       "slug": "flechette",
       "category": "Sports",
@@ -25001,7 +25001,7 @@
     },
     {
       "title": "Forms",
-      "file_name": "forms.png",
+      "file_name": "images/everyday_life/forms.png",
       "added_on": "2025-06-05 16:39:21",
       "slug": "forms",
       "category": "Everyday Life",
@@ -25328,7 +25328,7 @@
     },
     {
       "title": "Flip-Flop",
-      "file_name": "flip-flop-08cqc9.png",
+      "file_name": "images/fashion_style/flip-flop-08cqc9.png",
       "added_on": "2025-06-05 16:41:12",
       "slug": "flip-flop-08cqc9",
       "category": "Fashion & Style",
@@ -25458,7 +25458,7 @@
     },
     {
       "title": "Frauenkirche",
-      "file_name": "frauenkirche.png",
+      "file_name": "images/places_structures/frauenkirche.png",
       "added_on": "2025-06-06 09:12:18",
       "slug": "frauenkirche",
       "category": "Places & Structures",
@@ -26284,7 +26284,7 @@
     },
     {
       "title": "Folding Cell Phone",
-      "file_name": "folding-cell-phone.png",
+      "file_name": "images/technology_media/folding-cell-phone.png",
       "added_on": "2025-06-07 12:49:33",
       "slug": "folding-cell-phone",
       "category": "Technology & Media",
@@ -27015,7 +27015,7 @@
     },
     {
       "title": "Flour Sifter",
-      "file_name": "flour-sifter.png",
+      "file_name": "images/everyday_life/flour-sifter.png",
       "added_on": "2025-06-07 15:20:43",
       "slug": "flour-sifter",
       "category": "Everyday Life",
@@ -27330,7 +27330,7 @@
     },
     {
       "title": "Fondue",
-      "file_name": "fondue.png",
+      "file_name": "images/food_drink/fondue.png",
       "added_on": "2025-06-08 01:00:05",
       "slug": "fondue",
       "category": "Food & Drink",
@@ -27798,7 +27798,7 @@
     },
     {
       "title": "Fortune Cookie",
-      "file_name": "fortune-cookie.png",
+      "file_name": "images/entertainment_leisure/fortune-cookie.png",
       "added_on": "2025-06-08 14:01:27",
       "slug": "fortune-cookie",
       "category": "Entertainment & Leisure",
@@ -28060,7 +28060,7 @@
     },
     {
       "title": "Fox Terrier",
-      "file_name": "fox-terrier.png",
+      "file_name": "images/animals/fox-terrier.png",
       "added_on": "2025-06-08 21:32:12",
       "slug": "fox-terrier",
       "category": "Animals",
@@ -28840,7 +28840,7 @@
     },
     {
       "title": "Flamingo",
-      "file_name": "flamingo.png",
+      "file_name": "images/animals/flamingo.png",
       "added_on": "2025-06-09 20:01:00",
       "slug": "flamingo",
       "category": "Animals",
@@ -29427,7 +29427,7 @@
     },
     {
       "title": "Flour",
-      "file_name": "flour.png",
+      "file_name": "images/food_drink/flour.png",
       "added_on": "2025-06-10 11:13:28",
       "slug": "flour",
       "category": "Food & Drink",
@@ -30213,7 +30213,7 @@
     },
     {
       "title": "Film Premiere",
-      "file_name": "film-premiere.png",
+      "file_name": "images/events/film-premiere.png",
       "added_on": "2025-06-10 18:01:28",
       "slug": "film-premiere",
       "category": "Events",
@@ -30814,7 +30814,7 @@
     },
     {
       "title": "Fossa",
-      "file_name": "fossa.png",
+      "file_name": "images/animals/fossa.png",
       "added_on": "2025-06-10 20:37:16",
       "slug": "fossa",
       "category": "Animals",
@@ -30871,7 +30871,7 @@
     },
     {
       "title": "Food Festival",
-      "file_name": "food-festival.png",
+      "file_name": "images/events/food-festival.png",
       "added_on": "2025-06-10 21:00:46",
       "slug": "food-festival",
       "category": "Events",
@@ -30936,7 +30936,7 @@
     },
     {
       "title": "Fitness Tracker",
-      "file_name": "fitness-tracker.png",
+      "file_name": "images/technology_media/fitness-tracker.png",
       "added_on": "2025-06-10 21:18:47",
       "slug": "fitness-tracker",
       "category": "Technology & Media",
@@ -31396,7 +31396,7 @@
     },
     {
       "title": "Foam roller",
-      "file_name": "foam-roller.png",
+      "file_name": "images/health_wellness/foam-roller.png",
       "added_on": "2025-06-11 01:12:55",
       "slug": "foam-roller",
       "category": "Health & Wellness",
@@ -31880,7 +31880,7 @@
     },
     {
       "title": "Fossil hunting",
-      "file_name": "fossil-hunting.png",
+      "file_name": "images/hobbies/fossil-hunting.png",
       "added_on": "2025-06-11 05:37:00",
       "slug": "fossil-hunting",
       "category": "Hobbies",
@@ -32271,7 +32271,7 @@
     },
     {
       "title": "Focaccia",
-      "file_name": "focaccia.png",
+      "file_name": "images/food_drink/focaccia.png",
       "added_on": "2025-06-11 08:55:36",
       "slug": "focaccia",
       "category": "Food & Drink",
@@ -32826,7 +32826,7 @@
     },
     {
       "title": "Fingernail Clipper",
-      "file_name": "fingernail-clipper.png",
+      "file_name": "images/everyday_life/fingernail-clipper.png",
       "added_on": "2025-06-11 12:57:28",
       "slug": "fingernail-clipper",
       "category": "Everyday Life",
@@ -33128,7 +33128,7 @@
     },
     {
       "title": "Forensic Accountant",
-      "file_name": "forensic-accountant.png",
+      "file_name": "images/professions/forensic-accountant.png",
       "added_on": "2025-06-11 14:54:49",
       "slug": "forensic-accountant",
       "category": "Professions",
@@ -33992,7 +33992,7 @@
     },
     {
       "title": "Fortress",
-      "file_name": "fortress.png",
+      "file_name": "images/places_structures/fortress.png",
       "added_on": "2025-06-11 21:42:49",
       "slug": "fortress",
       "category": "Places & Structures",
@@ -34148,7 +34148,7 @@
     },
     {
       "title": "Fingerprint Kit",
-      "file_name": "fingerprint-kit.png",
+      "file_name": "images/work_industry/fingerprint-kit.png",
       "added_on": "2025-06-11 22:47:09",
       "slug": "fingerprint-kit",
       "category": "Work & Industry",
@@ -34421,7 +34421,7 @@
     },
     {
       "title": "Folded Napkin",
-      "file_name": "folded-napkin.png",
+      "file_name": "images/everyday_life/folded-napkin.png",
       "added_on": "2025-06-11 22:48:11",
       "slug": "folded-napkin",
       "category": "Everyday Life",
@@ -35002,7 +35002,7 @@
     },
     {
       "title": "Forensic Scientist",
-      "file_name": "forensic-scientist.png",
+      "file_name": "images/professions/forensic-scientist.png",
       "added_on": "2025-06-12 02:25:09",
       "slug": "forensic-scientist",
       "category": "Professions",
@@ -35589,7 +35589,7 @@
     },
     {
       "title": "Fjord",
-      "file_name": "fjord.png",
+      "file_name": "images/nature_outdoors/fjord.png",
       "added_on": "2025-06-12 07:19:07",
       "slug": "fjord",
       "category": "Nature & Outdoors",
@@ -35641,7 +35641,7 @@
     },
     {
       "title": "Floating Market",
-      "file_name": "floating-market.png",
+      "file_name": "images/places_structures/floating-market.png",
       "added_on": "2025-06-12 07:49:08",
       "slug": "floating-market",
       "category": "Places & Structures",
@@ -36175,7 +36175,7 @@
     },
     {
       "title": "Flying Carpet",
-      "file_name": "flying-carpet.png",
+      "file_name": "images/fantasy_imagination/flying-carpet.png",
       "added_on": "2025-06-12 08:40:23",
       "slug": "flying-carpet",
       "category": "Fantasy & Imagination",
@@ -37496,7 +37496,7 @@
     },
     {
       "title": "Fort Jesus",
-      "file_name": "fort-jesus.png",
+      "file_name": "images/places_structures/fort-jesus.png",
       "added_on": "2025-06-12 23:02:36",
       "slug": "fort-jesus",
       "category": "Places & Structures",
@@ -37788,7 +37788,7 @@
     },
     {
       "title": "Florence Cathedral",
-      "file_name": "florence-cathedral.png",
+      "file_name": "images/places_structures/florence-cathedral.png",
       "added_on": "2025-06-12 23:05:34",
       "slug": "florence-cathedral",
       "category": "Places & Structures",
@@ -38007,7 +38007,7 @@
     },
     {
       "title": "Filter Coffee",
-      "file_name": "filter-coffee.png",
+      "file_name": "images/food_drink/filter-coffee.png",
       "added_on": "2025-06-12 23:06:25",
       "slug": "filter-coffee",
       "category": "Food & Drink",
@@ -39282,7 +39282,7 @@
     },
     {
       "title": "File Folder",
-      "file_name": "file-folder.png",
+      "file_name": "images/everyday_life/file-folder.png",
       "added_on": "2025-06-13 09:25:18",
       "slug": "file-folder",
       "category": "Everyday Life",
@@ -39295,7 +39295,7 @@
     },
     {
       "title": "Filing Cabinet",
-      "file_name": "filing-cabinet.png",
+      "file_name": "images/everyday_life/filing-cabinet.png",
       "added_on": "2025-06-13 09:31:23",
       "slug": "filing-cabinet",
       "category": "Everyday Life",
@@ -39544,7 +39544,7 @@
     },
     {
       "title": "Firework Show",
-      "file_name": "firework-show.png",
+      "file_name": "images/events/firework-show.png",
       "added_on": "2025-06-13 11:49:27",
       "slug": "firework-show",
       "category": "Events",
@@ -40249,7 +40249,7 @@
     },
     {
       "title": "Folding Bicycle",
-      "file_name": "folding-bicycle.png",
+      "file_name": "images/vehicles_transport/folding-bicycle.png",
       "added_on": "2025-06-13 18:07:27",
       "slug": "folding-bicycle",
       "category": "Vehicles & Transport",
@@ -40477,7 +40477,7 @@
     },
     {
       "title": "Fiji",
-      "file_name": "fiji.png",
+      "file_name": "images/countries/fiji.png",
       "added_on": "2025-06-13 20:19:20",
       "slug": "fiji",
       "category": "Countries",
@@ -41257,7 +41257,7 @@
     },
     {
       "title": "Flugelhorn",
-      "file_name": "flugelhorn.png",
+      "file_name": "images/entertainment_leisure/flugelhorn.png",
       "added_on": "2025-06-13 22:31:43",
       "slug": "flugelhorn",
       "category": "Entertainment & Leisure",
@@ -41914,7 +41914,7 @@
     },
     {
       "title": "Fossil",
-      "file_name": "fossil.png",
+      "file_name": "images/history_culture/fossil.png",
       "added_on": "2025-06-13 23:25:07",
       "slug": "fossil",
       "category": "History & Culture",
@@ -42584,7 +42584,7 @@
     },
     {
       "title": "Fitness band",
-      "file_name": "fitness-band.png",
+      "file_name": "images/health_wellness/fitness-band.png",
       "added_on": "2025-06-14 05:31:05",
       "slug": "fitness-band",
       "category": "Health & Wellness",
@@ -42889,7 +42889,7 @@
     },
     {
       "title": "Flannel Shirt",
-      "file_name": "flannel-shirt.png",
+      "file_name": "images/fashion_style/flannel-shirt.png",
       "added_on": "2025-06-14 07:49:08",
       "slug": "flannel-shirt",
       "category": "Fashion & Style",
@@ -43033,7 +43033,7 @@
     },
     {
       "title": "Fitness Trainer",
-      "file_name": "fitness-trainer.png",
+      "file_name": "images/professions/fitness-trainer.png",
       "added_on": "2025-06-14 08:55:09",
       "slug": "fitness-trainer",
       "category": "Professions",
@@ -43345,7 +43345,7 @@
     },
     {
       "title": "Flower Parade",
-      "file_name": "flower-parade.png",
+      "file_name": "images/events/flower-parade.png",
       "added_on": "2025-06-14 11:19:06",
       "slug": "flower-parade",
       "category": "Events",
@@ -43580,7 +43580,7 @@
     },
     {
       "title": "Flower pressing",
-      "file_name": "flower-pressing.png",
+      "file_name": "images/hobbies/flower-pressing.png",
       "added_on": "2025-06-14 13:13:13",
       "slug": "flower-pressing",
       "category": "Hobbies",
@@ -44066,7 +44066,7 @@
     },
     {
       "title": "French Fries",
-      "file_name": "french-fries.png",
+      "file_name": "images/food_drink/french-fries.png",
       "added_on": "2025-06-14 13:22:45",
       "slug": "french-fries",
       "category": "Food & Drink",
@@ -45933,7 +45933,7 @@
     },
     {
       "title": "Fractal",
-      "file_name": "fractal.png",
+      "file_name": "images/space_science/fractal.png",
       "added_on": "2025-06-15 23:12:34",
       "slug": "fractal",
       "category": "Space & Science",
@@ -46304,7 +46304,7 @@
     },
     {
       "title": "Flooring",
-      "file_name": "flooring.png",
+      "file_name": "images/everyday_life/flooring.png",
       "added_on": "2025-06-16 13:11:47",
       "slug": "flooring",
       "category": "Everyday Life",
@@ -48651,7 +48651,7 @@
     },
     {
       "title": "Finger Pointing",
-      "file_name": "finger-pointing.png",
+      "file_name": "images/everyday_life/finger-pointing.png",
       "added_on": "2025-06-22 17:30:05",
       "slug": "finger-pointing",
       "category": "Everyday Life",
@@ -49627,7 +49627,7 @@
     },
     {
       "title": "French Bulldog",
-      "file_name": "french-bulldog.png",
+      "file_name": "images/animals/french-bulldog.png",
       "added_on": "2025-06-22 17:34:48",
       "slug": "french-bulldog",
       "category": "Animals",
@@ -49811,7 +49811,7 @@
     },
     {
       "title": "Flyer",
-      "file_name": "flyer.png",
+      "file_name": "images/everyday_life/flyer.png",
       "added_on": "2025-06-22 18:37:27",
       "slug": "flyer",
       "category": "Everyday Life",
@@ -50762,7 +50762,7 @@
     },
     {
       "title": "Fish and Chips",
-      "file_name": "fish-and-chips.png",
+      "file_name": "images/food_drink/fish-and-chips.png",
       "added_on": "2025-06-23 00:25:26",
       "slug": "fish-and-chips",
       "category": "Food & Drink",
@@ -52760,7 +52760,7 @@
     },
     {
       "title": "Formula One Tyre",
-      "file_name": "formula-one-tyre.png",
+      "file_name": "images/sports/formula-one-tyre.png",
       "added_on": "2025-06-26 15:32:14",
       "slug": "formula-one-tyre",
       "category": "Sports",
@@ -53941,7 +53941,7 @@
     },
     {
       "title": "Number Four (4)",
-      "file_name": "four.png",
+      "file_name": "images/interface_symbols/four.png",
       "added_on": "2025-06-27 08:39:07",
       "slug": "four",
       "category": "Interface & Symbols",
@@ -53967,7 +53967,7 @@
     },
     {
       "title": "Number Five (5)",
-      "file_name": "five.png",
+      "file_name": "images/interface_symbols/five.png",
       "added_on": "2025-06-27 08:39:14",
       "slug": "five",
       "category": "Interface & Symbols",
@@ -54441,7 +54441,7 @@
     },
     {
       "title": "Food Delivery Paper Bag",
-      "file_name": "food-delivery-paper-bag.png",
+      "file_name": "images/food_drink/food-delivery-paper-bag.png",
       "added_on": "2025-06-27 19:01:09",
       "slug": "food-delivery-paper-bag",
       "category": "Food & Drink",
@@ -54532,7 +54532,7 @@
     },
     {
       "title": "Fire Station",
-      "file_name": "fire-station.png",
+      "file_name": "images/places_structures/fire-station.png",
       "added_on": "2025-06-27 19:49:19",
       "slug": "fire-station",
       "category": "Places & Structures",
@@ -54666,7 +54666,7 @@
     },
     {
       "title": "Filter",
-      "file_name": "filter.png",
+      "file_name": "images/vehicles_transport/filter.png",
       "added_on": "2025-06-27 20:55:08",
       "slug": "filter",
       "category": "Vehicles & Transport",
@@ -55089,7 +55089,7 @@
     },
     {
       "title": "Firewall",
-      "file_name": "firewall.png",
+      "file_name": "images/technology_media/firewall.png",
       "added_on": "2025-06-28 13:43:18",
       "slug": "firewall",
       "category": "Technology & Media",
@@ -55405,7 +55405,7 @@
     },
     {
       "title": "Fraisier (Strawberry Cake)",
-      "file_name": "fraisier-strawberry-cake.png",
+      "file_name": "images/food_drink/fraisier-strawberry-cake.png",
       "added_on": "2025-06-29 16:48:07",
       "slug": "fraisier-strawberry-cake",
       "category": "Food & Drink",
@@ -55509,7 +55509,7 @@
     },
     {
       "title": "Finish line",
-      "file_name": "finish-line.png",
+      "file_name": "images/sports/finish-line.png",
       "added_on": "2025-06-29 17:31:17",
       "slug": "finish-line",
       "category": "Sports",
@@ -55932,7 +55932,7 @@
     },
     {
       "title": "Flat peach",
-      "file_name": "flat-peach.png",
+      "file_name": "images/food_drink/flat-peach.png",
       "added_on": "2025-06-30 11:25:25",
       "slug": "flat-peach",
       "category": "Food & Drink",
@@ -56361,7 +56361,7 @@
     },
     {
       "title": "Foot",
-      "file_name": "foot.png",
+      "file_name": "images/everyday_life/foot.png",
       "added_on": "2025-07-02 08:53:13",
       "slug": "foot",
       "category": "Everyday Life",
@@ -56413,7 +56413,7 @@
     },
     {
       "title": "Fire Station",
-      "file_name": "fire-station-1.png",
+      "file_name": "images/places_structures/fire-station-1.png",
       "added_on": "2025-07-02 08:53:32",
       "slug": "fire-station-1",
       "category": "Places & Structures",
@@ -56819,7 +56819,7 @@
     },
     {
       "title": "Fish Tank",
-      "file_name": "fish-tank.png",
+      "file_name": "images/animals/fish-tank.png",
       "added_on": "2025-07-05 15:11:04",
       "slug": "fish-tank",
       "category": "Animals",
@@ -56952,7 +56952,7 @@
     },
     {
       "title": "Firefly",
-      "file_name": "firefly.png",
+      "file_name": "images/nature_outdoors/firefly.png",
       "added_on": "2025-07-05 17:00:51",
       "slug": "firefly",
       "category": "Nature & Outdoors",
@@ -57201,7 +57201,7 @@
     },
     {
       "title": "Fire Lookout",
-      "file_name": "fire-lookout.png",
+      "file_name": "images/places_structures/fire-lookout.png",
       "added_on": "2025-07-05 19:36:21",
       "slug": "fire-lookout",
       "category": "Places & Structures",
@@ -57255,7 +57255,7 @@
     },
     {
       "title": "Foosball Table",
-      "file_name": "foosball-table.png",
+      "file_name": "images/entertainment_leisure/foosball-table.png",
       "added_on": "2025-07-05 19:56:39",
       "slug": "foosball-table",
       "category": "Entertainment & Leisure",
@@ -58987,7 +58987,7 @@
     },
     {
       "title": "Follow Button",
-      "file_name": "follow-button-instagram.png",
+      "file_name": "images/interface_symbols/follow-button-instagram.png",
       "added_on": "2025-07-06 19:16:01",
       "slug": "follow-button-instagram",
       "category": "Interface & Symbols",
@@ -59736,7 +59736,7 @@
     },
     {
       "title": "File Cabinet",
-      "file_name": "file-cabinet.png",
+      "file_name": "images/work_industry/file-cabinet.png",
       "added_on": "2025-07-07 11:36:12",
       "slug": "file-cabinet",
       "category": "Work & Industry",
@@ -60136,7 +60136,7 @@
     },
     {
       "title": "Fingerboard",
-      "file_name": "fingerboard.png",
+      "file_name": "images/hobbies/fingerboard.png",
       "added_on": "2025-07-08 12:30:49",
       "slug": "fingerboard",
       "category": "Hobbies",
@@ -60318,7 +60318,7 @@
     },
     {
       "title": "Flip Dot Display",
-      "file_name": "flip-dot-display.png",
+      "file_name": "images/technology_media/flip-dot-display.png",
       "added_on": "2025-07-08 14:02:02",
       "slug": "flip-dot-display",
       "category": "Technology & Media",
@@ -60606,7 +60606,7 @@
     },
     {
       "title": "Finger Trap",
-      "file_name": "finger-trap.png",
+      "file_name": "images/entertainment_leisure/finger-trap.png",
       "added_on": "2025-07-08 16:06:11",
       "slug": "finger-trap",
       "category": "Entertainment & Leisure",
@@ -60619,7 +60619,7 @@
     },
     {
       "title": "Foam Finger",
-      "file_name": "foam-finger.png",
+      "file_name": "images/entertainment_leisure/foam-finger.png",
       "added_on": "2025-07-08 16:10:53",
       "slug": "foam-finger",
       "category": "Entertainment & Leisure",
@@ -60908,7 +60908,7 @@
     },
     {
       "title": "Floating Teacup",
-      "file_name": "floating-teacup.png",
+      "file_name": "images/fantasy_imagination/floating-teacup.png",
       "added_on": "2025-07-08 18:15:55",
       "slug": "floating-teacup",
       "category": "Fantasy & Imagination",
@@ -61187,7 +61187,7 @@
     },
     {
       "title": "Flip Book",
-      "file_name": "flip-book.png",
+      "file_name": "images/hobbies/flip-book.png",
       "added_on": "2025-07-08 20:25:57",
       "slug": "flip-book",
       "category": "Hobbies",
@@ -62783,7 +62783,7 @@
     },
     {
       "title": "Floating Chapel",
-      "file_name": "floating-chapel.png",
+      "file_name": "images/places_structures/floating-chapel.png",
       "added_on": "2025-07-09 08:36:02",
       "slug": "floating-chapel",
       "category": "Places & Structures",
@@ -62848,7 +62848,7 @@
     },
     {
       "title": "Fig",
-      "file_name": "fig.png",
+      "file_name": "images/food_drink/fig.png",
       "added_on": "2025-07-09 09:06:01",
       "slug": "fig",
       "category": "Food & Drink",
@@ -63297,7 +63297,7 @@
     },
     {
       "title": "Firefighting Robot",
-      "file_name": "firefighting-robot.png",
+      "file_name": "images/vehicles_transport/firefighting-robot.png",
       "added_on": "2025-07-09 12:16:03",
       "slug": "firefighting-robot",
       "category": "Vehicles & Transport",
@@ -63349,7 +63349,7 @@
     },
     {
       "title": "Fossa Cub",
-      "file_name": "fossa-cub.png",
+      "file_name": "images/animals/fossa-cub.png",
       "added_on": "2025-07-09 12:35:59",
       "slug": "fossa-cub",
       "category": "Animals",
@@ -63375,7 +63375,7 @@
     },
     {
       "title": "Flying Fox",
-      "file_name": "flying-fox.png",
+      "file_name": "images/animals/flying-fox.png",
       "added_on": "2025-07-09 12:46:01",
       "slug": "flying-fox",
       "category": "Animals",
@@ -63851,7 +63851,7 @@
     },
     {
       "title": "Freight Bicycle",
-      "file_name": "freight-bicycle.png",
+      "file_name": "images/vehicles_transport/freight-bicycle.png",
       "added_on": "2025-07-09 16:01:05",
       "slug": "freight-bicycle",
       "category": "Vehicles & Transport",
@@ -63920,7 +63920,7 @@
     },
     {
       "title": "Foucault Pendulum",
-      "file_name": "foucault-pendulum.png",
+      "file_name": "images/space_science/foucault-pendulum.png",
       "added_on": "2025-07-09 16:31:03",
       "slug": "foucault-pendulum",
       "category": "Space & Science",
@@ -63933,7 +63933,7 @@
     },
     {
       "title": "Film Reel",
-      "file_name": "film-reel.png",
+      "file_name": "images/entertainment_leisure/film-reel.png",
       "added_on": "2025-07-09 16:36:02",
       "slug": "film-reel",
       "category": "Entertainment & Leisure",
@@ -64761,7 +64761,7 @@
     },
     {
       "title": "Flamin\u2019 Hot Cheeto",
-      "file_name": "flamin-hot-cheeto.png",
+      "file_name": "images/food_drink/flamin-hot-cheeto.png",
       "added_on": "2025-07-10 14:31:25",
       "slug": "flamin-hot-cheeto",
       "category": "Food & Drink",
@@ -64800,7 +64800,7 @@
     },
     {
       "title": "Foxglove",
-      "file_name": "foxglove.png",
+      "file_name": "images/nature_outdoors/foxglove.png",
       "added_on": "2025-07-10 14:46:00",
       "slug": "foxglove",
       "category": "Nature & Outdoors",
@@ -64839,7 +64839,7 @@
     },
     {
       "title": "Fox Den",
-      "file_name": "fox-den.png",
+      "file_name": "images/nature_outdoors/fox-den.png",
       "added_on": "2025-07-10 15:01:09",
       "slug": "fox-den",
       "category": "Nature & Outdoors",
@@ -65121,7 +65121,7 @@
     },
     {
       "title": "Floor Buffer",
-      "file_name": "floor-buffer.png",
+      "file_name": "images/work_industry/floor-buffer.png",
       "added_on": "2025-07-10 16:51:10",
       "slug": "floor-buffer",
       "category": "Work & Industry",
@@ -65147,7 +65147,7 @@
     },
     {
       "title": "Fire Floater",
-      "file_name": "fire-floater.png",
+      "file_name": "images/vehicles_transport/fire-floater.png",
       "added_on": "2025-07-10 17:01:01",
       "slug": "fire-floater",
       "category": "Vehicles & Transport",
@@ -65186,7 +65186,7 @@
     },
     {
       "title": "Flower Crown",
-      "file_name": "flower-crown.png",
+      "file_name": "images/hobbies/flower-crown.png",
       "added_on": "2025-07-10 17:26:14",
       "slug": "flower-crown",
       "category": "Hobbies",
@@ -65834,7 +65834,7 @@
     },
     {
       "title": "Fossil Kit",
-      "file_name": "fossil-kit.png",
+      "file_name": "images/hobbies/fossil-kit.png",
       "added_on": "2025-07-10 23:21:11",
       "slug": "fossil-kit",
       "category": "Hobbies",
@@ -66045,7 +66045,7 @@
     },
     {
       "title": "Fireproof File Cabinet",
-      "file_name": "fireproof-file-cabinet.png",
+      "file_name": "images/work_industry/fireproof-file-cabinet.png",
       "added_on": "2025-07-11 07:21:26",
       "slug": "fireproof-file-cabinet",
       "category": "Work & Industry",
@@ -66617,7 +66617,7 @@
     },
     {
       "title": "Flossers",
-      "file_name": "flossers.png",
+      "file_name": "images/health_wellness/flossers.png",
       "added_on": "2025-07-11 19:51:21",
       "slug": "flossers",
       "category": "Health & Wellness",
@@ -67344,7 +67344,7 @@
     },
     {
       "title": "Forest Glade",
-      "file_name": "forest-glade.png",
+      "file_name": "images/nature_outdoors/forest-glade.png",
       "added_on": "2025-07-12 05:51:35",
       "slug": "forest-glade",
       "category": "Nature & Outdoors",
@@ -67643,7 +67643,7 @@
     },
     {
       "title": "Fingerless Gloves",
-      "file_name": "fingerless-gloves.png",
+      "file_name": "images/fashion_style/fingerless-gloves.png",
       "added_on": "2025-07-12 10:01:41",
       "slug": "fingerless-gloves",
       "category": "Fashion & Style",
@@ -67695,7 +67695,7 @@
     },
     {
       "title": "Fingerboard Ramp",
-      "file_name": "fingerboard-ramp.png",
+      "file_name": "images/hobbies/fingerboard-ramp.png",
       "added_on": "2025-07-12 13:12:04",
       "slug": "fingerboard-ramp",
       "category": "Hobbies",
@@ -67916,7 +67916,7 @@
     },
     {
       "title": "Floating Restaurant",
-      "file_name": "floating-restaurant.png",
+      "file_name": "images/places_structures/floating-restaurant.png",
       "added_on": "2025-07-12 14:41:44",
       "slug": "floating-restaurant",
       "category": "Places & Structures",
@@ -67929,7 +67929,7 @@
     },
     {
       "title": "Fish Ladder",
-      "file_name": "fish-ladder.png",
+      "file_name": "images/places_structures/fish-ladder.png",
       "added_on": "2025-07-12 14:52:03",
       "slug": "fish-ladder",
       "category": "Places & Structures",
@@ -68898,7 +68898,7 @@
     },
     {
       "title": "France Flag",
-      "file_name": "france-flag.png",
+      "file_name": "images/flags/france-flag.png",
       "added_on": "2025-07-13 14:15:46",
       "slug": "france-flag",
       "category": "Flags",
@@ -70213,7 +70213,7 @@
     },
     {
       "title": "Frankenstein's Monster",
-      "file_name": "frankensteins-monster.png",
+      "file_name": "images/fantasy_imagination/frankensteins-monster.png",
       "added_on": "2025-07-14 10:07:15",
       "slug": "frankensteins-monster",
       "category": "Fantasy & Imagination",
@@ -71039,7 +71039,7 @@
     },
     {
       "title": "Fireless Steam Engine",
-      "file_name": "fireless-steam-engine.png",
+      "file_name": "images/vehicles_transport/fireless-steam-engine.png",
       "added_on": "2025-07-15 04:21:44",
       "slug": "fireless-steam-engine",
       "category": "Vehicles & Transport",
@@ -71156,7 +71156,7 @@
     },
     {
       "title": "First Century Jew",
-      "file_name": "first-century-jew.png",
+      "file_name": "images/history_culture/first-century-jew.png",
       "added_on": "2025-07-15 08:37:16",
       "slug": "first-century-jew",
       "category": "History & Culture",
@@ -71247,7 +71247,7 @@
     },
     {
       "title": "Fortune Teller",
-      "file_name": "fortune-teller.png",
+      "file_name": "images/professions/fortune-teller.png",
       "added_on": "2025-07-15 08:37:43",
       "slug": "fortune-teller",
       "category": "Professions",
@@ -71260,7 +71260,7 @@
     },
     {
       "title": "Fire Elemental",
-      "file_name": "fire-elemental.png",
+      "file_name": "images/fantasy_imagination/fire-elemental.png",
       "added_on": "2025-07-16 08:38:09",
       "slug": "fire-elemental",
       "category": "Fantasy & Imagination",
@@ -71806,7 +71806,7 @@
     },
     {
       "title": "Formula 1 Car",
-      "file_name": "formula-1-car-1.png",
+      "file_name": "images/vehicles_transport/formula-1-car-1.png",
       "added_on": "2025-07-16 08:42:07",
       "slug": "formula-1-car-1",
       "category": "Vehicles & Transport",
@@ -72430,7 +72430,7 @@
     },
     {
       "title": "Fishnet Stockings",
-      "file_name": "fishnet-stockings.png",
+      "file_name": "images/fashion_style/fishnet-stockings.png",
       "added_on": "2025-07-16 17:21:56",
       "slug": "fishnet-stockings",
       "category": "Fashion & Style",
@@ -73842,7 +73842,7 @@
     },
     {
       "title": "Fossilized Trilobite",
-      "file_name": "fossilized-trilobite.png",
+      "file_name": "images/space_science/fossilized-trilobite.png",
       "added_on": "2025-07-17 22:21:38",
       "slug": "fossilized-trilobite",
       "category": "Space & Science",
@@ -74738,7 +74738,7 @@
     },
     {
       "title": "Five Star Rating",
-      "file_name": "five-star-rating.png",
+      "file_name": "images/interface_symbols/five-star-rating.png",
       "added_on": "2025-07-18 20:12:19",
       "slug": "five-star-rating",
       "category": "Interface & Symbols",
@@ -74870,7 +74870,7 @@
     },
     {
       "title": "Floor Jack",
-      "file_name": "floor-jack.png",
+      "file_name": "images/work_industry/floor-jack.png",
       "added_on": "2025-07-18 21:31:18",
       "slug": "floor-jack",
       "category": "Work & Industry",
@@ -75561,7 +75561,7 @@
     },
     {
       "title": "Fossil Display Case",
-      "file_name": "fossil-display-case.png",
+      "file_name": "images/hobbies/fossil-display-case.png",
       "added_on": "2025-07-19 19:41:21",
       "slug": "fossil-display-case",
       "category": "Hobbies",
@@ -75886,7 +75886,7 @@
     },
     {
       "title": "Folding Hand Fan",
-      "file_name": "folding-hand-fan.png",
+      "file_name": "images/fashion_style/folding-hand-fan.png",
       "added_on": "2025-07-20 10:51:32",
       "slug": "folding-hand-fan",
       "category": "Fashion & Style",
@@ -75977,7 +75977,7 @@
     },
     {
       "title": "Foot Reflexology Chart",
-      "file_name": "foot-reflexology-chart.png",
+      "file_name": "images/health_wellness/foot-reflexology-chart.png",
       "added_on": "2025-07-20 12:11:26",
       "slug": "foot-reflexology-chart",
       "category": "Health & Wellness",
@@ -76242,7 +76242,7 @@
     },
     {
       "title": "Fly",
-      "file_name": "fly.png",
+      "file_name": "images/animals/fly.png",
       "added_on": "2025-07-20 15:21:50",
       "slug": "fly",
       "category": "Animals",
@@ -77046,7 +77046,7 @@
     },
     {
       "title": "Finger Toothbrush",
-      "file_name": "finger-toothbrush.png",
+      "file_name": "images/everyday_life/finger-toothbrush.png",
       "added_on": "2025-07-21 11:11:20",
       "slug": "finger-toothbrush",
       "category": "Everyday Life",
@@ -78781,7 +78781,7 @@
     },
     {
       "title": "Flag of Mexico",
-      "file_name": "flag-of-mexico.png",
+      "file_name": "images/flags/flag-of-mexico.png",
       "added_on": "2025-07-24 21:11:34",
       "slug": "flag-of-mexico",
       "category": "Flags",
@@ -79614,7 +79614,7 @@
     },
     {
       "title": "Flea",
-      "file_name": "flea.png",
+      "file_name": "images/animals/flea.png",
       "added_on": "2025-07-25 05:51:32",
       "slug": "flea",
       "category": "Animals",
@@ -79627,7 +79627,7 @@
     },
     {
       "title": "Floating Lilo",
-      "file_name": "floating-lilo.png",
+      "file_name": "images/entertainment_leisure/floating-lilo.png",
       "added_on": "2025-07-25 06:01:38",
       "slug": "floating-lilo",
       "category": "Entertainment & Leisure",
@@ -80586,7 +80586,7 @@
     },
     {
       "title": "Food Scale",
-      "file_name": "food-scale.png",
+      "file_name": "images/food_drink/food-scale.png",
       "added_on": "2025-07-25 23:31:35",
       "slug": "food-scale",
       "category": "Food & Drink",
@@ -80690,7 +80690,7 @@
     },
     {
       "title": "Floating Ball Valve",
-      "file_name": "floating-ball-valve.png",
+      "file_name": "images/work_industry/floating-ball-valve.png",
       "added_on": "2025-07-28 17:42:07",
       "slug": "floating-ball-valve",
       "category": "Work & Industry",
@@ -81109,7 +81109,7 @@
     },
     {
       "title": "Forget-me-not Flower",
-      "file_name": "forget-me-not-flower.png",
+      "file_name": "images/nature_outdoors/forget-me-not-flower.png",
       "added_on": "2025-07-28 18:51:35",
       "slug": "forget-me-not-flower",
       "category": "Nature & Outdoors",
@@ -81468,7 +81468,7 @@
     },
     {
       "title": "Flexibility",
-      "file_name": "flexibility.png",
+      "file_name": "images/health_wellness/flexibility.png",
       "added_on": "2025-07-30 17:23:16",
       "slug": "flexibility",
       "category": "Health & Wellness",
@@ -81676,7 +81676,7 @@
     },
     {
       "title": "Finn Juhl Nyhavn Desk",
-      "file_name": "finn-juhl-nyhavn-desk.png",
+      "file_name": "images/everyday_life/finn-juhl-nyhavn-desk.png",
       "added_on": "2025-08-02 16:21:47",
       "slug": "finn-juhl-nyhavn-desk",
       "category": "Everyday Life",
@@ -82570,7 +82570,7 @@
     },
     {
       "title": "Fire Ants",
-      "file_name": "fire-ants.png",
+      "file_name": "images/animals/fire-ants.png",
       "added_on": "2025-08-05 08:01:14",
       "slug": "fire-ants",
       "category": "Animals",
@@ -82811,7 +82811,7 @@
     },
     {
       "title": "Four",
-      "file_name": "four-1.png",
+      "file_name": "images/interface_symbols/four-1.png",
       "added_on": "2025-08-08 06:54:41",
       "slug": "four-1",
       "category": "Interface & Symbols",
@@ -83597,7 +83597,7 @@
     },
     {
       "title": "Forceps",
-      "file_name": "forceps.png",
+      "file_name": "images/health_wellness/forceps.png",
       "added_on": "2025-08-16 20:51:07",
       "slug": "forceps",
       "category": "Health & Wellness",
@@ -86262,7 +86262,7 @@
     },
     {
       "title": "Florist",
-      "file_name": "florist-1.png",
+      "file_name": "images/professions/florist-1.png",
       "added_on": "2025-08-26 09:18:19",
       "slug": "florist-1",
       "category": "Professions",
@@ -86451,7 +86451,7 @@
     },
     {
       "title": "Flag of Italy",
-      "file_name": "flag-of-italy.png",
+      "file_name": "images/flags/flag-of-italy.png",
       "added_on": "2025-08-27 10:11:38",
       "slug": "flag-of-italy",
       "category": "Flags",
@@ -87114,7 +87114,7 @@
     },
     {
       "title": "Fire Salamander",
-      "file_name": "fire-salamander.png",
+      "file_name": "images/animals/fire-salamander.png",
       "added_on": "2025-08-30 16:41:23",
       "slug": "fire-salamander",
       "category": "Animals",
@@ -87516,7 +87516,7 @@
     },
     {
       "title": "Flower Lei",
-      "file_name": "flower-lei.png",
+      "file_name": "images/history_culture/flower-lei.png",
       "added_on": "2025-09-02 10:11:43",
       "slug": "flower-lei",
       "category": "History & Culture",
@@ -87568,7 +87568,7 @@
     },
     {
       "title": "Fire Rehab Unit",
-      "file_name": "fire-rehab-unit.png",
+      "file_name": "images/vehicles_transport/fire-rehab-unit.png",
       "added_on": "2025-09-03 09:00:48",
       "slug": "fire-rehab-unit",
       "category": "Vehicles & Transport",
@@ -87607,7 +87607,7 @@
     },
     {
       "title": "Forest Firefighter",
-      "file_name": "forest-firefighter.png",
+      "file_name": "images/professions/forest-firefighter.png",
       "added_on": "2025-09-03 09:51:31",
       "slug": "forest-firefighter",
       "category": "Professions",
@@ -87661,7 +87661,7 @@
     },
     {
       "title": "Football T-shirt",
-      "file_name": "football-t-shirt.png",
+      "file_name": "images/fashion_style/football-t-shirt.png",
       "added_on": "2025-09-04 11:11:34",
       "slug": "football-t-shirt",
       "category": "Fashion & Style",
@@ -89062,7 +89062,7 @@
     },
     {
       "title": "Food Truck",
-      "file_name": "food-truck.png",
+      "file_name": "images/work_industry/food-truck.png",
       "added_on": "2025-09-06 18:21:06",
       "slug": "food-truck",
       "category": "Work & Industry",
@@ -89428,7 +89428,7 @@
     },
     {
       "title": "Finswimming Monofin",
-      "file_name": "finswimming-monofin.png",
+      "file_name": "images/sports/finswimming-monofin.png",
       "added_on": "2025-09-07 16:51:03",
       "slug": "finswimming-monofin",
       "category": "Sports",
@@ -89508,7 +89508,7 @@
     },
     {
       "title": "Florence Nightingale",
-      "file_name": "florence-nightingale.png",
+      "file_name": "images/historical_figures/florence-nightingale.png",
       "added_on": "2025-09-08 12:21:29",
       "slug": "florence-nightingale",
       "category": "Historical Figures",
@@ -89573,7 +89573,7 @@
     },
     {
       "title": "Fingerprint Scanner",
-      "file_name": "fingerprint-scanner.png",
+      "file_name": "images/work_industry/fingerprint-scanner.png",
       "added_on": "2025-09-08 13:32:15",
       "slug": "fingerprint-scanner",
       "category": "Work & Industry",
@@ -89681,7 +89681,7 @@
     },
     {
       "title": "Foam Party Cannon",
-      "file_name": "foam-party-cannon.png",
+      "file_name": "images/entertainment_leisure/foam-party-cannon.png",
       "added_on": "2025-09-08 15:11:30",
       "slug": "foam-party-cannon",
       "category": "Entertainment & Leisure",
@@ -90858,7 +90858,7 @@
     },
     {
       "title": "Foucault Gyroscope",
-      "file_name": "foucault-gyroscope.png",
+      "file_name": "images/space_science/foucault-gyroscope.png",
       "added_on": "2025-09-10 12:23:00",
       "slug": "foucault-gyroscope",
       "category": "Space & Science",
@@ -91233,7 +91233,7 @@
     },
     {
       "title": "Fortune Teller Fish",
-      "file_name": "fortune-teller-fish.png",
+      "file_name": "images/entertainment_leisure/fortune-teller-fish.png",
       "added_on": "2025-09-10 17:31:54",
       "slug": "fortune-teller-fish",
       "category": "Entertainment & Leisure",
@@ -91246,7 +91246,7 @@
     },
     {
       "title": "Foam Noodle",
-      "file_name": "foam-noodle.png",
+      "file_name": "images/entertainment_leisure/foam-noodle.png",
       "added_on": "2025-09-10 17:41:27",
       "slug": "foam-noodle",
       "category": "Entertainment & Leisure",
@@ -92052,7 +92052,7 @@
     },
     {
       "title": "Fire Exit Sign",
-      "file_name": "fire-exit-sign.png",
+      "file_name": "images/work_industry/fire-exit-sign.png",
       "added_on": "2025-09-12 22:21:21",
       "slug": "fire-exit-sign",
       "category": "Work & Industry",
@@ -92223,7 +92223,7 @@
     },
     {
       "title": "Flame Print Heels",
-      "file_name": "flame-print-heels.png",
+      "file_name": "images/fashion_style/flame-print-heels.png",
       "added_on": "2025-09-13 13:51:21",
       "slug": "flame-print-heels",
       "category": "Fashion & Style",
@@ -93473,7 +93473,7 @@
     },
     {
       "title": "Fireboat",
-      "file_name": "fireboat.png",
+      "file_name": "images/vehicles_transport/fireboat.png",
       "added_on": "2025-09-16 16:21:22",
       "slug": "fireboat",
       "category": "Vehicles & Transport",
@@ -95668,7 +95668,7 @@
     },
     {
       "title": "Firewood Wagon",
-      "file_name": "firewood-wagon.png",
+      "file_name": "images/vehicles_transport/firewood-wagon.png",
       "added_on": "2025-09-21 14:11:12",
       "slug": "firewood-wagon",
       "category": "Vehicles & Transport",
@@ -95881,7 +95881,7 @@
     },
     {
       "title": "Folding Fan",
-      "file_name": "folding-fan.png",
+      "file_name": "images/everyday_life/folding-fan.png",
       "added_on": "2025-09-22 11:01:23",
       "slug": "folding-fan",
       "category": "Everyday Life",
@@ -96218,7 +96218,7 @@
     },
     {
       "title": "Figure Skating",
-      "file_name": "figure-skating.png",
+      "file_name": "images/sports/figure-skating.png",
       "added_on": "2025-09-22 16:01:41",
       "slug": "figure-skating",
       "category": "Sports",
@@ -98108,7 +98108,7 @@
     },
     {
       "title": "Fossil Leaf",
-      "file_name": "fossil-leaf.png",
+      "file_name": "images/nature_outdoors/fossil-leaf.png",
       "added_on": "2025-09-27 16:41:15",
       "slug": "fossil-leaf",
       "category": "Nature & Outdoors",
@@ -98528,7 +98528,7 @@
     },
     {
       "title": "Freeze-Dried Strawberry",
-      "file_name": "freeze-dried-strawberry.png",
+      "file_name": "images/food_drink/freeze-dried-strawberry.png",
       "added_on": "2025-09-30 15:21:13",
       "slug": "freeze-dried-strawberry",
       "category": "Food & Drink",
@@ -98949,7 +98949,7 @@
     },
     {
       "title": "Fossil Hammer",
-      "file_name": "fossil-hammer.png",
+      "file_name": "images/hobbies/fossil-hammer.png",
       "added_on": "2025-09-30 21:01:20",
       "slug": "fossil-hammer",
       "category": "Hobbies",
@@ -100299,7 +100299,7 @@
     },
     {
       "title": "Focus",
-      "file_name": "focus.png",
+      "file_name": "images/everyday_life/focus.png",
       "added_on": "2025-10-02 17:01:17",
       "slug": "focus",
       "category": "Everyday Life",
@@ -100338,7 +100338,7 @@
     },
     {
       "title": "Fired",
-      "file_name": "fired.png",
+      "file_name": "images/work_industry/fired.png",
       "added_on": "2025-10-02 17:31:21",
       "slug": "fired",
       "category": "Work & Industry",
@@ -100550,7 +100550,7 @@
     },
     {
       "title": "Fossil Tooth",
-      "file_name": "fossil-tooth.png",
+      "file_name": "images/hobbies/fossil-tooth.png",
       "added_on": "2025-10-04 14:11:25",
       "slug": "fossil-tooth",
       "category": "Hobbies",
@@ -102147,7 +102147,7 @@
     },
     {
       "title": "Fire Ladder Truck",
-      "file_name": "fire-ladder-truck.png",
+      "file_name": "images/vehicles_transport/fire-ladder-truck.png",
       "added_on": "2025-10-08 14:51:44",
       "slug": "fire-ladder-truck",
       "category": "Vehicles & Transport",
@@ -102225,7 +102225,7 @@
     },
     {
       "title": "Fossilized Fern",
-      "file_name": "fossilized-fern.png",
+      "file_name": "images/nature_outdoors/fossilized-fern.png",
       "added_on": "2025-10-08 15:51:38",
       "slug": "fossilized-fern",
       "category": "Nature & Outdoors",
@@ -102290,7 +102290,7 @@
     },
     {
       "title": "Folklore",
-      "file_name": "folklore.png",
+      "file_name": "images/history_culture/folklore.png",
       "added_on": "2025-10-08 17:11:42",
       "slug": "folklore",
       "category": "History & Culture",
@@ -102329,7 +102329,7 @@
     },
     {
       "title": "Finger Cymbals",
-      "file_name": "finger-cymbals.png",
+      "file_name": "images/entertainment_leisure/finger-cymbals.png",
       "added_on": "2025-10-08 20:41:36",
       "slug": "finger-cymbals",
       "category": "Entertainment & Leisure",
@@ -102777,7 +102777,7 @@
     },
     {
       "title": "Flip Phone",
-      "file_name": "flip-phone.png",
+      "file_name": "images/technology_media/flip-phone.png",
       "added_on": "2025-10-09 10:41:39",
       "slug": "flip-phone",
       "category": "Technology & Media",
@@ -103468,7 +103468,7 @@
     },
     {
       "title": "Fire Agate",
-      "file_name": "fire-agate.png",
+      "file_name": "images/nature_outdoors/fire-agate.png",
       "added_on": "2025-10-10 11:41:47",
       "slug": "fire-agate",
       "category": "Nature & Outdoors",
@@ -103676,7 +103676,7 @@
     },
     {
       "title": "Framed Picture",
-      "file_name": "framed-picture.png",
+      "file_name": "images/everyday_life/framed-picture.png",
       "added_on": "2025-10-10 14:31:43",
       "slug": "framed-picture",
       "category": "Everyday Life",
@@ -104342,7 +104342,7 @@
     },
     {
       "title": "Flexible Duct Hose",
-      "file_name": "flexible-duct-hose.png",
+      "file_name": "images/work_industry/flexible-duct-hose.png",
       "added_on": "2025-10-12 10:21:45",
       "slug": "flexible-duct-hose",
       "category": "Work & Industry",
@@ -104537,7 +104537,7 @@
     },
     {
       "title": "Fossil Fish",
-      "file_name": "fossil-fish.png",
+      "file_name": "images/hobbies/fossil-fish.png",
       "added_on": "2025-10-12 16:11:40",
       "slug": "fossil-fish",
       "category": "Hobbies",
@@ -104641,7 +104641,7 @@
     },
     {
       "title": "Foam Party Pit",
-      "file_name": "foam-party-pit.png",
+      "file_name": "images/entertainment_leisure/foam-party-pit.png",
       "added_on": "2025-10-13 08:41:42",
       "slug": "foam-party-pit",
       "category": "Entertainment & Leisure",
@@ -105251,7 +105251,7 @@
     },
     {
       "title": "Fluffy Arm Warmers",
-      "file_name": "fluffy-arm-warmers.png",
+      "file_name": "images/fashion_style/fluffy-arm-warmers.png",
       "added_on": "2025-10-16 11:21:16",
       "slug": "fluffy-arm-warmers",
       "category": "Fashion & Style",
@@ -105745,7 +105745,7 @@
     },
     {
       "title": "Fracture",
-      "file_name": "fracture.png",
+      "file_name": "images/health_wellness/fracture.png",
       "added_on": "2025-10-16 19:01:35",
       "slug": "fracture",
       "category": "Health & Wellness",
@@ -105851,7 +105851,7 @@
     },
     {
       "title": "Fountain Pen",
-      "file_name": "fountain-pen.png",
+      "file_name": "images/hobbies/fountain-pen.png",
       "added_on": "2025-10-20 10:31:14",
       "slug": "fountain-pen",
       "category": "Hobbies",
@@ -105942,7 +105942,7 @@
     },
     {
       "title": "Fly Agaric",
-      "file_name": "fly-agaric.png",
+      "file_name": "images/nature_outdoors/fly-agaric.png",
       "added_on": "2025-10-20 12:02:41",
       "slug": "fly-agaric",
       "category": "Nature & Outdoors",
@@ -105994,7 +105994,7 @@
     },
     {
       "title": "Forex Trading Chart",
-      "file_name": "forex-trading-chart.png",
+      "file_name": "images/interface_symbols/forex-trading-chart.png",
       "added_on": "2025-10-20 13:29:06",
       "slug": "forex-trading-chart",
       "category": "Interface & Symbols",
@@ -106477,7 +106477,7 @@
     },
     {
       "title": "Forgot Password",
-      "file_name": "forgot-password.png",
+      "file_name": "images/interface_symbols/forgot-password.png",
       "added_on": "2025-10-20 19:51:13",
       "slug": "forgot-password",
       "category": "Interface & Symbols",
@@ -106737,7 +106737,7 @@
     },
     {
       "title": "Forest Full of Animals",
-      "file_name": "forest-full-of-animals.png",
+      "file_name": "images/nature_outdoors/forest-full-of-animals.png",
       "added_on": "2025-10-21 13:31:24",
       "slug": "forest-full-of-animals",
       "category": "Nature & Outdoors",
@@ -106880,7 +106880,7 @@
     },
     {
       "title": "File with Checkmark",
-      "file_name": "file-with-checkmark.png",
+      "file_name": "images/interface_symbols/file-with-checkmark.png",
       "added_on": "2025-10-22 15:13:10",
       "slug": "file-with-checkmark",
       "category": "Interface & Symbols",
@@ -106986,7 +106986,7 @@
     },
     {
       "title": "Footstool",
-      "file_name": "footstool.png",
+      "file_name": "images/everyday_life/footstool.png",
       "added_on": "2025-10-22 16:41:14",
       "slug": "footstool",
       "category": "Everyday Life",
@@ -107259,7 +107259,7 @@
     },
     {
       "title": "Frederick Douglass",
-      "file_name": "frederick-douglass.png",
+      "file_name": "images/historical_figures/frederick-douglass.png",
       "added_on": "2025-10-22 20:40:55",
       "slug": "frederick-douglass",
       "category": "Historical Figures",
@@ -107493,7 +107493,7 @@
     },
     {
       "title": "Foam",
-      "file_name": "foam.png",
+      "file_name": "images/everyday_life/foam.png",
       "added_on": "2025-10-22 23:51:13",
       "slug": "foam",
       "category": "Everyday Life",
@@ -108473,7 +108473,7 @@
     },
     {
       "title": "Floating Log",
-      "file_name": "floating-log.png",
+      "file_name": "images/nature_outdoors/floating-log.png",
       "added_on": "2025-10-26 14:01:17",
       "slug": "floating-log",
       "category": "Nature & Outdoors",
@@ -109844,7 +109844,7 @@
     },
     {
       "title": "Flag of Micronesia",
-      "file_name": "flag-of-micronesia.png",
+      "file_name": "images/flags/flag-of-micronesia.png",
       "added_on": "2025-10-28 17:01:46",
       "slug": "flag-of-micronesia",
       "category": "Flags",
@@ -109857,7 +109857,7 @@
     },
     {
       "title": "Flag of Somalia",
-      "file_name": "flag-of-somalia.png",
+      "file_name": "images/flags/flag-of-somalia.png",
       "added_on": "2025-10-28 17:12:33",
       "slug": "flag-of-somalia",
       "category": "Flags",
@@ -109896,7 +109896,7 @@
     },
     {
       "title": "Flag of Greenland",
-      "file_name": "flag-of-greenland.png",
+      "file_name": "images/flags/flag-of-greenland.png",
       "added_on": "2025-10-28 17:41:53",
       "slug": "flag-of-greenland",
       "category": "Flags",
@@ -110468,7 +110468,7 @@
     },
     {
       "title": "Flow Cytometer",
-      "file_name": "flow-cytometer.png",
+      "file_name": "images/space_science/flow-cytometer.png",
       "added_on": "2025-10-29 13:01:58",
       "slug": "flow-cytometer",
       "category": "Space & Science",
@@ -110758,7 +110758,7 @@
     },
     {
       "title": "Foggy Pier",
-      "file_name": "foggy-pier.png",
+      "file_name": "images/places_structures/foggy-pier.png",
       "added_on": "2025-10-30 16:41:55",
       "slug": "foggy-pier",
       "category": "Places & Structures",
@@ -110771,7 +110771,7 @@
     },
     {
       "title": "Flavor Syrup Pump",
-      "file_name": "flavor-syrup-pump.png",
+      "file_name": "images/work_industry/flavor-syrup-pump.png",
       "added_on": "2025-10-30 16:51:25",
       "slug": "flavor-syrup-pump",
       "category": "Work & Industry",
@@ -111735,7 +111735,7 @@
     },
     {
       "title": "Foam Packaging Peanuts",
-      "file_name": "foam-packaging-peanuts.png",
+      "file_name": "images/work_industry/foam-packaging-peanuts.png",
       "added_on": "2025-11-01 18:31:51",
       "slug": "foam-packaging-peanuts",
       "category": "Work & Industry",
@@ -112154,7 +112154,7 @@
     },
     {
       "title": "Fossil Trilobite",
-      "file_name": "fossil-trilobite.png",
+      "file_name": "images/hobbies/fossil-trilobite.png",
       "added_on": "2025-11-02 14:41:57",
       "slug": "fossil-trilobite",
       "category": "Hobbies",
@@ -113172,7 +113172,7 @@
     },
     {
       "title": "Flag of Monaco",
-      "file_name": "flag-of-monaco.png",
+      "file_name": "images/flags/flag-of-monaco.png",
       "added_on": "2025-11-05 22:12:05",
       "slug": "flag-of-monaco",
       "category": "Flags",
@@ -113214,7 +113214,7 @@
     },
     {
       "title": "Foot Massager",
-      "file_name": "foot-massager.png",
+      "file_name": "images/health_wellness/foot-massager.png",
       "added_on": "2025-11-05 22:51:57",
       "slug": "foot-massager",
       "category": "Health & Wellness",
@@ -115864,7 +115864,7 @@
     },
     {
       "title": "Flag of Mauritius",
-      "file_name": "flag-of-mauritius.png",
+      "file_name": "images/flags/flag-of-mauritius.png",
       "added_on": "2025-11-15 18:51:51",
       "slug": "flag-of-mauritius",
       "category": "Flags",
@@ -116127,7 +116127,7 @@
     },
     {
       "title": "Foam Sword",
-      "file_name": "foam-sword.png",
+      "file_name": "images/entertainment_leisure/foam-sword.png",
       "added_on": "2025-11-16 10:51:59",
       "slug": "foam-sword",
       "category": "Entertainment & Leisure",
@@ -116587,7 +116587,7 @@
     },
     {
       "title": "Flag of Tibet",
-      "file_name": "flag-of-tibet.png",
+      "file_name": "images/flags/flag-of-tibet.png",
       "added_on": "2025-11-18 13:41:53",
       "slug": "flag-of-tibet",
       "category": "Flags",
@@ -116600,7 +116600,7 @@
     },
     {
       "title": "Flag of Papua New Guinea",
-      "file_name": "flag-of-papua-new-guinea.png",
+      "file_name": "images/flags/flag-of-papua-new-guinea.png",
       "added_on": "2025-11-18 13:51:44",
       "slug": "flag-of-papua-new-guinea",
       "category": "Flags",
@@ -116665,7 +116665,7 @@
     },
     {
       "title": "Flat White",
-      "file_name": "flat-white.png",
+      "file_name": "images/food_drink/flat-white.png",
       "added_on": "2025-11-18 14:41:46",
       "slug": "flat-white",
       "category": "Food & Drink",
@@ -116808,7 +116808,7 @@
     },
     {
       "title": "Forgot Password Icon",
-      "file_name": "forgot-password-icon.png",
+      "file_name": "images/interface_symbols/forgot-password-icon.png",
       "added_on": "2025-11-19 22:31:35",
       "slug": "forgot-password-icon",
       "category": "Interface & Symbols",
@@ -117936,7 +117936,7 @@
     },
     {
       "title": "Flying Squirrel",
-      "file_name": "flying-squirrel.png",
+      "file_name": "images/animals/flying-squirrel.png",
       "added_on": "2025-11-26 12:01:38",
       "slug": "flying-squirrel",
       "category": "Animals",
@@ -118146,7 +118146,7 @@
     },
     {
       "title": "Forest Cable Logging Carriage",
-      "file_name": "forest-cable-logging-carriage.png",
+      "file_name": "images/vehicles_transport/forest-cable-logging-carriage.png",
       "added_on": "2025-11-26 15:11:10",
       "slug": "forest-cable-logging-carriage",
       "category": "Vehicles & Transport",
@@ -118536,7 +118536,7 @@
     },
     {
       "title": "Finish Flag",
-      "file_name": "finish-flag.png",
+      "file_name": "images/flags/finish-flag.png",
       "added_on": "2025-12-01 13:22:56",
       "slug": "finish-flag",
       "category": "Flags",
@@ -118822,7 +118822,7 @@
     },
     {
       "title": "Francesinha Sandwich",
-      "file_name": "francesinha-sandwich.png",
+      "file_name": "images/food_drink/francesinha-sandwich.png",
       "added_on": "2025-12-01 17:01:33",
       "slug": "francesinha-sandwich",
       "category": "Food & Drink",
@@ -119163,7 +119163,7 @@
     },
     {
       "title": "Frailejon",
-      "file_name": "frailejon.png",
+      "file_name": "images/nature_outdoors/frailejon.png",
       "added_on": "2025-12-04 19:21:46",
       "slug": "frailejon",
       "category": "Nature & Outdoors",
@@ -120190,7 +120190,7 @@
     },
     {
       "title": "Fishing Industry",
-      "file_name": "fishing-industry.png",
+      "file_name": "images/work_industry/fishing-industry.png",
       "added_on": "2025-12-14 15:41:47",
       "slug": "fishing-industry",
       "category": "Work & Industry",
@@ -120491,7 +120491,7 @@
     },
     {
       "title": "Flower",
-      "file_name": "flower.png",
+      "file_name": "images/nature_outdoors/flower.png",
       "added_on": "2026-01-22 19:41:19",
       "slug": "flower",
       "category": "Nature & Outdoors",
@@ -121076,7 +121076,7 @@
     },
     {
       "title": "Food Donation",
-      "file_name": "food-donation.png",
+      "file_name": "images/food_drink/food-donation.png",
       "added_on": "2026-01-23 03:21:19",
       "slug": "food-donation",
       "category": "Food & Drink",
@@ -121544,7 +121544,7 @@
     },
     {
       "title": "Foam Mattress Topper",
-      "file_name": "foam-mattress-topper.png",
+      "file_name": "images/everyday_life/foam-mattress-topper.png",
       "added_on": "2026-01-23 16:51:11",
       "slug": "foam-mattress-topper",
       "category": "Everyday Life",
@@ -121960,7 +121960,7 @@
     },
     {
       "title": "Freestyle Scooter Ramp",
-      "file_name": "freestyle-scooter-ramp.png",
+      "file_name": "images/sports/freestyle-scooter-ramp.png",
       "added_on": "2026-01-26 18:11:09",
       "slug": "freestyle-scooter-ramp",
       "category": "Sports",
@@ -122146,7 +122146,7 @@
     },
     {
       "title": "Floating Lighthouse",
-      "file_name": "floating-lighthouse.png",
+      "file_name": "images/places_structures/floating-lighthouse.png",
       "added_on": "2026-01-26 20:41:07",
       "slug": "floating-lighthouse",
       "category": "Places & Structures",
@@ -122860,7 +122860,7 @@
     },
     {
       "title": "Foldable Step Stool",
-      "file_name": "foldable-step-stool.png",
+      "file_name": "images/everyday_life/foldable-step-stool.png",
       "added_on": "2026-01-29 19:21:08",
       "slug": "foldable-step-stool",
       "category": "Everyday Life",
@@ -123781,7 +123781,7 @@
     },
     {
       "title": "Flying Dragon Lizard",
-      "file_name": "flying-dragon-lizard.png",
+      "file_name": "images/animals/flying-dragon-lizard.png",
       "added_on": "2026-02-01 20:01:08",
       "slug": "flying-dragon-lizard",
       "category": "Animals",
@@ -124355,7 +124355,7 @@
     },
     {
       "title": "Foldable Kayak",
-      "file_name": "foldable-kayak.png",
+      "file_name": "images/vehicles_transport/foldable-kayak.png",
       "added_on": "2026-02-04 14:01:32",
       "slug": "foldable-kayak",
       "category": "Vehicles & Transport",
@@ -124888,7 +124888,7 @@
     },
     {
       "title": "Foam Pit",
-      "file_name": "foam-pit.png",
+      "file_name": "images/sports/foam-pit.png",
       "added_on": "2026-02-10 21:01:11",
       "slug": "foam-pit",
       "category": "Sports",
@@ -125057,7 +125057,7 @@
     },
     {
       "title": "Floating Bamboo Village",
-      "file_name": "floating-bamboo-village.png",
+      "file_name": "images/places_structures/floating-bamboo-village.png",
       "added_on": "2026-02-10 23:11:11",
       "slug": "floating-bamboo-village",
       "category": "Places & Structures",
@@ -125073,7 +125073,7 @@
     },
     {
       "title": "Floodgate",
-      "file_name": "floodgate.png",
+      "file_name": "images/places_structures/floodgate.png",
       "added_on": "2026-02-10 23:21:14",
       "slug": "floodgate",
       "category": "Places & Structures",
@@ -125309,7 +125309,7 @@
     },
     {
       "title": "Floating Fuel Barge",
-      "file_name": "floating-fuel-barge.png",
+      "file_name": "images/vehicles_transport/floating-fuel-barge.png",
       "added_on": "2026-02-11 02:21:09",
       "slug": "floating-fuel-barge",
       "category": "Vehicles & Transport",
@@ -125417,7 +125417,7 @@
     },
     {
       "title": "Foam Ax",
-      "file_name": "foam-ax.png",
+      "file_name": "images/entertainment_leisure/foam-ax.png",
       "added_on": "2026-02-11 03:51:09",
       "slug": "foam-ax",
       "category": "Entertainment & Leisure",
@@ -125495,7 +125495,7 @@
     },
     {
       "title": "Floating Lantern Harbor",
-      "file_name": "floating-lantern-harbor.png",
+      "file_name": "images/places_structures/floating-lantern-harbor.png",
       "added_on": "2026-02-11 04:51:14",
       "slug": "floating-lantern-harbor",
       "category": "Places & Structures",
@@ -125586,7 +125586,7 @@
     },
     {
       "title": "Fraud",
-      "file_name": "fraud.png",
+      "file_name": "images/everyday_life/fraud.png",
       "added_on": "2026-02-11 06:01:14",
       "slug": "fraud",
       "category": "Everyday Life",
@@ -125940,7 +125940,7 @@
     },
     {
       "title": "Forest Firefighting Helicopter",
-      "file_name": "forest-firefighting-helicopter.png",
+      "file_name": "images/vehicles_transport/forest-firefighting-helicopter.png",
       "added_on": "2026-02-11 13:01:09",
       "slug": "forest-firefighting-helicopter",
       "category": "Vehicles & Transport",
@@ -126201,7 +126201,7 @@
     },
     {
       "title": "Fossil Shell",
-      "file_name": "fossil-shell.png",
+      "file_name": "images/hobbies/fossil-shell.png",
       "added_on": "2026-02-11 16:31:09",
       "slug": "fossil-shell",
       "category": "Hobbies",
@@ -126666,7 +126666,7 @@
     },
     {
       "title": "Floating Market Boat",
-      "file_name": "floating-market-boat.png",
+      "file_name": "images/vehicles_transport/floating-market-boat.png",
       "added_on": "2026-02-12 17:01:11",
       "slug": "floating-market-boat",
       "category": "Vehicles & Transport",
@@ -126842,7 +126842,7 @@
     },
     {
       "title": "Finances",
-      "file_name": "finances.png",
+      "file_name": "images/everyday_life/finances.png",
       "added_on": "2026-02-23 11:41:11",
       "slug": "finances",
       "category": "Everyday Life",
@@ -128361,7 +128361,7 @@
     },
     {
       "title": "Floating Houseboat",
-      "file_name": "floating-houseboat.png",
+      "file_name": "images/vehicles_transport/floating-houseboat.png",
       "added_on": "2026-03-09 02:30:52",
       "slug": "floating-houseboat",
       "category": "Vehicles & Transport",
@@ -128439,7 +128439,7 @@
     },
     {
       "title": "Foundry Ladle",
-      "file_name": "foundry-ladle.png",
+      "file_name": "images/work_industry/foundry-ladle.png",
       "added_on": "2026-03-09 03:30:49",
       "slug": "foundry-ladle",
       "category": "Work & Industry",
@@ -129489,7 +129489,7 @@
     },
     {
       "title": "Fly Fishing Rod",
-      "file_name": "fly-fishing-rod.png",
+      "file_name": "images/sports/fly-fishing-rod.png",
       "added_on": "2026-03-17 15:00:49",
       "slug": "fly-fishing-rod",
       "category": "Sports",
@@ -129528,7 +129528,7 @@
     },
     {
       "title": "Fountain Pen Ink Bottle",
-      "file_name": "fountain-pen-ink-bottle.png",
+      "file_name": "images/hobbies/fountain-pen-ink-bottle.png",
       "added_on": "2026-03-17 15:30:50",
       "slug": "fountain-pen-ink-bottle",
       "category": "Hobbies",
@@ -129580,7 +129580,7 @@
     },
     {
       "title": "Fleece Vest",
-      "file_name": "fleece-vest.png",
+      "file_name": "images/fashion_style/fleece-vest.png",
       "added_on": "2026-03-17 16:10:54",
       "slug": "fleece-vest",
       "category": "Fashion & Style",
@@ -129632,7 +129632,7 @@
     },
     {
       "title": "Foam Dart Blaster",
-      "file_name": "foam-dart-blaster.png",
+      "file_name": "images/sports/foam-dart-blaster.png",
       "added_on": "2026-03-17 16:50:56",
       "slug": "foam-dart-blaster",
       "category": "Sports",
@@ -129710,7 +129710,7 @@
     },
     {
       "title": "Fingerprint Door Reader",
-      "file_name": "fingerprint-door-reader.png",
+      "file_name": "images/technology_media/fingerprint-door-reader.png",
       "added_on": "2026-03-17 17:50:51",
       "slug": "fingerprint-door-reader",
       "category": "Technology & Media",
@@ -129879,7 +129879,7 @@
     },
     {
       "title": "Finger Puppet",
-      "file_name": "finger-puppet.png",
+      "file_name": "images/entertainment_leisure/finger-puppet.png",
       "added_on": "2026-03-17 20:00:49",
       "slug": "finger-puppet",
       "category": "Entertainment & Leisure",
@@ -130131,7 +130131,7 @@
     },
     {
       "title": "Fire lookout tower",
-      "file_name": "fire-lookout-tower.png",
+      "file_name": "images/places_structures/fire-lookout-tower.png",
       "added_on": "2026-03-17 23:10:55",
       "slug": "fire-lookout-tower",
       "category": "Places & Structures",
@@ -130404,7 +130404,7 @@
     },
     {
       "title": "Flag of Tuvalu",
-      "file_name": "flag-of-tuvalu.png",
+      "file_name": "images/flags/flag-of-tuvalu.png",
       "added_on": "2026-03-18 03:20:54",
       "slug": "flag-of-tuvalu",
       "category": "Flags",
