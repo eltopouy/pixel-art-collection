@@ -608,7 +608,7 @@
     },
     {
       "title": "Spoon",
-      "file_name": "spoon.png",
+      "file_name": "images/everyday_life/spoon.png",
       "added_on": "2025-05-15 20:21:52",
       "slug": "spoon",
       "category": "Everyday Life",
@@ -12228,7 +12228,7 @@
     },
     {
       "title": "Sports Net",
-      "file_name": "sports-net.png",
+      "file_name": "images/sports/sports-net.png",
       "added_on": "2025-05-25 13:41:31",
       "slug": "sports-net",
       "category": "Sports",
@@ -13048,7 +13048,7 @@
     },
     {
       "title": "Sports Tape",
-      "file_name": "sports-tape.png",
+      "file_name": "images/sports/sports-tape.png",
       "added_on": "2025-05-26 02:31:19",
       "slug": "sports-tape",
       "category": "Sports",
@@ -13597,7 +13597,7 @@
     },
     {
       "title": "Sports jersey",
-      "file_name": "sports-jersey.png",
+      "file_name": "images/sports/sports-jersey.png",
       "added_on": "2025-05-26 10:40:42",
       "slug": "sports-jersey",
       "category": "Sports",
@@ -13883,7 +13883,7 @@
     },
     {
       "title": "Sports First Aid Kit",
-      "file_name": "sports-first-aid-kit.png",
+      "file_name": "images/sports/sports-first-aid-kit.png",
       "added_on": "2025-05-26 14:50:51",
       "slug": "sports-first-aid-kit",
       "category": "Sports",
@@ -14949,7 +14949,7 @@
     },
     {
       "title": "Sports Clipboard",
-      "file_name": "sports-clipboard.png",
+      "file_name": "images/sports/sports-clipboard.png",
       "added_on": "2025-05-27 07:00:51",
       "slug": "sports-clipboard",
       "category": "Sports",
@@ -14988,7 +14988,7 @@
     },
     {
       "title": "Sports Water Jug",
-      "file_name": "sports-water-jug.png",
+      "file_name": "images/sports/sports-water-jug.png",
       "added_on": "2025-05-27 07:40:52",
       "slug": "sports-water-jug",
       "category": "Sports",
@@ -15743,7 +15743,7 @@
     },
     {
       "title": "Sports megaphone",
-      "file_name": "sports-megaphone.png",
+      "file_name": "images/sports/sports-megaphone.png",
       "added_on": "2025-05-27 20:21:21",
       "slug": "sports-megaphone",
       "category": "Sports",
@@ -21016,7 +21016,7 @@
     },
     {
       "title": "Spork",
-      "file_name": "spork.png",
+      "file_name": "images/everyday_life/spork.png",
       "added_on": "2025-06-02 12:11:05",
       "slug": "spork",
       "category": "Everyday Life",
@@ -35433,7 +35433,7 @@
     },
     {
       "title": "Sports Tournament",
-      "file_name": "sports-tournament.png",
+      "file_name": "images/events/sports-tournament.png",
       "added_on": "2025-06-12 06:07:04",
       "slug": "sports-tournament",
       "category": "Events",
@@ -61566,7 +61566,7 @@
     },
     {
       "title": "Spool of Thread",
-      "file_name": "spool-of-thread.png",
+      "file_name": "images/everyday_life/spool-of-thread.png",
       "added_on": "2025-07-08 23:16:00",
       "slug": "spool-of-thread",
       "category": "Everyday Life",
@@ -66695,7 +66695,7 @@
     },
     {
       "title": "Sports Podium",
-      "file_name": "sports-podium.png",
+      "file_name": "images/sports/sports-podium.png",
       "added_on": "2025-07-11 21:01:36",
       "slug": "sports-podium",
       "category": "Sports",
@@ -73798,7 +73798,7 @@
     },
     {
       "title": "Spotted Handfish",
-      "file_name": "spotted-handfish.png",
+      "file_name": "images/animals/spotted-handfish.png",
       "added_on": "2025-07-17 21:41:50",
       "slug": "spotted-handfish",
       "category": "Animals",
@@ -84977,7 +84977,7 @@
     },
     {
       "title": "Spotted Cuscus",
-      "file_name": "spotted-cuscus.png",
+      "file_name": "images/animals/spotted-cuscus.png",
       "added_on": "2025-08-19 17:41:28",
       "slug": "spotted-cuscus",
       "category": "Animals",
@@ -91019,7 +91019,7 @@
     },
     {
       "title": "Spotted Hyena",
-      "file_name": "spotted-hyena.png",
+      "file_name": "images/animals/spotted-hyena.png",
       "added_on": "2025-09-10 15:01:31",
       "slug": "spotted-hyena",
       "category": "Animals",
@@ -103907,7 +103907,7 @@
     },
     {
       "title": "Spoon Rest",
-      "file_name": "spoon-rest.png",
+      "file_name": "images/everyday_life/spoon-rest.png",
       "added_on": "2025-10-10 17:41:43",
       "slug": "spoon-rest",
       "category": "Everyday Life",
@@ -112431,7 +112431,7 @@
     },
     {
       "title": "Sports Mascot Head",
-      "file_name": "sports-mascot-head.png",
+      "file_name": "images/sports/sports-mascot-head.png",
       "added_on": "2025-11-03 10:52:04",
       "slug": "sports-mascot-head",
       "category": "Sports",
@@ -113399,7 +113399,7 @@
     },
     {
       "title": "Sports Headband",
-      "file_name": "sports-headband.png",
+      "file_name": "images/sports/sports-headband.png",
       "added_on": "2025-11-07 00:01:55",
       "slug": "sports-headband",
       "category": "Sports",
@@ -115944,7 +115944,7 @@
     },
     {
       "title": "Spotted Eagle Ray",
-      "file_name": "spotted-eagle-ray.png",
+      "file_name": "images/animals/spotted-eagle-ray.png",
       "added_on": "2025-11-15 19:51:50",
       "slug": "spotted-eagle-ray",
       "category": "Animals",
@@ -126370,7 +126370,7 @@
     },
     {
       "title": "Spotted Garden Eel",
-      "file_name": "spotted-garden-eel.png",
+      "file_name": "images/animals/spotted-garden-eel.png",
       "added_on": "2026-02-11 18:41:07",
       "slug": "spotted-garden-eel",
       "category": "Animals",
