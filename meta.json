@@ -5519,7 +5519,7 @@
     },
     {
       "title": "Pedal Boat",
-      "file_name": "pedal-boat.png",
+      "file_name": "images/vehicles_transport/pedal-boat.png",
       "added_on": "2025-05-17 22:50:36",
       "slug": "pedal-boat",
       "category": "Vehicles & Transport",
@@ -7260,7 +7260,7 @@
     },
     {
       "title": "Pebble",
-      "file_name": "pebble.png",
+      "file_name": "images/nature_outdoors/pebble.png",
       "added_on": "2025-05-19 04:20:51",
       "slug": "pebble",
       "category": "Nature & Outdoors",
@@ -7546,7 +7546,7 @@
     },
     {
       "title": "Peanut",
-      "file_name": "peanut.png",
+      "file_name": "images/food_drink/peanut.png",
       "added_on": "2025-05-19 08:00:46",
       "slug": "peanut",
       "category": "Food & Drink",
@@ -7650,7 +7650,7 @@
     },
     {
       "title": "Pear",
-      "file_name": "pear.png",
+      "file_name": "images/food_drink/pear.png",
       "added_on": "2025-05-19 09:21:20",
       "slug": "pear",
       "category": "Food & Drink",
@@ -14819,7 +14819,7 @@
     },
     {
       "title": "Pedicab",
-      "file_name": "pedicab.png",
+      "file_name": "images/vehicles_transport/pedicab.png",
       "added_on": "2025-05-27 04:30:46",
       "slug": "pedicab",
       "category": "Vehicles & Transport",
@@ -28205,7 +28205,7 @@
     },
     {
       "title": "Pearl Necklace",
-      "file_name": "pearl-necklace.png",
+      "file_name": "images/fashion_style/pearl-necklace.png",
       "added_on": "2025-06-08 21:33:00",
       "slug": "pearl-necklace",
       "category": "Fashion & Style",
@@ -33297,7 +33297,7 @@
     },
     {
       "title": "Peacock",
-      "file_name": "peacock.png",
+      "file_name": "images/animals/peacock.png",
       "added_on": "2025-06-11 16:18:49",
       "slug": "peacock",
       "category": "Animals",
@@ -38768,7 +38768,7 @@
     },
     {
       "title": "Peat Bog",
-      "file_name": "peat-bog.png",
+      "file_name": "images/nature_outdoors/peat-bog.png",
       "added_on": "2025-06-13 04:49:27",
       "slug": "peat-bog",
       "category": "Nature & Outdoors",
@@ -44582,7 +44582,7 @@
     },
     {
       "title": "Pediatrician",
-      "file_name": "pediatrician.png",
+      "file_name": "images/professions/pediatrician.png",
       "added_on": "2025-06-14 17:31:01",
       "slug": "pediatrician",
       "category": "Professions",
@@ -52877,7 +52877,7 @@
     },
     {
       "title": "Peanut Butter Jelly Sandwich",
-      "file_name": "peanut-butter-jelly-sandwich.png",
+      "file_name": "images/food_drink/peanut-butter-jelly-sandwich.png",
       "added_on": "2025-06-26 15:32:53",
       "slug": "peanut-butter-jelly-sandwich",
       "category": "Food & Drink",
@@ -55353,7 +55353,7 @@
     },
     {
       "title": "Peanut Butter Jelly Sundae",
-      "file_name": "peanut-butter-jelly-sundae.png",
+      "file_name": "images/food_drink/peanut-butter-jelly-sundae.png",
       "added_on": "2025-06-29 16:47:56",
       "slug": "peanut-butter-jelly-sundae",
       "category": "Food & Drink",
@@ -57095,7 +57095,7 @@
     },
     {
       "title": "Pebble beach",
-      "file_name": "pebble-beach.png",
+      "file_name": "images/nature_outdoors/pebble-beach.png",
       "added_on": "2025-07-05 18:51:01",
       "slug": "pebble-beach",
       "category": "Nature & Outdoors",
@@ -81572,7 +81572,7 @@
     },
     {
       "title": "Pecan",
-      "file_name": "pecan.png",
+      "file_name": "images/food_drink/pecan.png",
       "added_on": "2025-07-30 17:24:25",
       "slug": "pecan",
       "category": "Food & Drink",
@@ -83753,7 +83753,7 @@
     },
     {
       "title": "Peacock Feather",
-      "file_name": "peacock-feather.png",
+      "file_name": "images/nature_outdoors/peacock-feather.png",
       "added_on": "2025-08-16 22:51:14",
       "slug": "peacock-feather",
       "category": "Nature & Outdoors",
@@ -89272,7 +89272,7 @@
     },
     {
       "title": "Pearl Onion",
-      "file_name": "pearl-onion.png",
+      "file_name": "images/food_drink/pearl-onion.png",
       "added_on": "2025-09-07 14:41:08",
       "slug": "pearl-onion",
       "category": "Food & Drink",
@@ -90136,7 +90136,7 @@
     },
     {
       "title": "Peacock Spider",
-      "file_name": "peacock-spider.png",
+      "file_name": "images/animals/peacock-spider.png",
       "added_on": "2025-09-09 15:11:37",
       "slug": "peacock-spider",
       "category": "Animals",
@@ -93095,7 +93095,7 @@
     },
     {
       "title": "Pedal Bin",
-      "file_name": "pedal-bin.png",
+      "file_name": "images/everyday_life/pedal-bin.png",
       "added_on": "2025-09-16 10:11:29",
       "slug": "pedal-bin",
       "category": "Everyday Life",
@@ -94158,7 +94158,7 @@
     },
     {
       "title": "Peanut Brittle",
-      "file_name": "peanut-brittle.png",
+      "file_name": "images/food_drink/peanut-brittle.png",
       "added_on": "2025-09-18 11:31:25",
       "slug": "peanut-brittle",
       "category": "Food & Drink",
@@ -115983,7 +115983,7 @@
     },
     {
       "title": "Peanut Butter Pickle Sandwich",
-      "file_name": "peanut-butter-pickle-sandwich.png",
+      "file_name": "images/food_drink/peanut-butter-pickle-sandwich.png",
       "added_on": "2025-11-15 20:21:54",
       "slug": "peanut-butter-pickle-sandwich",
       "category": "Food & Drink",
@@ -123891,7 +123891,7 @@
     },
     {
       "title": "Pebble Mosaic",
-      "file_name": "pebble-mosaic.png",
+      "file_name": "images/hobbies/pebble-mosaic.png",
       "added_on": "2026-02-01 21:31:09",
       "slug": "pebble-mosaic",
       "category": "Hobbies",
@@ -127915,7 +127915,7 @@
     },
     {
       "title": "Pebble Stack",
-      "file_name": "pebble-stack.png",
+      "file_name": "images/hobbies/pebble-stack.png",
       "added_on": "2026-03-08 20:00:45",
       "slug": "pebble-stack",
       "category": "Hobbies",
