@@ -2386,7 +2386,7 @@
     },
     {
       "title": "Narwhal",
-      "file_name": "narwhal.png",
+      "file_name": "images/animals/narwhal.png",
       "added_on": "2025-05-16 12:52:19",
       "slug": "narwhal",
       "category": "Animals",
@@ -3167,7 +3167,7 @@
     },
     {
       "title": "Nature Journal",
-      "file_name": "nature-journal.png",
+      "file_name": "images/nature_outdoors/nature-journal.png",
       "added_on": "2025-05-16 18:50:50",
       "slug": "nature-journal",
       "category": "Nature & Outdoors",
@@ -15756,7 +15756,7 @@
     },
     {
       "title": "Napkin",
-      "file_name": "napkin.png",
+      "file_name": "images/everyday_life/napkin.png",
       "added_on": "2025-05-27 20:30:58",
       "slug": "napkin",
       "category": "Everyday Life",
@@ -15782,7 +15782,7 @@
     },
     {
       "title": "Napkin Holder",
-      "file_name": "napkin-holder.png",
+      "file_name": "images/everyday_life/napkin-holder.png",
       "added_on": "2025-05-27 21:00:59",
       "slug": "napkin-holder",
       "category": "Everyday Life",
@@ -24494,7 +24494,7 @@
     },
     {
       "title": "Navette",
-      "file_name": "navette.png",
+      "file_name": "images/vehicles_transport/navette.png",
       "added_on": "2025-06-04 21:36:53",
       "slug": "navette",
       "category": "Vehicles & Transport",
@@ -25902,7 +25902,7 @@
     },
     {
       "title": "Natural Gas",
-      "file_name": "natural-gas.png",
+      "file_name": "images/work_industry/natural-gas.png",
       "added_on": "2025-06-06 22:00:47",
       "slug": "natural-gas",
       "category": "Work & Industry",
@@ -29063,7 +29063,7 @@
     },
     {
       "title": "NAS",
-      "file_name": "nas.png",
+      "file_name": "images/technology_media/nas.png",
       "added_on": "2025-06-10 08:10:09",
       "slug": "nas",
       "category": "Technology & Media",
@@ -45219,7 +45219,7 @@
     },
     {
       "title": "Natilla",
-      "file_name": "natilla.png",
+      "file_name": "images/food_drink/natilla.png",
       "added_on": "2025-06-14 23:18:53",
       "slug": "natilla",
       "category": "Food & Drink",
@@ -56926,7 +56926,7 @@
     },
     {
       "title": "Navy Admiral Saluting",
-      "file_name": "navy-admiral-saluting.png",
+      "file_name": "images/professions/navy-admiral-saluting.png",
       "added_on": "2025-07-05 16:40:58",
       "slug": "navy-admiral-saluting",
       "category": "Professions",
@@ -60450,7 +60450,7 @@
     },
     {
       "title": "Nautilus",
-      "file_name": "nautilus.png",
+      "file_name": "images/animals/nautilus.png",
       "added_on": "2025-07-08 15:06:51",
       "slug": "nautilus",
       "category": "Animals",
@@ -62727,7 +62727,7 @@
     },
     {
       "title": "Nasal Strip",
-      "file_name": "nasal-strip.png",
+      "file_name": "images/health_wellness/nasal-strip.png",
       "added_on": "2025-07-09 08:16:02",
       "slug": "nasal-strip",
       "category": "Health & Wellness",
@@ -63191,7 +63191,7 @@
     },
     {
       "title": "Nature Sound Recorder",
-      "file_name": "nature-sound-recorder.png",
+      "file_name": "images/hobbies/nature-sound-recorder.png",
       "added_on": "2025-07-09 11:30:57",
       "slug": "nature-sound-recorder",
       "category": "Hobbies",
@@ -67101,7 +67101,7 @@
     },
     {
       "title": "Nasal Irrigator",
-      "file_name": "nasal-irrigator.png",
+      "file_name": "images/health_wellness/nasal-irrigator.png",
       "added_on": "2025-07-12 02:51:38",
       "slug": "nasal-irrigator",
       "category": "Health & Wellness",
@@ -75078,7 +75078,7 @@
     },
     {
       "title": "Narrowboat",
-      "file_name": "narrowboat.png",
+      "file_name": "images/vehicles_transport/narrowboat.png",
       "added_on": "2025-07-19 14:31:30",
       "slug": "narrowboat",
       "category": "Vehicles & Transport",
@@ -89521,7 +89521,7 @@
     },
     {
       "title": "Napoleon Bonaparte",
-      "file_name": "napoleon-bonaparte.png",
+      "file_name": "images/historical_figures/napoleon-bonaparte.png",
       "added_on": "2025-09-08 12:31:40",
       "slug": "napoleon-bonaparte",
       "category": "Historical Figures",
@@ -99673,7 +99673,7 @@
     },
     {
       "title": "Nasal Dilator",
-      "file_name": "nasal-dilator.png",
+      "file_name": "images/health_wellness/nasal-dilator.png",
       "added_on": "2025-10-02 08:41:18",
       "slug": "nasal-dilator",
       "category": "Health & Wellness",
@@ -100799,7 +100799,7 @@
     },
     {
       "title": "Navajo Sand Painting",
-      "file_name": "navajo-sand-painting.png",
+      "file_name": "images/history_culture/navajo-sand-painting.png",
       "added_on": "2025-10-04 17:31:22",
       "slug": "navajo-sand-painting",
       "category": "History & Culture",
@@ -101517,7 +101517,7 @@
     },
     {
       "title": "Navajo Wedding Basket",
-      "file_name": "navajo-wedding-basket.png",
+      "file_name": "images/history_culture/navajo-wedding-basket.png",
       "added_on": "2025-10-05 23:41:39",
       "slug": "navajo-wedding-basket",
       "category": "History & Culture",
@@ -102485,7 +102485,7 @@
     },
     {
       "title": "Nasi Lemak",
-      "file_name": "nasi-lemak.png",
+      "file_name": "images/food_drink/nasi-lemak.png",
       "added_on": "2025-10-08 22:41:41",
       "slug": "nasi-lemak",
       "category": "Food & Drink",
@@ -108135,7 +108135,7 @@
     },
     {
       "title": "National Park",
-      "file_name": "national-park.png",
+      "file_name": "images/nature_outdoors/national-park.png",
       "added_on": "2025-10-24 11:09:43",
       "slug": "national-park",
       "category": "Nature & Outdoors",
