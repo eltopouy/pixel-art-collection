@@ -2256,7 +2256,7 @@
     },
     {
       "title": "Honey Bee",
-      "file_name": "honey-bee.png",
+      "file_name": "images/animals/honey-bee.png",
       "added_on": "2025-05-16 12:22:26",
       "slug": "honey-bee",
       "category": "Animals",
@@ -6142,7 +6142,7 @@
     },
     {
       "title": "Honey",
-      "file_name": "honey.png",
+      "file_name": "images/food_drink/honey.png",
       "added_on": "2025-05-18 13:10:49",
       "slug": "honey",
       "category": "Food & Drink",
@@ -20211,7 +20211,7 @@
     },
     {
       "title": "Hoover Dam",
-      "file_name": "hoover-dam.png",
+      "file_name": "images/places_structures/hoover-dam.png",
       "added_on": "2025-06-02 09:42:27",
       "slug": "hoover-dam",
       "category": "Places & Structures",
@@ -27265,7 +27265,7 @@
     },
     {
       "title": "Hopscotch Mat",
-      "file_name": "hopscotch-mat.png",
+      "file_name": "images/entertainment_leisure/hopscotch-mat.png",
       "added_on": "2025-06-07 22:31:36",
       "slug": "hopscotch-mat",
       "category": "Entertainment & Leisure",
@@ -27876,7 +27876,7 @@
     },
     {
       "title": "Honduras",
-      "file_name": "honduras.png",
+      "file_name": "images/countries/honduras.png",
       "added_on": "2025-06-08 18:01:40",
       "slug": "honduras",
       "category": "Countries",
@@ -33953,7 +33953,7 @@
     },
     {
       "title": "Honeycrisp Apple",
-      "file_name": "honeycrisp-apple.png",
+      "file_name": "images/food_drink/honeycrisp-apple.png",
       "added_on": "2025-06-11 21:24:44",
       "slug": "honeycrisp-apple",
       "category": "Food & Drink",
@@ -44528,7 +44528,7 @@
     },
     {
       "title": "Honey Badger",
-      "file_name": "honey-badger.png",
+      "file_name": "images/animals/honey-badger.png",
       "added_on": "2025-06-14 17:00:55",
       "slug": "honey-badger",
       "category": "Animals",
@@ -45128,7 +45128,7 @@
     },
     {
       "title": "Hoop Earrings",
-      "file_name": "hoop-earrings.png",
+      "file_name": "images/fashion_style/hoop-earrings.png",
       "added_on": "2025-06-14 22:36:55",
       "slug": "hoop-earrings",
       "category": "Fashion & Style",
@@ -52929,7 +52929,7 @@
     },
     {
       "title": "Honey Chicken",
-      "file_name": "honey-chicken.png",
+      "file_name": "images/food_drink/honey-chicken.png",
       "added_on": "2025-06-26 15:33:05",
       "slug": "honey-chicken",
       "category": "Food & Drink",
@@ -64053,7 +64053,7 @@
     },
     {
       "title": "Hoodie",
-      "file_name": "hoodie.png",
+      "file_name": "images/fashion_style/hoodie.png",
       "added_on": "2025-07-09 17:30:59",
       "slug": "hoodie",
       "category": "Fashion & Style",
@@ -68126,7 +68126,7 @@
     },
     {
       "title": "Honeycomb Mask",
-      "file_name": "honeycomb-mask.png",
+      "file_name": "images/fantasy_imagination/honeycomb-mask.png",
       "added_on": "2025-07-12 18:21:35",
       "slug": "honeycomb-mask",
       "category": "Fantasy & Imagination",
@@ -69093,7 +69093,7 @@
     },
     {
       "title": "Hong Kong",
-      "file_name": "hong-kong.png",
+      "file_name": "images/places_structures/hong-kong.png",
       "added_on": "2025-07-13 16:21:49",
       "slug": "hong-kong",
       "category": "Places & Structures",
@@ -75587,7 +75587,7 @@
     },
     {
       "title": "Hoop Pine",
-      "file_name": "hoop-pine.png",
+      "file_name": "images/nature_outdoors/hoop-pine.png",
       "added_on": "2025-07-19 20:01:32",
       "slug": "hoop-pine",
       "category": "Nature & Outdoors",
@@ -81689,7 +81689,7 @@
     },
     {
       "title": "Honduras Flag",
-      "file_name": "honduras-flag.png",
+      "file_name": "images/flags/honduras-flag.png",
       "added_on": "2025-08-02 16:21:51",
       "slug": "honduras-flag",
       "category": "Flags",
@@ -93735,7 +93735,7 @@
     },
     {
       "title": "Honeycomb",
-      "file_name": "honeycomb.png",
+      "file_name": "images/nature_outdoors/honeycomb.png",
       "added_on": "2025-09-17 13:51:25",
       "slug": "honeycomb",
       "category": "Nature & Outdoors",
@@ -96029,7 +96029,7 @@
     },
     {
       "title": "Hopi Kachina Doll",
-      "file_name": "hopi-kachina-doll.png",
+      "file_name": "images/history_culture/hopi-kachina-doll.png",
       "added_on": "2025-09-22 13:00:55",
       "slug": "hopi-kachina-doll",
       "category": "History & Culture",
@@ -110849,7 +110849,7 @@
     },
     {
       "title": "Honeycomb Ice Cream",
-      "file_name": "honeycomb-ice-cream.png",
+      "file_name": "images/food_drink/honeycomb-ice-cream.png",
       "added_on": "2025-10-30 18:11:53",
       "slug": "honeycomb-ice-cream",
       "category": "Food & Drink",
@@ -112873,7 +112873,7 @@
     },
     {
       "title": "Honey Mushroom",
-      "file_name": "honey-mushroom.png",
+      "file_name": "images/nature_outdoors/honey-mushroom.png",
       "added_on": "2025-11-04 10:52:03",
       "slug": "honey-mushroom",
       "category": "Nature & Outdoors",
@@ -117676,7 +117676,7 @@
     },
     {
       "title": "Horned Lizard",
-      "file_name": "horned-lizard.png",
+      "file_name": "images/animals/horned-lizard.png",
       "added_on": "2025-11-25 09:31:37",
       "slug": "horned-lizard",
       "category": "Animals",
@@ -127432,7 +127432,7 @@
     },
     {
       "title": "Hoodoo Forest",
-      "file_name": "hoodoo-forest.png",
+      "file_name": "images/nature_outdoors/hoodoo-forest.png",
       "added_on": "2026-03-02 17:01:23",
       "slug": "hoodoo-forest",
       "category": "Nature & Outdoors",
