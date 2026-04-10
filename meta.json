@@ -2269,7 +2269,7 @@
     },
     {
       "title": "Photography Kit",
-      "file_name": "photography-starter-kit.png",
+      "file_name": "images/hobbies/photography-starter-kit.png",
       "added_on": "2025-05-16 12:25:31",
       "slug": "photography-starter-kit",
       "category": "Hobbies",
@@ -2568,7 +2568,7 @@
     },
     {
       "title": "Photographer",
-      "file_name": "photographer.png",
+      "file_name": "images/professions/photographer.png",
       "added_on": "2025-05-16 13:34:26",
       "slug": "photographer",
       "category": "Professions",
@@ -8924,7 +8924,7 @@
     },
     {
       "title": "Pick axe",
-      "file_name": "pick-axe.png",
+      "file_name": "images/work_industry/pick-axe.png",
       "added_on": "2025-05-22 18:55:59",
       "slug": "pick-axe",
       "category": "Work & Industry",
@@ -9795,7 +9795,7 @@
     },
     {
       "title": "Piano",
-      "file_name": "piano.png",
+      "file_name": "images/entertainment_leisure/piano.png",
       "added_on": "2025-05-23 08:20:54",
       "slug": "piano",
       "category": "Entertainment & Leisure",
@@ -10759,7 +10759,7 @@
     },
     {
       "title": "Pickleball",
-      "file_name": "pickleball.png",
+      "file_name": "images/sports/pickleball.png",
       "added_on": "2025-05-23 21:21:16",
       "slug": "pickleball",
       "category": "Sports",
@@ -14676,7 +14676,7 @@
     },
     {
       "title": "Photo Scanner",
-      "file_name": "photo-scanner.png",
+      "file_name": "images/technology_media/photo-scanner.png",
       "added_on": "2025-05-27 02:10:45",
       "slug": "photo-scanner",
       "category": "Technology & Media",
@@ -22301,7 +22301,7 @@
     },
     {
       "title": "Pickaxe",
-      "file_name": "pickaxe.png",
+      "file_name": "images/work_industry/pickaxe.png",
       "added_on": "2025-06-03 16:55:57",
       "slug": "pickaxe",
       "category": "Work & Industry",
@@ -26167,7 +26167,7 @@
     },
     {
       "title": "Physics",
-      "file_name": "physics.png",
+      "file_name": "images/space_science/physics.png",
       "added_on": "2025-06-07 09:31:25",
       "slug": "physics",
       "category": "Space & Science",
@@ -27395,7 +27395,7 @@
     },
     {
       "title": "Photo",
-      "file_name": "photo.png",
+      "file_name": "images/everyday_life/photo.png",
       "added_on": "2025-06-08 01:00:18",
       "slug": "photo",
       "category": "Everyday Life",
@@ -42902,7 +42902,7 @@
     },
     {
       "title": "Photon Engine",
-      "file_name": "photon-engine.png",
+      "file_name": "images/space_science/photon-engine.png",
       "added_on": "2025-06-14 07:55:11",
       "slug": "photon-engine",
       "category": "Space & Science",
@@ -56598,7 +56598,7 @@
     },
     {
       "title": "Pianist",
-      "file_name": "pianist.png",
+      "file_name": "images/professions/pianist.png",
       "added_on": "2025-07-05 08:02:22",
       "slug": "pianist",
       "category": "Professions",
@@ -57398,7 +57398,7 @@
     },
     {
       "title": "Photon Collector",
-      "file_name": "photon-collector.png",
+      "file_name": "images/space_science/photon-collector.png",
       "added_on": "2025-07-05 20:51:17",
       "slug": "photon-collector",
       "category": "Space & Science",
@@ -64437,7 +64437,7 @@
     },
     {
       "title": "Pickleball Paddle",
-      "file_name": "pickleball-paddle.png",
+      "file_name": "images/sports/pickleball-paddle.png",
       "added_on": "2025-07-10 12:21:01",
       "slug": "pickleball-paddle",
       "category": "Sports",
@@ -64640,7 +64640,7 @@
     },
     {
       "title": "Pickleball Net",
-      "file_name": "pickleball-net.png",
+      "file_name": "images/sports/pickleball-net.png",
       "added_on": "2025-07-10 13:41:07",
       "slug": "pickleball-net",
       "category": "Sports",
@@ -65277,7 +65277,7 @@
     },
     {
       "title": "Photo Strip",
-      "file_name": "photo-strip.png",
+      "file_name": "images/entertainment_leisure/photo-strip.png",
       "added_on": "2025-07-10 18:05:59",
       "slug": "photo-strip",
       "category": "Entertainment & Leisure",
@@ -78657,7 +78657,7 @@
     },
     {
       "title": "Pi\u00f1ata",
-      "file_name": "piata.png",
+      "file_name": "images/events/piata.png",
       "added_on": "2025-07-24 19:41:36",
       "slug": "piata",
       "category": "Events",
@@ -81416,7 +81416,7 @@
     },
     {
       "title": "Pick and Shovel",
-      "file_name": "pick-and-shovel.png",
+      "file_name": "images/work_industry/pick-and-shovel.png",
       "added_on": "2025-07-30 17:22:40",
       "slug": "pick-and-shovel",
       "category": "Work & Industry",
@@ -93694,7 +93694,7 @@
     },
     {
       "title": "Phrenology Head",
-      "file_name": "phrenology-head.png",
+      "file_name": "images/history_culture/phrenology-head.png",
       "added_on": "2025-09-17 13:21:26",
       "slug": "phrenology-head",
       "category": "History & Culture",
@@ -94777,7 +94777,7 @@
     },
     {
       "title": "Piano Key Scarf",
-      "file_name": "piano-key-scarf.png",
+      "file_name": "images/fashion_style/piano-key-scarf.png",
       "added_on": "2025-09-19 12:21:24",
       "slug": "piano-key-scarf",
       "category": "Fashion & Style",
@@ -96896,7 +96896,7 @@
     },
     {
       "title": "Pickleback Shot",
-      "file_name": "pickleback-shot.png",
+      "file_name": "images/food_drink/pickleback-shot.png",
       "added_on": "2025-09-24 09:21:31",
       "slug": "pickleback-shot",
       "category": "Food & Drink",
@@ -104628,7 +104628,7 @@
     },
     {
       "title": "Photo Lanyard",
-      "file_name": "photo-lanyard.png",
+      "file_name": "images/entertainment_leisure/photo-lanyard.png",
       "added_on": "2025-10-13 08:31:50",
       "slug": "photo-lanyard",
       "category": "Entertainment & Leisure",
