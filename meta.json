@@ -9314,7 +9314,7 @@
     },
     {
       "title": "United Kingdom",
-      "file_name": "united-kingdom.png",
+      "file_name": "images/countries/united-kingdom.png",
       "added_on": "2025-05-23 02:00:53",
       "slug": "united-kingdom",
       "category": "Countries",
@@ -10798,7 +10798,7 @@
     },
     {
       "title": "University",
-      "file_name": "university.png",
+      "file_name": "images/places_structures/university.png",
       "added_on": "2025-05-23 21:51:26",
       "slug": "university",
       "category": "Places & Structures",
@@ -21448,7 +21448,7 @@
     },
     {
       "title": "Universal Travel Adapter",
-      "file_name": "universal-travel-adapter.png",
+      "file_name": "images/everyday_life/universal-travel-adapter.png",
       "added_on": "2025-06-03 08:05:51",
       "slug": "universal-travel-adapter",
       "category": "Everyday Life",
@@ -22940,7 +22940,7 @@
     },
     {
       "title": "United States of America",
-      "file_name": "united-states-of-america.png",
+      "file_name": "images/countries/united-states-of-america.png",
       "added_on": "2025-06-03 23:01:08",
       "slug": "united-states-of-america",
       "category": "Countries",
@@ -25393,7 +25393,7 @@
     },
     {
       "title": "University of Cambridge",
-      "file_name": "university-of-cambridge.png",
+      "file_name": "images/places_structures/university-of-cambridge.png",
       "added_on": "2025-06-06 09:12:07",
       "slug": "university-of-cambridge",
       "category": "Places & Structures",
@@ -46755,7 +46755,7 @@
     },
     {
       "title": "Unlimited Access",
-      "file_name": "unlimited-access.png",
+      "file_name": "images/interface_symbols/unlimited-access.png",
       "added_on": "2025-06-18 13:27:01",
       "slug": "unlimited-access",
       "category": "Interface & Symbols",
@@ -52708,7 +52708,7 @@
     },
     {
       "title": "Unlock Icon",
-      "file_name": "unlock-icon.png",
+      "file_name": "images/interface_symbols/unlock-icon.png",
       "added_on": "2025-06-26 15:31:53",
       "slug": "unlock-icon",
       "category": "Interface & Symbols",
@@ -55128,7 +55128,7 @@
     },
     {
       "title": "University of Hamburg",
-      "file_name": "university-of-hamburg.png",
+      "file_name": "images/places_structures/university-of-hamburg.png",
       "added_on": "2025-06-28 17:26:30",
       "slug": "university-of-hamburg",
       "category": "Places & Structures",
@@ -55141,7 +55141,7 @@
     },
     {
       "title": "University of Bochum",
-      "file_name": "university-of-bochum.png",
+      "file_name": "images/places_structures/university-of-bochum.png",
       "added_on": "2025-06-28 17:26:37",
       "slug": "university-of-bochum",
       "category": "Places & Structures",
@@ -55154,7 +55154,7 @@
     },
     {
       "title": "University of Zurich",
-      "file_name": "university-of-zurich.png",
+      "file_name": "images/places_structures/university-of-zurich.png",
       "added_on": "2025-06-28 17:26:39",
       "slug": "university-of-zurich",
       "category": "Places & Structures",
@@ -68885,7 +68885,7 @@
     },
     {
       "title": "United States Flag",
-      "file_name": "united-states-flag.png",
+      "file_name": "images/flags/united-states-flag.png",
       "added_on": "2025-07-13 14:15:44",
       "slug": "united-states-flag",
       "category": "Flags",
@@ -68924,7 +68924,7 @@
     },
     {
       "title": "United Kingdom Flag",
-      "file_name": "united-kingdom-flag.png",
+      "file_name": "images/flags/united-kingdom-flag.png",
       "added_on": "2025-07-13 14:15:52",
       "slug": "united-kingdom-flag",
       "category": "Flags",
@@ -80155,7 +80155,7 @@
     },
     {
       "title": "Unsealed Food Container",
-      "file_name": "unsealed-food-container.png",
+      "file_name": "images/food_drink/unsealed-food-container.png",
       "added_on": "2025-07-25 17:31:41",
       "slug": "unsealed-food-container",
       "category": "Food & Drink",
@@ -80560,7 +80560,7 @@
     },
     {
       "title": "Unmounted Poster",
-      "file_name": "unmounted-poster.png",
+      "file_name": "images/everyday_life/unmounted-poster.png",
       "added_on": "2025-07-25 23:11:30",
       "slug": "unmounted-poster",
       "category": "Everyday Life",
@@ -81325,7 +81325,7 @@
     },
     {
       "title": "University of British Columbia",
-      "file_name": "university-of-british-columbia.png",
+      "file_name": "images/places_structures/university-of-british-columbia.png",
       "added_on": "2025-07-29 18:03:26",
       "slug": "university-of-british-columbia",
       "category": "Places & Structures",
@@ -83571,7 +83571,7 @@
     },
     {
       "title": "Unpaved road",
-      "file_name": "unpaved-road.png",
+      "file_name": "images/places_structures/unpaved-road.png",
       "added_on": "2025-08-16 20:31:09",
       "slug": "unpaved-road",
       "category": "Places & Structures",
@@ -86477,7 +86477,7 @@
     },
     {
       "title": "United Arab Emirates flag",
-      "file_name": "united-arab-emirates-flag.png",
+      "file_name": "images/flags/united-arab-emirates-flag.png",
       "added_on": "2025-08-27 10:31:22",
       "slug": "united-arab-emirates-flag",
       "category": "Flags",
@@ -87041,7 +87041,7 @@
     },
     {
       "title": "Up Arrow",
-      "file_name": "up-arrow.png",
+      "file_name": "images/interface_symbols/up-arrow.png",
       "added_on": "2025-08-30 15:41:16",
       "slug": "up-arrow",
       "category": "Interface & Symbols",
@@ -87620,7 +87620,7 @@
     },
     {
       "title": "united arab emirates",
-      "file_name": "united-arab-emirates.png",
+      "file_name": "images/countries/united-arab-emirates.png",
       "added_on": "2025-09-03 10:01:21",
       "slug": "united-arab-emirates",
       "category": "Countries",
@@ -89612,7 +89612,7 @@
     },
     {
       "title": "Unverified Shield",
-      "file_name": "unverified-shield.png",
+      "file_name": "images/interface_symbols/unverified-shield.png",
       "added_on": "2025-09-08 14:11:26",
       "slug": "unverified-shield",
       "category": "Interface & Symbols",
