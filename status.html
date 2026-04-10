@@ -74,25 +74,21 @@
         async function updateStatus() {
             const log = document.getElementById('log');
             try {
-                const res = await fetch('meta.json');
+                const res = await fetch('stats.json');
                 if (!res.ok) throw new Error(`HTTP Error: ${res.status}`);
-                const data = await res.json();
+                const stats = await res.json();
                 
-                const total = data.object_count || 10000;
-                const ready = data.items.filter(i => i.file_name.startsWith('images/')).length;
+                document.getElementById('totalCount').innerText = stats.total.toLocaleString();
+                document.getElementById('readyCount').innerText = stats.ready.toLocaleString();
                 
-                document.getElementById('totalCount').innerText = total.toLocaleString();
-                document.getElementById('readyCount').innerText = ready.toLocaleString();
+                document.getElementById('progressBar').style.width = stats.percent + '%';
+                document.getElementById('progressText').innerText = stats.percent + '% COMPLETED';
                 
-                const percent = (ready / total * 100).toFixed(1);
-                document.getElementById('progressBar').style.width = percent + '%';
-                document.getElementById('progressText').innerText = percent + '% COMPLETED';
-                
-                document.getElementById('lastUpdate').innerText = new Date().toLocaleTimeString();
+                document.getElementById('lastUpdate').innerText = stats.last_sync || new Date().toLocaleTimeString();
                 
                 const entry = document.createElement('div');
                 entry.className = 'log-entry success';
-                entry.innerText = `[${new Date().toLocaleTimeString()}] Status Check: ${ready} files synced.`;
+                entry.innerText = `[${new Date().toLocaleTimeString()}] Data Refreshed: ${stats.ready} files online.`;
                 log.prepend(entry);
                 
             } catch (err) {
@@ -102,9 +98,6 @@
                 entry.style.color = '#f38ba8';
                 entry.innerText = `[${new Date().toLocaleTimeString()}] ❌ ERROR: ${err.message}`;
                 log.prepend(entry);
-                
-                document.getElementById('totalCount').innerText = "ERR";
-                document.getElementById('readyCount').innerText = "ERR";
             }
         }
 
