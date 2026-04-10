@@ -3206,7 +3206,7 @@
     },
     {
       "title": "Sleeping Bag",
-      "file_name": "sleeping-bag.png",
+      "file_name": "images/nature_outdoors/sleeping-bag.png",
       "added_on": "2025-05-16 19:06:01",
       "slug": "sleeping-bag",
       "category": "Nature & Outdoors",
@@ -3271,7 +3271,7 @@
     },
     {
       "title": "Skyscraper",
-      "file_name": "skyscraper.png",
+      "file_name": "images/places_structures/skyscraper.png",
       "added_on": "2025-05-16 19:30:55",
       "slug": "skyscraper",
       "category": "Places & Structures",
@@ -21513,7 +21513,7 @@
     },
     {
       "title": "Skyline",
-      "file_name": "skyline.png",
+      "file_name": "images/places_structures/skyline.png",
       "added_on": "2025-06-03 08:08:33",
       "slug": "skyline",
       "category": "Places & Structures",
@@ -27746,7 +27746,7 @@
     },
     {
       "title": "Sleep Mask",
-      "file_name": "sleep-mask.png",
+      "file_name": "images/health_wellness/sleep-mask.png",
       "added_on": "2025-06-08 12:01:32",
       "slug": "sleep-mask",
       "category": "Health & Wellness",
@@ -42400,7 +42400,7 @@
     },
     {
       "title": "Skybridge",
-      "file_name": "skybridge.png",
+      "file_name": "images/places_structures/skybridge.png",
       "added_on": "2025-06-14 04:07:07",
       "slug": "skybridge",
       "category": "Places & Structures",
@@ -54679,7 +54679,7 @@
     },
     {
       "title": "Sleep",
-      "file_name": "sleep.png",
+      "file_name": "images/everyday_life/sleep.png",
       "added_on": "2025-06-28 08:35:41",
       "slug": "sleep",
       "category": "Everyday Life",
@@ -60266,7 +60266,7 @@
     },
     {
       "title": "Slackline",
-      "file_name": "slackline.png",
+      "file_name": "images/sports/slackline.png",
       "added_on": "2025-07-08 13:30:50",
       "slug": "slackline",
       "category": "Sports",
@@ -64463,7 +64463,7 @@
     },
     {
       "title": "Slackline Harness",
-      "file_name": "slackline-harness.png",
+      "file_name": "images/sports/slackline-harness.png",
       "added_on": "2025-07-10 12:31:01",
       "slug": "slackline-harness",
       "category": "Sports",
@@ -65332,7 +65332,7 @@
     },
     {
       "title": "Sky Oasis Platform",
-      "file_name": "sky-oasis-platform.png",
+      "file_name": "images/places_structures/sky-oasis-platform.png",
       "added_on": "2025-07-10 18:31:13",
       "slug": "sky-oasis-platform",
       "category": "Places & Structures",
@@ -69392,7 +69392,7 @@
     },
     {
       "title": "Slackline Walker",
-      "file_name": "slackline-walker.png",
+      "file_name": "images/sports/slackline-walker.png",
       "added_on": "2025-07-13 23:11:40",
       "slug": "slackline-walker",
       "category": "Sports",
@@ -72014,7 +72014,7 @@
     },
     {
       "title": "Slap Bracelet",
-      "file_name": "slap-bracelet.png",
+      "file_name": "images/entertainment_leisure/slap-bracelet.png",
       "added_on": "2025-07-16 11:31:20",
       "slug": "slap-bracelet",
       "category": "Entertainment & Leisure",
@@ -76057,7 +76057,7 @@
     },
     {
       "title": "Sleep Pod",
-      "file_name": "sleep-pod.png",
+      "file_name": "images/space_science/sleep-pod.png",
       "added_on": "2025-07-20 13:01:24",
       "slug": "sleep-pod",
       "category": "Space & Science",
@@ -80716,7 +80716,7 @@
     },
     {
       "title": "Sleep",
-      "file_name": "sleep-1.png",
+      "file_name": "images/interface_symbols/sleep-1.png",
       "added_on": "2025-07-28 17:42:23",
       "slug": "sleep-1",
       "category": "Interface & Symbols",
@@ -90871,7 +90871,7 @@
     },
     {
       "title": "Sleep Tracking Ring",
-      "file_name": "sleep-tracking-ring.png",
+      "file_name": "images/health_wellness/sleep-tracking-ring.png",
       "added_on": "2025-09-10 12:31:31",
       "slug": "sleep-tracking-ring",
       "category": "Health & Wellness",
@@ -96352,7 +96352,7 @@
     },
     {
       "title": "Slackline Ratchet",
-      "file_name": "slackline-ratchet.png",
+      "file_name": "images/sports/slackline-ratchet.png",
       "added_on": "2025-09-23 08:11:18",
       "slug": "slackline-ratchet",
       "category": "Sports",
@@ -103855,7 +103855,7 @@
     },
     {
       "title": "Sleep Cocoon",
-      "file_name": "sleep-cocoon.png",
+      "file_name": "images/health_wellness/sleep-cocoon.png",
       "added_on": "2025-10-10 17:01:43",
       "slug": "sleep-cocoon",
       "category": "Health & Wellness",
@@ -103868,7 +103868,7 @@
     },
     {
       "title": "Sleep Sound Machine",
-      "file_name": "sleep-sound-machine.png",
+      "file_name": "images/health_wellness/sleep-sound-machine.png",
       "added_on": "2025-10-10 17:11:40",
       "slug": "sleep-sound-machine",
       "category": "Health & Wellness",
@@ -119814,7 +119814,7 @@
     },
     {
       "title": "Sleeping Bear",
-      "file_name": "sleeping-bear.png",
+      "file_name": "images/animals/sleeping-bear.png",
       "added_on": "2025-12-10 04:01:59",
       "slug": "sleeping-bear",
       "category": "Animals",
@@ -119827,7 +119827,7 @@
     },
     {
       "title": "Sleeping Cat",
-      "file_name": "sleeping-cat.png",
+      "file_name": "images/animals/sleeping-cat.png",
       "added_on": "2025-12-10 04:11:25",
       "slug": "sleeping-cat",
       "category": "Animals",
@@ -119897,7 +119897,7 @@
     },
     {
       "title": "Sleeping Arctic Fox",
-      "file_name": "sleeping-arctic-fox.png",
+      "file_name": "images/animals/sleeping-arctic-fox.png",
       "added_on": "2025-12-10 05:01:45",
       "slug": "sleeping-arctic-fox",
       "category": "Animals",
@@ -131225,7 +131225,7 @@
     },
     {
       "title": "Skywalk",
-      "file_name": "skywalk.png",
+      "file_name": "images/places_structures/skywalk.png",
       "added_on": "2026-03-20 16:11:17",
       "slug": "skywalk",
       "category": "Places & Structures",
