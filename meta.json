@@ -138,7 +138,7 @@
     },
     {
       "title": "Vase",
-      "file_name": "vase.png",
+      "file_name": "images/everyday_life/vase.png",
       "added_on": "2025-05-15 15:45:39",
       "slug": "vase",
       "category": "Everyday Life",
@@ -3687,7 +3687,7 @@
     },
     {
       "title": "Van",
-      "file_name": "van.png",
+      "file_name": "images/vehicles_transport/van.png",
       "added_on": "2025-05-16 22:41:04",
       "slug": "van",
       "category": "Vehicles & Transport",
@@ -20374,7 +20374,7 @@
     },
     {
       "title": "Vatican City",
-      "file_name": "vatican-city.png",
+      "file_name": "images/countries/vatican-city.png",
       "added_on": "2025-06-02 09:45:18",
       "slug": "vatican-city",
       "category": "Countries",
@@ -21715,7 +21715,7 @@
     },
     {
       "title": "Vampire",
-      "file_name": "vampire.png",
+      "file_name": "images/fantasy_imagination/vampire.png",
       "added_on": "2025-06-03 08:11:05",
       "slug": "vampire",
       "category": "Fantasy & Imagination",
@@ -23200,7 +23200,7 @@
     },
     {
       "title": "VCR",
-      "file_name": "vcr.png",
+      "file_name": "images/technology_media/vcr.png",
       "added_on": "2025-06-04 08:26:59",
       "slug": "vcr",
       "category": "Technology & Media",
@@ -33901,7 +33901,7 @@
     },
     {
       "title": "Varsity jacket",
-      "file_name": "varsity-jacket.png",
+      "file_name": "images/fashion_style/varsity-jacket.png",
       "added_on": "2025-06-11 21:00:42",
       "slug": "varsity-jacket",
       "category": "Fashion & Style",
@@ -36976,7 +36976,7 @@
     },
     {
       "title": "Vaquita",
-      "file_name": "vaquita.png",
+      "file_name": "images/animals/vaquita.png",
       "added_on": "2025-06-12 21:13:04",
       "slug": "vaquita",
       "category": "Animals",
@@ -41823,7 +41823,7 @@
     },
     {
       "title": "Vaulting horse",
-      "file_name": "vaulting-horse.png",
+      "file_name": "images/sports/vaulting-horse.png",
       "added_on": "2025-06-13 22:43:20",
       "slug": "vaulting-horse",
       "category": "Sports",
@@ -42649,7 +42649,7 @@
     },
     {
       "title": "Vampire Fang",
-      "file_name": "vampire-fang.png",
+      "file_name": "images/fantasy_imagination/vampire-fang.png",
       "added_on": "2025-06-14 06:01:04",
       "slug": "vampire-fang",
       "category": "Fantasy & Imagination",
@@ -44300,7 +44300,7 @@
     },
     {
       "title": "Vanuatu",
-      "file_name": "vanuatu.png",
+      "file_name": "images/countries/vanuatu.png",
       "added_on": "2025-06-14 15:01:01",
       "slug": "vanuatu",
       "category": "Countries",
@@ -44994,7 +44994,7 @@
     },
     {
       "title": "Vaulting pole",
-      "file_name": "vaulting-pole.png",
+      "file_name": "images/sports/vaulting-pole.png",
       "added_on": "2025-06-14 21:30:54",
       "slug": "vaulting-pole",
       "category": "Sports",
@@ -48417,7 +48417,7 @@
     },
     {
       "title": "Vanilla",
-      "file_name": "vanilla.png",
+      "file_name": "images/food_drink/vanilla.png",
       "added_on": "2025-06-20 15:25:23",
       "slug": "vanilla",
       "category": "Food & Drink",
@@ -55893,7 +55893,7 @@
     },
     {
       "title": "Vape",
-      "file_name": "vape.png",
+      "file_name": "images/technology_media/vape.png",
       "added_on": "2025-06-30 11:13:35",
       "slug": "vape",
       "category": "Technology & Media",
@@ -73812,7 +73812,7 @@
     },
     {
       "title": "Vampire Squid",
-      "file_name": "vampire-squid.png",
+      "file_name": "images/animals/vampire-squid.png",
       "added_on": "2025-07-17 21:51:48",
       "slug": "vampire-squid",
       "category": "Animals",
@@ -78402,7 +78402,7 @@
     },
     {
       "title": "Vantablack",
-      "file_name": "vantablack.png",
+      "file_name": "images/space_science/vantablack.png",
       "added_on": "2025-07-24 16:21:48",
       "slug": "vantablack",
       "category": "Space & Science",
@@ -78415,7 +78415,7 @@
     },
     {
       "title": "Vampire Crab",
-      "file_name": "vampire-crab.png",
+      "file_name": "images/animals/vampire-crab.png",
       "added_on": "2025-07-24 16:31:45",
       "slug": "vampire-crab",
       "category": "Animals",
@@ -103751,7 +103751,7 @@
     },
     {
       "title": "Van Door Handle",
-      "file_name": "van-door-handle.png",
+      "file_name": "images/vehicles_transport/van-door-handle.png",
       "added_on": "2025-10-10 15:41:46",
       "slug": "van-door-handle",
       "category": "Vehicles & Transport",
@@ -111331,7 +111331,7 @@
     },
     {
       "title": "Vatrushka",
-      "file_name": "vatrushka.png",
+      "file_name": "images/food_drink/vatrushka.png",
       "added_on": "2025-10-31 10:01:51",
       "slug": "vatrushka",
       "category": "Food & Drink",
@@ -117283,7 +117283,7 @@
     },
     {
       "title": "Varicose Vein",
-      "file_name": "varicose-vein.png",
+      "file_name": "images/health_wellness/varicose-vein.png",
       "added_on": "2025-11-24 12:41:41",
       "slug": "varicose-vein",
       "category": "Health & Wellness",
@@ -130573,7 +130573,7 @@
     },
     {
       "title": "Vaulting buck",
-      "file_name": "vaulting-buck.png",
+      "file_name": "images/sports/vaulting-buck.png",
       "added_on": "2026-03-18 12:41:17",
       "slug": "vaulting-buck",
       "category": "Sports",
