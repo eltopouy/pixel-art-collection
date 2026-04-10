@@ -801,7 +801,7 @@
     },
     {
       "title": "Suitcase",
-      "file_name": "suitcase.png",
+      "file_name": "images/everyday_life/suitcase.png",
       "added_on": "2025-05-15 23:00:55",
       "slug": "suitcase",
       "category": "Everyday Life",
@@ -5454,7 +5454,7 @@
     },
     {
       "title": "Sugar",
-      "file_name": "sugar.png",
+      "file_name": "images/food_drink/sugar.png",
       "added_on": "2025-05-17 22:05:44",
       "slug": "sugar",
       "category": "Food & Drink",
@@ -5948,7 +5948,7 @@
     },
     {
       "title": "Granulated Sugar",
-      "file_name": "sugar-granulated.png",
+      "file_name": "images/food_drink/sugar-granulated.png",
       "added_on": "2025-05-18 09:20:50",
       "slug": "sugar-granulated",
       "category": "Food & Drink",
@@ -6935,7 +6935,7 @@
     },
     {
       "title": "Sudoku Book",
-      "file_name": "sudoku-book.png",
+      "file_name": "images/hobbies/sudoku-book.png",
       "added_on": "2025-05-19 01:40:43",
       "slug": "sudoku-book",
       "category": "Hobbies",
@@ -19727,7 +19727,7 @@
     },
     {
       "title": "Sugar Cube",
-      "file_name": "sugar-cube.png",
+      "file_name": "images/food_drink/sugar-cube.png",
       "added_on": "2025-06-02 09:32:00",
       "slug": "sugar-cube",
       "category": "Food & Drink",
@@ -29297,7 +29297,7 @@
     },
     {
       "title": "Sulphur Spring",
-      "file_name": "sulphur-spring.png",
+      "file_name": "images/nature_outdoors/sulphur-spring.png",
       "added_on": "2025-06-10 10:13:43",
       "slug": "sulphur-spring",
       "category": "Nature & Outdoors",
@@ -33966,7 +33966,7 @@
     },
     {
       "title": "Subway Tunnel",
-      "file_name": "subway-tunnel.png",
+      "file_name": "images/places_structures/subway-tunnel.png",
       "added_on": "2025-06-11 21:30:46",
       "slug": "subway-tunnel",
       "category": "Places & Structures",
@@ -50814,7 +50814,7 @@
     },
     {
       "title": "Successful Button",
-      "file_name": "successful-button.png",
+      "file_name": "images/interface_symbols/successful-button.png",
       "added_on": "2025-06-23 00:49:18",
       "slug": "successful-button",
       "category": "Interface & Symbols",
@@ -65675,7 +65675,7 @@
     },
     {
       "title": "Sumac Sprinkle",
-      "file_name": "sumac-sprinkle.png",
+      "file_name": "images/food_drink/sumac-sprinkle.png",
       "added_on": "2025-07-10 21:26:20",
       "slug": "sumac-sprinkle",
       "category": "Food & Drink",
@@ -67140,7 +67140,7 @@
     },
     {
       "title": "Suminagashi",
-      "file_name": "suminagashi.png",
+      "file_name": "images/hobbies/suminagashi.png",
       "added_on": "2025-07-12 03:21:34",
       "slug": "suminagashi",
       "category": "Hobbies",
@@ -69691,7 +69691,7 @@
     },
     {
       "title": "Sumerian Lyre",
-      "file_name": "sumerian-lyre.png",
+      "file_name": "images/history_culture/sumerian-lyre.png",
       "added_on": "2025-07-14 07:21:34",
       "slug": "sumerian-lyre",
       "category": "History & Culture",
@@ -70319,7 +70319,7 @@
     },
     {
       "title": "Suit",
-      "file_name": "suit.png",
+      "file_name": "images/fashion_style/suit.png",
       "added_on": "2025-07-14 10:07:47",
       "slug": "suit",
       "category": "Fashion & Style",
@@ -78211,7 +78211,7 @@
     },
     {
       "title": "Sudan",
-      "file_name": "sudan.png",
+      "file_name": "images/countries/sudan.png",
       "added_on": "2025-07-24 13:51:38",
       "slug": "sudan",
       "category": "Countries",
@@ -81122,7 +81122,7 @@
     },
     {
       "title": "Sugar Stick",
-      "file_name": "sugar-stick.png",
+      "file_name": "images/food_drink/sugar-stick.png",
       "added_on": "2025-07-28 19:01:39",
       "slug": "sugar-stick",
       "category": "Food & Drink",
@@ -94238,7 +94238,7 @@
     },
     {
       "title": "Sukiyaki",
-      "file_name": "sukiyaki.png",
+      "file_name": "images/food_drink/sukiyaki.png",
       "added_on": "2025-09-18 12:51:22",
       "slug": "sukiyaki",
       "category": "Food & Drink",
@@ -94506,7 +94506,7 @@
     },
     {
       "title": "Sugar Plum",
-      "file_name": "sugar-plum.png",
+      "file_name": "images/food_drink/sugar-plum.png",
       "added_on": "2025-09-19 08:41:23",
       "slug": "sugar-plum",
       "category": "Food & Drink",
@@ -95157,7 +95157,7 @@
     },
     {
       "title": "Succulent Planter",
-      "file_name": "succulent-planter.png",
+      "file_name": "images/hobbies/succulent-planter.png",
       "added_on": "2025-09-20 13:21:15",
       "slug": "succulent-planter",
       "category": "Hobbies",
@@ -107220,7 +107220,7 @@
     },
     {
       "title": "Sugar Glider",
-      "file_name": "sugar-glider.png",
+      "file_name": "images/animals/sugar-glider.png",
       "added_on": "2025-10-22 20:10:49",
       "slug": "sugar-glider",
       "category": "Animals",
@@ -120203,7 +120203,7 @@
     },
     {
       "title": "Summer",
-      "file_name": "summer.png",
+      "file_name": "images/nature_outdoors/summer.png",
       "added_on": "2025-12-14 15:51:46",
       "slug": "summer",
       "category": "Nature & Outdoors",
@@ -124901,7 +124901,7 @@
     },
     {
       "title": "Sumerian Ziggurat",
-      "file_name": "sumerian-ziggurat.png",
+      "file_name": "images/history_culture/sumerian-ziggurat.png",
       "added_on": "2026-02-10 21:11:13",
       "slug": "sumerian-ziggurat",
       "category": "History & Culture",
