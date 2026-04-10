@@ -3700,7 +3700,7 @@
     },
     {
       "title": "Toilet Paper",
-      "file_name": "toilet-paper.png",
+      "file_name": "images/everyday_life/toilet-paper.png",
       "added_on": "2025-05-16 22:51:04",
       "slug": "toilet-paper",
       "category": "Everyday Life",
@@ -5103,7 +5103,7 @@
     },
     {
       "title": "Toilet",
-      "file_name": "toilet.png",
+      "file_name": "images/everyday_life/toilet.png",
       "added_on": "2025-05-17 18:10:39",
       "slug": "toilet",
       "category": "Everyday Life",
@@ -6233,7 +6233,7 @@
     },
     {
       "title": "Tomato",
-      "file_name": "tomato.png",
+      "file_name": "images/food_drink/tomato.png",
       "added_on": "2025-05-18 16:11:50",
       "slug": "tomato",
       "category": "Food & Drink",
@@ -7104,7 +7104,7 @@
     },
     {
       "title": "Toilet Brush",
-      "file_name": "toilet-brush.png",
+      "file_name": "images/everyday_life/toilet-brush.png",
       "added_on": "2025-05-19 02:55:48",
       "slug": "toilet-brush",
       "category": "Everyday Life",
@@ -7169,7 +7169,7 @@
     },
     {
       "title": "Toilet Plunger",
-      "file_name": "toilet-plunger.png",
+      "file_name": "images/everyday_life/toilet-plunger.png",
       "added_on": "2025-05-19 03:35:52",
       "slug": "toilet-plunger",
       "category": "Everyday Life",
@@ -7559,7 +7559,7 @@
     },
     {
       "title": "Toilet Paper Holder",
-      "file_name": "toilet-paper-holder.png",
+      "file_name": "images/everyday_life/toilet-paper-holder.png",
       "added_on": "2025-05-19 08:05:54",
       "slug": "toilet-paper-holder",
       "category": "Everyday Life",
@@ -22236,7 +22236,7 @@
     },
     {
       "title": "Toiletry Bag",
-      "file_name": "toiletry-bag.png",
+      "file_name": "images/everyday_life/toiletry-bag.png",
       "added_on": "2025-06-03 16:32:16",
       "slug": "toiletry-bag",
       "category": "Everyday Life",
@@ -23083,7 +23083,7 @@
     },
     {
       "title": "Toilet Brush Holder",
-      "file_name": "toilet-brush-holder.png",
+      "file_name": "images/everyday_life/toilet-brush-holder.png",
       "added_on": "2025-06-04 04:31:01",
       "slug": "toilet-brush-holder",
       "category": "Everyday Life",
@@ -27278,7 +27278,7 @@
     },
     {
       "title": "Tongue Cleaner",
-      "file_name": "tongue-cleaner.png",
+      "file_name": "images/health_wellness/tongue-cleaner.png",
       "added_on": "2025-06-07 23:31:35",
       "slug": "tongue-cleaner",
       "category": "Health & Wellness",
@@ -37908,7 +37908,7 @@
     },
     {
       "title": "Tokyo, Japan",
-      "file_name": "tokyo-japan.png",
+      "file_name": "images/places_structures/tokyo-japan.png",
       "added_on": "2025-06-12 23:06:02",
       "slug": "tokyo-japan",
       "category": "Places & Structures",
@@ -43671,7 +43671,7 @@
     },
     {
       "title": "Tongkonan",
-      "file_name": "tongkonan.png",
+      "file_name": "images/places_structures/tongkonan.png",
       "added_on": "2025-06-14 13:18:48",
       "slug": "tongkonan",
       "category": "Places & Structures",
@@ -64105,7 +64105,7 @@
     },
     {
       "title": "Tokyo Skytree",
-      "file_name": "tokyo-skytree.png",
+      "file_name": "images/places_structures/tokyo-skytree.png",
       "added_on": "2025-07-09 17:51:07",
       "slug": "tokyo-skytree",
       "category": "Places & Structures",
@@ -66851,7 +66851,7 @@
     },
     {
       "title": "Toilet Paper Tube",
-      "file_name": "toilet-paper-tube.png",
+      "file_name": "images/everyday_life/toilet-paper-tube.png",
       "added_on": "2025-07-11 23:11:52",
       "slug": "toilet-paper-tube",
       "category": "Everyday Life",
@@ -73080,7 +73080,7 @@
     },
     {
       "title": "Tomato Juice",
-      "file_name": "tomato-juice.png",
+      "file_name": "images/food_drink/tomato-juice.png",
       "added_on": "2025-07-17 10:33:28",
       "slug": "tomato-juice",
       "category": "Food & Drink",
@@ -82346,7 +82346,7 @@
     },
     {
       "title": "Tongue",
-      "file_name": "tongue-1.png",
+      "file_name": "images/health_wellness/tongue-1.png",
       "added_on": "2025-08-05 05:17:20",
       "slug": "tongue-1",
       "category": "Health & Wellness",
@@ -96124,7 +96124,7 @@
     },
     {
       "title": "Tokyo Tower",
-      "file_name": "tokyo-tower.png",
+      "file_name": "images/places_structures/tokyo-tower.png",
       "added_on": "2025-09-22 14:41:19",
       "slug": "tokyo-tower",
       "category": "Places & Structures",
@@ -100247,7 +100247,7 @@
     },
     {
       "title": "Tongue Patch",
-      "file_name": "tongue-patch.png",
+      "file_name": "images/health_wellness/tongue-patch.png",
       "added_on": "2025-10-02 16:21:19",
       "slug": "tongue-patch",
       "category": "Health & Wellness",
@@ -103894,7 +103894,7 @@
     },
     {
       "title": "Toilet Step Stool",
-      "file_name": "toilet-step-stool.png",
+      "file_name": "images/everyday_life/toilet-step-stool.png",
       "added_on": "2025-10-10 17:31:45",
       "slug": "toilet-step-stool",
       "category": "Everyday Life",
@@ -107181,7 +107181,7 @@
     },
     {
       "title": "Toilet Lid Cover",
-      "file_name": "toilet-lid-cover.png",
+      "file_name": "images/everyday_life/toilet-lid-cover.png",
       "added_on": "2025-10-22 19:31:13",
       "slug": "toilet-lid-cover",
       "category": "Everyday Life",
@@ -115331,7 +115331,7 @@
     },
     {
       "title": "Tongs",
-      "file_name": "tongs.png",
+      "file_name": "images/everyday_life/tongs.png",
       "added_on": "2025-11-14 12:22:10",
       "slug": "tongs",
       "category": "Everyday Life",
